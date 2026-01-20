@@ -1,0 +1,39 @@
+Requirements
+
+Be a Legion Member
+
+Storyline Completion
+This includes /sevencircles > /sevencircleswar.
+
+Merge
+
+The Head of the Legion Beast is merged at /sevencircleswar. In total, you need the following:
+
+24k Legion Tokens
+See the guide on farming these. 
+
+Indulgence x60
+Complete "Circles of Fate" at /sevencircles by defeating each type of Guard (Limbo, Avarice, Gluttony, and Luxuria).
+
+Penance x60
+Merge these at /sevencircleswar. Access the shop by clicking on Virgil at the top-right. In total, you need:
+
+Essence of Wrath x60 - stacks to 300
+Accept "Guards of Wrath" from Virgil then defeat Wrath Guards.
+If you have a strong soloing class or you're in a group, defeat the Wrath boss with the "Wrath Against the Machine" quest accepted, which will be faster.
+
+Essence of Violence x60 - stacks to 300
+Accept "Meaningless Violence" then defeat Violence Guards.
+If you have a strong soloing class or you're in a group, defeat the Violence boss with the "Violence" quest accepted.
+
+Essence of Treachery x60 - stacks to 50
+Complete "Where the Trea-sun Don't Shine" by defeating Treachery Guards.
+With a strong soloing class or group, defeat the Treachery boss with the "Hanged for Treason" quest accepted.
+
+Souls of Heresy x900 - stacks to 300
+Defeat Wrath Guards and turn in War and Mega War Medals at the top-right. This is also one of the best methods in the game for farming Gold.
+
+Beast Soul x15
+Obtain these from The Beast at /sevencircleswar - you'll need a group to do this efficiently.
+
+After you have all the above reagents, purchase the 3 Helms that cost Indulgence from the /sevencircles merge. Then, buy the 3 Helms that cost Penance from /sevencircleswar and merge them for the Helms of the Seven Circles misc item in the same shop. Now you can merge the Head of the Legion Beast.
