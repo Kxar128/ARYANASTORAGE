@@ -1,0 +1,112 @@
+Pet Quests - Read Me!
+
+Nulgath's Birthday Gift
+This pet is worth getting but not if you already own Crag & Bamboozle, unless you really want to be as efficient as possible. It has one farmable quest that grants lots of valuable reagents but the downside is that it's tedious to do since you have to move around so much. If you want to get one, it costs 1.5k ACs during Nulgath's birthday event in January-February. Its quest is:
+
+"New Worlds, New Opportunities"
+Defeat:
+
+Slugfit and Fire Imps at /mobius.
+
+Big Bad Boar at /greenguardwest. Exit down from /mobius.
+
+Cyclops Warlord at /faerie. Located at end of the map to the right. If you can, place an alt account at this boss to /goto.
+
+Dark Makai at /tercessunotlim or /nulgath if you're a member.
+
+Pets that have the same or similar type of quest include the Bounty Hunter Drone, Astral Hanzo Orb, Crimson Hanzo Orb, Bounty Hunter Blade, and Ceremonial Void Knight Sword. For the sake of simplicity, all of these pets will be regarded as Nulgath's Birthday Gift but you can use whichever one you have. Some may have different enemy locations.
+
+
+
+Nulgath Larvae
+This is usually the best overall farming quest for free players but it isn't worth doing if you have pets like Nulgath's Birthday Gift or Crag & Bamboozle. If you want to obtain one, you'll need to be a member and then you can complete Drudgen the Assistant's "Hire Nulgath Larvae" quest. For it, you need a Voucher of Nulgath and Undead Legion Rune (see sections near the bottom of the page for details on how to get these). If you can't or don't want to get one, it can sometimes be found equipped by players at /yulgar-9889 on populated servers. Otherwise, try public /yulgar, /battleon, or /battleontown maps. Its quest can also be accepted if you own ENNH. To complete the Nulgath Larvae's farming quest, do this:
+
+"Nulgath (Larvae)"
+Defeat:
+
+Mana Golem at /elemental. This drop stacks to 13.
+
+Mana Imps and Falcon at /elemental - do this at the screen with 2 Imps and 1 Falcon.
+
+
+
+Drudgen the Assistant
+Drudgen is generally not worth purchasing because you can accept most of its quests even if you don't own it (this excludes "Contract Exchange", which is fantastic but only if you also own Crag & Bamboozle). If you do want to buy one, it can be purchased for 5k ACs from Nulgath at /tercessuinotlim.
+If you want to accept its other quests, there are usually people with one equipped at /yulgar-9889 on populated servers but if no one is around, try public /yulgar, /battleon, or /battleontown maps. Otherwise, its quests can be accessed through the Drudgen preview in Nulgath's shop or within an ENNH if you own it.
+Swindle Bilk at /tercessuinotlim also offers some of Drudgen's quests, like "Supplies..." and "The Assistant" - a mobile version can be bought for 2k ACs but you would be better off saving them for a better pet.
+Drudgen's important quests include:
+
+"Contract Exchange"
+Trade in an Unidentified 13 and a Blade Master Rune from the Shadow of Nulgath enemy at /tercessuinotlim. You must have Crag & Bamboozle as well to make this farmable so that you can trade Diamonds of Nulgath (+ Dark Makai Sigils) for Unidentified 13s with the "Diamond Exchange" quest.
+
+"Supplies to spin the Wheel of Chance"
+Obtain a Relic of Chaos from /escherion. For the fight, Escherion won't take damage if the staff is alive. Also, you must have completed Galanoth's quests at /lair including "Dragonslayer Reward" to accept the quest and Escherion's 13LoC saga to get to Escherion (unless you want to /goto someone else).
+If you're in a good group, it'd be faster to farm the Level 90 Hydras at /hydrachallenge. I recommend using Lord of Order, Legion Revenant, and DPS classes like ShadowStalker of Time and Chaos Slayer.
+Ultra Alteon is also viable but its efficiency depends on your group setup - I would recommend using fast-nuking calendar classes for it.
+It's not worth farming Relics of Chaos from Chaos Gemralds at /blindingsnow because the drop rate is too low.
+Hold onto Unidentified 1, 6, 9, 16, and 20 to trade them in at Swindle Bilk's "Swindle's Return Policy" quest at /tercessuinotlim. Because so many items drop from this quest, blacklist useless ones by shift-clicking from the custom drop UI.
+
+"The Assistant"
+This quest's rewards are almost exactly the same as "Supplies..." but it's completed by turning in War-Torn Memorabilia from /yulgar in the Armour Shop. This is faster to do but costs 100k Gold each time. In almost all cases, I will only mention "Supplies..." as the method but "The Assistant" is usually a suitable substitute. In some cases, I will only mention "The Assistant" as it may have a superior drop chance or "Supplies..." doesn't drop it at all.
+
+
+
+Crag & Bamboozle
+If you're willing to pay 5k ACs and plan on obtaining many Nation items, this pet is worth it. It has some similar quests to Drudgen the Assistant but has ways to make them faster. The downside is that it's only usable by you. If you want to get one, it can be bought from Nulgath.
+Crag & Bamboozle's important quests include:
+
+"Diamond Exchange"
+Trade in 15 Diamonds of Nulgath and a Dark Makai Sigil for an Unidentified 13.
+
+"Bamboozle vs Drudgen"
+Defeat the Tainted Elemental at /evilmarsh or /nulgath if you're a member - it's at the very right of the map. It will drop Tainted Cores, which stack up to 13.  You can then trade them for Relics of Chaos, which also stack to 13. Use them to complete "Supplies to spin the Wheel of Chance" much faster than normal. You may also earn Relics of Chaos by farming Level 90 Hydras at /hydrachallenge as you complete "Bloody Chaos" (more details below in the Blood Gem of the ArchFiend section). I don't recommend other sources, like Ultra Alteon, if you have Crag & Bamboozle.
+Hold onto Unidentified 1, 6, 9, 16, and 20 to trade them in at Swindle Bilk's "Swindle's Return Policy" quest at /tercessuinotlim. Because so many items drop from this quest, blacklist useless ones by shift-clicking from the custom drop UI.
+
+"GRUMBLE, GRUMBLE..."
+This quest rewards 30 Diamonds of Nulgath with a 5% chance to drop Blood Gems for free daily. The 30 Diamonds could be traded for two Uni 13s.
+
+"The Poisonous Deal"
+If you have spare Unidentified 10s and Blood Gems of the Archfiend, do this quest and the one below. To accept it, you need the Tainted Claymore, which is rewarded from Skew's "Warrior Claymore Blade Enchant" quest from /tercessuinotlim (requires completion of /tavern > /llama and Rank 8 Evil). You can complete Skew's quest by turning in a Warrior Claymore Blade, which drops from Undead Berserkers at /marsh2.
+Then, turn in "The Poisonous Deal" with 2 Blood Gems of the Archfiend, 30 Unidentified 10s, and an Undead Plague Spear, which drops from Big Jack Sprat at /graveyard.
+
+"The Refreshing Deal"
+This quest is similar to "The Poisonous Deal" but you need a Purified Claymore of Destiny to accept it instead, which is rewarded from Polish's "Purified Claymore" quest at /cragglerock (requires completion of /citadel and Rank 8 Good). You can complete Polish's quest by turning in a Warrior Claymore Blade, which drops from Undead Berserkers at /marsh2.
+Then, turn in "The Refreshing Deal" with 2 Blood Gems of the Archfiend, 30 Unidentified 10s, and an Undead Plague Spear, which drops from Big Jack Sprat at /graveyard.
+
+"Assisting Crag and Bamboozle"
+This quest is accepted from Tendurrr the Assistant, which is a member-only pet that drops from Dark Makai. You will need Crag to accept it too. To make the quest useful, max-stack everything except for the Voucher of Nulgath (non-mem). If you're doing Void Highlord, you might just want Elders' Blood. And Unidentied 19 if you're doing ArchFiend DoomLord.
+This quest is daily-locked by the Sparrow's Blood, which you can get from Reens' quest at /arcangrove.
+
+
+
+Oblivion Blade of Nulgath
+This pet is like Crag & Bamboozle because it makes obtaining Escherion Helms for "Supplies..." very easy. If you have both pets, do them at the same time. Unfortunately, OBoN is Rare so you can only get it with an IoDA now. These are its important quests:
+
+"The Dark Deal"
+Defeat the Tainted Elemental at /evilmarsh or /nulgath if you're a member - it's at the very right of the map. It will drop Tainted Souls, which stack up to 13. You can then trade them for Relics of Chaos, which also stack to 13. Use them to complete "Supplies to spin the Wheel of Chance" much faster than normal.
+Hold onto Unidentified 1, 6, 9, 16, and 20 to trade them in at Swindle Bilk's "Swindle's Return Policy" quest at /tercessuinotlim. Because so many items drop from this quest, blacklist useless ones by shift-clicking from the custom drop UI.
+
+"Assisting Oblivion Blade"
+This quest is actually accepted from Tendurrr the Assistant, which drops from Dark Makai. You need OBoN to accept it, however. To make the quest useful, max-stack everything except for Blood Gems of the ArchFiend and Vouchers of Nulgath, and if you need them, Totems of Nulgath plus Unidentified 19.
+Tendurrr also has a quest if you own Crag & Bamboozle, which is good if you only want a Voucher of Nulgath (non-mem).
+
+
+
+Nulgath Challenge Pet
+This is another Rare pet. Unlike OBoN, it only provides a quick daily quest that can grant Blood Gems, Dark Crystal Shards, or Tainted Gems, depending on what you choose. Its other quest is not worth doing. This pet works very well when combined with Crag & Bamboozle. To complete its daily quest, do the following:
+
+"Tenacity Challenge"
+Defeat Ghastly Darkbloods at /deathpits (walk down a few floors) and Bloodfiends at /underworld (continue left until you can go directly down then go right to find 3).
+
+
+
+Gemstone of Nulgath
+This pet has been recently buffed (15th Jan 2022). It now offers great quests for people with membership to farm both Blood Gems of the ArchFiend and Dark Crystal Shards. The guide on how to obtain this pet and farm its quests can be found here.
+
+
+
+Sword of Nulgath
+A replica of this pet can be found as a reward from "Nulgath (Larvae)" called the 8th Betrayal Blade of Nulgath - either equip it or activate its quests from your inventory.
+Another version is available as a Bonus Package item from your online account management - the Copper Void ChronoKnight Set - which can be equipped by non-members too.
+Otherwise, you can get the original Sword of Nulgath by trading a Voucher of Nulgath, Voucher of Nulgath (non-mem), Dark Crystal pet from /ariapet, and Dark Makai Rune from Makai at /nulgath, to Nulgath's "Purchase Sword of Nulgath" quest at /tercessuinotlim, or if you own it, your ENNH.
+Whatever version you decide to get, they all have the same quests. Its best quest is "The Leery Contract"for farming Gold. You can see more information about this in the Gold guide.

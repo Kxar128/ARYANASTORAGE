@@ -1,0 +1,40 @@
+Introduction
+
+This is the map that you must travel through to start many Nation quests and farms. It can't be directly travelled to using the /join command. Instead, you can get there via two ways:
+
+Citadel
+Join /citadel and enter the cave to the right. Take the following path: middle>right x3>enter portal.
+
+Enchanted Nulgath Nation House
+To get there even faster, use an ENNH. For example, enter /house ver0 into the chat box and walk upwards for the portal.
+
+You will also need 50 Bone Dust, which is dropped from enemies at /battleunderb. Old guides will suggest obtaining other items, like Escherion's Chain, but this is not needed.
+If you want to, you can make a private /tercessuinotlim by getting to the portal room of /citadel where the /join command is enabled.
+
+Paths
+
+All paths assume your position is the starting room of /tercessuinotlim.
+
+
+
+Oblivion, Death's Head
+starting room.
+
+Dark Makai
+left.
+
+Evil Elemental
+left > top-right.
+
+Shadow of Nulgath, Ninja Spy, Carnage
+left > middle.
+
+Lae
+left > middle > top-left.
+
+Nulgath, Skew
+left > middle > top-left > down > middle > right > middle > right > right > left > left.
+
+Polish, Bamboozle, Void Highlord NPC, Zee, Taro, Twins, Swindle, Jadzia
+left > top-right > top-middle (Polish, Bamboozle) > right (VHL, Zee, Taro) > right (Twins) > right (Swindle) > right (Jadzia).
+You can also find Polish and Bamboozle at /cragglerock.

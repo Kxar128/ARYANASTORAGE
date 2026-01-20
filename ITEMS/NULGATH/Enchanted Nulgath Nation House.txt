@@ -1,0 +1,52 @@
+Requirements
+
+15+ Inventory Slots
+
+Rank 2 Chaos
+
+Rank 10 DoomWood
+
+NUE Necronomicon
+Obtain this from Lady Speedstyk's Rep shop at /lightguard.
+
+Step 1
+
+Complete Nulgath's "Terraforming" quest at /tercessuinotlim. You need the NUE Necronomicon to accept it.
+
+Use the Reagent Library for details on how to get the following items:
+
+Unidentified 10 x400
+
+Unidentified 13
+
+Tainted Gem x200
+
+Dark Crystal Shard x250
+
+Diamond of Nulgath x300
+
+Voucher of Nulgath (non-mem)
+
+Totem of Nulgath x30
+
+Gem of Nulgath x150
+
+Cemaros' Amethyst
+
+Aluminium
+
+Nulgath's Approval x1000
+
+Blood Gem of the ArchFiend x100
+
+Step 2
+
+After obtaining the regular Nulgath Nation House, you have to enchant it - this doesn't take long.
+
+Use the Reagent Library for details on how to get the following items:
+
+Pink Star Diamond of Nulgath
+
+Musgravite of Nulgath x2
+
+Merge them with the base house in Dirtlicker's shop at /archportal.
