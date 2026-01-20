@@ -1,0 +1,285 @@
+Requirements
+
+Level 100
+
+Rank 10 Evil
+
+Original Drakath Armour
+
+Set of Awe
+
+Arch DoomKnight
+
+Storyline Completion
+This includes /djinngate, /overworld, /citadel, /banished, /embersea > /pyrewatch > /feverfew > /phoenixrise, /doomhaven > /doomwar > /sepulchure, /giant > /smuurvil > /table, 13LoC, and 7DD (Map > Story).
+
+Quests
+
+Complete the following quests from Trissa at /museum. You can access her quickly by talking to Valencia at the start of the map and selecting Artifact Quests > Armour of Awe > To the Crossroads.
+
+1. The Dawn of Lore
+
+Fossilised Egg Yolk x12
+Defeat Chaos Eggs at /uppercity (walk left until you find 3).
+
+Stone Mask
+Defeat Edvard at /lycanwar.
+
+Mummified Bone x6
+Defeat Mummies at /pyramid (there is no room with 2).
+
+Iron Head x4
+Defeat Temple Guardians at /ravinetemple. If you're a member, exit left from /ravinetempleb then walk right to find 3 - otherwise, just defeat the Temple Guardian Adept at the 2nd screen.
+
+
+
+2. Mystical Magics
+
+Enchanted Manuscript x8
+Defeat an Undead Mage at /deathsrealm (there is no room with 2).
+
+Rite of Renewal
+Defeat Grand Inquisitor at /citadel (located at end of map).
+
+Coven's Sigil
+Defeat Dark Witch at /marsh (or /ruins if you're a member).
+
+Spell Stone x10
+Defeat Elementals at /gilead (walk down from the Fire Elemental). You could also farm at /elemental as you complete "Nulgath (Larvae)".
+
+
+
+3. Science Rules
+
+Supercharged Gem x8
+Defeat Energy Elementals at /thunderfang (there is no room with 2).
+
+Lightning Capacitor x5
+Defeat Frank at /mountain (there is no room with 2).
+
+Wooden Control Panel
+Defeat Sneeviltron at /boxes (walk right).
+
+Dragonoid Core
+Defeat Dragonoid at /mqlesson (located at end of map).
+
+
+
+4. War: What is it Good For?
+
+O-Dokuro's Tooth
+Defeat O-Dokuro's Head at /yokaiwar.
+
+D'wain Jonsen's Stinger
+Defeat D'wain Jonsen at /wardwarf.
+
+Music Pirate's Instrument of War x6
+Defeat Music Pirates at /mythsongwar.
+
+Noxus' Necromancy Robe
+Defeat Noxus at /shadowfallwar (walk right to where Gravelyn would be).
+
+
+
+5. Which Came First, the Dragon or the Dragonoid?
+
+All these enemies are located at /crashsite:
+
+Dwakel Shield Generator x2
+Defeat Barrier Sentry. You should also farm ProtoSartorium at the same time for its drop.
+
+ProtoSartorium's Power Armour
+Defeat ProtoSartorium.
+
+Dwakel Weapon x10
+Defeat Dwakel Blaster and Warrior.
+
+Mithril Man's Power Armour
+Defeat Mithril Man.
+
+
+
+6. Artifact Hunting
+
+AC-tagged non-misc items like the Blade of Awe can be returned to you for free from Buy Back in your online account manager. This applies to the next 2 quests as well.
+
+The Supreme Arcane Staff
+Defeat Ledgermayne at /ledgermayne (1% drop rate).
+
+Blinding Light of Destiny Handle
+Purchase from Arryd's shop at the start of /doomwood. If you can't access the shop, you need to obtain the 'Reinforced' badge, which you get by defeating 100 enemies at the top-left room at /doomwood. There is a kill-counter at the top-right - don't leave otherwise it'll reset.
+
+ShadowReaper of Doom
+Merge this at Gravelyn The Good's Mirror Merge Shop at /brightfall. For it, you need:
+
+Undead Paladin Token
+Defeat Undead Artix at /overworld (0.5% drop rate).
+
+Mirror Realm Token x300
+Either complete "Good, Evil, and Chaos Battle!" by defeating Chaos Lord Xiang at /mirrorportal for 5 Tokens or defeat Undead Mages at /overworld (walk right to find 3 - 5% drop rate). Do this after getting the Undead Paladin Token as you may get these from Undead Artix too.
+
+Blade of Awe
+See guide.
+
+Mirror Shield Fragment x50
+Defeat Gargoyles at /cornelis.
+
+
+
+7. What Does Lore Have in Store?
+
+Turn in this and the next quest with boosts as they reward a lot of Gold and Rep.
+
+Vaden's Helm
+Merge at /bonecastle with 333 Vaden Helm Tokens, dropped by Vaden in the same map. Access him quickly by opening Map from the top-right and selecting the top button.
+
+Armour of Zular
+Complete Crulon's quests at /djinngate. Complete them by defeating enemies in the following maps:
+
+"Recovering the Fangs of the Lion"
+Slugfit at /mobius, Gargoyles at /cornelis, and Aracara, Cyclops Warlord, and Chainsaw Sneevil at /faerie.
+
+"Recovering the Claws of the Daeva"
+Seed Spitters at /arcangrove, Karasu at /cloister, Bubblin at /gilead, Merdraconian at /natatorium, and Scoria Serpent at /mafic.
+
+"Recovering the Light of the Serpent"
+French Horned Toadragon at /mythsong, Killer Queen Bee at /beehive, and Rock Lobster, Stinger, and Mozard at /palooza.
+
+"Recovering the Pike of the Shimmering Sands"
+Chaorrupted Bear at /forestchaos, Leatherwing at /pines, Dark Witch at /ruins or /marsh, Soulseeker at /ruins or /marsh2, and Spiders at /greenguardeast.
+
+"Recovering the Reavers of the Gilded Sun"
+Shark Bait and Fishwing at /pirates, Kappa Ninja at /yokairiver, Tanuki at /bamboo, Samurai Nopperabo at /hachiko.
+
+"Potent Mana"
+You might want to group up for this quest.
+DoomKitten at /doomkitten (use a class that deals damage with DoTs, like BB or SWoT), Ultra Blood Titan at /bloodtitan, Trigoras at /trigoras (take right path), Cinderclaw at /phoenixrise, and Reaper at /thevoid.
+
+"Break the Seal"
+Click on seals of door on screen 2.
+
+"Armour of Zular"
+Defeat Harpy and Lamia at /djinngate.
+
+Fortitude + Hubris
+Complete Inanitas' quests from /dragonrune:
+
+"Qualifying Quest"
+Defeat Balboa at /stalagbite.
+
+"Rest for the Not Very Wicked"
+Defeat Red Shell Turtle, Pine Grizzly, and Pine Troll at /pines then talk to Dreamy at /tavern.
+
+"Pisces Pieces"
+Defeat Kuro at /river.
+
+"Be Ebil"
+Defeat Creature Creation at /maul for the G-Rave Key and 5 Ebil Limbs then walk to the very end of the map and repeatedly click around the area of the disk on the left side of the table next to Zorbak.
+
+"Eternal, Never-Ending Darkness and Death Lance"
+Defeat Shadow Lord at /shadowlordpast if you're a member. Otherwise, complete "Key to the ShadowLord" quest from Skully at /shadowrealm (top-left>right from starting screen) by defeating enemies at /shadowrealmpast. Then, enter to the portal on the screen left of Skully.
+
+"It Takes a Special Brand of Glory"
+Defeat Chaos Fluffy at /dragontown. Walk up from the blood fountain then continue left.
+
+"1st Trial"
+Defeat Snow Golems at /mountfrost then click on David's foot at /david.
+
+"2nd Trial"
+Defeat Wyvern at /northpointe.
+
+"3rd Trial"
+Talk to Valencia at /museum and select Special Covdes then enter sirbuh.
+
+"4th Trial"
+Defeat Enraged Razorclaw at /razorclaw (select Flight Leader Level 30 from Galanoth).
+
+"Hubris"
+Defeat the DoomWood Ectomancer at the top-left room of /doomwood with the "Hubris" quest accepted - the golden knight should be saying 'There's just one left!'. After, defeat Trigoras at /trigoras (take right path), and Styx Hydra at /styx (talk to Charon and select Travel the Styx > Third Stop).
+
+"Fortitude"
+Defeat Enfield at /iceplane, Mummies at /mummies or /cruxship, and Desterrat Moya at /banished (take left then continue upwards).
+
+"Dual Wielding"
+Join /skytower and walk up>right>right>top-left to find Inanitas. Click on his left hand then defeat the Aspect of Good and Evil.
+
+Shadow Dragon Defender
+Obtain the Mysterious Egg by completing the "Mysterious Chest" quest from the chest at /ashfallcamp. To access this quest, click the Dragon icon on the chest after obtaining all 7 Keys from the 7DD story (Map > Story). Each one is from the Dragon at the end of each chapter in the map with the same name as the key (except for Envy, which is located at /maloth) - for example, the Key of Wrath is from /wrath.
+Then complete Loremaster Maya's quests at /void then /mysteriousegg. Each quest at /mysteriousegg tells you where to go in the quest description. At the end of it, you'll obtain the Manticore Cub Pet. Use it to access Loremaster Maya's shop and purchase the Shadow Dragon Defender armour.
+
+Silver Exalted Paladin
+Complete the following quests from Jill'Ette at /lightguard:
+
+"Surely it Starts and Ends Here"
+Defeat the different Dracoliches at /dragonheart.
+
+"The First Scroll"
+Defeat Ichor Dracolich at /ectocave.
+
+"The Second Scroll"
+Defeat Frostdeep Dweller at /frozentower (located at end of map).
+
+"The Third Scroll"
+Defeat Great Solar Elemental at /thirdspell.
+
+"The Fourth Scroll"
+Defeat Roach at /table (select Race Prizes from Crychek then pick a number to access).
+
+"The Fifth Scroll"
+Defeat Singer at /dracocon (walk right until you reach Bob MacGuffin then walk up twice).
+
+"The Final Scroll"
+Defeat General Dox at /warhorc.
+
+Valoth's Cannon of Doom
+Purchase Valoth's Broken Cannon from Dwobo's shop at /crashruins for 5m Gold. Then, complete Tek's "Cannon Restoration" quest from /thespan. To get to Tek quickly, exit right from /aqlesson through the portal on the ground then walk down. Turn in the quest along with both of these:
+
+Peanut
+Complete J6's saga then purchase from his Hyperium Awesome House shop at /hyperspace.
+
+Floozer
+Complete Bamboozle's quests at /cragglerock.
+- "Star of the Sandsea": Defeat a Kalestri Worshiper at /wanders.
+- "Ice Diamond": Complete King Coal's "Trade for the Ice Diamond" quest from /kingcoal by defeating Snow Golems at /mountfrost.
+- "Dark Bloodstone": Complete "Trade for the Dark Bloodstone" from Orlok at /safiria by defeating Blood Maggots. There are two on the same screen in the castle.
+- "Doomstone": Defeat Painadin Overlord at /brightfall (walk left).
+- "Void Opal": Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+- "Mana Crystal": Click on the blue crystal just right of the Crystal Mana Construct at the end of the /downward map. Either /goto someone or complete Warlic's and Cysero's quests from /battleontown > /downward to access this.
+- "Songstone": Complete Dorian's "Trade for the Songstone" quest from /mythsong by clicking on crystals around the map. One is hidden behind the French Horned Toadra.
+- "Butterfly Sapphire": Complete Alina's "Trade for the Butterfly Sapphire" quest from /alchemyacademy by defeating Trollola Plants at /bloodtusk.
+- "Understone": Complete Yara's "Trade for the Understone" quest at /battleunderc by defeating any enemies here.
+- "Rainbow Moonstone": Complete Dr'Rader's "Trade for the Rainbow Moonstone" quest at /earthstorm by defeating Diamond, Emerald, Ruby, and Sapphire Golems around the map. If you only want Floozer, you can stop here.
+- "Time Quartz": Join /thespan then, from Warlic, walk left>down>up into Inn and talk to the NPC.
+
+
+
+8. Awe-scension
+
+Original Drakath Armour
+See guide.
+
+Armour + Helm of Awe
+See guide.
+
+Arch DoomKnight
+See guide.
+
+Sepulchure's Original Helm
+Go to Gravelyn at /shadowfall then select Sepulchure's Helm. If you own SDKA, select Shop and purchase it for free. Otherwise, select Honour Shop and purchase the Royal ShadowScythe Blade then complete the "Sepulchure's Helm" quest. For it, you need:
+
+Lore's Champion Seal 
+Get this from the Achievement Badges section of the Book of Lore - it says Chaos and is just left of the Red/Green anniversary badges.
+
+Gravelyn's DoomFire Token 
+Complete all quests at /mysteriousdungeon. To escape the first room, click on the cake, the loose brick on the wall, the pencil inside, the rock next to the bucket, and then the cell door.
+After, complete Gravelyn's quests at /darkthronehub and save each reward.
+- "Let Darkness Enter your Heart": Defeat Doom Overlord at /necrodungeon.
+- "Find me some Doom": Defeat Chaos Lord Alteon at /swordhavenfalls.
+- "Abyssal": Defeat Sepulchuroth at /shadowstrike (located at end of map).
+- "Memories of The Past": Defeat Shadow of the Past at /shadowfall (walk top-right, right x2, click on straw then the vault undernearth then walk into it and go left.
+- "The Summoning": Defeat enemies at /shadowrealmpast for 13 Empowered Essence then turn in the quest with the rewards from the previous quests.
+
+Bin Jett's Salvaged Armour Part x50
+Defeat Ektorax at /ectocave (located at end of map). I recommend doing this in a group due to the high HP of this enemy.
+
+USE GOLD BOOST BEFORE TURNING IN QUESTS FOR EXTRA GOLD
