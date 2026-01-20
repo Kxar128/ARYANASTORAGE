@@ -1,0 +1,212 @@
+Step 1
+
+Complete Artix's quests at /necropolis:
+
+"Reforging the Blinding Light"
+Purchase the Blinding Light of Destiny Handle from Arryd's shop at the start of /doomwood. If you can't access the shop, you need to obtain the 'Reinforced' badge, which you get by defeating 100 enemies at the top-left room of /doomwood. There is a kill-counter at the top-right - don't leave otherwise it'll reset.
+
+"Secret Order of Undead Slayers"
+Purchase Bonegrinder Medal from Arryd at /doomwood (the same shop you got the Handle from in the previous quest).
+
+"Essential Essences"
+Defeat enemies at /battleunderb. You will also obtain Bone Dust from these enemies, which is needed for later.
+Undead Essence stacks to 1000.
+
+"Bust some Dust"
+Defeat enemies at /battleunderb. You may already have enough from the previous quest.
+Bone Dust stacks to 5100.
+
+"A Loyal Follower"
+Farm "Essential Essences" and "Bust some Dust" until you have 100 Spirit Orbs then defeat Ephemerites at /timevoid. For the Ephemerites, this is best done in the first room to the right because there are 2 of them.
+After you complete this quest, Undead Energy will start dropping from many Undead enemies, but most notably, the skeletons at /battleunderb. Don't bother trading 50 Undead Energy for 1 Spirit Orb at Artix's Merge shop because it's not worth the time.
+
+Step 2
+
+The main component of this farm is obtaining 10.5k Spirit Orbs. You have two options for this. If you're not sure what method is going to be faster, time it yourself. Also consider how much you're willing to move about.
+
+Option 1
+If you're low level or don't want to move, farm both "Bust some Dust" and "Essential Essences" from Artix at /necropolis. You may find it faster to do this in a private /battleunderb. Turn in both quests when Undead Essence reaches its 1k stack limit.
+
+Option 2
+Otherwise, complete Yara's "Soul Searching" quest from /battleunderc, which will reward 75 Undead Essence each time. The enemies you need to defeat have up to 20k HP. Follow this route to complete it effectively:
+
+Exit left from /battleunderc then walk up the ladder to defeat the Undead Champion.
+
+Join a new /battleunderb and exit top-right to defeat Bone Terror at /battleundera.
+
+If you're a member, exit left from /battleunderd to defeat the Crystalised Jellyfish - otherwise walk to it from /battleunderc.
+
+
+
+As you farm for 10.5k Spirit Orbs, also complete Artix's "Mine Crafting" daily quest back at /necropolis each day. All you need to do is defeat Balboa at /stalagbite. For the reward, I recommend picking Copper, Barium, and Silver (you only need 1 of each).
+Once you have those, you might also want to get 1 Iron (which is part of an optional route at the end of this farm), 4 extra Barium (used to get the Necrotic Sword of Doom), and 1 Aluminium (used to get the Enchanted Nulgath Nation House)
+
+Complete Artix's corresponding quest to upgrade your metal's form (don't do this for NSoD and ENNH). For Copper, this would include completing "Celestial Copper Enchantment" by obtaining the following:
+
+Undead Energy x25
+Defeat enemies at /battleunderb.
+
+Spirit Orb x5
+Complete "Bust some Dust" and "Essential Essences".
+
+Paladaffodil x25
+Defeat Seed Spitters at /arcangrove by exiting downwards from /natatorium.
+
+Then, you just turn it in with the metal. Each metal's upgrade quest requires the same drops.
+
+
+
+Before moving on to Step 3, you should have:
+
+10.5k Spirit Orbs
+
+1 Celestial Copper
+
+1 Blessed Barium
+
+1 Sanctified Silver
+
+Optional: 1 Immortal Iron
+
+Step 3
+
+Open Artix's merge shop at /necropolis and do this:
+
+Merge 10.5k Spirit Orbs into 105 Loyal Spirit Orbs.
+
+Merge 100 Loyal Spirit Orbs into 2 Bright Auras.
+
+After, join /dwarfhold and keep walking right until you get to Geopetal. Forge the Celestial Copper of Destiny in her shop. 
+
+
+
+Then, head back to Artix and complete the following quests:
+
+"Celestial Copper of Destiny"
+Defeat the Albino Bat at /dwarfhold for the Forge Key.
+
+"Basic Weapon Kit Construction"
+Complete this quest THREE times. Defeat the following enemies:
+
+Zardman Grunts at /forest (walk right until you find 3).
+
+Mummies and Golden Scarabs at /pyramid.
+
+Horc Noobs at /noobshire (walk right).
+
+Bronze Draconians at /lair (exit left of /underlair).
+
+Rocks at /bloodtusk (walk up then left or right).
+
+Scarecrows at /farm (walk left).
+
+"Advanced Weapon Kit Construction"
+Complete this quest THREE times. Defeat the following enemies:
+
+Chaos Lycans at /safiria.
+
+Dai Tengu at /hachiko (select Hachiko from Braeus' Fast Travel at /shadowfall or /goto someone).
+
+Leatherwings at /pines (walk down then right to find 2).
+
+Vampire Knights at /lycanwar (walk right to find 2).
+
+Cyclops Raider at /mobius.
+
+Lich Of The Stone at /darkoviaforest (complete the quests at /darkoviagrave > /darkoviaforest to access).
+
+Lightning Ball at /airstorm (walk right x3 for the cave then go to the end - must complete 3 quests here to access).
+
+Tomb Robber at /sandport (walk ahead to find 2).
+
+"Ultimate Weapon Kit Construction"
+Complete this quest FOUR times. Defeat the following enemies:
+
+Earth Elementals at /dragonplane.
+
+Chaos Lord Kitsune at /kitsune (he goes invincible when in fox form).
+
+Greenguard Dragon at /greendragon.
+
+Chaos Sphinx at /sandcastle (located at end of map).
+
+Rock Roc at /roc.
+
+Grand Inquisitor at /citadel (located at end of map).
+
+Protosartoium at /crashsite (walk right then top-right).
+
+Harpy at /djinn (there is no screen with 2).
+
+
+
+Before moving on to Step 4, you should have:
+
+1 Celestial Copper of Destiny
+
+3 Basic Weapon Kits
+
+3 Advanced Weapon Kits
+
+4 Ultimate Weapon Kits
+
+Step 4
+
+Open Artix's merge shop at /necropolis and merge the Mace of Destiny > Bright Mace of Destiny > Blinding Mace of Destiny.
+Use this weapon to complete the "Finding Fragments with Blinding Mace" quest from Artix for 3 Brilliant Auras.
+
+You can complete the "Finding Fragments with Blinding ___" quests by defeating enemies at /battleunderb. This will make it much faster to obtain reagents.
+Blinding Fragments stack up to 60.
+
+If you receive a Blinding Aura from these quests, hang onto it for the final step of the farm. It has a 1% drop rate.
+
+
+
+After, do the following:
+
+Merge Sanctified Silver > Sanctified Silver of Destiny
+Do this at Geopetal's forge at /dwarfhold. If you're low on any materials, complete "Ultimate Weapon Kit Construction" from Step 3 for more.
+
+Merge Bow of Destiny > Bright Bow of Destiny > Blinding Bow of Destiny
+Do this at Artix's merge shop at /necropolis.
+
+Complete "Finding Fragments with Blinding Bow"
+Do this until you have 5 Bright Auras.
+
+Merge Blessed Barium > Blessed Barium of Destiny
+Do this at Geopetal's forge at /dwarfhold.
+
+Merge Blade of Destiny > Bright Blade of Destiny > Blinding Blade of Destiny
+Do this at Artix's merge shop at /necropolis.
+
+
+
+Before moving on to Step 5, you should have:
+
+Blinding Mace of Destiny
+
+Blinding Bow of Destiny
+
+Blinding Blade of Destiny
+
+Step 5
+
+The last part of this farm is Artix's "The Blinding Light of Destiny" quest from /necropolis. You need the following:
+
+Loyal Spirit Orb x250 - Blade
+
+Spirit Orb x500 - Blade
+
+Bright Aura x125 - Bow
+
+Brilliant Aura x75 - Mace
+
+Blinding Aura - All Weapons (100% drop rate with Scythe)
+
+Ultimate Weapon Kit - "Ultimate Weapon Kit Construction" from Step 3 (you should have one left over)
+
+This means you'll need to complete "Finding Fragments with Blinding ___" with Blade x10, Bow x25, and Mace x75.
+
+If you don't receieve the Blinding Aura within this time, you can either keep farming these quests (1% drop rate) or use the Blinding Scythe of Destiny (100% drop rate), which you merge with Immortal Iron of Destiny and one of each Weapon Kit from Step 3. This is up to you.
+
+After you've completed this, turn in "The Blinding Light of Destiny" quest to Artix and use the reward to claim BLoD from your Book of Lore in the Achievement Badges section.

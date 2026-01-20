@@ -1,0 +1,75 @@
+Requirements
+
+This class is pretty simple to obtain, can be done within 3-4 hours with prerequisites completed. 6 hours without. To start farming for this class you will need:
+
+Level 80
+Completion of the Rumbling of Cold Thunder saga
+Rank 10 in the Good and Swordhaven factions
+Alden's Liberation Armor
+”The Storm Queen”
+Questline begins at /Terminatemple and you should find Victoria towards the right.
+
+”Familial Blessing”
+
+Click on Tara on screen 1
+”Echo of the King”
+
+Requires you to have each of the items below. You can go to victoria for a quest for each of these items.
+Alteon's Reforged Armor
+King Alteon's Crown
+Royal Dragon Sword
+Alden's Mace
+”The Path to the King” - Sword Quest at /portal
+Endured Against the Defiler 100x
+
+From fighting the Destructive Defiler at /Infernalarena, drops 1x per kill
+If you’re mem, 
+
+fighting Graveclaw at /gravechallenge will drop 10x per kill
+Endured Against the Monster King 90x
+
+Fight dethrix at /ebondungeon
+Endured Against a Fallen Friend 100x
+
+Fight Ultrasepulchure at /sepulchurebattle
+Endured Against Chaos 113x
+
+Fight Ultra Chaos Warlord at /chaosboss
+Endured Against the Great Dragon 70x
+
+Fight against big dragon at end at /naoisegrave
+
+”Purify the Crown” - Crown Quest at /cleric
+Trace of Chaos 13x
+
+Fight drakath at /ultradrakath for it, low drop rate
+Merge for it at /championdrakath using 5x Drakath Insignia
+Whispers of Chaos 40x
+
+Fight Ultra Dreadhaven General at /ultradread
+Use Chaos Slayer, buffed against chaos monsters and pretty good
+Alternatively, fight Slugwrath at /dreadhaven
+Calcified Tear 60x
+
+Fight the QoM at /transformation for a chance to get the tears
+Alternatively fight at /queenbattle for a 100% drop
+
+”The King’s Armour”
+Gold Voucher 500k 100x
+Yes 50m Gold, farm at /sevencircleswar if f2p
+Otherwise farm at /lichwar if mem
+Or Leery Exchange
+Dwarven Gold 30x
+Farm this from dwarves at /thelimacity
+
+Atlas Gold 75x
+Head to /atlasfalls and bully King zedek for a guaranteed drop
+Otherwise just defeat his lions if it’s difficult
+Skye Gold 50x
+
+Head to /queeniona and kill her 25 times
+Pretty sure one of the cold thunder maps you can farm for this, just that since wiki didn’t update it yet I cannot confirm locations etc. I only did the iona challenge fight.
+Camlan Gold 120x
+Defeat the two elve minibosses near the end at /camlan
+
+For Alden's Mace you can easily grab it at /castle, enter throne room, then turn right. It should be on the wall. No quest required. Anyway now you should be able to complete the quest for the class. GG
