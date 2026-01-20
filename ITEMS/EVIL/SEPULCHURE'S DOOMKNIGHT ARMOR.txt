@@ -1,0 +1,244 @@
+Requirements
+
+Be a Member
+
+Rank 5 Evil
+
+Storyline Completion
+This includes Nukemichi's quests at /akiba and the quests at /bludrut > /bludrut2 > /bludrut3.
+
+Recommended: 13 Lords of Chaos Story Completion
+Later on, you need to get to certain places. Completing the story makes getting to them easier.
+
+Recommended: Blinding Light of Destiny
+Not only are many enemies Undead, BLoD is a very similar farm to SDKA so it's good to get familiar with it.
+
+Recommended: 10+ Spare Inventory Slots
+These can be bought for 200 ACs each.
+
+Step 1
+
+Complete Vayle's quests at /necropolis:
+
+"Descent into Darkness"
+Defeat Bellhops at /necrodungeon by walking into either the left or right elevator.
+
+"Dark Spirit Orbs"
+Complete this quest until you have 40 Dark Spirit Orbs. Obtain the following:
+
+Shadow Creeper Enchant
+Defeat Shadow Creepers at /bludrut2 - walk left then down to find 2.
+
+Shadow Serpent Scythe
+Defeat Shadow Serpents at /bludrut4 - walk left to find 2.
+
+Shadow Whiskers x6
+Defeat Dark Witch at /ruins.
+
+"Sepulchure's Armour"
+Turn in the 40 Dark Spirit Orbs from the previous quest and a DoomKnight Hood, which is bought from Dusk at /shadowfall. You can put the Experimental Dark Item in your bank until the very end of the farm.
+
+"The Doom that Looms"
+For this quest, you need Rank 10 DoomKnight, which you can buy from Dusk at /shadowfall with Rank 10 Warrior and Healer. Rank these classes up by using methods in the XP section of the New Player guide.
+
+"Toiling with Terror"
+Obtain the Shadow Terror Axe by defeating Bone Terror at /battleundera - exit top-right of /battleunderb. Then, get Elders' Blood by completing Reens' "Experiment 107: Elders' Blood Potion" quest from /arcangrove. If you don't know how to get to her, go up into the tower then walk into the blue portal at the bottom-right. To complete the quest, defeat Gorillaphants at the bottom-right of the overall map as there are 2 on the same screen.
+This quest is not worth repeating. It's only done to unlock the next quests.
+
+"A Penny for your Foughts"
+Defeat enemies at /maul.
+DoomCoins stack to 100.
+
+"Dark Spirit Donation"
+Farm "A Penny for your Foughts" for 100 Dark Spirit Orbs. If you'd like to, use the Shadow Creeper Enchants that drop from this quest to complete "Dark Spirit Orbs" with. If you'd prefer not to move around, just stick to farming at /maul. This applies to farming future Dark Spirit Orbs as well. In addition, get the Dark Skull by defeating a Shadow Imp at /necrocavern.
+After you complete this quest, Dark Energy will start to drop from many 'dark/evil' enemies. You can use 50 of them to merge 1 Dark Spirit Orb from Vayle's shop at /necropolis or save 10k of them for Hollowborn DoomKnight.
+
+Step 2
+
+The main component of this farm is obtaining 10.5k Dark Spirit Orbs. Just like in the last quest you did, "Dark Spirit Donation", get them from "A Penny for your Foughts" and if you want to, "Dark Spirit Orbs" when the Creeper Enchant drops.
+
+
+
+As you do this, complete Vayle's "Hard Core Metals" daily quest back at /necropolis every day. All you need to do is defeat Balboa at /stalagbite. For the reward, I recommend picking Arsenic, Chromium, and Rhodium (you only need 1 of each).
+Once you have those, you might also want to get 1 Palladium, which is part of an optional route at the end of this farm.
+
+Each time you get a metal, complete its corresponding quest from Vayle to upgrade its form. For Arsenic, this would include completing "Accursed Arsenic Hex" by obtaining the following:
+
+Dark Energy x26
+Obtain these from Shadow Serpents at /bludrut4 as you complete "Dark Spirit Orbs". Otherwise, head to /dwarfhold and defeat Chaos Drows in the room where there are 3 of them (walk right).
+
+Dark Spirit Orb x5
+Complete "A Penny for your Foughts" and if you want to, "Dark Spirit Orbs" when the Creeper Enchant drops.
+
+Deadly Knightshade x16
+Defeat Seed Spitters at /arcangrove by exiting downwards from /natatorium.
+
+Then, you just turn it in with the metal. Each metal's upgrade quest requires the same drops.
+
+
+
+Before moving on to Step 3, you should have:
+
+10.5k Dark Spirit Orbs
+
+1 Accursed Arsenic
+
+1 Calamitous Chromium
+
+1 Reprehensible Rhodium
+
+Optional: 1 Pernicious Palladium
+
+Step 3
+
+Open Vayle's merge shop at /necropolis and do this:
+
+Merge 10.5k Dark Spirit Orbs into 105 Corrupt Spirit Orbs.
+
+Merge 100 Corrupt Spirit Orbs into 2 Ominous Auras.
+
+After, join /dwarfhold and keep walking right until you get to Geopetal. Forge the Accursed Arsenic of Doom in her shop. 
+
+
+
+Then, head back to Vayle and complete the following quests:
+
+"Accursed Arsenic of Doom"
+Defeat the Albino Bat at /dwarfhold for the Forge Key.
+
+"DoomSquire Weapon Kit"
+Complete this quest THREE times. Defeat the following enemies:
+
+Skeletal Warriors at /castleundead (left room has 2).
+
+War Mummies at /sandcastle (walk up until you see 2).
+
+Horc Noobs at /noobshire (walk right).
+
+Bronze Draconians at /lair (exit left of /underlair).
+
+Scarecrows at /farm (walk left).
+
+Rock Elemental at /bludrut (exit up ladder from /bludrut2).
+
+Dark Makai at /nulgath or /tercessuinotlim.
+
+"DoomSoldier Weapon Kit"
+Complete this quest THREE times. Defeat the following enemies:
+
+Stone Golem at /cornelis (just keep going upstairs).
+
+Dai Tengu at /hachiko (select Hachiko from Braeus' Fast Travel at /shadowfall or /goto someone).
+
+Leatherwings at /pines (walk down then right to find 2).
+
+Vampire Knights at /lycanwar (walk right to find 2).
+
+Tomb Robber at /sandport (walk ahead to find 2).
+
+Shadow Imp and Shadowstone Elemental at /necrocavern.
+
+Shadow Vordred at /vordredboss (you can attack during cutscene and spam continue - use a long range class).
+
+Copper Sky Pirate at /anders.
+
+"DoomKnight Weapon Kit"
+Complete this quest FOUR times (and additionally if you don't get Ominous Auras to drop as you will need at least 3). Defeat the following enemies:
+
+Sneeviltron at /boxes (walk right).
+
+Kitsune at /kitsune (he goes invincible when in fox form).
+
+Chaos Sphinx at /sandcastle (located at end of map).
+
+Protosartoium at /crashsite (walk right then top-right).
+
+Shadow Dragon at /necrocavern (select Necrocavern from Braeus' Fast Travel at /shadowfall then walk down).
+
+Moganth at /dragonplane (walk up from Earth Elementals then follow path).
+
+Shadow Nukemichi at /akiba (complete Nukemichi's quests here if you can't access them).
+
+Dark Wyvern at /dreamnexus (there is no screen with 2).
+
+
+
+Before moving on to Step 4, you should have:
+
+1 Accursed Arsenic of Doom
+
+3 Squire Weapon Kits
+
+3 Soldier Weapon Kits
+
+4 Knight Weapon Kits
+
+3 or more Ominous Auras
+
+Step 4
+
+Open Vayle's merge shop at /necropolis and merge the Daggers of Destruction > Shadow Daggers of Destruction > Necrotic Daggers of Destruction.
+Use this weapon to complete the "Pinpoint the Pieces with Necrotic Daggers" quest from Vayle for 30 Ominous Auras.
+
+You can complete the "Pinpoint the Pieces with ___" quests by defeating Chaos Drows at /dwarfhold (walk right until you find 3). This will make it much faster to obtain reagents.
+DoomKnight Armour Pieces stack up to 60.
+
+If you receive a Doom Aura from these quests, hang onto it for the final step of the farm. It has a 1% drop rate.
+
+
+
+After, do the following:
+
+Merge Calamitous Chromium > Calamitous Chromium of Doom
+Do this at Geopetal's forge at /dwarfhold. If you're low on any materials, complete "DoomKnight Weapon Kit" from Step 3 for more.
+
+Merge 25 Auras > 1 Diabolical Aura
+Do this at Vayle's merge shop at /necropolis.
+
+Merge Broadsword of Bane > Shadow Broadsword of Bane > Necrotic Broadsword of Bane.
+Do this at Vayle's merge shop at /necropolis.
+
+Complete "Pintpoint the Pieces with Necrotic Broadsword"
+Do this for a Diabolical Aura.
+
+Merge Reprehensible Rhodium > Reprehensible Rhodium of Doom
+Do this at Geopetal's forge at /dwarfhold.
+
+Merge Bow of the Shadows > ShadowBow of the Shadows > Necrotic Bow of the Shadows
+Do this at Vayle's merge shop at /necropolis.
+
+
+
+Before moving on to Step 5, you should have:
+
+Necrotic Daggers of Destruction
+
+Necrotic Broadsword of Bane
+
+Necrotic Bow of the Shadows
+
+Step 5
+
+The last part of this farm is Vayle's "Summoning Sepulchure's Armour" quest from /necropolis. You need the following:
+
+Corrupt Spirit Orb x250 - Bow
+
+Dark Spirit Orb x500 - Bow
+
+Ominous Aura x125 - Daggers
+
+Diabolical Aura x75 - Broadsword
+
+Doom Aura - All Weapons (100% drop rate from Scythe)
+
+Experimental Dark Item - "Sepulchure's Armour" (you should have this saved).
+
+Heart of Darkness - Defeat Dark Elemental at /ruins (keep walking right).
+
+DoomKnight Weapon Kit - "DoomKnight Weapon Kit" from Step 3 (you should have one left over).
+
+This means you'll need to complete "Pinpoint the Pieces with ___" with Bow x10, Daggers x25,  and Broadsword x75.
+
+If you don't receieve the Doom Aura within this time, you can either keep farming these quests (1% drop rate) or use the Necrotic Scythe of Scourge (100% drop rate), which you merge with Pernicious Palladium of Doom and one of each Weapon Kit from Step 3. This is up to you.
+
+After you've completed this, turn in the "Summoning Sepulchure's Armour" quest to Vayle and claim SDKA.

@@ -1,0 +1,100 @@
+Rank 7 Evil
+
+14+ Inventory Slots
+Buy these for 200 ACs each.
+
+Storyline Completion
+This includes Treasure Hunter Z's quests at /shadowvault, Step 1 of BLoD, /noxustower, and 13LoC (Map > Story).
+
+Quests
+
+Go to the Ancient DoomKnight at /shadowvault and complete the following quests:
+
+1. "Gathering Power"
+
+Undead Energy x1800
+Defeat enemies at /battleunderb.
+
+Human Souls x500
+Defeat Lightguard Paladins and Casters at /noxustower. There are two rooms near the end of the map that have 3 in them.
+
+Dragon Energy x600
+Defeat Draconians at /lair by exiting left from /underlair.
+
+
+
+2. "Death's Door"
+
+Death's Power & Souls of the Dead x400
+Defeat Death at /shadowattack. He's located at the end of the map. If you've been to Death before by completing the quick storyline from /shadowrise > /shadowattack, you can click on the NPC's Battle Death Again button for a teleport.
+
+
+
+3. "Chaotic Lords"
+
+Chaotic Power x13
+You'll earn these as you obtain the items below.
+
+Escherion's Helm
+Defeat Escherion at /escherion. 
+
+Legendary Sword of Dragon Control
+Defeat Vath at /stalagbite.
+
+Hanzamune Dragon Koi Blade
+Defeat Kitsune at /kitsune. He's invincible while in fox form.
+
+Wolfwing Armour
+Defeat Wolfwing at /wolfwing.
+
+One Eyed Doll Breaker
+Defeat Kimberly at /palooza.
+
+Ledgermayne (Armour)
+Defeat Ledgermayne at /ledgermayne.
+
+Tibicenas (Armour)
+Defeat Tibicenas at /djinn.
+
+Soul of Chaos Armour
+Defeat Khasaanda at /dreamnexus.
+
+Chaos Lionfang Armour
+Defeat Lionfang at /stormtemple.
+
+Shorn Chaos King Crown
+Defeat Alteon at either /swordhavenfalls or /ultraalteon. /ultraalteon has the benefit of also dropping Relics of Chaos. I suggest doing this with a group unless you have a very strong soloing class.
+
+Xiang Chaos
+Defeat Xiang at /mirrorportal. I suggest using Sentinel, Dragon of Time, or Healer for this fight as they all have abilities that deal damage based on your HP.
+
+Drakath's Sword
+Defeat Drakath at /ultradrakath.
+
+Chaorrupted Hourglass
+Defeat Iadoa at /timespace. I suggest getting a Dragonoid of Hours from Dragonoid at /mqlesson as it disables his Astral Shift ability - this doesn't need to be equipped to work, just in your inventory.
+
+
+
+4. "A Means to an End"
+
+Ultimate Darkness Gem x50
+Join /shadowfallwar then walk up>right. Defeat the 2 Ghouls and 2 Undead War Mages.
+
+Undead Energy x2000
+Defeat enemies at /battleunderb.
+
+(Necro) Scroll of Dark Arts x2
+Defeat Ultra Vordred at /epicvordred (~1% drop rate).
+
+Doom Heart
+Defeat Ultra Sepulchure at /sepulchurebattle (~0.5% drop rate).
+
+Dread Knight Cleaver
+Defeat Dark Sepulchure at /sepulchure.
+
+Reaper's Soul
+Defeat Reaper at /thevoid. You can access them quickly by selecting Fight Me! from the NPC version of The Reaper at the beginning of the map.
+
+Desolich's Undead Eye x2
+Defeat Desolich at /desolich. Group up for this as even with a strong soloing class, it'd take a very long time to take it down.
