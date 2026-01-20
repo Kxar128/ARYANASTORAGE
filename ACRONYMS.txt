@@ -1,0 +1,182 @@
+CLASSES
+
+AA – Abyssal Angel
+AAS – Abyssal Angel’s Shadow
+ADC – Arcane Dark Caster
+AF – ArchFiend
+AH – Artifact Hunter
+AM – Archmage
+AO – Alpha Omega
+AP – ArchPaladin
+Arach – Arachnomancer
+BB – Blaze Binder
+BM – BattleMage
+BMA – BladeMaster Assassin
+BS – Blood Sorceress
+BT – Blood Titan
+CA – Chrono Assassin (or Chaos Avenger — use CAv instead)
+CAv – Chaos Avenger
+CC – Card Clasher
+CCM – Corrupted Chronomancer
+CDK – Chrono Dragon/DataKnight
+CLDK – Classic Legion DoomKnight
+CMD – Chrono Commandant
+CMP – Chronomancer Prime
+CS – Chaos Slayer
+CSP – Chaos Shaper
+Cryo – Cryomancer
+DK – DeathKnight
+DKL – DeathKnight Lord
+DKO – DeathKnight Overlord
+DL – Dragonlord
+DmK – DoomKnight
+DMoM – Dark Master of Moglins
+DMN – Dark Metal Necro
+DoT / DT / Drot – Dragon of Time (use DT)
+DS – Dragon Shinobi
+DSG – Dragonslayer General
+DBSK – Darkblood StormKing
+DSS – DragonSoul Shinobi
+DUOK – Dark Ultra OmniKnight
+DW – Drakel Warlord
+EC – Eternal/Empyrean Chronomancer
+ED – Elemental Dracomancer
+EDC – Evolved Dark Caster
+EI – Eternal Inversionist
+EH – Exalted Harbinger
+EL – Evolved Leprechaun
+EPL – Evolved Pumpkin Lord
+ES – Evolved Shaman
+ESC – Exalted Soul Cleaver
+EVL – Enchanted Vampire Lord
+FB – Frostval Barbarian
+FDW – Flame Dragon Warrior
+FLS – FireLord Summoner
+FSR – Frost SpiritReaver
+GB – Glacial Berserker
+GN – Grim Necromancer
+GT – Great Thief
+GW – Glacial Warlord
+HHL – Hobo Highlord
+HMN – Heavy Metal Necro
+HSC – HighSeas Commander
+IC – Immortal Chronomancer or Imperial Chunin
+ILDC – Infinite Legion Dark Caster
+IDC / ImDC – Immortal Dark Caster
+IK – Infinity/Interstellar Knight
+IT – Infinity Titan
+LBMA – Legion Blademaster Assassin
+LC – LightCaster
+LDK – Legion DoomKnight
+LEW – Legendary Elemental Warrior
+LH – Legendary Hero
+LM – LightMage
+LoO / Lorder – Lord of Order (use LoO)
+LR / Rev – Legion Revenant (use LR)
+LSMA – Legion SwordMaster Assassin
+MB – MindBreaker
+MDC – Mystical Dark Caster
+MJ – MechaJouster
+MoM – Master of Moglins
+MR – Master Ranger
+NC – Naval Commander
+NCM – Necrotic Chronomancer / Nechronomancer
+Necro – Necromancer
+NLM / NM – Northlands Monk
+NMN – Nu Metal Necro
+OCM – Overworld Chronomancer
+PCM – Paladin Chronomancer
+PCS – Prismatic ClawSuit
+PHL – Paladin High Lord
+PMB – Psionic MindBreaker
+Pyro – Pyromancer
+QCM – Quantum/Continuum Chronomancer
+RBM – Royal BattleMage
+RVL – Royal Vampire Lord
+SC – StoneCrusher
+SCG – SkyCharged Grenadier
+SDS – Shadow Dragon Shinobi
+SFDL – ShadowFlame DragonLord
+SGG – SkyGuard Grenadier
+SL – StarLord
+SS – Scarlet Sorceress
+SSG – ShadowScythe General
+SSoT / SWoT – ShadowStalker/Walker/Weaver of Time
+STC – Star Captain
+TC – The Collector
+TCM – Timeless Chronomancer
+TDC – Timeless Dark Caster
+TK – TimeKiller / Keeper
+ToH – Thief of Hours
+TS / TSS – Troll Spellsmith
+UCM – Underworld Chronomancer
+UEW – Ultra Elemental Warrior
+UOK – Ultra OmniKnight
+US – UndeadSlayer
+VHL – Void Highlord
+VoT – Vindicator of They
+VL – Vampire Lord
+YnR – Yami no Ronin
+
+
+Items
+
+ADK – Arch DoomKnight
+AFDL / AFDL1 – ArchFiend DoomLord
+AFDL2 – ArchFiend DeathLord
+ALoD – Ascended Light of Destiny
+AoA – Armour of Awe
+BB – Burning Blade
+BBoA – Burning Blade of Abezeth
+BG / BGS / BGotA – Blood Gems of the Archfiend
+BLoD – Blinding Light of Destiny
+BoA – Blade of Awe
+C&B / Crag – Crag & Bamboozle
+CC – Colour Custom
+CHPA – Classic Hollowborn Paladin Armour
+CoA – Cape of Awe
+CU – Chaorrupter Unlocked
+DA – Drakath Armour
+DBLoD – Dual Blinding Light of Destiny
+DBoN – DragonBlade of Nulgath
+DC – Drop Chance
+DCS – Dark Crystal Shard
+DNSoD – Dual Necrotic Sword of Doom
+DSO – Dark Spirit Orb
+ECAG – Empowered Chaos Avenger’s Greatsword
+EA / Apoth / Apo – Exalted Apotheosis
+ENNH – Enchanted Nulgath Nation House
+ESSoN – Evolved Shadow Spear of Nulgath
+EVA – Empowered Vordred’s Armour
+FCA – Fire Champion’s Armour
+HDK / HDKA – Hollowborn DoomKnight (Armour)
+HoA – Helm of Awe
+HotLB / HoLB – Head of the Legion Beast
+HSoD – Hollowborn Sword of Doom
+HSoF – Hollowborn Shadow of Fate
+IFK – Infernal Flame Khopesh
+IFP – Infernal Flame Pyromancer
+IoDA – Item of Donated Awesomeness
+Jugg – Juggernaut Item of Nulgath
+Larvae – Nulgath Larvae
+LDBoN – Legion DragonBlade of Nulgath
+LT / LTs – Legion Token
+NBG – Nulgath’s Birthday Gift
+NSoD – Necrotic Sword of Doom
+OBoN – Oblivion Blade of Nulgath
+ODA – Original Drakath Armour
+PBLoD – Polished Blinding Light of Destiny
+PDP – Prince Darkon’s Poleaxe
+Polly – Polly Roger
+RoN – Roentgenium of Nulgath
+SDKA – Sepulchure’s DoomKnight Armour
+SLoD – Sanctified Light of Destiny
+SO – Spirit Orb
+SoE – Scroll of Enrage
+SOH – Sepulchure’s Original Helm
+Shogun / SPP – Shogun Paragon Pet
+TC – Treasure Chest
+TG – Tainted Gems
+UBLoD – Ultimate Blinding Light of Destiny
+Uni – Unidentified
+VA – Void Aura

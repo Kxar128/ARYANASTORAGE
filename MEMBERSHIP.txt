@@ -1,0 +1,199 @@
+Perks
+
+See below for the benefits of being a member.
+
+Members obtain XP, Gold, and Reputation faster through exclusive methods. These are shown in the Reputation, Gold, and XP section of New Player guides. This is also because they get two daily 1hr boosts for free from the Wheel of Doom and Ragnar at /battleon.
+
+Members get access to enhancements that have better stats. If equipped, they can still be used even after your membership expires.
+
+There are many badges in the game that only members can obtain. See the Badges guide for more information.
+
+Upgrading unlocks a Bonus Package, which can be claimed from your online account manager. Most only contain cosmetics but I suggest the following:
+
+FireLord Summoner - contains the FireLord Summoner class, which is a clone of Blaze Binder (good farming class) and a house.
+
+Infinity Titan - contains the Infinity Titan class, which is a clone of StoneCrusher (top-tier support class) and a house. 
+
+Hollowborn ShadowRaptor, Necrotic Pirate Commander, Akiban Blademaster, and Apocalyptic Lich King - all of these contain a bank pet, which lets you store items.
+
+Members can create guilds. Without the brackets, type /gc [guild name] to make it, /gi [player] to invite someone, /gr [player] to remove someone (including yourself), and /g to type in guild chat.
+
+Members aren't restricted by server population caps and get access to Sir Ver, a member-only server. They also get access to many member-only locations (full list).
+
+Members sometimes get access to pre-release versions of a class. This happened with Void Highlord, Legion Revenant, Chaos Avenger, ShadowScythe General, Glacial Berserker, Legion DoomKnight, LightCaster, and Necromancer.
+
+In terms of cosmetic upgrades, members get a blue name tag and can choose from a wider selection of Character Page backgrounds (full list).
+
+Members also get access to 2 free monthly Treasure Chest Keys from Valencia at /battleon. They can be used to open Treasure Chests (0.75% drop rate from any enemy), which reward cosmetic items.
+
+Lastly, there are many member-only classes and items in the game. Or, they might be obtained faster by being a member. See the below sections for more information.
+
+Classes
+
+★ = Most Important  |  ☆ Important
+
+
+
+Requires Membership to Use
+
+Alpha Omega
+Merge 300 Combat Trophies in Ragnar's Legends of Lore > Legendary Classes shop at /battleon. Combat Trophies are earned from /bludrutbrawl. A clone of this class can also be obtained from the Wheel of Doom as a Bonus Item.
+
+☆ Bard
+Obtain Rank 4 Mythsong then purchase from Leyr's shop at /classhalla. This is only an important class to get if you don't have anything else for supporting situations.
+
+Berserker
+Purchase from Ragnar at /battleon. Select Legends of Lore > Legend Gear Item shop.
+
+Blood Ancient
+Obtain 25 Ancient Vitae then merge in Orlok's shop at /safiria. Ancient Vitae is rewarded from Orlok's "Ancient Vitae" quest, which you can complete by defeating Albino Bats at /dwarfhold.
+
+Blood Titan
+Merge 425 Blood Titan Tokens at Shi Mar's shop at /greenguardeast (walk up twice from the starting screen). Blood Titan Tokens drop from both Blood Titan and Ultra Blood Titan. I suggest farming Ultra Blood Titan as you obtain Vambrace Shards for the Armour of Awe.
+
+Classic DoomKnight
+Obtain DoomKnight (see below) then select Classic DoomKnight from Dusk. You need to be Evil-aligned to access this shop by going to Gravelyn in the same map and selecting Evil Reputation > Switch to Evil > Purchase Contract > Turn In Contract. Then you can purchase the class from Dusk.
+
+Classic Paladin
+Requires Rank 5 Good and Rank 10 Warrior + Healer (bought from Lady Speedstyk's Paladin Shop at /lightguard - rank up using the XP methods from New Player guide). Then, complete Lady Speedstyk's "Prove your Worth (Healer/Warrior)" quests (select Classic Paladin Medals) and merge the medals in her Classic Paladin shop.
+
+☆ Daimon
+Purchase from /baconcat for 200k Gold. This is a good farming class for newer players.
+
+☆ DeathKnight
+Purchase from Artix's DoomWood II Rep shop at /necropolis for 50k Gold. This class deals damage through unavoidable DoTs. It's good for PvP against dodge classes and for DoomKitten but that's it - only important if you need it for those things.
+
+DoomKnight
+Purchase for 10k Gold from Dusk's shop at /shadowfall. Requires Rank 5 Evil and Rank 10 Warrior + Healer (bought from /trainers - rank up using the XP methods from New Player guide).
+
+Drakel Warlord
+Purchase from the Game Menu (Shops > Member Class Shop) for 100k Gold.
+
+Evolved Pumpkin Lord
+Drops from the Great Pumpkin King at /mogloween (October) or by merging 500 Glowing Pumpkin Seeds in the CruxShadows Merge shop at /cruxship. Glowing Pumpkin Seeds are farmed by completing Clara's "ULTRA Pumpkinseed Farming Quest" quest from /cruxvip by defeating Apephyrx at /cruxship.
+
+Legendary Naval Commander
+Bought for 100k Gold from the Game Menu during the TLAPD event in September.
+
+Paladin
+Requires Rank 5 Good and Rank 10 Warrior + Healer (bought from Lady Speedstyk's Paladin Shop at /lightguard - rank up using the XP methods from New Player guide). Then, purchase Paladin from the same shop.
+
+Prismatic ClawSuit
+During the Frostval event in December, go to the 2nd screen in Battleon and click on the red present sack to open a shop. Purchase the class for free.
+
+SkyGuard Grenadier
+Obtain Rank 10 Skyguard then purchase from Invidia's Reputation shop at /skyguard.
+
+☆ UndeadSlayer
+Obtain Rank 10 DoomWood then purchase from Artix's DoomWood II Rep shop at /necropolis for 50k Gold.
+
+
+
+Requires Membership to Obtain
+
+BeastMaster
+Obtain Rank 10 BeastMaster then purchase from Faith's BeastMaster shop at /northpointe (walk left).
+
+★ Chrono Assassin
+This class is built for soloing very hard-hitting bosses due to its guaranteed dodge chance (may require some Thief enhancements if you're lower level). Click here for the guide. It's also good for PvP because of its reflect ability.
+
+☆ (Dark) Legendary Hero
+Purchase for free from Kellas' shop at /classhalla.
+
+☆ DeathKnight Lord
+Merge 30 Shadow Skulls in the shop at /bonecastle. To get them, complete Gravelyn's "Slithering Shadows" quest from /shadowfall by killing Shadow Serpents at /bludrut4. This is only important if you plan on using it for Ultra Bosses.
+
+Legendary Elemental Warrior
+Obtain Rank 6 Elemental Master and Rank 4 Sandsea. Then, purchase all 8 Legendary Elemental Orbs from the Elemental Warrior's Upgrade Version > Legendary Elemental Capes shop at /curio. With them in your inventory, merge the class in the Legendary Elemental Class shop.
+
+
+
+Obtained Faster with Membership
+
+★ ArchPaladin
+This class is a highly defensive soloing/support class. Click here for the guide.
+
+★ Chaos Slayer
+Purchase this class from /mountdoomskull. It requires Rank 10 Chaos and completion of the 13 Lords of Chaos story - but as a member, you can just press Legend Skip at Loremaster Maya. Then you can buy the class from her.
+
+Cryomancer
+Complete Rian's and Syrrus' quests at /frozentower. After, obtain 84 Glacera Ice Tokens from Syrrus' "Legend: Glacera Ice Token" quest from /frozenruins by defeating Frost Invaders in the same map. Merge in Syrrus' shop at /frozentower.
+
+☆ Pyromancer
+Complete the quests from /volcano > /xantown > /xancave. After, obtain 84 Shurpu Blaze Tokens from Warlic's "MEMBER: Shurpu Blaze Token" quest from /xancave by defeating the Shurpu Ring Guardian at the bottom of the map. Merge in Warlic's shop in the same map. Used to get Blaze Binder, which also requires Rank 10 DoomWood and Embersea and is merged at /fireforge.
+
+☆ ShadowScythe General
+Complete Gravelyn's ShadowScythe daily quests in /shadowfall by defeating human enemies in /lightguardwar. Additionally, you can defeat Sigrid Sunshield at the end of the same map for more Shadow Shields (3% drop rate). Merge in Gravelyn's ShadowScythe General Merge shop at /shadowfall. This class can target 6 enemies and is hard to kill, making it good at both PvP and farming XP at /icestormarena with a group.
+
+The Collector
+Complete Drakath (Kid)'s quests in /terrarium by defeating enemies in the same map. Merge 90 Tokens of Collection in the Collector Token Merge shop at /collection.
+
+Items
+
+★ = Most Important  |  ☆ Important
+
+Many specific cosmetics are not mentioned because they are either useless or ugly.
+Instead, spend your membership getting what's actually important.
+
+
+
+Requires Membership to Use
+
+★ Unarmed
+This is a useful weapon because it shows as invisible and has a static weapon range, meaning your attacks don't vary in the damage they deal, which is good for testing purposes. Purchase it from Loremaster Sara at /greenguardeast.
+
+☆ Coolest Invisible Ninja +5
+Just like Unarmed, this item shows as invisible but it's an armour piece. It's dropped by Invisible Ninjas at /undergroundlabb (walk left until you reach the door with blue square windows in it, enter it, then walk left to find two Ninjas).
+
+☆ Tendurrr the Assistant
+This pet can be good with the right pets (like Oblivion Blade of Nulgath or Crag & Bamboozle) but is mostly useless otherwise. It's dropped by Dark Makai at /nulgath or /tercessuinotlim. See the Reagent Library for what it's used for.
+
+☆ Gemstone of Nulgath
+This pet makes it quicker to farm Blood Gems of the ArchFiend and Dark Crystal Shards. You don't need it if you already own OBoN or the Nulgath Challenge Pet. For more information, click here.
+
+
+
+Requires Membership to Obtain
+
+★ Sepulchure's DoomKnight Armour
+This armour grants 51% extra damage against Human enemies and makes getting Necrotic Sword of Doom a lot easier. For more information, click here.
+
+★ DragonBlade of Nulgath
+Grants 75% extra damage against Dragon enemies but it has a highly unstable range - use it to merge Legion DragonBlade of Nulgath, which is a stable version of the weapon. For more information, click here.
+
+Evolved Shadow Spear of Nulgath
+Click here for guide. Purely cosmetic item.
+
+Taro's Prismatic Manslayer
+Click here for guide. Although it has a 30% damage boost to All, it's too unstable to be useful, especially over Burning Blade of Abezeth, Hollowborn Oblivion Blade, or even better, the Void Warlock weapons.
+
+★ Nulgath Larvae
+This pet is useful if you don't own exclusive pets like Crag & Bamboozle or Oblivion Blade of Nulgath. It can also be used from the inventory if your membership expires. Look at the Reagent Library to see how to get it and where it's useful.
+
+
+
+Obtained Faster with Membership
+
+★ Cape of Awe
+Members can be any level to obtain this cape, which grants 25% extra XP, CP, Gold, and Rep. Non-members have to be level 55+. For more information, click here.
+
+
+
+Cosmetics
+Members can purchase many cosmetics in the game for Gold that would cost ACs or simply aren't available to non-members. This is especially true during seasonal events. See below for a list of the important events throughout the year.
+
+Nulgath's Birthday - January/February
+
+Heroes Heart Day - February
+
+Dage's Birthday - March/April
+
+Talk Like a Pirate Day - September
+
+Mogloween - October
+
+Black Friday - November
+
+Cyber Monday - November
+
+Frostval - December

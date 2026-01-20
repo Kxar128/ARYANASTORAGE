@@ -1,0 +1,212 @@
+Stacking Boosts
+
+Boosts of the same kind don't stack.
+For example, if you equipped the Cape of Awe (25% XP, CP, Gold, Rep) and then the Dark Summoner armour (15% Rep), you would have 25% XP, CP, Gold and Rep overall boost, as the game follows the highest boost equipped.
+However, consumable boosts, server boosts, and gear boosts will all stack with each other, even if they're the same kind. For example, you could mix a 48hr XP server boost, a 1hr XP consumable boost, and the Cape of Awe. This would be the best time to farm if you can align all three.
+
+What about damage boosts?
+Similar to above, you wouldn't be able to stack two damage boosts that do the same thing. However, you can stack items that boost damage to All with something else that boosts damage to a tagged enemy. For example, if you equipped the Void Warlock Armour (25% All) with the Blinding Light of Destiny (75% Undead), you would deal 118.75% extra damage against Undead enemies and 25% damage against every other enemy.
+
+How do boosts stack?
+You may be wondering why the previous example of stacking the Void Warlock Armour and Blinding Light of Destiny (BLoD) resulted in a 118.75% boost. Why not 100%? This is because stacked boosts are calculated multiplicatively, not additively.
+For the Void Warlock Armour and BLoD, it would be calculated like this: 1.25 x 1.75 = 2.1875
+
+Anything else?
+Damage boosts do not affect DoTs (Damage over Time) or HoTs (Heal over Time). 
+
+Best Mixes
+
+Acronyms
+
+EA = Exalted Apotheosis
+NSoD = Necrotic Sword of Doom
+AFDL = ArchFiend DoomLord
+IFP = Infernal Flame Pyromancer
+RGoW = Radiant Goddess of War
+
+
+Best Overall
+
+EA or NSoD + RGoW =
+Non-Tagged: 51% Boost
+Chaos, Elemental, Dragon, Undead, Human: 126.5% Boost
+Gold: 30% Boost
+CP, Rep: 50% Boost
+
+
+Best Individually
+
+Use these mixes for the best single monster-type damage boosts:
+Chaos: AFDL or IFP + Empowered Chaos Avenger's Greatsword = 136.25% Boost
+Undead: AFDL or IFP + Blinding Light of Destiny = 136.25% Boost
+Human: AFDL or IFP + Darkon's Debris 2 (Recontructed) = 136.25% Boost
+Dragons: AFDL or IFP + Legion DragonBlade of Nulgath (needs membership to obtain) = 136.25% Boost
+Elemental: AFDL or IFP + Infernal Flame Khopesh  = 136.25% Boost
+(there are other options for 35% All armors or 75% Racial weapons, these were just used to demonstrate the numbers)
+
+If you don't own AFDL or IFP, use these instead:
+Chaos: EA or NSoD + Empowered Drakath Armour = 126.5% Boost
+Undead: EA or NSoD + Empowered Undead Champion = 126.5% Boost
+Human: EA or NSoD + Sepulchure's DoomKnight Armour = 128.01% Boost
+Dragons: EA or NSoD + Fire Champion's Armour = 126.5% Boost
+Elemental: EA or NSoD + Malgor the Shadowlord = 126.5% Boost
+(there are other options for 51% All weapons or 50% Racial armors, these were just used to demonstrate the numbers)
+
+If you don't own EA or NSoD, you could replace them with:
+A 40% All weapon (Void Warlock Weapons, Awescended Omni Armblades, Hollowborn Reaper's Scythe)
+A 35% All weapon (Iara Merge Items)
+A 30% All weapon (Burning Blade of Abezeth,Thaumaturgus/Apostate Ultima,Hollowborn Oblivion Blade, etc.)
+A 15% All weapon (Burning Blade, Nightlocke Weapons)
+
+All (relevant) Damage Boost items
+
+51% All Weapons
+
+Hollowborn Sword of Doom
+
+Necrotic Sword of Doom
+
+Necrotic Sword of the Abyss
+
+Necrotic Blade of Doom
+
+Providence
+
+Dual Exalted Apotheosis
+
+Empowered Blademaster Katana
+
+Empowered Dual Katanas
+
+Exalted Apotheosis
+
+Sin of the Abyss
+
+Malgor's ShadowFlame Blade
+
+Empowered Prismatic Manslayers
+
+Necrotic Blade of the Underworld
+
+Empowered Bloodletters
+
+Empowered Caladbolg
+
+Empowered Dual Caladbolgs
+
+Empowered Overfiend Blade
+
+Empowered Prismatic Manslayer
+
+Empowered ShadowSpear
+
+Empowered Ungodly Reavers
+
+Dual Necrotic Swords of Doom
+
+Necrotic Sword of Doom (IoDA)
+
+Hollowborn Sword of Doom (IoDA)
+
+
+Multiple Racial Tags Items
+
+50% All tags: Radiant Goddess of War
+
+40% All tags: Goddess of War
+
+30% All tags: Polly Rodger, Archfiend Deathlord, Divine Mantle
+
+
+75% Racial Weapons
+
+Undead: Blinding Light of Destiny, War Blade of Courage
+
+Dragon: Legion DragonBlade of Nulgath, War Blade of Power
+
+Human: Prince Darkon's Poleaxe, Darkon's Debris 2, War Blade of Speed
+
+Elemental: Infernal Flame Khopesh, War Blade of Strength
+
+Chaos: Empowered Chaos Avenger's Greatsword, War Blade of Wisdom
+
+
+50%/51% Racial Armors
+
+Undead: Empowered Undead Champion
+
+Dragon: Fire Champion's Armor
+
+Human: Sepulchure's Doomknight Armor, Void Beetle General
+
+Elemental: Malgor the Shadowlord
+
+Chaos: Empowered Chaos Avenger Armor, Empowered Drakath Armor, Empowered Original Drakath Armor
+
+
+35% All Armors
+
+Archfiend Doomlord
+
+Infernal Flame Pyromancer
+
+
+40% All Weapons
+
+Hollowborn Reaper's Scythe
+
+Exalted Penultima
+
+Exalted Duality
+
+Awescended Omni Armblades
+
+Void Warlock Weapons
+
+
+35% All Weapons
+
+Exalted Unity
+
+Iara Merges
+
+
+30% All Weapons
+
+Burning Blade of Abezeth
+
+Hollowborn Oblivion Blade
+
+
+15% All Weapons
+
+Burning Blade
+
+All (relevant) Non-Damage Boost items
+30% Gold, 50% Class/Reputation Points
+
+Awescended (Armor)
+
+Awscended Omni Cowl
+
+Awscended Omni Wings
+
+Divine Veil
+
+Divine Veil and Locks
+
+Radiant Goddess of War
+
+25% Gold/XP/Class/Reputation Points
+
+Cape of Awe
+
+Armor of Awe
+
+Helm of Awe
+
+Every 35% All Armor except Astral Mantle
+
+20% XP
+
+Shadow Blade of Despair / Arcane Blade of Glory 

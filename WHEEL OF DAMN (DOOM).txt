@@ -1,0 +1,77 @@
+Overview
+
+The Wheel of Doom is essentially a loot-box. It's located at /doom and there are 3 ways to spin it:
+
+Click on Buy Tickets to purchase Fortune Tickets for 200 ACs each. 1 ticket = 1 spin.
+
+Obtain 3 Gears of Doom to spin for free. Earn them by logging in daily throughout the week up to 3 times.
+
+Be a member and click on Legend Spin for a free daily spin.
+
+
+
+Each spin always rewards:
+
+1+ Treasure Potion(s) - these can be redeemed in the Merge Shop.
+
+1hr XP Boost - this can be traded for a different boost type in the Merge Shop.
+
+10k Gold
+
+You might also get:
+
+Bonus Item - this includes cosmetics and the Alpha DOOMmega class. 
+
+EIoDA (Epic Item of Digital Awesomeness) - this has a 0.1% drop rate and can be redeemed for most items in the game (see the rules about this). You can also trade 1000 Treasure Potions for the WIoDA (Wicked Item of Digital Awesomeness) in the Merge Shop, which does the same thing. The first 6 IoDAs you get also reward you with a bonus IoDA - after this, it's every third IoDA. 
+
+
+
+The amount of Treasure Potions that drop from the Wheel of Doom depends on what Bonus Items you have. You can see which Bonus Items you have in your online account manager under Wheel Progress.
+
+A spin that awards you a Bonus Item = 1 TP
+
+A spin that doesn't award a Bonus Item = 2 TPs
+
+A spin that tried to award you a Bonus Item you already own = 3 TPs
+
+A spin after you have all possible Bonus Items = 6 TPs
+
+IoDA Suggestions
+
+If you've gotten an IoDA and need recommendations for what you should redeem it for, look through the list below. There is no time limit to pick an item so take your time with it and find something you actually want. There are no specific cosmetics suggested because what looks good to you is subjective.
+
+Function
+
+Legion Revenant
+If you don't want to farm endgame items but happened to get an IoDA, Legion Revenant is not a bad choice. It's a very well-rounded class and would help speed up the game as a whole. I don't recommend other classes unless you're a collector. In that case, look through the Rare classes list.
+
+Bright Paragon
+If you're committed to Legion and want the absolute best way to get Legion Tokens, this is the pet to get. It's even faster than the Shogun Paragon, which is the best non-Rare method.
+
+Oblivion Blade of Nulgath
+If you're more of a Nation fan, OBoN is a good choice because it makes getting many reagents so fast. The only downside is that you need membership to access its quests and its "Assisting..." quest from Tendurrr the Assistant.
+
+Crag & Bamboozle
+Do not pick this pet unless you never spend money on the game (either for membership or ACs) and just happened to get an IoDA. It's the alternative choice for OBoN for those who are F2P but still want a good Nation-farming pet.
+
+Necrotic Sword of Doom
+I wouldn't normally suggest this as you could just get Exalted Apotheosis. However, if you're non-mem and never want to farm anything endgame but want the damage boost, this is a fine pick. Alternatively, you could IoDA Sepulchure's DoomKnight Armour and use that to farm NSoD and eventually Hollowborn DoomKnight, which you can't do if you IoDA NSoD itself.
+
+
+
+Form
+
+Collection Chests
+These are released during seasonal events throughout the year and go Rare after that. They can contain 20-100+ different cosmetic items, depending on the one you want. For the full list of collection chests, check here.
+
+Limited Quantity Shop
+This is a recurring shop that sells cosmetics in a limited quantity, making them rarer. New LQS appear in account manager. However, I recommend looking at some older LQS. Click here for the full 2011-12 list.
+
+Quibble Shop
+These appear during seasonal events, like Frostval, Talk Like A Pirate Day, and during story releases in the past. All items are Rare and there's a lot to look through. Click here for the full list.
+
+All Rare Shops
+Full List
+
+Hardcore Paragon Pet
+This pet isn't very good for farming Legion Tokens but it has quest that drops cosmetics (Living BladeMaster, Katanas, and Lesser Caladbolg) with a 1% drop rate. You'll need to farm Binky for a long time to get them all.

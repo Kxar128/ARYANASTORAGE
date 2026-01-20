@@ -1,0 +1,564 @@
+Tips
+
+To start off, even if you're not a 'new' player, this page is still useful if you would like a general progression guide. In that case, you may prefer to move onto the the Classes & Items sections below. Otherwise, continue reading below!
+
+The Red Bar next to your portrait at the top-left shows your Health Points (HP). You lose HP by being attacked.
+The Blue Bar shows your Mana Points (MP). This resource is used for your skills.
+The Green Bar shows your Stamina Points (SP). You can use your Stamina by pressing the Space Bar and clicking where you want to go in quick succession. This will make you walk much faster than normal until you get to where you clicked.
+Rest to quickly regenerate all of these (either press X or the red and blue Heart icon at the bottom-right).
+
+These are the point and currency systems in the game:
+
+Experience Points (XP)
+To level up, you gain XP by defeating enemies and completing quests - currently, the level limit is 100. You can find the best methods of getting XP in the XP Section below. 
+
+Class Points (CP)
+These are like XP but just for your class - when you defeat enemies, it ranks up the class you have equipped up to Rank 10. Extra abilities and passives are unlocked the higher your rank is. The amount of CP you earn is based on the enemy's level, just like XP.
+
+Reputation (Rep)
+This is obtained from quests and is used to gain points with in-game factions (like Good, Evil, and Chaos) up to Rank 10. Some classes in the game require Rank 10 with a certain faction.
+
+Gold
+This is the base currency of the game and is used to buy many things. It's rewarded like XP - through kills and quests. The Gold cap is 100 million.
+
+Adventure Coins (ACs)
+These are the paid currency in AQW. They are required or help to get many of the nicer items and classes in the game. 1500 ACs are given out each year for free in January (Honourable Hero - don't get muted or banned!), October (Birthday), and December (Frostval). You need to log in for those periods and have a confirmed email to receive them.
+
+For the most part, items are categorised as either:
+
+Permanent/Non-Rare
+This covers any item that is always obtainable.
+
+Seasonal
+These items are only available at a certain time/month each year.
+
+Rare
+These items are available for a short time then permanently leave the game. However, there may be future reskins of them if it's a cosmetic.
+
+Pseudo-Rare
+There is another type of Rare called Pseudo-Rare where an item can still be obtained but a requirement for it is Rare.
+
+Special Offer
+These are items that are obtained by purchasing something, usually through Heromart or by buying ACs or membership. They are claimed from within the Book of Lore, which is the Book icon button.
+
+Member
+This is an item sub-category, meaning it can also be any of the above item types. An item with yellow text can only be bought and used by people who have membership.
+
+AC
+This is another sub-category. AC items can be any of the above item-types but it would also have an AC tag, which looks like a gold dragon in a circle that says AC.
+AC items can't be deleted but they can be banked for free (see below). The exception to this is Treasure Potions, which are rewarded from the Wheel of Doom and are unbankable to prevent a bug. 
+
+If you're running out of Inventory storage, you can enter the Bank by typing in the chat box /join bank. You can store items you don't need in the vault here. If it has an AC tag, it uses up none of your bank space.
+
+You can make yourself stronger with enhancements from the Game Menu. To access them, click on the Treasure Chest icon at the bottom-right then on Shops > Enhancements. There are 7 enhancements you could use but only 2 are generally recommended - Lucky and Wizard. Click here for a full enhancements guide.
+
+Each ability in the bar at the bottom-centre of the UI has a number assigned to it. Instead of clicking on your abilities, you should press those numbers on your keyboard. This is more efficient than clicking but isn't normally needed for your Auto Attack, which is activated with 1, as it activates automatically when you're in combat. However, for classes that rely on their Auto Attack for damage, like Abyssal Angel's Shadow, it is recommended to press 1 as well.
+
+Click on the Map icon button at the bottom-right to see many of the locations (in World Map) and story chapters (in Story) in the game. Completing the 13 Lords of Chaos story, which is at the beginning of the Story tab, will help you to gain a lot of experience in the game - I highly recommend doing this first.
+
+Accepted quests are not kept in the Quest Log if you log out or disconnect. Any Temporary Items that you collect aren't kept either (the Temp Inventory can be accessed from the Scroll button with the yellow exclamation mark).
+
+If you want to know how boosts work, see this guide.
+
+Events occur weekly. See here for more information on those.
+
+Try joining AQW Discord servers. There are almost always people who are willing to help out.
+
+
+Commands
+
+Type the following commands without the brackets in the in-game chat box to perform an action. These are not all the commands in the game but are the important ones.
+
+/join [location] - This command teleports you to a map of your choosing. On this website, locations that you can travel to with this command are shown with a forward slash ( / ) before it, like /yulgar. If you add a hyphen after the map name with a combination of any 4 or 5 numbers, you can enter a private instance of that location. Example: /join yulgar-8301
+
+/goto [player] - Teleport to a player. This won't work if you're trying to teleport to someone in a full map, progress-locked map, or they have this turned option turned off in Settings. Example: /goto Ver0
+
+/house - Teleport to someone's house. If they don't have one equipped, you'll go to /buyhouse instead. Example: /house Ver0
+
+/who - See who is in your map along with their level and class. You can also just press U on your keyboard.
+
+/friend [player] - Add someone to your friends list to see when they're online. They have to be online and on your server to add them.
+
+/pi [player] - Invite someone to your party, where you can privately chat. Example: /pi Ver0
+
+/roll - Randomly generates a number between 1-100, which can be useful for games or roleplay.
+
+[player] > - Send a message to someone privately. Example: Ver0 > hey!
+
+/r - Reply once to the last person who privately messaged (whispered) you.
+
+/c - Reply to the last person who whispered you until you change chat mode.
+
+/s - Return to general chat after talking somewhere else.
+
+/p - Talk in your party's chat.
+
+/g - Talk in your guild's chat.
+
+/e [action] - Send a custom emote. Example: /e dances - appears as *'your name' dances*
+
+/gc [guild name] - Create a guild with a name of your choice. This can only be performed as a member.
+
+/gi [player] - Invite someone to your guild. This can only be performed by Officers or as the Leader of a guild. Example: /gi Ver0
+
+/gr [player] - Remove someone from your guild. Similar to /gi, this can only be done by Officers or the Leader. Example: /gr Ver0
+
+
+Settings
+
+Click on the gears icon at the bottom right of your screen and read through each setting within Advanced Options. These are only available from the Official Artix Games Launcher.
+
+If you're completing a storyline chain, enable Quest Pinner. With these enabled, open the quest list from any NPC and click on the Pin icon at the top-left in the red circle. Now wherever you go, you can view and interact with those quests again by clicking on the yellow exclamation mark ( ! ) under your character portrait at the top-right.
+If you're farming the same quest(s), enable Quest Log Turn-Ins and Reaccept Quest After Turn-In. With these enabled, you can turn in quests from your Quest Log, which you can access by pressing L.
+
+Battle Analyser allows you to view your battle statistics, like overall damage, damage per second, gold and XP earned, and more! Try enabling it then fighting an enemy.
+
+To assist with lag, disable animations and/or hide players.
+
+Enable Show Monster Type so you know when to equip certain damage-boosting items in the future. Monster Types will appear under each enemy's name. They include Chaos, Drakath, Dragonkin (or just Dragon), Elemental, Human, and Undead. There's also an Orc type but this is extremely uncommon - so much so that it won't be mentioned elsewhere on this site. If they aren't one of these, they are referred to as All or untagged on this site.
+
+It's generally good to turn on Freeze/Lock Monster Position so that other players don't move enemies around. A situation where you might not want to have this enabled is if you're using a class that has short-range abilities and the enemies are far and spread out. 
+
+Enable Auto-Untarget Self so you don't get stuck not attacking for a few seconds.
+
+Optionally, turn on Class Actives and Auras and the Visual Skill Cooldown setting.
+
+Use the Custom Drops UI and enable Draggable Mode and Quantity Warnings. If you place it at the top of your screen, remember to enable Invert so it drops downwards.
+
+Use the Minimal Mode Chat UI, enable time stamps, disable red messages, and turn off the Censor Profanity setting (if you want to) under 'Chat'.
+
+Classes
+
+Getting the following classes is only a suggestion. If you prefer a class that isn't listed here, that is perfectly fine. This list, along with the Items section below, is intended for a smooth transition from starting the game to reaching endgame.
+
+
+Tier 1 - Start Here
+
+Oracle (Soloing)
+This class is free and should be used to defeat enemies with higher HP (health points). Its damage is low but it's also hard to kill. To purchase it, click on the Chest icon button at the bottom-right and select 'Shops' then 'Class Shop'. Scroll down to Oracle and get it for free.
+
+Mage (Farming)
+Purchase Mage from Arcana at /trainers. Mage's abilities deal damage to multiple targets, which makes it good for farming (defeating multiple enemies at a time).
+
+Blood Sorceress (Farming)
+This class is dropped by Scarletta at /towerofmirrors, however, Scarletta is a hard boss. I would only recommend getting this class if someone offers to take you to them. Try asking people at /battleon, /battleontown, or /yulgar.
+
+Imperial Chunin (Farming)
+This class can target 2 enemies at once and has numerous powerful debuffs. It's better than both Mage and Blood Sorceress. Use it until you've got a farming class from either the Exclusive Tier or Tier 2. For more information, click here.
+
+
+
+Exclusive Tier - If you can, get these:
+
+Member Only: Daimon (Farming + Soloing)
+Purchase from Ziri's shop at /baconcat for 200k Gold. If you don't have enough Gold, just focus on levelling up. See the XP section below. This class is much better than Blood Sorceress for farming and requires little effort to obtain. Use Mana Vamp with it to help with mana management. For more information, click here.
+
+ACs: Join the Legion (Farming + Soloing)
+Joining the Legion provides many benefits, with the most important one being new classes. If you haven't joined the Legion yet and want to know how, click here. It costs 1200 ACs to get in but if you complete it all within 24 hours, you can get back 1080ACs, making the overall cost just 120ACs. Here are the classes that you could get by joining:
+
+Permanent
+These classes can be obtained year-round with Legion Tokens (LTs). Includes: Infinite Legion Dark Caster, Yami no Ronin, and Legion Revenant.
+
+Seasonal
+Other classes can only be obtained during March-April for Dage's Birthday. Some cost LTs, like Legion DoomKnight and Legion SwordMaster Assassin. Others cost ACs, like Timeless Dark Caster and Immortal Dark Caster. 
+
+I suggest getting Infinite Legion Dark Caster and Legion DoomKnight with your Legion Tokens. Just remember to save 2000 LTs for the Shogun Paragon pet, which is available in March.
+- Infinite Legion Dark Caster is a decent farming class but it's weaker than all farming classes after Tier 1 of this page. However, you need it (or another Dark Caster class) to obtain Legion Revenant, which is the best overall farming class in the game.
+- Legion DoomKnight is a soloing class that you can use until Tier 4 so it's a worthwhile purchase once it's Dage's birthday in March.
+
+Seasonal: Vampire Lord (Farming)
+If you get this class, you can skip any farming-only classes until Tier 3. It's only available in October. For more information, click here.
+
+Seasonal: Dark Lord (Farming)
+If you're not able to get Vampire Lord, get this class. Having it will mean you can skip any farming-only classes until Tier 3. It's available during the May the 4th event from /murdermoon. For more information, click here.
+
+ACs: ArchFiend (Farming + Support)
+If you missed out on getting Vampire Lord or Dark Lord (or want something even stronger) consider purchasing ArchFiend from Oblivion at /tercessuinotlim for 2k ACs. You should only buy it after joining the Legion, however. Getting this class will allow you to skip any farming-only classes until Tier 4. Be aware that ArchFiend is also farmable but it's level-locked to 50. It's up to you whether this is worth the investment. For more information, click here.
+
+
+Tier 2
+
+Blaze Binder / FireLord Summoner (Farming) and Cryomancer (Soloing)
+These classes take a few days to get due to the daily quests but they are effective. Take the chance to complete the 13 Lords of Chaos story (Map > Story) as you get them. For more information on Blaze Binder, click here. For more on Cryomancer, click here.
+
+At This Point, Member Only: Chaos Slayer (Soloing + Farming)
+This class can be used by non-members too but it would require completion of the 13 Lords of Chaos story (if you have completed it, get it). Members can take advantage of getting it very quickly from Loremaster Maya at /mountdoomskull. For more information, click here.
+
+DragonSoul Shinobi (Soloing)
+This is a good soloing class if you can't get Chaos Slayer right now. For more information, click here.
+
+
+Tier 3
+
+ArchPaladin (Soloing + Support)
+Complete Artix's quests at /darkthronehub. Members get to skip some of the process. This is a highly defensive soloing/support class, meaning it's great against enemies that hit very hard, including Ultra Bosses. For more information, click here.
+
+Lord of Order (Support)
+Complete Mirror Drakath's daily quests at /battleoff including "The Final Challenge". You will have needed to complete the 13 Lords of Chaos story to get this class and many other items in the game.
+Lord of Order is an amazing support class so use it with other people to empower them. It also works as a defensive soloing class. Because of its somewhat unique buffs, it's also great for stacking support classes (using multiple support classes in the same room) due to less buff overlap and it's essential for Ultra Bosses. For more information, click here.
+Do the daily quests as you farm for something else, like ArchPaladin or ArchFiend.
+
+At This Point, Non-Member Only: Chaos Slayer (Soloing + Farming)
+Since you should have completed the 13 Lords of Chaos story by now, go and buy Chaos Slayer from Loremaster Maya at /mountdoomskull. For more information, click here.
+
+ArchFiend (Farming + Support)
+Complete Oblivion's "Void Promotion" quest from /tercessuinotlim. This is a great farming class that can also be used to support your allies, since its 5 ability makes enemies take much more damage. You need to be at least Level 50 to farm this class. For more information, click here.
+You might already own ArchFiend if you bought it when viewing the Exclusive Tier above. Optionally, since you should be Level 50 to get ArchFiend, take the opportunity to upgrade Blood Sorceress to Scarlet Sorceress at /towerofmirrors (requires completing the storyline from /hedgemaze > /towerofmirrors).
+
+Optional: StoneCrusher (Support)
+If you've spent at least $9.95 on ACs or membership, claim the Infinity Titan Bonus Package from your online account manager. It rewards the Infinity Titan class, which is a duplicate of StoneCrusher, meaning you won't need to do the farming below. However, if you've bought membership, you could also very quickly farm each reputation faction. It's up to you for whether this is worth doing.
+Otherwise, you'll need to complete a storyline and farm a few factions for Rank 10 reps. For more information, click here.
+StoneCrusher is a support class like Lord of Order but it does have reduced potency in groups because its buffs overlap with many other support classes.
+Lastly, with Rank 10 Arcangrove, you can also get Shaman but it's not needed since you should already have better farming classes at this point.
+
+Optional and Member Only: Chrono Assassin (Soloing)
+Merge 12 Saeculum Gems for the class at /tachyon. This class is made to dodge all of your enemy's attacks, which is great for soloing very hard-hitting enemies. For more information, click here.
+
+
+Tier 4
+
+Chaos Avenger (Soloing)
+Complete the "Chaos Avenger Class" quest at /championdrakath. Requires Level 80. This is a great soloing class but it's gated by a weekly quest - therefore, you should obtain it while getting other things, like Dragon of Time below. For more information, click here.
+
+Dragon of Time (Farming + Soloing)
+Complete Kro'nar's quests at /timeinn. Requires Level 75. This is a great overall class. I recommend getting it before Void Highlord and Legion Revenant to speed up their processes. For more information, click here.
+
+Optional: Yami no Ronin (Soloing)
+Complete Dage's quests at /darkally. This is a good class to get if you're looking for a dodge-based soloing and PvP class. For more information, click here.
+
+
+Tier 5
+
+Legion Revenant (Farming + Support)
+Complete the Legion Fealty quests at /revenant. Requires Level 80. This is the most versatile class in the game because it does well at all combat aspects (soloing, farming, and support). This doesn't mean it's the best choice for all scenarios but it's a fine choice if you rarely want to swap classes. For more information, click here.
+
+Void Highlord (Soloing)
+Gather numerous Nation reagents and merge at the Void Highlord NPC at /tercessuinotlim. Requires Level 80. This is the best free-to-play soloing class available. For more information, click here.
+
+ArchMage (Farming+Soloing)
+
+Complete the questline given by Warlic at /archmage. Extremely powerful class but very difficult to use.
+
+Items
+
+The following items are only suggestions and are not necessary to succeed in the game. They will, however, make you more efficient in it. Focus on enjoying the game rather than farming until you burn out.
+
+
+Tier 1 - Start Here
+
+Shadow Blade of Despair / Arcane Blade of Glory - 20% XP
+
+Both of these weapons give a 20% XP boost, which increases your experience gain from every kill and mission completion. However, you'll need to be Level 30 to equip them. For more information, click here.
+
+Burning Blade OR ShadowScythe General Helm - 15% Damage (All)
+
+Burning Blade
+This weapon has a 1% chance to drop from Diabolical Warlord at /lostruinswar. It will boost your damage by 15% against All enemies. It's also required to obtain LightCaster. There should be people at the boss but if not, you'll need to find someone to help you fight it as they have high HP. Alternatively, you could farm for the Nightlocke weapons at /aqw3d by walking to the right into the tavern then upstairs but this will still require a group to do.
+
+ShadowScythe General Helm
+If you aren't interested in farming for the Burning Blade or Nightlocke weapons and would prefer to get the same boost with ACs, purchase this helm from Gravelyn at /shadowfall, who you can quickly access by exiting left from /shadowvoid.
+
+Chaorrupter Unlocked - 50% Damage (Chaos) + 50-120% Damage (Drakath)
+Get this sword by defeating the High Chaos Knight at /chaoswar. This version will boost your damage against Drakath by 50%. However, if you buy it for 300 ACs, or for 10k Gold if you're a member, this is increased to 120%. This is a great weapon for completing the 13 Lords of Chaos story with as there are many Chaos enemies.
+
+Blade of Awe - Awe Enhancements
+Getting the Blade of Awe will grant access to the rest of the Set of Awe and Awe Enhancements from Valencia at /museum, which grant boosts that are triggered by your auto-attacks. For more information, click here.
+
+Cape of Awe - 25% XP, CP, Rep, Gold
+After you get the Blade of Awe, the next goal is the Cape of Awe, which will boost your XP, CP (Class Points), Rep (Reputation), and Gold gained by 25%. The reason why you still want this after getting Awethur's Accoutrements is so that you can use it with the Burning Blade for a solid overall boost to damage and points.
+
+
+Tier 2
+
+Polly Roger OR ArchFiend DeathLord - 30% Damage (Chaos, Dragon, Elemental, Human, and Undead)
+
+ArchFiend DeathLord
+If Polly Roger isn't available, get this item. It requires more farming. For more information, click here.
+
+Polly Roger
+This pet requires Level 80 and can only be obtained during September. If this isn't suitable for you, farm ArchFiend DeathLord (above). Both items will boost your damage by 30% to all tagged enemies. They should be used with a weapon that boosts your damage to All, like the Burning Blade, as they can stack. For more information on Polly Roger, click here, and for more on Boosts and their mechanics, click here.
+
+Blinding Light of Destiny - 75% Damage (Undead)
+This weapon is used in many future farms. It's important to get. For more information, click here.
+
+
+Tier 3
+
+Burning Blade of Abezeth OR Hollowborn Oblivion Blade - 30% Damage (All)
+
+Burning Blade of Abezeth
+Complete Aranx's quests up to "FINAL FIGHT!" at /celestialarena. The sword has a 5% drop chance from Aranx. People cannot join you to fight each enemy so ensure you have a good soloing class, especially against Aranx as they have over 600k HP and hit fairly hard. This weapon requires Level 80 to equip. Get this or the Hollowborn Oblivion Blade if Iara is unavailable or if you plan to get LightCaster anyway as BBoA is a requirement.
+
+Hollowborn Oblivion Blade
+If you'd prefer to not farm the same boss repeatedly, consider obtaining this sword. A guide for it can be found here.
+
+Seasonal: Iara Merge Weapons - 35% Damage (All)
+If Iara is available (TLAPD - September), purchase Iara's Water Orb, Brush, or Acolyte Staff from the Iara Merge at /ultraiara. The Harp has no damage boost. They each require being Level 75 to use and 5 Iara Insignias to purchase, which involves completing "Ultra Iara" by defeating Ultra Iara. This is a daily quest. For more information on how to defeat Ultra Iara and other Ultra Bosses, see the guide for it.
+
+Optional: Enchanted Nulgath Nation House - Nation Quests & Teleport to /tercessuinotlim
+This house has a few useful features, like a portal to /tercessuinotlim, which is faster than entering through /citadel, and farming quests - notably, Drudgen quests from the Nulgath NPC, "Nulgath (Larvae)", and the quests for Void Warlock (below). For more information, click here.
+
+Optional: Void Warlock Weapons - 40% Damage (All)
+If you've got ENNH (above), consider getting a Void Warlock weapon as they have a higher damage boost than the Burning Blade of Abezeth (BBoA). However, if you plan on getting Exalted Apotheosis (below) soon, the effort may not be worth it. For more information, click here.
+
+
+Tier 4
+
+Exalted Apotheosis - 51% Damage (All)
+This weapon is a great alternative to the Necrotic Sword of Doom. The only downside is that it takes almost a month to get due to the dailies. Try using this weapon with ArchFiend DeathLord or Polly Roger for a reliable damage boost to every enemy. For more information, click here.
+
+ArchFiend DoomLord OR Infernal Flame Pyromancer - Both: 35% Damage and 25% XP, CP, Rep, Gold .
+
+ArchFiend DoomLord
+This is a Nation farm, which you may not want to do, but it doesn't require daily Ultra Boss kills. For more information, click here.
+
+Infernal Flame Pyromancer
+You may prefer to get this, which takes at least 10 days but requires less active farming. For more information, click here.
+
+Infernal Flame Khopesh - 75% Damage (Elemental)
+This item requires the same reagents as Infernal Flame Pyromancer but less of them, taking a minimum of 7 days. For more information, click here.
+
+Empowered Chaos Avenger's Greatsword - 75% Damage (Chaos)
+You may want to do this after obtaining Chaos Avenger (optional). For more information, click here.
+
+Prince Darkon's Poleaxe - 75% Damage (Human)
+To get this weapon, you'll need to complete the storyline from /eridani > /astravia > /astraviacastle > /astraviajudge > /ultradrago and /garden. Then merge it at /ultradrago. For more information, click here.
+
+Legion DragonBlade of Nulgath OR Fire Champion's Armour - LDBoN: 75% Damage (Dragon), FCA: 50% Damage (Dragon)
+
+Legion DragonBlade of Nulgath
+You must be part of the Legion (click here to join) to obtain this. You'll also need to be a member but this weapon can still be used if your membership expires. For more information, click here.
+
+Fire Champion Armour
+If you don't plan on getting LDBoN (above), you can farm for the Fire Champion's Armour instead. Its boost is inferior, however. For more information, click here.
+
+
+Tier 5
+
+Head of the Legion Beast - 40% Damage (Undead, Human), 30% Damage (Dragons), 30% XP, CP, Rep, Gold
+This helm is useful if you want to boost your Undead and Human damage more than Polly Roger. It also provides some great non-damage boosts. You will need to be a Legion member to obtain this. For more information, click here.
+
+Awe-scension - Non-Weapon Pieces: 50% CP & Rep and 30% Gold, Weapon: 40% Damage (All)
+The non-weapon pieces provide the highest CP and Rep boosts in the game. Remember to equip this after AFDL if you're using them both (or equivalent boosts) so that the Awe-scended boosts aren't cancelled out. For more information, click here.
+
+Optional: Sepulchure's DoomKnight Armour AND Necrotic Sword of Doom - SDKA: 51% Damage (Human), NSoD: 51% Damage (All)
+If you have Exalted Apotheosis, you don't need to farm for NSoD as they have the same boost. NSoD would only be useful if you wanted it to be enhanced differently. If you want to get it, I would highly suggest getting membership to obtain Sepulchure's DoomKnight Armour as it makes getting the bulk of the farm (Void Auras) so much easier. For more information on SDKA, click here, and for NSoD, click here.
+
+XP
+
+Tips
+
+These are the same best methods to farm Class Points, which increase the rank of your class to unlock more abilities and passives.
+
+To effectively farm XP, make sure you already have a decent farming class. This could include:
+
+ 0. Pre Early-Game
+
+
+Early-Game
+Blaze Binder, Chaos Slayer, Eternal Inversionist (Rank 10 Eternal - /yasaris), Dark Lord (May - /murdermoon), Vampire Lord (October - /mogloween), or Abyssal Angel's Shadow (November - Game Menu).
+
+Mid to Late-Game
+ArchFiend or Dragon of Time.
+
+End-Game
+Legion Revenant or ArchMage
+
+You should also have gear that boosts your XP gain. See the Items section above.
+
+Spin the Wheel of Doom at /doom as often as you can to obtain consumable XP Boosts. Everyone gets to spin it once a week by using the 3 Gears of Doom (earned by logging in daily - up to 3 per week) from your inventory but if you're a member, you get to spin it for free every day in addition to the weekly spin. Members can get another daily boost from Ragnar at /battleon.
+
+There are occasional server-wide boosts that apply an additional 100% boost to things like XP and Reputation. They also stack with any gear and consumable boosts you apply. If you're new, you might prefer to wait for one of these to happen as low-level farming is the most tedious.
+
+
+Non-Member
+
+Level 1-49
+
+If Solo
+Farm Fire Dragons and Fire Drakel at /firewar. Also, turn in the quest at the top-right occasionally. You may want to be Level 20+ if you're farming this alone.
+
+If Grouped
+Farm the room of 4 Bloodfiends and Dreadfiends at /originul. Complete all the quests here to access them.
+
+Otherwise
+Complete the 13 Lords of Chaos storyline. This is useful for completing farms in the future.
+
+Level 50-54
+
+If Solo or Grouped
+Farm Icy Winds at /icestormarena. From the starting screen, go up>up>left>down.
+
+Level 55-74
+
+No Quest Turn Ins
+If you prefer not to turn in quests, farm Frostspawn Horrors at /icestormarena. Talk to Warlord Icewing and select 'Icewing General' then battle your way to them. This is slightly faster than Icy Winds but if no one is at Frostspawn Horrors and other people are farming Icy Winds, join them instead. Frostspawn Horrors are also Elemental tagged, meaning you could use Polly Roger against them.
+
+Many Quest Turn Ins
+If you don't mind turning in quests, it's more efficient to farm the Medals quests at /sevencircleswar by defeating Guards of Wrath. You'll earn more Gold and there are often people already here. This can be done to level 80-ish.
+
+Level 75-100
+
+If Solo
+Farm Frost Spirits at /icestormarena. From the starting screen, go up>up>left>down>down.
+
+If Grouped
+Defeat Ultra Bosses with their quests every day.
+You can also farm "Warlord Icewing!" at /icestormarena (located at the top-right of the screen). To complete it, talk to Warlord Icewing and select 'Warlord Icewing', then go all the way to the right and defeat him. This is only effective if you're with a very well-geared group, otherwise, stick to Frost Spirits.
+
+
+Member
+
+Level 1-74
+
+No Quest Turn Ins
+Members can level up faster than others because they get to farm the Nothing enemies at /nightmare. To access them, you'll need to either /goto someone who's at them or complete Kyron's quests at /brimstone up to Memet's quests in /nightmare. If you're farming this alone, you may want to be Level 20+.
+
+Many Quest Turn Ins
+If you don't mind turning in quests, you might prefer to farm the Medals quests at /sevencircleswar by defeating Guards of Wrath. You'll earn more Gold and there are often people already here.
+
+Otherwise
+You can also complete the 13 Lords of Chaos storyline, which helps out later on with obtaining endgame items.
+
+Level 75-100
+
+If Solo
+Farm Frost Spirits at /icestormarena. From the starting screen, go up>up>left>down>down.
+
+If Grouped
+Defeat Ultra Bosses with their quests every day.
+You can also farm "Warlord Icewing!" at /icestormarena (located at the top-right of the screen) and "Warlord Icewing! (Member)" (located in the same room as the enemy you have to kill for these quests). To complete it, talk to Warlord Icewing and select 'Warlord Icewing', then go all the way to the right and defeat him. This is only effective if you're with a very well-geared group, otherwise, stick to Frost Spirits.
+
+Acronyms
+
+These are not all of the acronyms in the game - just the most important ones.
+A comprehensive list can be found here.
+
+Classes
+
+AF - ArchFiend
+
+AP - ArchPaladin
+
+BB - Blaze Binder
+
+CA - Chrono Assassin
+
+CAv - Chaos Avenger
+
+CS - Chaos Slayer​
+
+DoT, DT, or DroT - Dragon of Time (use DT)
+
+DSS - DragonSoul Shinobi
+
+​FB - Frostval Barbarian
+
+LC - LightCaster
+
+LDK - Legion DoomKnight
+
+​LoO or Lorder - Lord of Order (use LoO)
+
+​LR or Rev - Legion Revenant (use LR)
+
+SC - StoneCrusher
+
+SS - Scarlet Sorceress
+
+SSoT or SWoT - ShadowStalker/Walker/Weaver of Time
+
+VHL - Void Highlord
+
+VL - Vampire Lord
+
+YnR - Yami no Ronin
+
+
+Items
+
+AFDL or AFDL1- ArchFiend DoomLord
+
+AFDL2 - ArchFiend DeathLord
+
+​AoA - Armour of Awe
+
+BB - Burning Blade
+
+BBoA - Burning Blade of Abezeth
+
+BLoD - Blinding Light of Destiny
+
+BoA - Blade of Awe
+
+CC - Colour Custom
+
+CoA - Cape of Awe
+
+EA, Apoth, Apo - Exalted Apotheosis
+
+​ENNH - Enchanted Nulgath Nation House
+
+IoDA - Item of Donated Awesomeness
+
+LT or LTs - Legion Token
+
+NSoD - Necrotic Sword of Doom
+
+SDKA - Sepulchure's DoomKnight Armour
+
+
+
+Game
+
+13LoC - 13 Lords of Chaos story
+
+AC or ACs - Adventure Coins
+
+Acc - Account
+
+AFK - Away From Keyboard
+
+AoE - Area of Effect (ability that affects multiple enemies/allies)
+
+AP - Artix Points
+
+BoL - Book of Lore
+
+CC - Stun
+
+CP - Class Points or Character Page
+
+DM or PM - Direct/Private Message
+
+DN or DNs - Design Notes
+
+DoT - Damage Over Time (unavoidable damage that is usually dealt in increments over time)
+
+DPS - Damage Per Second
+
+DR - Damage Resistance
+
+EXP or XP - Experience Points
+
+FPS - Frames Per Second
+
+HoT - Heal Over Time (health that is restored in increments over time)
+
+HP - Health Points
+
+HPS - Healing Per Second
+
+Lvl - Level
+
+Mem - Member/Membership/Legend
+
+MP - Mana Points
+
+NPC - Non-Player Character
+
+Rep - Reputation
+
+TLAPD - Talk Like A Pirate Day seasonal event
+
+WoD - Wheel of Doom

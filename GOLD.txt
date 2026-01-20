@@ -1,0 +1,79 @@
+Tips
+
+Gold Boosts only work for Gold gained by defeating enemies or completing quests, not by selling items.
+
+You can obtain consumable Gold Boosts from the Wheel of Doom by trading the XP Boost in the Merge shop. Members can get 2 per day - one from the WoD and another from Ragnar at /battleon.
+
+Consumable boosts can be stacked with gear boosts, like the Cape of Awe, ArchFiend DoomLord, or Awe-scension.
+
+Less Work
+
+If you need Gold but don't want to put much effort into it or you need to farm XP anyway, follow the XP section of the New Player guide - you'll gain Gold passively as you level up. However, this won't be as effective as farming quests in the next section.
+
+If you're already at max level, you can farm for other items and use the Gold gained from that. In particular, Awe-scension, Dragon of Time, and Nation farms earn lots of Gold.
+
+More Work
+
+1. "The Leery Contract" - Requires: Membership, AC Pet
+
+Complete Galanoth's quests at /lair, including "Dragonslayer Reward". Then, obtain a Sword of Nulgath pet. You could get one from "Nulgath (Larvae)", the Copper Void ChronoKnight Bonus Package from the online account manager, or Nulgath's "Purchase Sword of Nulgath" quest from /tercessuinotlim. Use the Reagent Library for pet and reagent instructions.
+Get at least 195 Diamonds of Nulgath (see Reagent Library for best methods). While farming them, sell Vouchers of Nulgath that drop to the Game Menu. If you get a non-mem version, trade it to Drudgen's "Drudgen the Salesman" quest for 70 more Diamonds. This quest also requires the Diamonds of Time weapon (drops from enemies at /cloister - walk up x2>right) and the Tainted Rune of Evil (drops from the Tainted Elemental at /nulgath).
+After, complete the "Diamond Exchange" quest from Bamboozle, and defeat Dark Makai at /nulgath for the other requirement of this quest. You may already have some Uni 13s from when you farmed Diamonds of Nulgath.
+Once you have 13 Unidentified 13s, turn in "The Leery Contract" quest to your Sword of Nulgath pet along with the drop from an Undead Legend at /evilwardage.
+
+
+
+2. "Supplies to spin The Wheel of Chance" - Requires: Good Group
+
+Accept the quest from a Drudgen the Assistant, which can be found if someone has it equipped or by interacting with it from Nulgath's shop at /tercessuinotlim. Complete it by farming Relics of Chaos from Ultra Alteon at /ultraalteon or the Level 90 Hydra Heads (harder) at /hydrachallenge.
+Turn in the quest once you have 13 Relics of Chaos and immediately sell any Vouchers of Nulgath (including non-member) to a shop, like the one from the Game Menu.
+Revert to /sevencircleswar if you aren't in a good group.
+
+
+
+3. "Hall of Honours" + "Level 61-75" - Requires: Membership, Level 61, Good Group, Gold Boosts
+
+Accept the quests and defeat enemies at /honorhall. This quest rewards a lot of XP and requires less effort compared to "The Leery Contract" but only compares if you're using Gold Boosts.
+Revert to /sevencircleswar if you aren't in a good group.
+
+
+
+4. "Level 46-60" + "Level 61-75" - Requires: Level 61, Good Group, Gold Boosts
+
+Accept the quests and defeat enemies at /battlegrounde. Rewards less Gold and XP compared to /honorhall but it also doesn't require membership.
+Revert to /sevencircleswar if you aren't in a good group.
+
+
+
+5. "War Medals" + "Mega War Medals" - Requires: Gold Boosts
+
+Complete the quests at /sevencircles including "Ava-risky Business". After, join /sevencircleswar and defeat Wrath Guards (or Treachery Guards if you're in a good group) for 300 War Medals then turn in the quest to the top-right.
+Recommended: BLoD and a good farming class. May not be suitable for low level players without a group.
+
+
+
+6. "Bunny Berzerker Armor - Were Egg" - Requires: Seasonal Pet
+
+Obtain the pet by completing the "Egg Hunt - Vorpal Bunny" quest from Cabdury at /battleon during the Easter event in April. You'll need all eggs, which are hidden around /battleon and /battleontown, and a drop from Grenwog at /grenwog.
+Complete the "Bunny Berzerker Armor - Were Egg" quest by defeating Big Bad Boar at /greenguardwest (quickly access by exiting down from /mobius) and sell the armour you get from the quest to the shops in the Game Menu. While you would normally need membership to equip the pet to accept its quests, it can simply be clicked on from your inventory.
+This method is a bit tedious but it requires very little.
+
+
+
+7. Black Knight - Requires: Level 10, Group
+
+Go to the Black Knight NPC at /greenguardwest (quickly accessed by going down at /arcangrove). To summon him, you need the Black Knight Orb, which is granted from his quest "Hardly Suiting Armour". For it, defeat the bosses at /greendragon, /well, /deathgazer, and /trunk. Another option is to /goto someone already at him.
+After that, return to the Black Knight and click Summon. Defeat him and sell the drops you get to a Game Menu shop.
+This is a good option if you're low level but it may be better to just farm XP - see New Player guide.
+
+
+
+Alternative: Ultra Bosses - Requires: High Level, Group
+
+Complete Ultra Boss dailies and weeklies. These reward lots of Gold for the time it takes but are limited to how frequent you can do them. Click here for info on their locations and strategies.
+
+
+
+Alternative: "Confluence of Fates" - Requires: Level 60, Group
+
+Repeat the "Confluence of Fates" quest, which is part of the Dragon of Time farm. To make this efficient, you must obtain Darkon's Receipts through "Darkon's Third Errand" quest from /garden in a good group.
