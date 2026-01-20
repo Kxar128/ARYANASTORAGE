@@ -1,0 +1,30 @@
+ULTRASPEAKER: 
+
+:crossed_swords: ULTRA SPEAKER :crossed_swords:
+Follow the chart
+ :class: Lord of Order Enhancements/Potions 
+:shield: Aweblast, Luck, base Forge, Penitence
+:test_tube: Divine Elixir, Sage Tonic, Scroll of Enrage
+ :class: Legion Revenant Enhancements/Potions 
+:shield: Arcana Concerto, Wizard, Wizard, Lament
+:test_tube: Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
+ :class: ArchPaladin Enhancements/Potions 
+:shield: Valiance/Praxis, Luck, base Forge, Penitence
+:test_tube: Unstable Fate Tonic, Potent Battle Elixir, Scroll of Enrage
+ :class: DPS (CSS/VDK/KE) Enhancements/Potions 
+Chrono ShadowHunter
+:shield: Valiance/Arcana Concerto, Luck, base Forge, Vainglory
+:test_tube: Unstable Fate Tonic, Potent Battle Elixir, Felicitous Philtre
+
+Verus DoomKnight
+:shield: Ravenous, Luck, Anima, Vainglory
+:test_tube: Unstable Fate Tonic, Potent Battle Elixir, Potent Honor
+
+King's Echo
+:shield: Ravenous, Luck, Examen, Vainglory
+:test_tube: Fate Tonic, Potent Battle Elixir, Felicitous Philtre
+
+*Note: for DPS these are mere suggestions it can be other classes.
+
+
+https://media.discordapp.net/attachments/1421337017551163513/1421337073071296573/3man.png?ex=69573acd&is=6955e94d&hm=715e3fdf22c403d2627dfdb920c43cdb5191d2322b6985dea8418ac948c5d2f9&format=webp&

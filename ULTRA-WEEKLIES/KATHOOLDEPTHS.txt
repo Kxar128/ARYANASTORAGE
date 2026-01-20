@@ -1,0 +1,15 @@
+Kathool depths:
+Comp: SC LOO LR VDK DPS AF Arach 
+
+Press vigil when Kathool says "You cannot Resist"
+
+Kill tentacles as they respawn unless Kathool is below 10M HP at that point just focus Kathool
+
+SC: Fighter class, anima helm, absolution, valiance, vigil
+LOO: luk class, base forge helm, absolution, luk aweblast, vigil
+LR: wiz class, pnuema helm, lament, arcana's concerto, vigil
+VDK: luk class, anima helm, vainglory, ravenous, vigil
+Arach: luk class, vim helm,  vainglory, ravenous, vigil
+AF: luk class, base forge helm, vainglory, ravenous, vigil
+
+SC > LH because some classes won't be max haste. If everyone reaches max haste with an extra 10% Haste then replace SC for LH 

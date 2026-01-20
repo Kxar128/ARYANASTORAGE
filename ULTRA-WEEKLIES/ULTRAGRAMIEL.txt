@@ -1,0 +1,31 @@
+ULTRAGRAMIEL
+
+:crossed_swords: ULTRA GRAMIEL :crossed_swords:
+Phase 1:
+2 classes alternates taunt on each cristal in the text: "The Grace Crystal prepares a defense shattering attack!"
+
+It can be something like:
+ LR takes the first taunt on the left crystal 
+ Shaman takes the first taunt on right crystal  
+ SC takes the second taunt on left crystal 
+ LoO takes the second taunt on right crystal 
+
+Everyone turns to attack Gramiel (mid Boss) when it says "Gramiel attempts to drain your power… break his guard!"
+
+*Note: Shaman should stack his skill 5 on Gramiel (mid Boss).
+*Note 2: LR shouldn't use his skill 2 on phase 1 (decay)
+
+Phase 2:
+ DPS should call taunts by class 
+:class: Shaman Enhancements/Potions
+:shield: Elysium, Wizard, Wizard, Vainglory
+:test_tube: Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
+:class: StoneCrusher Enhancements/Potions
+:shield: Valiance, Fighter/Hybrid, Anima, Absolution
+:test_tube: Might Tonic, Divine Elixir, Scroll of Enrage
+:class: Legion Revenant Enhancements/Potions
+:shield: Heath Vamp, Wizard, Wizard, Absolution
+:test_tube: Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
+:class: Lord of Order Enhancements/Potions
+:shield: Aweblast, Luck, base Forge, Penitence
+:test_tube: Divine Elixir, Sage Tonic, Scroll of Enrage

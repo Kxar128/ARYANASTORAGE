@@ -1,0 +1,15 @@
+Astral:
+
+Comp: LH LOO LR VDK CSS CSS AF
+
+Assign t1 to LR and T2 to VDK
+
+Have VDK Taunt start the fight with Taunt. Make sure everyone is above 80% health before behold hits everyone.
+
+LH: luk class, base forge helm, absolution, valiance, creeping horror
+LOO: luk class, base forge helm, absolution, luk aweblast, dark grip/corrosion
+LR: wiz class, pnuema helm, lament, arcana's concerto, scroll of enrage
+VDK: luk class, anima helm, penitence, ravenous, scroll of enrage
+CSS: luk class, base forge helm, penitence, arcana's concerto, feli pot
+AF: luk class, base forge helm, penitence, ravenous, feli pot 
+LH Spam heal off cooldown LOO heal immediately when behold damage hits everyone

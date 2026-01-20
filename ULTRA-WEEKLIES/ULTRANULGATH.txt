@@ -1,0 +1,59 @@
+ULTRANULGATH
+
+F2P COMP
+
+DoT, DoT, LR, LoO
+
+DoT:  Elysium + Wizard+ Pneuma + Vainglory (2+3+5+3+4+3 + repeat)
+LR: Arcana - Wiz + Wiz + Lament
+LoO: Aweblast Luck + Luk + Luk +Penitence
+
+Fastest Comp: CSS, VDK, LR LOO
+
+CSS: Ravenous + Luk + Base forge + lament/vainglory
+VDK: Ravenous + Luk + Anima + Vainglory
+LR: Arcana - Wiz - Wiz - Penitence
+LoO: Aweblast Luck + Luk + Base forge + penitence
+
+---------------------------------------------------------------------------------------
+When to taunt:
+If you're in Artix server loop taunt with LR and LOO.
+
+If in Non Artix server choose who gets to taunt Behold text and Non Behold text. 
+To taunt non Behold text wait 5 seconds on start of the fight then taunt. Taunt again 1 second after the contract aura on you fades.
+Other person just taunts Behold text.
+---------------------------------------------------------------------------------------
+Potions:
+DoT: Unstable Malevolence, Unstable Sage, Potent Honor Potion
+CSS: Unstable Fate, Unstable Battle/Potent Battle, Feli pot
+VDK: Unstable Fate, Potent Battle, Potent Honor Potion.
+
+---------------------------------------------------------------------------------------
+Just focus Nulgath and ignore blade unless you're loo. If you're LOO occasionally press 5 on blade
+
+COMP:
+
+DOT : Elysium + Healer + Pneuma + Vainglory (2+3+5+3+4+3+2+repeat)
+
+LR - Arcana/Elysium - Wiz - Wiz - Penitence
+
+AP - Rave/Lacerate/Smite/Spiral Luck - Luck - Luck - Penitence
+
+LOO - Rave/Aweblast Wiz/Healer - Wiz - Wiz - Penitence
+-------------------------------------------------------------------------------------------------------
+
+Potions : 
+If  you bonk : Potent Battle Elixir + Might Tonic + Potent Malice/Honor Potion
+
+If you're a Chunibyo: Potent Malevolence + Sage Tonic + Potent Malice/Honor Potion 
+
+If you're Unaliving : Angelic Elixir + Body Tonic 
+-------------------------------------------------------------------------------------------------------
+
+Boss Mechanism :
+
+LR + AP will Loop Taunt the Nully or he'll Null-ke your party
+
+DOT should be able to kill blade without targeting it so everyone focus nulgath.
+
+LOO enjoy the ride.

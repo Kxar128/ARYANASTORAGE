@@ -1,0 +1,120 @@
+**Chrono ShadowSlayer**:
+Lock 3 or 5 or prelock
+Enh and potions: luck class, base forge helm, penitence/vainglory, Arcana Concerto for good ping Valiance for bad/mid ping, unstable fate tonic, unstable battle elixer, feli pot
+tip 1: During Meow, BLEEECH, Listen, Truth, Drakath mechanic, Dage mechanic and Kathool mechanic he won't reset your rift stacks so spam 4 and try to 5 before the text fades.
+tip 2: At start of fight Binky will nuke the team which deals 1,350-9,500 damage spread across each active fighter. Don't attack with the team wait until after this nuke happens.
+tip 3: Try to control dps at 35-30 million HP mark in case LR takes the BLEEEEECH. LR will most likely die from the warden hp drop because the BLEEEECH decay is still on them
+tip 4: If you're running feli pot try to gunslinger just as the haste debuff from Kathool mechanic hits so you can still deal damage while debuffed
+
+**Archfiend**:
+Prelock a weapon enh
+Enh and potions: luck class, base forge helm, penitence, ravenous, fate tonic, potent battle, vigil
+tip: use 4 and 5 at 15 million hp and spam it off cooldown and pray CSS can nuke binky to below 5 million HP during the "You will not Resist" text
+
+**Legendary Hero**:
+Lock 2 
+Enh and potions: luck class, base forge helm, absolution, valiance, fate tonic, divine elixir, vigil
+tip 1: Use your 5 when Binky is at 30,500,000 health so the team doesn't die to the warden mechanic
+tip 2: wait until loo quix aura (LOO SKILL 5) is halfway done until you press 5 at the Kathool mechanic
+tip 3: DO NOT use skill 5 at 45 million health your HOT will kill the taunter
+tip 4: Latest you can use your skill 5 is 15 million health 
+
+**Lord of Order**:
+Lock weapon enh
+Enh and potions: luck class, base forge helm, penitence, mana vamp, fate tonic, divine elixir, vigil
+tip 1: stop using quix (LOO SKILL 5) at 20 million hp
+tip 2: use quix (LOO SKILL 5) after health drops at kathool mechanic
+tip 3: try to use quix at 45 million hp (HEAL INVERT) so that the person taking heal invert doesn't die
+tip 4: try to use quix at 30 million hp (WARDEN MECHANIC) in case your healers heal cooldowns are not up 
+
+**Archpaladin**:
+Lock weapon enh
+Enh and potions: luck class, base forge helm, lament, mana vamp, unstable fate tonic, unstable battle, vigil
+tip 1: try to seal (AP SKILL 4) at 45 mil HP (HEAL INVERT) so whoever taunts that doesn't die
+tip 2: try to seal 35 million HP so whoever takes BLEEECH doesn't die
+tip 3: Heal and seal as often as possible. After heal invert mechanic fades around 43 million hp
+tip 4: after health drop from kathool mechanic (around 8-7 million HP) heal and try to time seal for when quix (LOO SKILL 5) aura is 75% done
+tip 5: use AP seal at 15 mil HP because your seal is basically a decay
+
+**Verus DoomKnight**:
+Lock skill 4
+Enh and potions: luck class, base forge helm, vainglory, ravenous/dauntless, fate tonic, potent battle, scroll of enrage
+tip 1: If you're using dauntless people can heal if you taunt the heal invert at 45 million HP. Let the team know if you take the heal invert and you're on dauntless
+tip 2: If you're on dauntless save your life steal skill (VDK SKILL 3) for the Binky 30 million HP mechanic
+tip 3: If you're on dauntless stop spamming 2 at YOU WILL NOT RESIST so that you can get healed by the party. 
+
+**Legion Revenant**:
+Lock 5 preferred but if it locks arcana concerto cry a little inside
+Enh and potions: wiz class, healer helm/hearty helm, penitence, arcana concerto, sage tonic, potent malevolence, scroll of enrage
+tip 1: stop spamming your 4 at 47 million HP in case you take the heal invert taunt at 45 million HP.  After the heal invert fades spam all skills again
+tip 2: spam your 2 at 15 million HP
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+TIP FOR TAUNTERS: Lock a skill before using taunt 
+
+TIP FOR USING VIGIL: Use vigil 2-3 seconds after the "YOU WILL NOT RESIST" text appears. Most of the time with the fast comp Binky will be well below 10 million HP when he does the "YOU WILL NOT RESIST" text
+
+TIP FOR HEALERS: Stop spamming heals at 45 million HP. Resume healing after 5 seconds. Spam heal after he nukes your health
+
+TIP FOR LOCKING: You can go to /ultraezrajal or /binky if you are a mem to lock mana vamp and swap to a weapon enh you need like ravenous before starting the fight to keep all your skills and enhancements
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
+
+If you don't have CSS AF or Legendary Hero here are some substitutes.
+
+**CSS**: **Great Thief**, **Guardian**
+**AF**: Light caster, Arachnomancer
+Legendary Hero: Stone crusher, Frostval Barbarian, Dark Master of Moglins, Glaceran Warlord
+
+DO NOT PLAY CHRONO CLASSES OTHER THAN CSS AND PhCM Rav build
+
+
+MECHANICS:
+
+CLASSES:
+Use Enrage (TAUNTERS):
+• LEGION REVENANT
+Enhancements: wiz class/arcana weapon/wiz helm/peni cape (LOCK skill 5)
+ • VERUS DOOMKNIGHT
+Enhancements: Luck class/Rav weapon/anima helm/peni cape (LOCK skill 4)
+
+Use Vigil:
+• LORD OF ORDER
+Enhancements: Luck class/ManaV weapon/luck helm/peni cape (LOCK ManaV weapon)
+• LEGENDARY HERO
+Enhancements: Luck class/valiance weapon/luck helm/absolution cape (LOCK skill 4)
+• LIGHTCASTER
+Enhancements: Wiz class/praxis weapon/ wiz helm/lament cape (LOCK skill 3)
+• ARCHPALADIN
+Enhancements: Luck class/Aweblast weapon/base forge helm/Lament cape (LOCK skill 5)
+• SHAMAN
+Enhancements: Wiz class/Elysium weapon/wiz helm/vainglory cape (LOCK skill 4)
+
+BOSS MECHANICS:
+The boss has HP marks milestone specifically every 5M HP lost
+LR and VDK will do the alternate taunt 
+
+PATTERN:
+50m - Everyone MUST use the specific skill repeatedly to lock, depending on the classes used (see classes above)
+
+45m - Invert Heal (Healers DON'T heal)
+
+40m - MEOW (Make sure to be taunted)
+
+35m - BLEEECH (Make sure to be taunted)
+
+30m - Warden mechanic (MUST heal after HP drop)
+
+20m - Drakath mechanic (deal as much damage as you can)
+
+15m - Dage mechanic (VDK and LR should loop DECAY and TAUNT)
+
+10m - Kathool mechanic "YOU CANNOT RESIST" Everyone MUST use Vigil and ALL healers must spam heals. LH and LOO will use 5 for better survivability.
+
+5m - Drakath mechanic (Last stand type of thing, deal DPS as much as you can till it dies)
+***
+
+LOO : STOP USE 5TH SKILL AT 20MIL HP AND USE QUIX > 5TH SKILL AT 8MIL HP
+AP : USE 4TH AT 25MIL HP
+LC : SPAM 2ND SKILL > PRAXIS
+LH : USE 5TH SKILL AT at 8MIL HP

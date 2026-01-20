@@ -1,0 +1,62 @@
+CHAMPION DRAKATH
+
+Champion Drakath
+♦ Every 2,000,000 dmg, Drakath will scream at your team, designated Taunter should taunt JUST BEFORE the 000,000 mark or else your team will not want to help xd
+
+♦ Everytime he screams, he gains "Evasion" to self, increasing Dodge by 20%, stacks indefinitely.
+
+
+LORD OF ORDER: 
+
+Ravenous/Wizard Aweblast/Wizard/Healer
+Wizard
+Wizard
+Penitence
+
+--------------------------------------------------------------------------------------------------
+These are breakdowns of forge enhancements used for LOO
+RAVENOUS
+♦ 100% chance to activate on auto attack (10 second cooldown).
+
+♦ Deals 75% Hybrid Damage.
+
+♦ Recovers 15 mana.
+
+♦ Applies Ravenous to the target for 10 seconds:
+-5% Haste
+-5% Crit Chance
+-5% Dodge
+-5% Damage Boost
+
+♦ Applies Execute to yourself for 10 seconds:
++5% Haste
++5% Crit Chance
++5% Dodge
++5% Damage Boost
+
+♦ Skills deal 0.9% bonus damage for each 1% of the target's missing HP. (This includes normal heals, but not HoT effects.)
+WIZARD AWEBLAST
+♦ 30% chance to activate on auto attack (no cooldown).
+
+♦ Deals 100% Hybrid Damage.
+
+♦ Applies Awe Blast to the target for 10 seconds:
+-15% Crit Chance
+-15% Damage Resistance
+PENITENCE
+♦+25% Damage Resistance
+
+♦-25% DoT Boost
+
+-------------------------------------------------------------------------------------------------
+These are Potions and scrolls used for LOO
+HEALTH
+:Elixir: Angelic Elixir
+:Tonic: Body Tonic
+:BlueHand: Scroll of Lifesteal
+Angelic Elixir
+♦ Use to increase your healing potential by 30% for 10 minutes.
+Body Tonic
+♦ Use to increase your endurance by 20% for 15 minutes.
+Scroll of Lifesteal
+♦ Drains some of the target's HP and gives it to you.

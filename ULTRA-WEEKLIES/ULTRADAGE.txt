@@ -1,0 +1,252 @@
+ULTRADAGE
+
+Dage The Dark Lord
+
+♦ Dage will invert your heals, therefore no SC (if no choice, SC must not use skill 4)
+
+♦ There are 2 Circles in map, Left and Right. When glow is up, run to the circles. (press SPACE bar if you think you're too far to make it)
+
+♦ Let CAV Loop cycle Dage to avoid headaches. THIS IS A MUST If CAV can't loop, find a new CAV.
+
+-------
+
+**Verus Doomknight**
+
+:Sword_Table: Dauntless/Health Vamp
+:class_table: Luck
+:Helmet_table: Luck
+:Cloak_Table: Luck-->Penitence
+
+(IF YOU DON'T HAVE DAUNTLESS, DO NOT USE YOUR 3RD SKILL)
+--------------------------------------------------------------------------------------------------
+These are breakdowns of forge enhancements used for VDK
+DAUNTLESS
+♦ 100% chance to activate on the second skill (3 second cooldown).
+
+♦ Deals 190 - 570% Physical Damage, increasing the lower your health is.
+
+♦ Lifesteals based on Attack Power, increasing the lower your health is.
+
+♦ Always hits and crits.
+
+♦ Applies Dauntless to yourself for 12 seconds:
++15% Crit Chance
++25% Haste
+-50% Mana Consumption
+
+♦ Applies Decay, Cannot Heal to yourself for 6 seconds.
+HEALTH VAMP
+♦ 50% chance to activate on auto attack (no cooldown).
+
+♦ Deals 80% True Hybrid Damage.
+
+♦ Heals you for 125% of the base damage dealt.
+PENITENCE
+♦ +25% Damage Resistance
+
+♦ -25% DoT Boost
+-------------------------------------------------------------------------------------------------
+These are Potions and scrolls used for VDK
+PHYSICAL DAMAGE
+:Elixir: Potent Battle Elixir
+:Tonic: Might Tonic
+:Potion: Potent Malice Potion/Potent Honor Potion
+Potent Battle Elixir
+♦ Use to increase your attack power by 25% for 15 minutes.
+Might Tonic
+♦ Use to increase your strength by 20% for 15 minutes.
+Potent Malice Potion
+♦ Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+Potent Honor Potion
+Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+
+
+**Lord of Order**
+
+:Sword_Table: Health Vamp Healer/Health Vamp Wizard
+:class_table: Wizard
+:Helmet_table: Wizard
+:Cloak_Table: Healer/Penitence
+
+--------------------------------------------------------------------------------------------------
+These are breakdowns of forge enhancements used for LOO
+HEALTH VAMP
+♦ 50% chance to activate on auto attack (no cooldown).
+
+♦ Deals 80% True Hybrid Damage.
+
+♦ Heals you for 125% of the base damage dealt.
+PENITENCE
+♦ +25% Damage Resistance
+
+♦ -25% DoT Boost
+-------------------------------------------------------------------------------------------------
+These are Potions and scrolls used for LOO
+HEALTH
+:Elixir: Angelic Elixir
+:Tonic: Body Tonic
+:BlueHand: Scroll of Lifesteal
+Angelic Elixir
+♦ Use to increase your healing potential by 30% for 10 minutes.
+Body Tonic
+♦ Use to increase your endurance by 20% for 15 minutes.
+Scroll of Lifesteal
+♦ Drains some of the target's HP and gives it to you.
+
+**Chaos Avenger**
+
+:Sword_Table: Dauntless/Health Vamp
+:class_table: Luck
+:Helmet_table: Luck
+:Cloak_Table: Luck-->Penitence
+
+(IF YOU DON'T HAVE DAUNTLESS, DO NOT USE YOUR 4TH SKILL)
+--------------------------------------------------------------------------------------------------
+These are breakdowns of forge enhancements used for CAV
+DAUNTLESS
+♦ 100% chance to activate on the second skill (3 second cooldown).
+
+♦ Deals 190 - 570% Physical Damage, increasing the lower your health is.
+
+♦ Lifesteals based on Attack Power, increasing the lower your health is.
+
+♦ Always hits and crits.
+
+♦ Applies Dauntless to yourself for 12 seconds:
++15% Crit Chance
++25% Haste
+-50% Mana Consumption
+
+♦ Applies Decay, Cannot Heal to yourself for 6 seconds.
+HEALTH VAMP
+♦ 50% chance to activate on auto attack (no cooldown).
+
+♦ Deals 80% True Hybrid Damage.
+
+♦ Heals you for 125% of the base damage dealt.
+PENITENCE
+♦ +25% Damage Resistance
+
+♦ -25% DoT Boost
+-------------------------------------------------------------------------------------------------
+These are Potions and scrolls used for CAV
+PHYSICAL DAMAGE
+:Elixir: Potent Battle Elixir
+:Tonic: Might Tonic
+:Potion: Potent Malice Potion/Potent Honor Potion
+Potent Battle Elixir
+♦ Use to increase your attack power by 25% for 15 minutes.
+Might Tonic
+♦ Use to increase your strength by 20% for 15 minutes.
+Potent Malice Potion
+♦ Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+Potent Honor Potion
+Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+
+
+**Quantum Chronomancer**
+
+:Sword_Table: Dauntless/Health Vamp
+:class_table: Luck
+:Helmet_table: Luck
+:Cloak_Table: Luck-->Penitence
+
+--------------------------------------------------------------------------------------------------
+These are breakdowns of forge enhancements used for QCM
+DAUNTLESS
+♦ 100% chance to activate on the second skill (3 second cooldown).
+
+♦ Deals 190 - 570% Physical Damage, increasing the lower your health is.
+
+♦ Lifesteals based on Attack Power, increasing the lower your health is.
+
+♦ Always hits and crits.
+
+♦ Applies Dauntless to yourself for 12 seconds:
++15% Crit Chance
++25% Haste
+-50% Mana Consumption
+
+♦ Applies Decay, Cannot Heal to yourself for 6 seconds.
+HEALTH VAMP
+♦ 50% chance to activate on auto attack (no cooldown).
+
+♦ Deals 80% True Hybrid Damage.
+
+♦ Heals you for 125% of the base damage dealt.
+
+PENITENCE
+♦ +25% Damage Resistance
+
+♦ -25% DoT Boost
+-------------------------------------------------------------------------------------------------
+These are Potions and scrolls used for QCM
+PHYSICAL DAMAGE
+:Elixir: Potent Destruction Elixir/Potent Battle Elixir
+:Tonic: Fate Tonic/Might Tonic
+:Potion: Felicitous Philtre/Potent Malice Potion/Potent Honor Potion
+Potent Destruction Elixir
+♦ Use to increase your critical strike damage by 50% for 15 minutes
+Potent Battle Elixir
+♦ Use to increase your attack power by 25% for 15 minutes.
+Fate Tonic
+♦ Use to increase your luck by 20% for 15 minutes.
+Might Tonic
+♦ Use to increase your strength by 20% for 15 minutes.
+Felicitous Philtre
+♦ This potion boosts your Luck by 50%.
+Potent Malice Potion
+♦ Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+Potent Honor Potion
+♦ Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+
+
+**Legion Doomknight**
+
+:Sword_Table: Dauntless/Health Vamp
+:class_table: Luck
+:Helmet_table: Luck
+:Cloak_Table: Luck-->Penitence
+
+(IF YOU DON'T HAVE DAUNTLESS, DO NOT USE YOUR 3RD SKILL)
+--------------------------------------------------------------------------------------------------
+These are breakdowns of forge enhancements used for LDK
+DAUNTLESS
+♦ 100% chance to activate on the second skill (3 second cooldown).
+
+♦ Deals 190 - 570% Physical Damage, increasing the lower your health is.
+
+♦ Lifesteals based on Attack Power, increasing the lower your health is.
+
+♦ Always hits and crits.
+
+♦ Applies Dauntless to yourself for 12 seconds:
++15% Crit Chance
++25% Haste
+-50% Mana Consumption
+
+♦ Applies Decay, Cannot Heal to yourself for 6 seconds.
+HEALTH VAMP
+♦ 50% chance to activate on auto attack (no cooldown).
+
+♦ Deals 80% True Hybrid Damage.
+
+♦ Heals you for 125% of the base damage dealt.
+PENITENCE
+♦ +25% Damage Resistance
+
+♦ -25% DoT Boost
+-------------------------------------------------------------------------------------------------
+These are Potions and scrolls used for LDK
+PHYSICAL DAMAGE
+:Elixir: Potent Battle Elixir
+:Tonic: Might Tonic
+:Potion: Potent Malice Potion/Potent Honor Potion
+Potent Battle Elixir
+♦ Use to increase your attack power by 25% for 15 minutes.
+Might Tonic
+♦ Use to increase your strength by 20% for 15 minutes.
+Potent Malice Potion
+♦ Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.
+Potent Honor Potion
+Use to increase all damage by 75% but also increase all mana costs by 25% for 35 seconds.

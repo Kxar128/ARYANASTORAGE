@@ -1,0 +1,49 @@
+ULTRADRAGO
+
+TAUNTING AND SEALING:
+
+Bow: Spam taunt as LR. Bow shouldn't live long enough to do anything
+
+Axe: AP and LoO loop taunt. AP taunts first and then SEALS(AP skill 4) after taunting first. DO NOT BREAK SEAL (DO NOT PRESS SKILL 5) until the seal aura is almost gone. Seal(AP SKILL 4) off cooldown.
+
+
+Normal Comp :
+
+Decide who wants to DPS and who wants to Taunt, Enhancement Equipments will differ. 
+
+(if you're going dps, please use pots)
+
+CLASSES:
+LR - Arcana/Elysium - Wiz - Wiz - Penitence
+
+AP - Lacerate/Smite/Spiral Luck - Luck - Luck - Penitence
+
+LOO - Rave/Aweblast Wiz/Healer - Wiz - Wiz - Penitence
+
+CAV - Dauntless - Luck - Anima - Vainglory 
+**Interchangable DPS classes**
+AI - Elysuim - Wiz - Wiz - Peni/Vainglory 
+
+CSS - Rave - Luck - Vim - Lament 
+
+**
+
+Potions : 
+If  you bonk : Potent Battle Elixir + Might Tonic + Potent Malice/Honor Potion
+
+If you're a Chunibyo: Potent Malevolence + Sage Tonic + Potent Malice/Honor Potion 
+
+If you're Unaliving : Angelic Elixir + Body Tonic 
+
+Obviously, have someone use Scroll of Enrage to taunt boss.
+
+**
+Boss Mechanism :
+
+Axe Guy - On the Left side of the screen when you go into the boss room, you'll find 3 doods, the one carrying the Axe on the left side will need to be taunted otherwise you will die
+Middle Guy - POS Drago, don't do anything, just focus on the soldiers and Drago will die 
+
+Bow Guy - CAV (most common)/CSH/Arcana Invoker/DOT, whoever is your  DPS can solo this. Just kill it fast, but if you're not fast enough, use scroll of enrage. 
+
+
+Once the bow guy is dead, Axe guy will heal up to full HP, just knock him back down again and when he dies, drago will also die.
