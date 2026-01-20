@@ -1,0 +1,139 @@
+Level 100
+
+Rank 10 Good
+
+Rank 6 DoomWood
+
+Original Drakath Armour + Ascended Light of Destiny
+Put the Original Drakath Armour in your inventory so that you can accept the Chaorrupted Time-Travel Fairy's "Ascended Drakath Gear" quest from /mountdoomskull. Complete the quest by defeating Dread Stranglerfish at /towerofdoom4 (requires completing the previous levels of /towerofdoom). Do it until you get the Ascended Light of Destiny, which you need for the 3rd quest of this farm.
+
+Lae's Hardcore Contract
+Complete Lae's "Now We're Talking!" quest at /hollowdeep. For it, you need:
+
+Soul Potion
+Defeat Deathmoles and Crashrooms at /orecavern for Arashtite Ore and Dried Slime. Or, you can use Chaoroot and Necrot from Swindle at /tercessuinotlim if you'd prefer - this costs Gold rather than needing to farm enemies. Either way, I recommend having about 10 of each. Then, complete the Alchemy minigame at /alchemy - don't use a Dragon Runestone. If you aren't experienced with Alchemy, see here - you will need to be Rank 8 Alchemy to do this.
+
+Human Soul x50 (stacks to 300)
+Defeat Lightguard Casters and Paladins at /noxustower (walk left to find them). If you haven't completed the storyline, walk until you reach the gate to find 2 Lightguards and the Wolf, otherwise, keep walking past the gate to find 3 Lightguards.
+
+Fallen Soul x13
+Defeat the Undead Paladin at /doomwood. Go left from Arryd then follow the bottom-right path to get there.
+
+Storyline Completion
+This includes 13LoC.
+
+Quests
+
+Complete Lae's Hollowborn Paladin quests from /hollowdeep. Each quest requires the reward of the previous quest to accept. The third quest requires the Ascended Light of Destiny too (check Requirements).
+
+1. Let's Get You a Suit
+
+Sparrow's Blood
+Complete "Experiment 231: Sparrow Blood Potion" from Reens at /arcangrove. If you don't know how to get to her, go up into the tower then walk into the blue portal at the bottom-right. To complete the quest, defeat Gorillaphants and Seed Spitters at the bottom and bottom-right of the overall map as there are 2-3 of each on either screen.
+
+Brilliant Aura
+You should still have the Blinding Mace of Destiny from farming BLoD (check your bank). Use it to complete Artix's "Finding Fragments with Blinding Mace" quest from /necropolis by defeating enemies at /battleunderb.
+
+Dark Arts Scholar
+Purchase from Artix's DoomWood II Rep shop at /necropolis.
+
+Gem of Superiority
+Defeat Legion enemies at /shadowblast (from the starting room, walk up, left, up).
+
+Exalted Paladin Seal
+Purchase from Artix's Rep shop at /darkthronehub for 500k Gold.
+
+Condensed Mana
+Defeat the Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+
+Human Soul x200
+Defeat Lightguard Casters and Paladins at /noxustower (walk left to find them). If you haven't completed the storyline, walk until you reach the gate to find 2 Lightguards and the Wolf, otherwise, keep walking past the gate to find 3 Lightguards.
+
+
+
+2. I Got your Back (and your Top)
+
+Templar's Helm of Light
+Purchase from Artix's DoomWood shop at /necropolis.
+
+Destiny Cloak
+Purchase from Artix's DoomWood II Rep shop at /necropolis.
+
+Dark Aura Gem
+
+Purchase the Silver Victory Blade from Loot Chest at /river. Then, complete the Loot Chest's "Victory Blade Enchantment" quest by defeating Skeletal enemies at /castleundead and Big Jack Sprat at /graveyard. 
+
+Upgrade the sword to the Enchanted Victory Blade in Loot Chest's merge shop then complete "Alignment Quest: Light... or Dark?" by defeating more enemies at /castleundead. Choose the Dark Aura Gem as your reward.
+
+Shadow Dragon Soul
+Select Necrocavern from Braeus' Fast Travel at /shadowfall then walk down.
+
+Cryptkeeper Lich's Head
+Defeat Cryptkeeper Lich at /temple. You have to complete the quests on each level of this map to access it or /goto someone else.
+
+Human Soul x200
+Defeat Lightguard enemies at /noxustower.
+
+
+
+3. The Dark Sacrifice
+
+Unidentified 25
+Choose your method:
+
+1% - "The Assistant"
+Crag & Bamboozle or Drudgen
+This requires War-Torn Memorabilia from /yulgar in the Armour Shop, which costs 100k Gold.
+
+Merge - Swindle's Ripoff Emporium
+Swindle Bilk at /tercessuinotlim
+Trade an Unmoulded Fiend Essence. This method costs 15m Gold. I recommend just spamming "The Assistant" instead as it would cost 10m on average and also reward other reagents at the same time.
+
+Seal of Light
+Complete Lady Celestia's "Seal of Light" quest at /alteonbattle by defeating Ultra Alteon in the same map.
+
+Seal of Darkness
+Complete Lady Celestia's "Seal of Darkness" quest at /sepulchurebattle by defeating Ultra Sepulchure in the same map.
+
+Undead Skull
+Defeat the Skeletal Minion at /artixpointe (take the path on the right then walk left).
+
+Omni Artifact
+Obtain the following items and merge them in Artix's Artifact merge shop at /artixpointe. All of them are rewarded from Artix's quests in the same map.
+
+Unholy Wasabi
+Defeat the Corrupted Sushi Chef. From Artix, go right three times then up into the Sushi shop.
+
+Cysero's Doom Sock
+From the Sushi shop, walk right until you reach Stryche then walk through the left door and up into the well until you find Memet. Click on the arrow.
+
+Chickencow Claw
+Defeat ChickenCow at /battlefowl (walk up).
+
+Zorbak's Staff Skull
+Defeat Big Jack Sprat at /graveyard.
+
+Dragon Khan's Corrupt Scepter
+Defeat Dragon Khan at /vendorbooths (walk right then up into the Hall of NPZZZ and continue right).
+
+Sir Ver's Broken Power Button
+Defeat the Mutated Server Hamster at /undergroundlab (walk down from the elevator then into the rightmost room).
+
+"Battle Gravefang"
+Defeat Gravefang at /gravefang.
+
+Death's Cursed Hourglass
+Return to /artixpointe. Walk left to the well then go back to Artix.
+
+Human Soul x300
+You should know how to get these now.
+
+
+
+4. The Post Summoning
+
+Shadow Seal
+Defeat Nation enemies at /shadowblast (from the starting room walk up, right, up).
+
+Human Soul x50
+You should know how to get these now.

@@ -1,0 +1,128 @@
+Requirements
+
+Level 100
+
+Rank 10 Evil
+
+Sepulchure's DoomKnight Armour
+
+Necrotic Sword of Doom
+
+Lae's Hardcore Contract + Hollowborn Shadow of Fate
+Complete the Classic Hollowborn Paladin Armour guide up to the last quest. You need the Hollowborn Shadow of Fate for the last quest of this farm.
+
+Sepulchure's Original Helm
+Go to Gravelyn at /shadowfall then select Sepulchure's Helm. With SDKA in your inventory, select Shop and purchase this for free.
+
+Storyline Completion
+You must complete all quests from /doomvault > /doomvaultb. It's also optional to complete /noxustower > /lightguardwar > /lumafortress because you can /goto someone but it's best if you've done it yourself.
+
+Quests
+
+Complete Lae's Hollowborn DoomKnight quests from /hollowdeep.
+
+1. A Dark Knight
+Complete this quest until you have 125 Dark Fragments.
+
+Shadowworn (doesn't stack)
+Defeat Shadow Lord at /shadowlordpast if you're a member. Otherwise, defeat it at /shadowrealm. To access it as a non-member, complete the "Key to the ShadowLord" quest from Skully at /shadowrealm (top-left>right from starting screen) by defeating enemies at /shadowrealmpast. Then, you can enter to the portal on the screen left of Skully.
+
+Empowered Essence x10 (stacks to 50)
+Defeat Shadow Warriors, Guardians, and Pure Shadowscythe at /shadowrealmpast.
+
+Shadowscythe Venom Head (doesn't stack)
+Purchase from Gravelyn's Rep shop at /shadowfall for 100k Gold (quickly access by exiting left from /shadowvoid).
+
+Hollow Soul x10 (stacks to 250)
+If you have a strong soloing class, defeat the Hollowborn Sentinels near the end of the /shadowrealm map. Otherwise, you can complete Kasebel's "Specimens" quest by defeating Shadow Makai, Shadow Living Fire, and Creeping Shadows at /shadowrealm. This is best done if you walk top-left from the starting screen then defeat enemies over the next two screens to the left of the portal as they have all 3 enemy types.
+
+
+
+2. A Dark Knight Rises
+Complete this quest until you have 15 Doom Fragments.
+
+Doomatter x10 (stacks to 30)
+
+Purchase a Receipt of Swindle from Swindle's Ripoff Emporium at /tercessuinotlim and trade it for 10 Doomatter.
+
+If you don't want to spend Gold, defeat Fear Feeder at the end of the map at /creepy. This requires membership.
+
+If you're a non-member, join /vordredboss and click continue in the middle. As the cutscene is playing, you can't see it but you can actually still attack Vordred - just use a class that has powerful long-range abilities. This will skip a lot of the cutscene as you spam-click Next at the top-right. The final instance of the cutscene cannot be skipped by attacking.
+
+If you don't want to spam that much, defeat Creature Creation at /maul.
+
+Shadow DoomReaver (doesn't stack)
+Defeat the Shadow Lord at /shadowlordpast or /shadowrealm.
+
+Worshipper of Doom (doesn't stack)
+Defeat Corrupted Luma at /lumafortress. Either complete the story or /goto someone here.
+
+Ingredients? x10 (stacks to 222)
+Defeat Binky at /doomvault. You can get there quickly by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Hero/Legend > More Details > Cape Boss.
+Because of Binky's difficulty, you'll most likely need a group of people to help fight it too. Binky has numerous abilities, including stuns ranging from 5-21 seconds, Skill Lock, which stops one of your abilities from being used (try and bait this with the Mana Vamp awe enhancement, a scroll, or your least useful ability first), and Prophetic Vision, which reflects your damage to you (avoid this by pressing ESC). Use the chance to get Cape of Awe, and if you have the Hardcore Paragon Pet, accept its "A Single Rib" quest.
+If you're a member, you could farm /ultracarnax instead but there may be people farming Binky already anyway.
+
+Dark Fragment x5
+These are rewarded from "A Dark Knight".
+
+
+
+3. A Dark Knight Falls
+Complete this quest once.
+
+Unidentified 25
+Choose your method:
+
+1% - "The Assistant"
+Crag & Bamboozle, Drudgen, or Swindle
+This requires War-Torn Memorabilia from /yulgar in the Armour Shop, which costs 100k Gold.
+
+Merge - Swindle's Ripoff Emporium
+Swindle Bilk at /tercessuinotlim
+Trade an Unmoulded Fiend Essence. This method costs 15m Gold. I recommend just spamming "The Assistant" instead as it would cost 10m on average and also reward other reagents at the same time.
+
+(Necro) Scroll of Dark Arts
+Defeat Ultra Vordred at /epicvordred (~1% drop rate).
+ Obtain 4 of these as you also need 3 for the next quest.
+
+Royal ShadowScythe Blade
+Purchase from Gravelyn's Honour Shop at /shadowfall for 1m Gold.
+
+Weapon Imprint
+Defeat Undead Raxgore at /doomvaultb. While fighting him, be careful as he can lock your abilities and has an ability called Counter Attack - you'll need to target off by clicking the X to the top-right of their portrait or pressing ESC. Use the chance to get the Helm of Awe if you haven't already.
+Obtain 13 of these as you also need 12 for the next quest.
+
+Dark Fragment x20
+These are rewarded from "A Dark Knight".
+
+Doom Fragment x5
+These are rewarded from "A Dark Knight Rises".
+
+
+
+4. A Dark Knight Returns
+Complete this quest once. Make sure you have HSoF, NSoD, SDKA, and SOH in your inventory to accept it. Use the New Player guide if you don't know these acronyms.
+
+Dark Energy x10k
+Defeat Chaos Drow at /dwarfhold (walk left until you find them). You might already have some in your bank after obtaining SDKA.
+
+(Necro) Scroll of Dark Arts x3
+Defeat Ultra Vordred at /epicvordred (~1% drop rate). You should already have these if you farmed 4 during the previous quest.
+
+Bones from the Void Realm
+Obtain 50 Void Auras (you should know how to do this since you've got NSoD) and merge them with 50 Bone Dust (from /battleunderb) in Braeus' merge shop at /shadowfall.
+
+Doom Heart
+Defeat Ultra Sepulchure at /sepulchurebattle (~0.5% drop rate).
+
+Weapon Imprint x12
+Defeat Undead Raxgore at /doomvaultb. You should already have these if you farmed 13 during the previous quest.
+
+Desolich's Dark Horn x3
+Defeat Desolich at /desolich. I highly recommend doing this in a group due to the extreme HP of this enemy (over 8m).
+
+Dark Fragment x30
+These are rewarded from "A Dark Knight".
+
+Doom Fragment x10
+These are rewarded from "A Dark Knight Rises".

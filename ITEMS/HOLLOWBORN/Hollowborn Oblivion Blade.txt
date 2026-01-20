@@ -1,0 +1,52 @@
+Requirements
+
+Level 80
+
+ArchFiend Enchanted Orbs
+Use the Reagent Library to obtain the following:
+
+Diamond of Nulgath x150
+
+Unidentified 25
+
+Unidentified 13
+
+Voucher of Nulgath (non-mem)
+
+Blood Gem of the ArchFiend x10
+
+Then, go to Lae at /tercessuinotlim and complete his "Let's Make a Deal" quest for 100 Fresh Souls (stacks to 350). Just defeat Inquisitor Guards at /citadel and make sure to accept the Uni 36s that drop too (stacks to 3).
+Then, go back to Lae and merge the weapon in his shop.
+
+Quest
+
+After obtaining the ArchFiend Enchanted Orbs, you can start the "Summoning and Stuff" quest from Lae. However, you need another Voucher of Nulgath (non-mem) to accept it. After, obtain the following and turn in the quest:
+
+Use the Reagent Library for these reagents:
+
+Unidentified 13
+
+Diamond of Nulgath x500
+
+Unidentified 25
+
+ArchFiend's Favour x1000
+
+Blood Gem of the ArchFiend x50
+
+Then, obtain these reagents:
+
+Diabolical Minion's Seed
+Defeat Diabolical Warlord at /lostruinswar (located at end of map).
+
+4th Dimension Gem
+Complete Anubyx's "Bring the Pain" quest by defeating enemies at /blackholesun.
+
+Celestial Seal
+Defeat the Blessed Dragon at /goldenarena. If you can't access it, complete Aranx's "Greenguard Champion Badge" quest by defeating the Greenguard Dragon at /greendragon. If you complete all the quests here, you'll earn a character page badge.
+
+Death's Power
+Defeat Death at /shadowattack (located at end of map). If you've been to Death before by completing the quick storyline from /shadowrise > /shadowattack, you can click on the NPC's Battle Death Again button for a teleport.
+
+Fresh Soul x350 & Unidentified 36
+Complete Lae's "Let's Make a Deal" quest by defeating Inquisitor Guards at /citadel.
