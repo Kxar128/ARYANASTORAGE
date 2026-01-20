@@ -1,0 +1,47 @@
+Requirement
+
+Storyline Completion
+This includes: /eridani > /astravia > /astraviacastle > /astraviajudge > /ultradrago and /garden.
+
+Quest
+
+Obtain the following items then purchase Prince Darkon's Poleaxe from Re's Merge shop at /ultradrago.
+
+Algie's Bow and Dene's Axe
+These are each merged at /ultradrago with 5 Ultra Drago Insignias. You will also need an additional 10 Insignias for a total of 20. You can obtain them by defeating Ultra Drago. For more information, click here.
+
+Darkon's Receipt x22
+
+Easiest but Longest
+Complete Darkon's "First Errand" quest from /garden.
+Solo: Defeat Jurassic Monkeys at Screen 8 of /portalmaze (they drop 1 Banana - stacks to 222).
+Group: Defeat Dread Gorillphants at /towerofdoom7 (they drop 1-3 Bananas).
+
+Harder but Shorter
+Complete Darkon's "Second Errand" quest from /garden.
+Defeat Binky at /doomvault (they drop up to 10 Ingredients - stacks to 222). You must be in a good group to be efficient.
+Strategy: Avoid Skill Lock by using your auto attack, which will lock your awe enhancement if you have one equipped. Mana Vamp is suggested because it has the highest activation chance. You could also bait it with a Scroll (SpellCrafting guide).
+Avoid Counter Attack, which reflects your damage, by pressing ESC. Resume attacking once it fades.
+Use the chance to get the Cape of Awe, and if you have the Hardcore Paragon Pet, accept its "A Single Rib" quest.
+You can get to Binky quickly by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Hero/Legend > More Details > Cape Boss.
+
+Shortest but Hardest
+Complete Darkon's "Third Errand" quest from /garden.
+Defeat Nulgath at /tercessuinotlim for Nulgath's Mask (20% drop rate - stacks to 222). I highly recommend doing this in a group.
+Strategy: Don't use Thief of Hours or Chrono Assassin to reflect Nulgath's damage as you won't get any drops (technically reflected damage is their damage, making the kill not count). Instead, do this in a group with a Legion Revenant, LightCaster, Chaos Avenger, and additional supports if you'd like, such as Frostval Barbarian and StoneCrusher/Infinity Titan.
+
+Teeth x22
+Complete Re's "Sweet Dreams Are Made of Teeth" quest at /eridani. Walk up from Re and defeat the enemies in that room for Tooth (stacks to 500). Then enter the top-right door from there to defeat Creature 16 for Wisdom Tooth (stacks to 28).
+
+La's Gratitude x22
+Complete La's "Let Sleeping Dogs Lie" at /astravia. If you're in a group or have a good soloing class, defeat The Moon (walk left) for Broken Dog Tags (stacks to 60) and Intact Dog Tags (stacks to 15). Otherwise, defeat Creatures 27 or 28 (keep walking right to find 2 in a room).
+
+Astravian Medal x22
+Accept Drago's "Vanity Project" quest from /astraviacastle. Then walk all the way to the right of the map. Defeat The Sun for Burned Bananas (stacks to 3), walk left and defeat Creatures 27 & 28 for Defaced Portraits (stacks to 30), then walk up from La and defeat Creature 20 for Smashed Sculptures (stacks to 12).
+
+A Melody x22
+Complete Mi's "A Storied Vow" quest at /astraviajudge. Keep walking right through the map until you reach the area where the ground is a scroll. Then defeat Hands for Sinew and Trumpeters for Brass (both stack to 50) and La at the end of the map for Knight's Favour (stacks to 5).
+
+Darkon's Instant Noodles x22
+These are bought for 2.2m Gold each from Darkon at /garden for a total of 48.8m Gold. Follow the Gold guide if you need some help.
+

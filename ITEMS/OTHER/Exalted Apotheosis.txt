@@ -1,0 +1,51 @@
+Level 95 (to equip)
+
+Quests
+
+Complete Sir Cole's quests at /timeinn. You can access each boss by clicking on the pin board to the right.  I recommend doing this in a group so that you can farm for:
+
+10 Exalted Forgementals
+Defeat Ezrajal at the Antechamber.
+
+10 Exalted Relic Pieces
+Defeat The Warden at the Reliquary.
+
+10 Exalted Artillery Shards
+Defeat The Engineer at The Apex.
+
+300 Exalted Nodes
+Defeat Elementals at /timeinn (same room as Sir Cole).
+
+Then you can purchase Apostate Alpha and Thaumaturgus Alpha from Sir Cole's Merge shop.
+
+
+
+From here you need to obtain Insignias from each Ultra version of these bosses. You can find the best setups and strategies under the Exaltia section of the Ultra Bosses guide. In total you need:
+
+24 Ezrajal Insignias
+Clear /ultraezrajal.
+
+24 Warden Insignias
+Clear /ultrawarden.
+
+16 Engineer Insignias
+Clear /ultraengineer.
+
+300 Exalted Nodes
+Defeat Elementals.
+
+You can only obtain 1 of each Insignia per day because they're daily quests (the same applies for Tyndarius at /ultratyndarius). Drakath's and Drago's quests can only be done once a week, which reset on Fridays, but also reward more Insignias. Do each quest as often as you can.
+
+
+
+As you obtain the reagents from above, merge the weapons in this order:
+
+Apostate Alpha > Omega > Ultima
+
+Thaumaturgus Alpha > Omega > Ultima
+
+Exalted Unity > Penultima > Apotheosis
+
+
+
+You can merge this weapon into the dual version with 14 additional insignias of each Ultra boss. Just remember to get the singular version back from your Buy Back in account manager.

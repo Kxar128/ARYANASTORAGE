@@ -1,0 +1,14 @@
+Requirement
+
+Level 30 (to equip)
+
+Quests
+
+Purchase the Silver Victory Blade from the Loot Chest NPC's shop at /river. Then, complete their "Victory Blade Enchantment" quest by defeating Skeletal Vikings and Warriors at /castleundead and Big Jack Sprat at /graveyard. This quest will reward an Enchantment Rune.
+
+Exchange the Rune and Blade for the Enchanted Victory Blade in the Loot Chest's shop. Then, complete their "Alignment Quest: Light... or Dark?" quest by defeating Skeletal Warriors at /castleundead.
+Here you will have to choose whether you want the Dark or Bright Aura Gem, which only affects what your resulting sword will look like. If you want the Shadow Blade of Despair, go with the Dark Aura Gem. If you want the Arcane Blade of Glory, go with the Bright Aura Gem. You can see which one you prefer in the image preview below.
+
+Exchange the Aura Gem and Blade for the Enchanted Shadow or Mana Blade, depending on which path you chose. Then, complete the "Choose: Despair... or Glory?" quest by defeating Skeletal Vikings at /castleundead.
+
+Use the Blade and Amulet of Despair or Glory that was rewarded from the previous quest to purchase either the Arcane Blade of Glory or Shadow Blade of Despair. Both of these weapons give the same 20% extra XP boost for every kill and mission completion, however, you'll need to be Level 30 to equip them.

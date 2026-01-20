@@ -1,0 +1,34 @@
+Requirement
+
+Level 80
+
+Quest
+
+Barnaby's "Sailor of the Celestial Skies" quest from /pirates is only available during September. Many of the enemies you need to defeat are very hard, so I highly suggest doing it in a group. Defeat the following enemies for each item:
+
+Sapphire Orb x5
+Legion Lich Lord at /frozenlair.
+
+Rumours of the Celestial Commander x5
+Diabolical Warlord at /lostruinswar (located at end of map).
+
+Page 1 Scraps x10
+Animuses of Ice at /iceplane (requires completing map's quests or /goto).
+
+Page 2 Scraps x10
+Ivoliss at /ivoliss (located at end of map).
+
+Page 3 Scraps x10
+Nightbane at /thevoid (keep walking right and back to get the correct spawn).
+
+Page 4 Scraps x10
+Ultra SN.O.W. at /extinction (requires completing map's quests or /goto).
+
+Map of the Celestial Seas
+Empowered Prime at /starsinc (requires completing map's quests to get the Guard's Key or /goto).
+
+Coffer of the Stars
+ArchFiend Dragonlord at /underlair (located at end of map).
+
+Other pieces from this quest have the same boosts but having them in a pet is more convenient.
+

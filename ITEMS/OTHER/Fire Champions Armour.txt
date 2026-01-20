@@ -1,0 +1,31 @@
+Requirements
+
+Storyline Completion
+This includes /fireplanewar > /shadowfireplane > /fireinvasion > /wartraining > /fireavatar. 
+
+Rank 10 Dragonslayer
+Purchase from /lair, rank up using your best XP method from the New Player guide.
+
+Quest
+
+Purchase the Fire Champion's Armour from Vagra's Merge shop at /wartraining with the following items:
+
+Polished DragonSlayer
+
+Warfury Emblem x90 (30 for the armour, 60 for later)
+Complete Varga's "Warfury Training" quest at /wartraining. You can use Vagra's Zone Map to get around quickly. If you're in a group, you can defeat Vagra (drops 1-20). Otherwise, defeat Warfury Soldiers (drops 1). The drops stack to 60.
+
+Enchanted Scale x155 (30 for the armour, 125 for later)
+Complete Galanoth's "DragonSlayer General Class" quest at /dragontown. Walk up>right from Galanoth to defeat the Tempest and Blood Dracoliches, which have the lowest combined HP of any room.
+
+Dragon Scale x30
+Either defeat the Venom, Dark, and Bronze Draconians at /lair or purchase with Dragon Runestones at Alina's Get Reagents shop from /alchemyacademy.
+
+Flame-Forged Metal x10
+Complete Chanky's "Need Flame" quest at /underworld. To find him, keep walking left until you can go directly down then continue right to the frozen bridge. To complete the quest, defeat the Frozen Pyromancer past the bridge. 
+
+Void Scale x13
+Defeat the ArchFiend Dragonlord at /underlair. This boss is very hard so bring a group as even with a dodge class it would take a long time to kill him. 
+
+Gold Voucher 500k x50
+Purchase from Vagra at /wartraining. The total cost is 25m Gold. Use the Gold guide if you need help.

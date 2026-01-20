@@ -1,0 +1,9 @@
+Quest
+
+You'll first need to complete the storyline, which starts at /fireplanewar > /shadowfireplane > /fireinvasion > /wartraining > /fireavatar. Then obtain the following - merge at /ultratyndarius (I recommend getting IFP first, unless you have AFDL):
+
+Avatar Tyndarius Insignia x14
+Accept Galanoth's "Ultra Avatar Tyndarius" quest at /ultratyndarius and defeat Ultra Avatar Tyndarius. It will take at least 7 days to get 14 Insignias due to the quest being a daily. For strategies on defeating Tyndarius, click here.
+
+Fire Avatar Favour x40
+Accept Galanoth's "Avatar's Rage" quest from /fireavatar. Then defeat Shadefire Cavalry, Majors, and the Colonel (the room with 2 Cavalry is fastest but has greater distance from the other component of this quest) and Shadefire Elementals + Living Shadowflame. Both drops stack to 30.
