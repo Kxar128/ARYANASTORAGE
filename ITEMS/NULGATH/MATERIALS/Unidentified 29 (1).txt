@@ -1,0 +1,10 @@
+Unidentified 29 (1)
+
+3% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" AND "The Dark Deal"
+Crag & Bamboozle AND Oblivion Blade of Nulgath
+
+3% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" OR "The Dark Deal"
+Crag & Bamboozle OR Oblivion Blade of Nulgath
+
+3% - "Supplies to spin The Wheel of Chance"
+Drudgen or Swindle

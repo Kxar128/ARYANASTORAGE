@@ -1,0 +1,29 @@
+Quests 1 & 2 below will reward 2, 5, or 10 Void Auras. 3 & 4 will reward 50 or 100, depending on which one you're doing.
+
+
+
+"Commanding Shadow Essences"
+Braeus at /shadowfall
+You will need to own SDKA to accept it. This is a must as a member. For the quest, gather:
+
+Empowered Essence x50
+Defeat Shadow Warriors, Guardians, and Pure Shadowscythe at /shadowrealmpast.
+
+Malignant Essence x3
+Defeat Shadow Lord at /shadowlord if you're a member. Otherwise, complete "Key to the ShadowLord" quest from Skully at /shadowrealm (top-left>right from starting screen) by defeating enemies at /shadowrealmpast. Then, enter to the portal on the screen left of Skully.
+
+"Retrieve Void Auras"
+Braeus at /shadowfall
+This is your only option if you are purely free-to-play. It isn't worth doing at all unless you only want a very small amount of Void Auras. You'll need Rank 10 Evil and completion of Kitsune's (Map > Story) and Galanoth's (/lair) storylines. Use Braeus' Fast Travel at /shadowfall to quickly get to each boss then obtain 20 Essences from them.
+
+"Glimpse Into The Dark (Daily)"
+This quest requires membership and is accepted from Braeus at /shadowfall. Turn in:
+- Kraken Doubloon x13: Defeat the Chaos Kraken with the "Keelhaulin' a Kraken" quest accepted from the top-right button at /chaoskraken. Stacks to 100.
+- Ancient Trigora's Horns x3: Defeat Ancient Trigoras at /ancienttrigoras. Stacks to 3.
+- Graveclaw's Broken Axe: Defeat Graveclaw the Destroyer at /gravechallenge. Doesn't stack. Use the menu to the right on the first screen to get to Graveclaw.
+
+"The Encroaching Shadows (Daily)"
+This quest doesn't require membership but it does need a group to complete. Turn in these items to Braeus at /shadowfall:
+Glacial Pinion: Defeat Warlord Icewing at /icestormarena.
+Hydra Eyeball x3: Defeat the Hydra Head 90s at /hydrachallenge (select them from the Dew Drop fairy at the beginning screen).
+Flibbitigiblets: Defeat Flibbitiestgibbet at /thevoid (keep walking right and back until you get the correct screen).

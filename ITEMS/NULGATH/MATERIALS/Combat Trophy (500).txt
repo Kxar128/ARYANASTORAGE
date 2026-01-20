@@ -1,0 +1,10 @@
+Combat Trophies are awarded to both the losers and winners at /bludrutbrawl but you get more for winning. To win, you need to get to 1000 points. Points are earned every 10 seconds based on how many of the enemy team's guards (Restorers and Brawlers) are dead - however, if the enemy's Captain dies, you instantly get to 1000 points and win the game. Winners get an amount of trophies based on how many enemy NPCs are dead. Losers always get just 1 trophy. Choose your method below to farm them:
+
+Join /bludrutbrawl and defeat all Restorers and at least 1 Brawler (this gets you to 4 trophies if you win). If you defeat all of the enemy's guards, you'll earn 5 trophies.
+
+Alternatively, do the same above but ignore killing the Restorers and go straight for the Brawlers and Captain to earn 4 trophies. However, you'll need a decent soloing class to defeat the Captain and make this effective.
+
+Join a public /bludrutbrawl and play objectively or sit in the starting room. This less effective but you may prefer it.
+
+I recommend obtaining a PvP Health Amulet to use with classes like Sentinel, Dragon of Time, and Healer as their damage is based on their total health. The best one is the Mithril +15000 Amulet, which is merged at /doomarena with both the Diamond and Platinum Amulets, dropped by Reaper at /thevoid. You can access them quickly by selecting Fight Me! from the NPC version of The Reaper at the beginning of the map.
+Otherwise, classes like ShadowWeaver of Time, Void Highlord, and Legion Revenant would do great too. If you don't have any of these, use Healer with the Amulet or your best soloing class.
