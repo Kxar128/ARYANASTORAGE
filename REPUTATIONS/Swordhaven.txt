@@ -1,0 +1,35 @@
+Uses
+
+Class
+Royal BattleMage.
+
+Quests
+
+Everyone
+
+Complete the storyline from /castle > /archives > /armory > /ceremony > /chaosaltar > /castleroof > /swordhavenfalls > /ultraalteon.
+
+
+
+Member
+
+If you don't want to group up or bother with turning in so many quests like non-members do, complete Malorie's "Swordhaven Membership Dues" quest from /collection. Otherwise do one of the non-member methods.
+
+Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+
+Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+
+Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+
+Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+From the starting screen, walk up to accept Sir Vival's 3 non-daily quests and Jessor's "Weapons-in-Progress" quest. Then walk up and accept Valerin's quest, left for Nialla's quest, then go back down>right for Guy's quest. Defeat the enemies in Guy's room and in the screen to the right - you will need to go back and forth between them.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+If you're in a group, you can farm Lady Celestia's "Defeat Ultra Chaos Lord Alteon" quest at /ultraalteon. Use the Relics of Chaos that drop to complete "Supplies to spin The Wheel of Chance". Also, when the meter appears at the top-right, stop attacking otherwise Alteon will deal lots of damage.

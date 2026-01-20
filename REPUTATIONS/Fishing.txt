@@ -1,0 +1,14 @@
+Uses
+
+Class
+Lord of Order.
+
+Quests
+
+Member + Non-Mem
+
+Fishing takes place at /fishing.
+Before you can start, you need something to catch the fish with - I suggest completing Faith's "Favour for Faith" quest from /greenguardwest (access quickly by clicking on her teleport from the map at the top-right). This quest will reward both bait and dynamite - I recommend only using dynamite. Get at least 20.
+After, rejoin /fishing and just keep clicking the middle dynamite button at the bottom.
+Reputation is calculated differently for this faction - Rank 30 is the same as Rank 10 for others. The amount that you earn depends on what kind of fish you catch and it's not affected by boosts, including server and gear boosts.
+There is also a 0.01% chance for a silhouette of a fish with antlers to appear in the water. If you see this, click it to obtain the rare Derp Moosefish character page badge.

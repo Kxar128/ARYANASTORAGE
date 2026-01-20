@@ -1,0 +1,38 @@
+Uses
+
+Class
+Horc Evader.
+
+Quests
+
+Everyone
+
+Complete Khasaanda's Horc 13LoC chapter (Map > Story). Ensure you are doing the Horc version. This includes /crossroads > /bloodtusk > /bloodtuskwar > /ravinetemple > /alliance > /ancienttemple > /orecavern > /dreamnexus.
+
+
+
+Member
+
+Complete Malorie's "Horc Membership Dues" quest from /collection.
+
+Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+
+Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+
+Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+
+Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+Complete Kagg's "Zot Gives Peace" quest at /bloodtuskwar by defeating the Tigriff, Rhison, and Vulture in the left room.
+
+Dailies
+
+Member Only
+
+Complete Sput's "Hunter Gatherers" quest from /bloodtusk by defeating the Rhison and Vulture 5 times each then walk down and defeat the Horc Boar Scout, Vulture, and Trollola Plants.

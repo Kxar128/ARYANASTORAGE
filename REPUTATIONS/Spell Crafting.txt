@@ -1,0 +1,46 @@
+Overview
+
+SpellCrafting is located at /dragonrune. To get started, talk to Neveya behind the 4th door (blue rune) and complete the "You'll need a Spellbook!" quest - do this by clicking on the blue arrows in the room behind you and defeat Skeletal Warriors at /castleundead.
+
+Now you'll need some reagents. For SpellCrafting, this includes:
+
+Arcane Quills
+Purchase Arcane Quills from Neveya with Gold Vouchers.
+
+If you're not spending Gold, you'll instead need:
+
+Mystic Quills
+Defeat Slugfit at /mobius (walk up>right) or obtain while completing "Nulgath (Larvae)".
+Used for Ember, Radiant, Runic, Fading, and Elemental Ink.
+
+Mystic Parchment
+Defeat Blade Masters and the Undead Legend at /underworld.
+Used for Hallow and Zealous Ink.
+
+Mystic Shards
+Defeat Astral Ephemerites at /timespace (walk right to find 3) ~15% drop rate. You can also try farming Grief at /underrealm (keep walking right) ~50% drop rate.
+Used for Archmage Ink.
+
+Once you have a scroll that you want to make, merge the correct ink and join /spellcraft. The combinations that you need to make for each scroll can be found on the AQW Wiki. See below for the useful scrolls.
+
+Useful Scrolls
+
+Scroll of Ethereal Slumber
+Used for ArchPaladin.
+Use Archmage Ink for this combination.
+
+Scroll of Underworld
+Used for Void Paladin.
+Use Archmage Ink for this combination.
+
+Scroll of Enrage (stacks to 160)
+Used for Ultra Bosses.
+Use Zealous Ink for this combination.
+
+Don't use scrolls in combat - instead, use consumables from Alchemy.
+
+Ranking Up
+
+Purchase 2x Gold Voucher 500k and 8x Gold Voucher 100k from Nevaya's Buy Arcane Quills shop. If you're low on Gold, see the Gold guide. Trade the Gold Vouchers for 18 Arcane Quills. Then open the AC Get Spell Ink shop and buy 50 Entropic Ink. Use the leftover Quills to buy more Entropic Ink if you need it (they stack to 50).
+Now enter /spellcraft. Press Begin and choose Entropic Ink to make this combination. Simply drag each matching symbol from the left into the corresponding slot. Repeat this until Rank 10.
+

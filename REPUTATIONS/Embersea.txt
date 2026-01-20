@@ -1,0 +1,50 @@
+Uses
+
+Class
+Blaze Binder.
+
+Quests
+
+Everyone
+
+Complete the Embersea storyline from /embersea. /pyrewatch > /feverfew (don't complete all of Blazebalm's quests if you're a non-member looking to farm "Where There's Smoke...") > /phoenixrise > /fireforge > /lavarun.
+
+
+
+Member
+
+Complete the storyline from /brimestone > /nightmare.
+
+Complete Malorie's "Embersea Membership Dues" quest from /collection.
+
+Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+
+Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+
+Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+
+Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+If you haven't completed Blazebalm's "Tiger, Tiger Burning Bright" quest from /feverfew, try farming their "Where There's Smoke..." quest by walking left>up from Blazebalm. Repeat this process.
+
+If you've completed Blazebalm's quests and want to farm in a group, complete Pyralis' "Defeat Mega Tyndarius" quest from /lavarun. Requires completing the entire Embersea storyline.
+
+If you can't group up, complete High Adept Caustus' "Slay the Blazebinders" quest from /fireforge by defeating the Blazebinder in the same map (take left path).
+
+Dailies
+
+Member
+
+Complete Kyron's "Kill It With Fire" quest from /embersea by defeating Coal Creepers, Pyradons, and Fyresyn in the same map. Do this at the same time as the non-member quest below.
+
+
+
+Non-Mem
+
+Complete Makhai's "Forged in Battle" quest from /embersea by defeating Coal Creepers and Pyradons in the same map.

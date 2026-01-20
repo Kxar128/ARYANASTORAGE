@@ -1,0 +1,57 @@
+Uses
+
+Classes
+Yami no Ronin, Imperial Chunin.
+
+Item
+Void Shogun.
+
+Quests
+
+Everyone
+
+Complete Kitsune's 13 Lords of Chaos chapter (click on the Map button at the bottom-left then select the Story tab). This includes /yokaiboat > /akiba > /dragonkoi > /hachiko > /bamboo > /junkyard > /yokairiver > /yokaigrave > /odokuro > /yokaiwar > /kitsune.
+
+Also complete /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress.
+
+
+
+Member
+
+Rank 1-3
+
+Complete Announcer Guy's quests at /dragonkoiz. Accept them then select Battle. You only need to do these once unless you're farming them, in that case repeat "Best Challenge" and don't select Continue otherwise you'll get thrown out of the room.
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Rank 4-10
+
+Complete Neko Mata's "Who is the Greatest?" quest from /yokaigrave by defeating the Level 19 O-dokuro at /odokuro. Requires completing Kitsune's 13LoC chapter up to /odokuro. If you'd prefer, you can complete the above method instead - it's easier for low-level people.
+
+Alternative
+
+If you don't want to do the above methods, complete Malorie's "Yokai Membership Dues" quest from /collection. Normally this quest rewards 5k Rep but for this faction it gives 15k.
+
+Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+
+Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+
+Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+
+Getting from Rank 1-10 for this faction requires 9 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+Accept "Pockey Challenge" from Announcer Guy at /dragonkoiz. Then, select Battle > Pockey Challenge. Keep defeating them until you're 3/3 then turn in the quest. Don't select Continue otherwise you'll get thrown out of the room.
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Dailies
+
+Non-Mem
+
+Complete Kunoichi's "Shadow Embargo" quest from /akiba by defeating Shadow Creepers at /bludrut2 (walk left>down to find 2).

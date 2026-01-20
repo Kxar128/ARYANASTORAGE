@@ -1,0 +1,62 @@
+Uses
+
+Classes
+Legion Revenant, DoomKnight.
+
+Items
+EVA, SDKA, VAS, ADK, AFDL, NSoD, HDK, Awe-scension.
+
+Quests
+
+Everyone
+
+Obtain Nation items with Nulgath Larvae.
+
+Complete Travon's quests at /mobius.
+
+
+
+Gravelyn's quests require you to be Evil-aligned. Change from Good to Evil by turning in a Contract, bought for 100k Gold from her.
+
+
+
+Member
+
+Rank 1-3
+
+Complete Gravelyn's "Dangerous Decor" quest from /shadowfall by defeating Chairs, Tables, and the Bookcase at /sleuthhound.
+Access these enemies by walking into the house, going up the stairs, then going left. The Table and Chair are located here. Walk down>right to find the Bookcase. You can get to Gravelyn faster if you join /shadowvoid then go left to exit the map.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Rank 4-10
+
+Complete Gravelyn's "Bone-afide" quest by defeating Skeletal Warriors and Vikings at /castleundead.
+
+
+
+Non-Mem
+
+Rank 1-3
+
+Complete Gravelyn's "Youthanize" quest from /shadowfall by defeating green Slimes at /swordhavenbridge. You can get to Gravelyn faster if you join /shadowvoid then go left to exit the map.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Rank 4-10
+
+Complete Gravelyn's "Bone-afide" quest by defeating Skeletal Warriors and Vikings at /castleundead.
+
+Dailies
+
+Member
+
+Complete Gravelyn's "Slithering Shadows" quest from /shadowfall by defeating Shadow Serpents at /bludrut4. This quest also rewards Shadow Skulls - 30 of them can be merged for DeathKnight Lord at /bonecastle.
+
+If you're above Rank 4, complete "Sea No Evil" from Gravelyn by defeating Fishbones at /voltaire. You'll have to watch a cutscene and defeat all enemies on each screen to progress every time you attempt this.
+
+Complete Knave1's "Become the Desterrat Moya (daily)" quest from /banished by defeating the Desterrat Cruor and Crux in the same map. Requires completing his previous quests to access.
+
+
+
+Non-Mem
+
+Complete Gravelyn's "Inquisitor Inquiry" quest from /shadowfall by defeating Inquisitor Guards at /citadel.

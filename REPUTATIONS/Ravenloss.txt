@@ -1,0 +1,22 @@
+Uses
+
+Class
+Arachnomancer.
+
+Quests
+
+Everyone
+
+Complete the storyline from /twilightedge > /weaverwar > /ravenloss.
+
+
+
+Member
+
+Complete Riadne's "Impress the Arachnomancer" quest from /ravenloss (Click Why We're Here > Arachnomancer Class? > Legend Rep Quest) by defeating the Chaosweaver Mages at /weaverwar (select Cleanse Firestorm). Requires completing the storyline from /twilightedge > /weaverwar.
+
+
+
+Non-Mem
+
+Complete Riadne's "Slay the Spiderkin" quest from /twilightedge by defeating the Chaosweaver Mages at /weaverwar (select Cleanse Firestorm). Requires completing the storyline from /twilightedge > /weaverwar.

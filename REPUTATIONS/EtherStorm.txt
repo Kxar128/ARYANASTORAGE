@@ -1,0 +1,37 @@
+Uses
+
+Classes
+Elemental Dracomancer. Non-mem method will also earn you Dragonslayer and Dragonslayer General.
+
+Quests
+
+Everyone
+
+Complete the storyline from /firestorm > /airstorm > /waterstorm > /earthstorm > /dragonhame > /dragonheart.
+
+
+
+Member
+
+Accept Mino's "Clash to a Cure" and "Sulfur Pure" quests from /airstorm (keep walking right from the beginning - they look like a cat person). Then accept Hs'Sakar's "Something Stinks" quest from /firestorm. Lastly, accept Il'Lar's "Too Hot To Handle" quest from /dragonhame (quickly access by exiting through the lava spiral portal from /firestorm). 
+Once you've got all the quests accepted, defeat Sulfur Imps and Living Fire at /firestorm (quickly access by exiting left from /airstorm). It's faster to farm them over the two rooms with 2 of each enemy. But you can just farm a screen with 1 of each if you don't like to move around.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+Purchase Dragonslayer from Galanoth's DragonSlayer Rewards shop at /lair. Then get it to Rank 10. This is best done by farming the Frost Spirits at /icestormarena (see XP section of the New Player guide if you're below Level 75). Since your abilities are short-range, stand between the two close enemies at the bottom-right and enable Freeze/Lock Monster Position in Advanced Options. You won't be able to use 2 or 5 because they can only activate against Dragon enemies. 
+Once that's done, go to /dragontown and accept Galanoth's "DragonSlayer Farming Quest" under Quests and "Dragonslayer General Class" quest under Dragonslayer General Class > Become a Dragonslayer General. Also accept Pyrik's "Dragon Defender Farming Quest". Then clear out all the enemies in the map excluding the right path, anything further than the 1st room in the left path, and Chaos Fluffy. This will need to be done again if you relog.
+Follow this route to complete the 3 quests in the most efficient manner: 
+
+Go up>left from Galanoth and clear the room until you have a Deluge Draco and Dragonslayer kill.
+
+Walk right and get a Chaos Draco and Dragonslayer General kill.
+
+Head upwards and clear out every enemy twice.
+
+Walk left and clear out the room until the quests are done (about 2-3 full room clears).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+Save 75 Enchanted Scales and 100 Dragon Claws for Dragonslayer General, which you can merge at Galanoth.

@@ -1,0 +1,20 @@
+Uses
+
+Class
+Dragon of Time.
+
+Quests
+
+Member + Non-Mem
+
+Requires Level 15: If you don't have Rank 10 Lycan, accept Arlen's "Studying the Blood Ancient" quest from /classhall and Constantin's "Sanguine" quest from /lycan. For them, defeat the Albino Bats at /dwarfhold then join /wargrounds and exit upwards to defeat Sanguine. This is slower than the below method but you're also farming 2 factions at the same time.
+
+Requires Level 15: Otherwise, complete Arlen's "Studying the Rogue" quest from /classhall by defeating the Drow Assassin and D'wain Jonsen at /wardwarf (located at end of map). 
+
+
+
+Member Alternative
+
+Rank 3+
+
+If you're in a group or you're high level with a decent soloer, complete the quests at /druids then repeat "Quite the Problem" by defeating the Young Void Giant in the same map. Otherwise, complete an above method.

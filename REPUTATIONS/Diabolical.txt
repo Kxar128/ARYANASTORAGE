@@ -1,0 +1,46 @@
+Uses
+
+Cosmetics Only.
+
+Quests
+
+Member + Non-Mem
+
+Choose your method:
+
+Complete Hikari's Riddle Task quests from /banished by defeating the following enemies:
+
+Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+
+ChaosWeaver Warrior at /twilightedge (keep walking right).
+
+This is the quest that you would repeatedly complete for this method. It's quicker than "Insomniacs" but requires almost 3x the amount of turn-ins.
+Tiger Leech at /mudluk. If you can't /goto someone, from the starting screen, walk left>right>up>left>up>up and click To Tiger Leech at the top-right.
+If you haven't done the storyline before, complete it from /arcangrove > /cloister > /mudluk. Then you can unlock the gate by walking from the starting screen: left>right (click red crystal in this room)>up (click red crystal)>left>top-left>left (click red crystal)>right>up.
+
+Death Alive at /deathsrealm. If you can't /goto someone, complete the quests at /death > /deathsrealm. The locations for completing these quests are: 
+/death: /castleundead > /river, /lair, /citadel, /boxes, /orecavern, /creatures.
+/deathsrealm: /bludrutbrawl or /doomarena > /deathsrealm x2 > /trainers > /elemental > /deathsrealm.
+
+Void Dragon at /thevoid (keep walking right then back until you get this spawn).
+
+Desterrat Moya at /banished. If you can't /goto someone, complete Knave1's quests in the same map.
+
+
+
+Complete Hikari's Diabolical quests from /banished by defeating the following enemies:
+
+Eldritch Abomination at /transformation. Either /goto someone or complete Loremaster Anka's quests to access.
+
+Bonefeeder Spider at /blackhorn (walk up then continue right).
+
+Lightguard enemies at /noxustower (continue left to find 3).
+
+Ghostly Hasu at /aozorahills. Either /goto someone or complete Ai no Miko's and Mahou's quests to access.
+
+Purchase a Gold Voucher 100k from Alina's Get Dragon Runes shop at /alchemyacademy. Then trade it for the Vial of Antitoxins in her Buy Potions shop.
+
+Manifestation of Grief at /ghostnexus (located near the end of the map). Either /goto someone or complete the quests from /aozorahills > /ghostnexus to access.
+
+This is the quest that you would repeatedly complete for this method. It's slower than "The Third Task" but requires fewer turn-ins and is more easily completable by lower level players.
+Dream Larva at /somnia (walk up twice from the starting screen - there is no room with 2).

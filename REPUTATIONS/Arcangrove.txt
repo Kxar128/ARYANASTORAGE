@@ -1,0 +1,42 @@
+Uses
+
+Classes
+Shaman, Evolved Shaman, StoneCrusher.
+
+Items
+EVA, AFDL.
+
+Quests
+
+Everyone
+
+Complete Ledgermayne's 13LoC chapter (Map > Story). This includes /arcangrove > /cloister > /mudluk > /natatorium > /gilead > /mafic > /elemental > /ledgermayne.
+
+
+
+Member
+
+Complete Malorie's "Arcangrove Membership Dues" quest from /collection.
+
+Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+
+Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+
+Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+
+Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+Accept Rayst's "A Necessary Sacrifice", Blakk's "Thistle Do Nicely", Moonwrath's "ArcanRobe", and Reens' "Thyme and a Half" quests from /arcangrove.
+Complete these quests by defeating Seed Spitters at the bottom of the map (has 3 in the same room).
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Dailies
+
+Complete Reens' "Experiment 107: Elder's Blood Potion" quest from /arcangrove by defeating Gorillaphants. This will reward you with Elders' Blood, which is used for Void Highlord.
+Other daily quests aren't worth the effort.

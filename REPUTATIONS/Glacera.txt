@@ -1,0 +1,19 @@
+Uses
+
+Class
+Glacial Berserker.
+
+Quests
+
+Everyone
+
+Complete the storyline from /icewindpass > /icewindwar > /icepike.
+
+
+
+Member + Non-Mem
+
+If you have a class like Eternal Inversionist, which can target 6 enemies at once, complete Syrrus' "Free the Moglins" quest at /icepike by defeating Frozen Moglins. Otherwise, complete Syrrus' "Thin the Horde (Farming Quest)". The enemies you need to farm are near the end of the map.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+If you're in a very strong group, doing Syrrus' "Take down Kezeroth!" quest will be faster - complete it by defeating Chained Kezeroth near the end of the map.

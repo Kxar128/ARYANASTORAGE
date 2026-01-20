@@ -1,0 +1,41 @@
+Uses
+
+Classes
+UndeadSlayer, DeathKnight, Blaze Binder.
+
+Items
+NSoD, ENNH, EVA, CHPA.
+
+Quests
+
+Everyone
+
+Complete the DoomWood storyline. This includes: /lightguard > /doomwood > /maul > /necrotower > /necrou > /temple > /shadowfallwar > /lab > /mountain > /vordredboss > /necrodungeon > /necrocavern.
+
+Complete the Zombies storyline. This includes: /doomhaven > /doomwar and /yulgarzombie (if member)
+
+Complete the storyline from /thorngarde > /stonewood > /techdungeon > /stonewooddeep > /techfortress.
+
+Obtain BLoD and SDKA (if member).
+
+
+
+Member
+
+If you're in a group, complete GrimDawn/Dusk's "Executive Doom OverLord Challenge" quest from /necrodungeon by defeating the Doom Overlord in the same map.
+
+Otherwise, complete Yulgar's "Free Us, Oh Brave One!" quest from /yulgarzombie by defeating the Dark Dracozombie in the same map. 
+Requires completing Yulgar's previous quests and keeping the reward (the enemies for the previous quests are located at /templeb > /battleunderb > /doomwar).
+
+
+
+Non-Mem
+
+If you're in a group, complete GrimDawn/Dusk's "Doom OverLord Challenge" quest from /necrodungeon by defeating the Doom Overlord in the same map.
+
+Otherwise, complete "Minion Morale", "Shadowfall is DOOMed", and "Grave-lyn Danger" quests from /shadowfall (click the Quests button at the top-right). You have to accept each of them separately from each screen in the map but then you can complete them all in the same room - I suggest the one with 2 Undead War Mages and 2 Ghouls.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Dailies
+
+Complete the "Mine Crafting" quest from Artix, and "Hard Core Metals" from Vayle if you're a member, from /necropolis by defeating Balboa at /stalagbite. These quests reward metals which are used for BLoD, SDKA, and NSoD.

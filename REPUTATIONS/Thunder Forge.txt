@@ -1,0 +1,25 @@
+Uses
+
+Class
+Darkblood Stormking.
+
+Quests
+
+Everyone
+
+Complete LionFang's 13LoC chapter (Map > Story). This includes /blackhorn > /onslaughttower > /falguard > /deathpits > /venomvaults > /stormtemple.
+
+
+
+Member
+
+Accept Logash's "Rotstone Daggers", "Logash's Line", and "The Drums Of The Dead" quests from /deathpits. Then go down the ladder to the left and farm the 3 Rotting Darkbloods. Turn the quests in as you get each drop.
+
+
+
+Non-Mem
+
+Complete Sir Valence's "You've Been Noticed" quest at /venomvaults. For it, just keep walking left until you find 2 Chaonslaught Casters and farm them. If you're an advanced player, consider the below method.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+If you're high level and have a strong soloing class (or you're in a group), accept Logash's "The Chaos Eye of Vestis" and "Bone Ladders" quests at /deathpits. Then just farm Wrathful Vestis (you can get to them quickly by pressing the arrow pointing downwards at the top-right). Because the Chaos Eye isn't a guaranteed drop, if RNG isn't on your side, the method at /venomvaults will be faster.

@@ -1,0 +1,55 @@
+Uses
+
+Classes
+ArchPaladin, (Classic) Paladin.
+
+Item
+CHPA.
+
+Quests
+
+Everyone
+
+Complete the storyline from /manor > /poisonforest and Saa'thel's quests at /mobius.
+
+
+
+Alteon's quests require you to be Good-aligned. Change from Evil to Good by turning in a Contract, bought for 100k Gold from him.
+
+
+
+Member
+
+Complete Alteon's "Rumble With Grumble" quest from /castle (keep walking upwards to find him) by defeating Grumble at /sewer.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+
+
+Non-Mem
+
+Rank 1-3
+
+Complete Alteon's "That Hero Who Chases Slimes" quest from /castle (keep walking upwards to find him) by defeating green Slimes at /swordhavenbridge.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Rank 4-10
+
+Complete Alteon's "Tomb With A View" quest by defeating Skeletal Warriors and Vikings at /castleundead. This is a lot faster than farming any quests at /poisonforest.
+
+If you don't yet have the Burning Blade weapon, try completing the quests from /celestialrealm > /lostruins > /lostruinswar. Then, farm Aranx's "Defeat the Diabolical Warlord!" quest at /lostruinswar.
+
+Dailies
+
+Member
+
+Complete Alteon's "Brace-r Yourself!" quest from /castle (keep walking upwards to find him) by defeating Cyclops Raiders at /mobius.
+
+If you're above Rank 4, complete "Skele-Tongue" from Alteon by defeating Big Jack Sprat at /graveyard.
+
+Complete Knave1's "Prevent the Return (daily)" quest from /banished by defeating Doomwood Soldiers and Ectomancers at /doomwood. Requires completing his previous quests to access.
+
+
+
+Non-Mem
+
+Complete Alteon's "Battle Under Battleon" quest from /castle (keep walking upwards to find him) by defeating Skeletal Warriors and Skeletal Vikings at /castleundead. Complete it alongside "Tomb With A View".

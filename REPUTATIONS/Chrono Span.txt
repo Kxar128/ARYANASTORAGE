@@ -1,0 +1,40 @@
+Uses
+
+Class
+Thief of Hours.
+
+Items
+Step 5 of J6 Story.
+
+Quests
+
+Everyone
+
+Complete Iadoa's 13LoC chapter (Map > Story). This includes /thespan > /timelibrary > /timevoid > /aqlesson > /dflesson > /mqlesson > /deepchaos > /timespace.
+
+
+
+Member
+
+Complete Malorie's "ChronoSpan Membership Dues" quest from /collection. Normally this quest rewards 5k Rep but for this faction it gives 15k.
+
+Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+
+Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+
+Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+
+Getting from Rank 1-10 for this faction requires 9 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+If you're in a group, try completing Warlic's "Defeat Ultra Iadoa" quest from /ultravoid. I suggest getting a Dragonoid of Hours from Dragonoid at /mqlesson as it disables his Astral Shift ability - this doesn't need to be equipped to work, just in your inventory. This quest will also reward a character page badge.
+
+
+
+Non-Mem
+
+Complete Mince's "Do the 'do" quest from /thespan. To get to Mince from Warlic (start of map), walk left>up>left>up.
+Defeat the Moglin Ghost from outside Mince's shop and the Tog & Minx Fairy just right of it.
+
+If you'd prefer not to move around at all, complete Kairos' "Time is running out..." quest from /portalwar by defeating Tempus Larvae in the same map. Do this in the screen upwards from the fountain and Neverborn.

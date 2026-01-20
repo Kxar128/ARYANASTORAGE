@@ -1,0 +1,45 @@
+Uses
+
+Farm
+Awe-scension.
+
+Quests
+
+Member + Non-Mem
+
+Complete Bamboozle's quests at /cragglerock. I recommend pinning the quests.
+
+"Star of the Sandsea"
+Defeat a Kalestri Worshiper at /wanders.
+
+"Ice Diamond"
+Complete King Coal's "Trade for the Ice Diamond" quest from /kingcoal by defeating Snow Golems at /mountfrost.
+
+"Dark Bloodstone"
+Complete "Trade for the Dark Bloodstone" from Orlok at /safiria by defeating Blood Maggots. There are two on the same screen in the castle.
+
+"Doomstone"
+Defeat Painadin Overlord at /brightfall (walk left).
+
+"Void Opal"
+Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+
+"Mana Crystal"
+Click on the blue crystal just right of the Crystal Mana Construct at the end of the /downward map. Either /goto someone or complete Warlic's and Cysero's quests from /battleontown > /downward to access this.
+
+"Songstone"
+Complete Dorian's "Trade for the Songstone" quest from /mythsong by clicking on crystals around the map. One is hidden behind the French Horned Toadra.
+
+"Butterfly Sapphire"
+Complete Alina's "Trade for the Butterfly Sapphire" quest from /alchemyacademy by defeating Trollola Plants at /bloodtusk.
+
+"Understone"
+Complete Yara's "Trade for the Understone" quest at /battleunderc by defeating any enemies here.
+
+"Rainbow Moonstone"
+Complete Dr'Rader's "Trade for the Rainbow Moonstone" quest at /earthstorm by defeating Diamond, Emerald, Ruby, and Sapphire Golems around the map. Keep the Floozer that drops as it's needed for Awe-scension.
+
+"Time Quartz"
+Join /thespan then, from Warlic, walk left>down>up into Inn and talk to the NPC.
+
+After completing all quests, just farm "Ice Diamond" to get to Rank 10.

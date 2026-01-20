@@ -1,0 +1,19 @@
+Uses
+
+Cosmetics Only.
+
+Quests
+
+Member + Non-Mem
+
+Accept the following quests from the Quest Board at /dreadrock (it's located left of Kaiser Vance in the 2nd room). These include:
+"The Scythe's Edge", "Forged in Blood", "The Abyss Stares Back", "Knife to the Back", "The Coast is Clear", "Endurance Tesssssst", "Ghastly Blades", and "Glub, Glub, Glub". 
+If you're a Legion member, also accept "Undead Champion Recruitment".  It requires you to have the Undead Champion armour, which can be bought with Gold from Dage's Legion shop at /underworld. If you're not a Legion member, accept "Recruiting for the Undead Legion" instead. Don't accept both as their drops overlap and the Legion quest is superior.
+You should also accept "Dreadrock Gem Exchange" but you will need an Unidentified 13 to do so. If you're not sure how to get this, see the Reagent Library.
+Once you have all your quests accepted, simply walk upwards from the Quest Board and defeat the enemies there. Leave the Ghastly Dreadrock Blades in the Custom Drop UI (enabled from Advanced Options) and turn in the quests each time you have 50 and 100 of them.
+Since there are so many temporary items that drop from this method, it may get laggy. Accept fewer quests if you want to avoid this.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+If you're averse to farming enemies and turning in many quests, you can instead buy your way to Rank 10. At /dreadrock, click on the Quest Board and accept "Make a Donation". Then go left and open the fish bowl's (Deathgore's) shop. Each Dreadrock Donation Receipt can be exchanged for 2500 rep.
+Without any boosts, it would take 121m Gold to get from Rank 1 to Rank 10. With a consumable Rep boost and the Cape of Awe (or another 25% rep boost), this would drop to 49m. And if a server boost was active on top of that, it would cost 25m. You can see when server boosts will occur here.
+

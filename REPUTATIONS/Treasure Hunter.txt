@@ -1,0 +1,20 @@
+Uses
+
+Cosmetics Only.
+
+Quests
+
+Everyone
+
+Complete the 13LoC storyline to do Valencia's Chaos Beast quests at /museum. Each enemy has its location in the quest description.
+
+Obtain Awe-scension. Make sure to equip boosts for the final quests to obtain lots of Rep and Gold.
+
+
+
+Non-Mem + Mem
+
+If you're farming alone, accept Inanitas' "Qualifying Quest" from /dragonrune. Then join /dwarfprison, walk right, and turn in the quest after each Balboa kill.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+If you're in a group, accept Inanitas' "It Takes a Special Brand of Glory" and farm Chaos Fluffy at /dragontown (keep walking up then left - clear each screen as you go). The drop for this quest doesn't have a 100% drop rate.

@@ -1,0 +1,20 @@
+Uses
+
+Class
+Chaos Slayer.
+
+Item
+ENNH.
+
+Quests
+
+Member + Non-Mem
+
+Complete Loremaster Maya's "Embrace Your Chaos" quest from /mountdoomskull by defeating enemies in the same map. This is most efficiently done if you keep walking until you reach the screen with 2 Chaorrupted Rogues and 2 Chaos Drows.
+Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+
+Dailies
+
+Member + Non-Mem
+
+Complete the daily version of the quest from the above section in the same manner.

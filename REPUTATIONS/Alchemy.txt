@@ -1,0 +1,183 @@
+Overview
+
+Alchemy is a minigame where you can create consumables called Potions, Tonics, and Elixirs (all 3 might be abbreviated as Pots or Drugs). They can be equipped into and are used from your 6th slot.
+
+Potions/Philtres
+These have short effect durations (usually 15-45s) so use them in combat rather than before. They boost secondary stats, like Haste, Evasion, Crit Chance, and more. They might also restore HP or MP.
+
+Tonics
+These have longer effect durations (up to 15m) so you can use them before you start combat or during. They boost primary stats, like Strength, Dexterity, Intelligence, Endurance, Wisdom, and Luck.
+
+Elixirs
+These are a mix between the previous two. They boost secondary stats (at a smaller amount) like Potions but last a long time like Tonics.
+
+You can also get Basic, Potent, or Unstable versions of a consumable. Basic is a weaker version and Potent is a stronger version. Unstable is also stronger but comes with a drawback, making it sometimes not worth using. If you're using a Dragon Runestone to brew (more info below) Potions and Elixirs will always be Potent or Unstable while Tonics will always be Regular or Unstable.
+
+Best Consumables
+
+If you don't know what to use, Lucky classes will generally use Battle/Fate and Wizard classes will generally use Malevolence/Fate (see whether your class uses Lucky or Wizard here). Felicitous Philtre and Potent Honour Potion preference depends on each class and you.
+
+All mixed consumables below require Rank 8 Alchemy (Gebo Rune). 
+
+
+
+Elixirs
+
+Battle Elixir
+Increases Physical Dmg by 15/20/25% for 15m.
+Potent: 4 Gold Voucher 500k's = 8 Elixirs. Or, mix with Doomatter + Nimblestem.
+Regular: 4 Gold Voucher 500k's = 10 Elixirs. Or, mix with Dragon Scale + Rhison Blood.
+
+Malevolence Elixir
+Increases Spell Power by 15/20/25% for 15m.
+Potent: 4 Gold Voucher 500k's = 8 Elixirs. Or, mix with Doomatter + Necrot/Nimblestem.
+Regular: 4 Gold Voucher 500k's = 10 Elixirs. Or, mix with Doomatter + Dried Slime.
+
+
+
+Tonics
+
+Fate Tonic
+Increases Luck by 20% for 15m. Unstable reduces Endurance by 10%.
+Unstable: 4 Gold Voucher 500k's = 6 Tonics. Or, mix with Dried Slime + Trollola Nectar.
+Regular: 4 Gold Voucher 500k's = 10 Tonics. Or, mix with Arashtite Ore/Dried Slime/Trollola Nectar + Any other reagent.
+
+Sage Tonic
+Increases Intelligence by 20% for 15m. Unstable reduces Endurance by 10%.
+Unstable: 2 Gold Voucher 500k's = 6 Tonics. Or, mix with Chaoroot + Chaos Entity.
+Regular: 2 Gold Voucher 500k's = 10 Tonics. Or, mix with Arashtite Ore + Doomatter/Necrot/Dragon Scale.
+
+Body Tonic
+Increases Endurance by 20% for 15m. Unstable reduces Luck by 10%.
+Unstable: 2 Gold Voucher 500k's = 6 Tonics. Or, mix with Nimblestem + Roc Tongue.
+Regular: 2 Gold Voucher 500k's = 10 Tonics. Or, mix with Roc Tongue + Any other reagent.
+
+Might Tonic
+Increases Strength by 20% for 15m. Unstable reduces Endurance by 10%.
+Unstable: 2 Gold Voucher 500k's = 6 Tonics. Or, mix with Chaos Entity + Fish Oil.
+Regular: 2 Gold Voucher 500k's = 10 Tonics. Or, mix with Dragon Scale + Rhison Blood.
+
+
+
+Potions
+
+Honour Potion (Requires Rank 10 Good)
+Increases Damage by 50/75% but increases Mana Cost by 15% for 25/35s.
+Potent: 1 Gold Voucher 500k = 5 Potions. Or, mix with Chaos Entity + Fish Oil.
+Regular: 2 Gold Voucher 100k's = 25 Potions. Or, mix with Chaoroot + Necrot/Dragon Scale/Dried Slime/Rhison Blood.
+
+Felicitous Philtre
+Increases Luck by 50% for 45s.
+2 Gold Voucher 100k's = 25 Potions. Cannot be mixed.
+
+Potion of Evasion
+Increases Evasion by 50% and Haste by 15% for 15s.
+Purchase from Reens' at /arcangrove. If you want a higher stacking but more expensive version, trade 2 Gold Voucher 100k's for 25 Fleet Foot Philtres.
+
+Reagents
+
+Arashtite Ore
+Trade a Dragon Runestone for 2.
+Or, defeat Deathmoles at /orecavern.
+
+Chaoroot
+
+Purchase a Receipt of Swindle from Swindle's Ripoff Emporium at /tercessuinotlim and trade it for 10 Chaoroot. 
+
+If you don't want to spend Gold, defeat Hydra Heads at /hydra - if you've already completed the story here, talk to the fairy at /mobius and select The Hydra.
+
+You may also earn this from Escherion while farming "Supplies to spin The Wheel of Chance".
+
+Chaos Entity
+May drop from Fehu Rune while using Fish Oil + Dried Slime, Chaoroot + Dragon Scale, or Rhison Blood + Searbush.
+Might also drop from Gebo Rune while using Fish Oil + Arashtite Ore/Ice Vapour or Chaoroot + Necrot.
+
+Doomatter
+
+Purchase a Receipt of Swindle from Swindle's Ripoff Emporium at /tercessuinotlim and trade it for 10 Doomatter.
+
+ If you don't want to spend Gold, defeat Fear Feeder at the end of the map at /creepy. This requires membership.
+
+If you're a non-member, join /vordredboss and click continue in the middle. As the cutscene is playing, you can't see it but you can actually still attack Vordred - just use a class that has powerful long-range abilities. This will skip a lot of the cutscene as you spam-click Next at the top-right. The final instance of the cutscene cannot be skipped by attacking.
+
+If you don't want to spam that much, defeat Creature Creation at /maul.
+
+Dragon Scale
+Trade a Dragon Runestone for 2.
+Or, defeat Draconians at /lair. 
+
+Dried Slime
+Trade a Dragon Runestone for 2.
+Or, defeat Crashrooms at /orecavern.
+
+Fish Oil
+Trade a Dragon Runestone for 3.
+Or, may be rewarded when using a Dragon Runestone with any reagents.
+
+Ice Vapour
+Trade a Dragon Runestone for 2.
+Or, defeat Snow Golems at /mountfrost or Water Draconians at /lair (will also reward Dragon Scales).
+
+Lemurphant Tears
+Trade a Dragon Runestone for 2.
+Or, defeat Lemurphants and Jungle Tigriffs at /ravinetemple. 
+
+Moglin Tears
+Trade a Dragon Runestone for 2.
+ Or, defeat Sweetish Fish at /twig (take middle path to find them).
+
+Necrot
+
+Purchase a Receipt of Swindle from Swindle's Ripoff Emporium at /tercessuinotlim and trade it for 10 Necrot.
+
+If you don't want to spend Gold, defeat the Undead Temple Mage at /templeb (I find that it drops more from the Mage than Fighters). This requires membership.
+
+If you don't have membership, defeat Skeleton Fighters at /deathsrealm (there is no room with 2).
+
+Nimblestem
+Trade a Dragon Runestone for 2.
+Or, defeat Swamp Frogdrakes and Lurkers at /mudluk (walk left>up from Paddylump to find 2 Frogdrakes - they have lower HP than Lurkers).
+
+Rhison Blood
+Trade a Dragon Runestone for 2.
+Or, defeat Rhison at /bloodtusk (there is no screen with 2).
+
+Roc Tongue
+Trade a Dragon Runestone for 2.
+Or, defeat Rock Roc at /roc.
+
+Searbush
+Trade a Dragon Runestone for 2
+Or, defeat Living Fire and Sulfur Imps at /firestorm (keep walking down to find 2 Living Fire and 1 Sulfur Imp).
+
+Trollola Nectar
+Trade a Dragon Runestone for 2.
+Or, defeat Trollola Plants at /bloodtusk (walk right to find 2).
+
+Minigame
+
+Reagents
+Once you know what Potion, Tonic, or Elixir you want to create, check what Reagents it requires and obtain them - any that are used for farms will have their instructions on this site in their respective guide. The best consumables can be found in the above section with their information. You might need more reagents than you think because none are a guaranteed drop from the /alchemy minigame.
+
+
+
+Runes
+I highly recommend trading Gold Vouchers for Dragon Runestones in Alina's Get Dragon Runes shop at /alchemyacademy. They will make it so you don't have to do anything in the minigame.
+
+After, join /alchemy. If you're using the Dragon Runestone, select the first Rune (it says +Bonus rep). Otherwise, check what the base level of the potion is and use the guide below to get your desired consumable:
+Jera - Level 5-15 - Unlocks at Rank 1
+Uruz - Level 16-25 - Unlocks at Rank 3
+Fehu - Level 26-40 -  Unlocks at Rank 5
+Gebo - Level 41+ - Unlocks at Rank 8
+
+
+
+Mechanics
+If you're using the Dragon Runestone, you don't need to worry about any mechanics. If you aren't, your main goal is to fill an empty potion bottle by balancing the heat.
+To be efficient, the output should be maintained at 3 green circles, or 2 at the least - keep the mixture temperature at about 70-80 degrees. Use the red button to increase the heat or the blue button to freeze the runestone and stop it from overheating. Icicles from the blue button don't regenerate - fireballs from the red button do regenerate.
+The harder the rune, the easier it is for it to overheat. Sometimes, a fireball will not hit the runestone and instead set the room on fire, putting the meter at 100 - you cannot avoid this. Similarly, the ice may not cool down the runestone and could actually put your meter at -30. If this happens, you may as well restart because you won't lose any reagents for leaving. You won't lose any for failing either but it's faster to just leave.
+
+
+
+Ranking Up
+If you want to rank up quickly, obtain 30 Chaoroot and Necrot from Swindle's Ripoff Emporium at /tercessuinotlim. Use them with Dragon Runestones or the highest rune you have access to.
