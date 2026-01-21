@@ -1,0 +1,30 @@
+Overview
+
+Worth Getting?
+Yes, if you're looking for a dodge-based soloing class.
+
+Uses
+Best For: Dodge Soloing
+
+Enhancement
+Lucky + Awe Blast
+If you're lower level, you may want some Thief enhancements. Keep applying them until you're at or above 86.05% Evasion Chance, which you can check from the Stats Overview from the Knight button at the bottom-right. This amount of Evasion guarantees that you dodge every attack that isn't considered True Damage
+Enhancements guide
+
+Requirements
+
+Membership
+Although you need membership to obtain this class, it can still be used if your membership expires.
+
+Quest
+
+Merge 12 Saeculum Gems in Kairos' shop at /tachyon. These are rewarded from the "Chrono Class Quest", which you can accept from the button of the same name. The total amount of reagents that you would need is:
+
+12 Svelgr Fang
+Defeat Svelgr the Destroyer at /tachyon (~1% drop rate). Either /goto someone or complete Kairos' quests from /portalmaze > /tachyon to access.
+
+72 Sands of Time
+Defeat Chronorysa at /portalwar.
+
+144 Wraith Wisps
+Defeat Time Wraiths at /portalmaze.

@@ -1,0 +1,79 @@
+Overview
+
+Worth Getting?
+Yes, but not needed if you already have Void Highlord (except for Ultra Bosses).
+
+Uses
+Best For: Soloing & Defensive Support
+
+Enhancement
+ Lucky + Awe Blast
+Enhancements guide
+
+Requirements
+
+Level 80
+
+13 Lords of Chaos Story Completion
+To do this, open the Map and use the Story tab.
+
+Recommended: High-tier Support/Soloing Class
+These might include: Void Highlord, Lord of Order, ArchPaladin, or StoneCrusher.
+
+Quest
+
+Complete the "Chaos Avenger Class" quest from the NPC version of yourself at /championdrakath by obtaining the following items. Then, you can access the Chaos Avenger Class shop.
+
+Parallel Chaos Amulet
+Obtained by merging 20 Champion Drakath Insignias at /championdrakath. To get these, complete "Drakath, Champion of Chaos" quest at the same map. It rewards 5 Insignias and can be completed once per week (resets on Fridays at 12:01am EST). This means it will take at least a month to get. Optimal strategies to defeat Champion Drakath can be found here.
+
+Fragment of the Dragon
+Defeat the enemy version of yourself at /chaoslord.
+
+Fragment of Mount Doomskull x1300
+Defeat enemies at /mountdoomskull. This is most efficient at the screen that has 2 Chaos Drows and 2 Chaorrupted Rogues as they have very low HP. If you don't yet have Rank 10 Chaos, use this opportunity to get it by farming "Embrace Your Chaos" from Loremaster Maya at the same map.
+
+Fragments of the Lords A
+Obtain the following:
+
+Escherion's Robe
+Defeat Escherion at /escherion.
+
+Vath's Chaotic Dragonlord Armour
+Defeat Vath at /stalagbite.
+
+Chaos Shogun Armour
+Defeat Kitsune at /kitsune.
+
+Wolfwing Armour
+Defeat Wolfwing at /wolfwing.
+
+Discordia Armour
+Defeat Discordia at /palooza.
+
+Ledgermayne (Armour)
+Defeat Ledgermayne at /ledgermayne.
+
+Fragments of the Lords B
+Obtain the following:
+
+Tibicenas (Armour)
+Defeat Tibicenas at /djinn.
+
+Soul of Chaos Armour
+Drefeat Khasaanda at /dreamnexus.
+
+Iadoa (Armour)
+Defeat Iadoa at /timespace. I recommend getting a Dragonoid of Hours from Dragonoid at /mqlesson as it disables Iadoa's Astral Shift ability. It doesn't have to be equipped to work.
+
+Chaos Lionfang Armour
+Defeat Lionfang at /stormtemple.
+
+Chaos Lord Alteon (Armour)
+Defeat Chaos Lord Alteon at /swordhavenfalls.
+
+Xiang Chaos
+Defeat Xiang at /mirrorportal. I suggest using Sentinel, Dragon of Time, or Healer for this fight as they all have abilities that deal damage based on your HP.
+
+Fragment of the Queen x13
+Defeat The Queen of Monsters at /transformation. You will have needed to complete the storyline from /forestreach > /deepforest > /transformation.

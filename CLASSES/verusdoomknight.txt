@@ -1,0 +1,69 @@
+Not really any main prerequisites, just that you must be level 40 and by the final quest, level 80. This is an endgame class so you should have probably met that threshold by now.
+
+"Body, Soul and Domination":
+    - Join /underrealm and defeat Fear till he drops 13x of his bones.
+    - Head to /brainmeat and kill the brain matter for his drops.
+    - Travel to /titanattack and defeat the Titanic Doomknight.
+    - Defeat the Doomknight Armour in /valleyofdoom for his plating.
+
+Requires Level 50.
+
+"Of the Same Cloak":
+    - Join /necrodungeon and defeat the 4th Head of the 5 Headed Dracolich.
+    - Join /lumafortress and defeat Corrupted Luma till she drops the Doom Worshippers Blade of Doom.
+    - Head to /innershadows and defeat Krahen for the Empress' Shadowcloak.
+    - Get the Cybernetic Doom Blade from /techfortress from Mecha Vortrix.
+    - Get Asherion Armour from /stonewooddeep from Sir Kut.
+
+Requires Level 60.
+
+"Refracted Light":
+    - Head to /shadowoff and defeat the Shadowflame Paladin for their spikes.
+    - Go to /fiendshard and defeat the Paladin Fiend for their horns.
+    - Travel to /legionarena and beat the Dark Legion Paladin.
+    - Defeat General Goldhammer at /noxustower for their hammer chips.
+    - Grab shimmering tentacle from /chaoslab from Chaos Artix.
+
+Requires Level 70 and Rank 10 Evil Reputation.
+
+"Life Carve":
+    - Join /wanders and defeat Sek-Duat for Trace of Light.
+    - Head to /lightguardwar and defeat Extreme Noxus for Trace of Dark.
+    - Go to /eternalchaos and defeat Bandit Drakath for Trace of Wind.
+    - In /quibblehunt kill the Entropy Dragon for Trace of Earth.
+    - Head to /crashsite and defeat Protosartorium for his Trace of Energy.
+    - Go to /northlands and defeat Aisha's Drake for Trace of Ice.
+    - For Trace of Water, go /deepchaos and slay kathool.
+    - Head to /drakonnan and defeat Ultra Drakonnan for Trace of Water.
+    - Go /battlefowl and defeat the Zeuster Projection for Trace of Bacon.
+
+"Soul Fracture":
+    - Defeat alteon at /ultraalteon.
+    - Defeat dehtrix at /ebondungeon.
+    - Defeat sepulchuroth at /shadowstrike.
+    - Defeat drakath at /ultradrakath.
+    - Defeat gravelyn at /ebilcorphq.
+    - Defeat fragment of doom at /shadowvoid.
+
+Requires Level 80.
+
+"Doom Spikes":
+    - Get Xyfrag’s Slimy Tooth 5x (via void farming or Xyfrag).
+    - Get Nerfkitten's Fang 5x (similar void farming or Nerfkitten).
+    - Defeat Doomkitten x20 at /doomkitten.
+    - Defeat Voice of the Sea x10 at /seavoice.
+    - Defeat Deadly Duo at /infernalarena.
+
+"Necrotic Blade":
+    - Create Shadow Reaper of Doom (merge 300 Mirror Realm Tokens + 1 Undead Paladin Token).
+    - Read Sepulchure’s Helm guide.
+    - Read ArchDoomKnight guide.
+    - Merge items at /terminatemple and /doompirate.
+
+"Unleashed Doom":
+    - Defeat the inquisitors at /citadel.
+    - Defeat the robots at /deltavcore.
+    - Defeat the dragons at /etherwardes.
+    - Defeat Chaos Vordred at /necrocavern.
+
+You should now be able to obtain the class from the shop.

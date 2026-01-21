@@ -1,0 +1,59 @@
+Overview
+
+Worth Getting?
+Yes.
+
+Uses
+Best For: Farming & Secondary Support
+OK For: Soloing
+
+Enhancement
+Lucky + Spiral Carve (use Health Vamp if needed)
+Enhancements guide
+
+Requirements
+
+Level 50
+
+Rank 10 Evil
+
+Quest
+
+If you don't want to purchase this class with ACs, complete the "Void Promotion" quest from Oblivion at /tercessuinotlim and trade the rewarded Abyssal Contract in the ArchFiend Merge shop. Use the Reagent Library for the following reagents:
+
+Unidentified 13 x3
+
+Pink Star Diamond of Nulgath
+
+Immortal Joe's Black Star
+Defeat Mercutio at /mercutio.
+
+Abyssal Star
+Purchase from Diligas' Diamond Shop at /evilwarnul. It requires:
+
+Dark Crystal Shard x200
+
+Tainted Gem x300
+
+Gem of Nulgath x200
+
+Gold Star of Avarice
+Purchase from Swindle's Ripoff Emporium at /tercessuinotlim. You'll need almost 20m Gold to merge an Unmoulded Fiend Essence with 16 Receipts of Swindle, which are also both bought from Swindle.
+
+Blood Star of the ArchFiend
+Purchase from Tharanak Hrii's shop at /shadowblast. It requires:
+
+Blood Gem of the ArchFiend x20
+
+Totem of Nulgath x8
+
+Void Aura x2
+
+ArchFiend Favour x999
+
+Dirtlicker Demoted
+Defeat Dirtlicker at /fiendshard. Either /goto someone or complete the quests from /originul > /fiendshard to access.
+
+
+
+ArchFiend is a duplicate of the Rare "Legendary ArchFiend" class. If you are an older player who owns that, you do not need this class.

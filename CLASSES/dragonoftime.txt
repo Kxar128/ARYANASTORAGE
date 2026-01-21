@@ -1,0 +1,276 @@
+Overview
+
+Worth Getting?
+Yes, but only if you don't already own both Void Highlord and Legion Revenant.
+
+Uses
+Best For: Farming & Soloing
+
+Enhancement
+Healer or Wizard + Awe Blast (Soloing) or Health Vamp (Farming)
+Enhancements guide
+
+Requirements
+
+Level 75
+
+Rank 4 Loremaster
+
+Blade of Awe
+
+13 Lords of Chaos Story Completion
+To do this, open the Map and use the Story tab.
+
+Recommended: Damage-Boosting Items for Undead, Dragon, and Chaos.
+This might include BLoD and Chaorrupter Unlocked.
+
+Quests
+
+Go to /timeinn and complete the following quests in order from Kro'nar:
+
+1. Acquiring Ancient Secrets
+
+Lost Hieroglyphic x30
+Defeat Mummies at /mummies. Must have completed Act 1-4 and Clara's quests at /cruxship to "Apephyrx Rises" to access this map. If you haven't done all of her quests, you can defeat the Mummies at /cruxship instead.
+
+Myths of Lore
+Purchase from Maya at /librarium.
+
+Historia Page x100
+Defeat enemies at /timelibrary. The best area is the room with 2 Undead Knights and 1 Moglin Ghost. To get there, from the starting screen with Warlic, go right twice then up once.
+
+Frost King's Story
+Defeat Frost King at /kingcoal.
+
+Your Own Memories
+Defeat the enemy version of yourself at /baconcatyou.
+
+
+
+2. Time to Train Yourself
+
+Desoloth's Destructive Aura
+Defeat Desoloth the Final at /dragonchallenge.
+
+Nythera's Patience
+Defeat Nythera at /blindingsnow. This requires first completing her saga, which starts at /northlands > /kingcoal > /swallowed > /blindingsnow. 
+
+Goregold's Luck
+Defeat Goregold at /greed. First complete Galanoth's quests here. Tips:
+- The correct treasure chest is 3rd from the left.
+- Be careful where you walk in the section with slimes as there are traps that take you back to Galanoth.
+- The bottom key position is almost fully left, the top key is just left of the centre.
+
+Victorious' Dignity
+Defeat Victorious at /darkplane.
+
+Trigoras' Tenacity x3
+Defeat Trigoras at /trigoras. Take the path to the right.
+
+
+
+3. Do You Have the Time?
+
+Golden Blade of Fate (Sword)
+Complete Mysterious Stranger's quests. These are located at:
+
+/tutor
+Defeat Horc Tutor Trainer.
+
+/prison
+Defeat Piggy Drake.
+
+/lavarun
+Defeat Phedra.
+
+/chaoscrypt
+Defeat Chaorrupted Armour.
+
+/j6
+Defeat Sketchy Frogzard.
+
+/orcpath
+Click arrows.
+
+/lair
+Defeat Red Dragon - quickly access by exiting left from /underlair.
+
+/well
+Click arrow.
+
+/bonecastle
+Defeat Green Rats - quickly access by clicking on the cocktail button in the Map. Then walk to the room with 2 levels and enter the door just right of centre.
+
+/sepulchure
+Defeat Dark Sepulchure.
+
+/yulgar
+Go up to the attic.
+
+Pink Blade of Destruction
+Obtain this from Sellaria's "Forging a Friendship" quest at /techfortress. You may need to first complete the storyline from /thorngarde > /stonewood > /techdungeon > /stonewooddeep > /techfortress. The requirements for the quest are:
+
+Fuchsia Dye x50
+Go to Beleen at /tower (walk left > up). If you're a non-member, complete "Pink-a-licious-Prowl" by defeating enemies at /natatorium and /ancienttemple (walk all the way left). If you're a member, complete "Dyeing for Gemstones" instead by defeating Gargoyles at /cornelis and Lich Of The Stone at /darkoviaforest. You need to complete the quests at /darkoviagrave > /darkoviaforest to access Lich.
+
+Spirit Orb x500
+Obtain these by completing Artix's "Bust some Dust" and "Essential Essences" quests from /necropolis. You can also use your Blinding Blade of Destiny for its corresponding "Finding Fragments..." quest. If you haven't done these before, check out the BLoD guide.
+
+Zealous Badge x5
+Complete Stellaria's "A Solemn Favour" quest at /techdungeon. It requires defeating DoomBorg Guards and Kalron the Cryptborg at the same map.
+
+Unicorn Essence x5
+Defeat Ultra Brutalcorn at /undergroundlabb (just keep walking left).
+
+Gem Power x5
+Defeat Ultra Battle Gems at /undergroundlabb while defeating Ultra Brutalcorn.
+
+Cross-Era Stabiliser
+Defeat Laken at /underworld.
+
+Chronomancer's Codex
+Defeat Iadoa at /timespace. I recommend getting a Dragonoid of Hours from Dragonoid at /mqlesson as it disables Iadoa's Astral Shift ability. It doesn't have to be equipped to work.
+
+Timestream String x100
+Defeat the Timestream Rider at /arena (walk right).
+
+
+
+4. Through the Wormhole
+
+Time Loop Broken
+Defeat Incarnation of Time at /cathedral. You'll have to talk to Adaleaz and complete the quests from the information stations around the map to access it.
+
+Anomaly Silenced x100
+Defeat enemies at /portalwar. This is best done at the screen left from the fountain, which has a Tempus Larva, Chronorysa, and Time Wraith.
+
+Chronolord Stopped x50
+Defeat Chronolords at /portalmaze. They are near the end of the map.
+
+Is This a Wormhole?
+Defeat Cornholio at /ubear. Either /goto someone at the boss or complete Cysero's quests here to get to it.
+
+
+
+5. Rend
+
+Dimensional Dragon Portal x2
+Defeat Dragon Summoner at /lairdefend.
+
+Brutal Slash Studied
+Defeat Grievous Inbunche at /bosschallenge. I suggest completing this with a group or with a dodge class, like Chrono Assassin or Yami no Ronin.
+
+Epic Hydra Fang x125
+Defeat Hydra Head 90s at /hydrachallenge - get there by talking to the fairy. I highly recommend fighting these with a good group and/or with a dodge class. Some good combinations are Lord of Order plus ShadowWeaver of Time, Legion Revenant, Chaos Slayer, or Scarlet Sorceress.
+Use the Relics of Chaos that drop to complete "Supplies to spin The Wheel of Chance" from Drudgen or Crag & Bamboozle.
+
+
+
+6. Confluence of Fates
+
+Sword of Voids
+Defeat Ivoliss at /ivoliss.
+
+Darkon's Receipt x100
+
+Easiest but Longest
+Complete Darkon's "First Errand" quest from /garden.
+Solo: Defeat Jurassic Monkeys at Screen 8 of /portalmaze (they drop 1 Banana - stacks to 222).
+Group: Defeat Dread Gorillphants at /towerofdoom7 (they drop 1-3 Bananas).
+
+Harder but Shorter
+Complete Darkon's "Second Errand" quest from /garden.
+Defeat Binky at /doomvault (they drop up to 10 Ingredients - stacks to 222). You must be in a good group to be efficient.
+Strategy: Avoid Skill Lock by using your auto attack, which will lock your awe enhancement if you have one equipped. Mana Vamp is suggested because it has the highest activation chance. You could also bait it with a Scroll (SpellCrafting guide).
+Avoid Counter Attack, which reflects your damage, by pressing ESC. Resume attacking once it fades.
+Use the chance to get the Cape of Awe, and if you have the Hardcore Paragon Pet, accept its "A Single Rib" quest.
+You can get to Binky quickly by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Hero/Legend > More Details > Cape Boss.
+
+Shortest but Hardest
+Complete Darkon's "Third Errand" quest from /garden.
+Defeat Nulgath at /tercessuinotlim for Nulgath's Mask (20% drop rate - stacks to 222). I highly recommend doing this in a group.
+Strategy: Don't use Thief of Hours or Chrono Assassin to reflect Nulgath's damage as you won't get any drops (technically reflected damage is their damage, making the kill not count). Instead, do this in a group with a Legion Revenant, LightCaster, Chaos Avenger, and additional supports if you'd like, such as Frostval Barbarian and StoneCrusher/Infinity Titan.
+
+Semiramis Feather
+Complete Aria's "Take Down Terrane" quest at /guardiantree. This requires completing all of Aria's quests here.
+
+Cross Dimensional Weapons x300
+Defeat the Nightlocke Weapon enemies at /aqw3d by going into Yulgar's Inn to the right and then upstairs.
+
+Starlight Singularity
+Complete The Wanderer's "Serpent of the Stars" quest at /whitehole. This require's completing all of their quests here.
+
+Collectible Collector
+Purchase from the Super Fan Token Shop at /collection. You must first complete Drakath (Kid)'s quest up to and including "Catapult Climb" then Will and Fred's quests at /prehistoric & /future.
+
+
+
+7. Dragon's Will - I recommend doing this quest with a good group.
+
+Unyielding Slime x300
+Defeat Slime Molds at /moonlab. Complete the mice's quests first until you can exit the cage.
+
+Omnipotent Cells x20
+Defeat Mutated Void Dragon at /bosschallenge.
+
+Dragon's Plasma x20
+Defeat ArchFiend Dragonlord at /underlair.
+
+Chaotic Invertebrae x20
+Defeat Chaos Kraken at /chaoskraken.
+
+Cryostatic Essence x20
+Defeat Dread Fang at /towerofdoom9. If you haven't cleared these areas before, start at /towerofdoom.
+
+Salvaged Chaos Dragon Biomass x20
+Defeat Ultra Chaos Dragon at /castleroof.
+
+
+
+8. Burning Fates
+
+Fire Essence x3000
+Defeat enemies at /volcano. This is most effectively done at the screen with 3 Fire Imps.
+
+Akriloth's Flametongue x100
+Defeat Akriloth at /charredplains. Do this with a group as Akriloth has very high HP.
+
+Immortal Embers x50
+Defeat Ultra Phedra at /ultraphedra.
+
+Ashes from the Void Realm x50
+Defeat Reaper at /thevoid. You can access them quickly by selecting Fight Me! from the NPC version of The Reaper at the beginning of the map. I recommend doing this with a group. You may also get a PvP Amulet, which boosts your HP in PvP zones, like /bludrutbrawl and /doomarena.
+
+
+
+9. Hero's Heartbeat
+
+Mysterious Egg (Pet)
+Obtain this by completing the "Mysterious Chest" quest from the chest at /ashfallcamp. To access this quest, click the Dragon icon on the chest after obtaining all 7 Keys from the 7DD story (Map > Story). Each one is from the Dragon at the end of each chapter in the map with the same name as the key (except for Envy, which is located at /maloth) - for example, the Key of Wrath is from /wrath.
+
+Conquered Past
+Defeat the enemy version of yourself at /chaoslord.
+
+Slugbutter Trophy x100
+Defeat Slugbutter at /towerofdoom10. Do this with a group.
+
+Icewing's Laurel x30
+Defeat Warlord Icewing at /icestormarena. If you aren't yet max-level, ensure you're also completing "Warlord Icewing!", accepted from the Warlord Icewing NPC at the beginning of the map or top-right of the screen, and "Warlord Icewing! (Member)", which is accepted from King Rimescar, who is behind the Warlord Icewing enemy at the end of the map. Do this with a good group as it would take a very long time even with a dodge class.
+
+
+
+10. Optional: I'm Loving It My Way - Grants Cosmetics and Badge
+
+Borgar
+
+Complete Yulgar's quests from /borgars by going to /extinction > /battlefowl > /freakitiki > /mountainpath > /pirates > /arcangrove.
+
+Complete "A Weird Gourmet" from Reens at /arcangrove by talking to Bulbug at /thespan - to get there from Warlic, walk left 3 times then up twice.
+
+Complete Bulbug's "Piece of Cake" quest by getting the item 'Slice of Cake' from the quest "The Cake is NOT a lie!", which is from the Cake NPC at /portalmaze. Complete it by defeating Time Wraiths. Bulbug's next quest, "A Health Nut", is done by talking to Granola Twig at /brightfortress.
+
+Complete Granola Twig's "The Importance of Staying Healthy" quest by defeating enemies in the same map. Complete their next quest, "An Aspiring Burgermonger" by talking to Yulgar at /borgars.
+
+Complete Yulgar's "Burglinster's Revenge" quest by defeating Burglinster, who is located just right of Yulgar. This is the quest that rewards a character page badge.
+
+Obtain 5 of the Burger Buns from the previous quest and trade them in for the Borgar weapon in Yulgar's merge shop in the same map and turn it into Kro'nar at /timeinn.

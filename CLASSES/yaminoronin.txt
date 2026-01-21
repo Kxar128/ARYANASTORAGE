@@ -1,0 +1,161 @@
+Overview
+
+Worth Getting?
+Yes, if you want a dodge-based soloing class.
+
+Uses
+Best For: Soloing
+Good For: Short-Range Farming
+
+Enhancement
+Lucky + Awe Blast
+Enhancements guide
+
+Requirements
+
+Rank 10 Yokai.
+
+Storyline Completion
+Complete quests at /darkally including "Defeat the Underfiend".
+
+Recommended: Be a Legion Member.
+Allows you to farm Legion Tokens to make this faster.
+
+Recommended: Paragon Pet
+Used to farm Legion Tokens.
+
+Recommended: Damage-Boosting Items
+The majority of enemies in the following quests are Undead. I suggest getting the Blinding Light of Destiny beforehand.
+The Orochi Heads at /shadowfortress are Chaos. I suggest getting either the Chaorrupter Unlocked (or the Empowered Chaos Avenger's Greatsword) beforehand.
+
+Step 1
+
+Part 1
+
+Obtain the SoulForge Hammer. Enter /underworld and go to Dage (walk right and down) then click on the SoulForge in the center of the room and accept its quest. Obtain the following:
+
+Zardman's StoneHammer
+Defeat Zardman Grunts at /forest (walk right to find 3).
+
+Iron Hammer
+Purchase from Loremaster Sara's shop at /greenguardeast.
+
+Elemental Rock Hammer
+Defeat the Rock Elemental at /bludrut (exit up ladder from /bludrut2).
+
+Turn in the quest and make sure the SoulForge Hammer is in your inventory. Clicking on the SoulForge will now open a merge shop. 
+
+
+
+Part 2
+
+In this new merge shop, you can make the Shadow Katana Blade. For it, you need the following:
+
+Platinum Paragon Medal x15
+Purchase for 1m Gold each from Dage's merge shop.
+
+Yami x10
+Complete Dage's "Embracing Darkness" quest from /darkally by defeating enemies in the same map. Dark Wisps stack to 2.5k. 
+
+Folded Steel x1
+Complete "Forge Your Steel, Steel Your Resolve" from /darkally by obtaining the following:
+
+Flame-Forged Metal x13
+Complete "Need Flame" from Chanky at /underworld by going left until you can go straight down then head right to the frozen bridge. To complete the quest, defeat the Frozen Pyromancer past the bridge. 
+
+Obsidian Rock x108
+Choose your method:
+- Legion Tokens: If you're a Legion member, you can trade 2 LTs for 1 Obsidian Rock in the SoulForge, meaning you need 216 LTs.
+- Member: Complete "Undead Legion Member Special" (click on Dage > SoulForge > Quests) by defeating Firestorm Hatchlings at /firestorm (right>up>right x3>up from starting screen) and Skeleton Warriors at /battleunderb. Stack both of the drops to 100 so you don't need to go back and forth. Whichever item you stack 2nd won't look like it stacks past 6 but this is a visual error - opening quests from an NPC will update it.
+- Non-Member: Complete "Obsidian Mining" by defeating FireStorm Hatchlings at /firestorm. To get to them from the starting screen, go right>up>right x3>up.
+
+Eternity Flame
+Defeat Amia the Cult Leader at /fotia - they are located at the end of the map.
+
+Weapon Imprint x15
+Defeat Raxgore at /doomvaultb. You'll need to complete the quests at both /doomvault and /doomvaultb to access him as /goto does not work. If you've done this already, you can get to Raxgore faster by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Legend/Hero > More Details > Helm Boss.
+While fighting him, be careful as he can lock your abilities and has an ability called Counter Attack - you'll need to target off by clicking the X to the top-right of their portrait or pressing ESC. Use the chance to get the Helm of Awe if you haven't already.
+
+Shadow Katana Blueprint
+Defeat Jaaku at /shadowfortress - they are at the end of the map. If you'd like to, also obtain 888 Perfect Orochi Scales from the 3rd and 2nd Head of Orochi as these are used later. Complete the storyline from /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress to access these enemies.
+
+
+
+Part 3
+
+Now that you have the Shadow Katana Blade, complete "The Edge of an Era" from /darkally. This rewards the Yokai Sword Scroll, which is used for the final quest. Obtain the following:
+
+Perfect Orochi Scales x888
+Defeat any Head of Orochi at /shadowfortress. 
+
+Oni Skull Charm
+Purchase from Mitsu Bishi's rep shop at /akiba - he's located in the first room. You need Rank 10 Yokai for this.
+
+Darkened Essence x600
+Defeat enemies at /shadowrealmpast.
+
+Step 2
+
+Finally, we just need the Blademaster Sword Scroll. You have one of two choices when obtaining it. Read which one suits you below then follow the guide for each option then continue on to Step 3.
+
+Option 1 - This involves being a Legion member. It makes the quest easier but also costs ACs.
+
+Option 2 - This is for those who don't want to join the Legion, which will make this take longer.
+
+
+
+Option 1
+
+Complete "The Path to Power" from /darkally. You'll need:
+
+Meditation
+Unless you already have the BladeMaster class, obtain SwordMaster from /underworld by purchasing it for 2000 Legion Tokens. You need to get your class to Rank 10 - just follow the XP section of the New Player guide. After that, complete "Meditation, Inflection" at /darkally. 
+
+Legion Tokens x17.5k
+See the LTs guide.
+
+Sapphire Orb x13
+Defeat the Legion Lich Lord at /frozenlair. I highly recommend doing this in a group as even with a high-dodge class like Chrono Assassin, it would take a long time to get all 13 orbs.
+
+Aeacus Empowered x50
+Defeat Ultra Aeacus at either /revenant or /judgement - whichever has more people. To join /revenant, you will need to own a Dark Caster class. If you don't have one, Infinite Legion Dark Caster can be bought for 2k LTs from /underworld - you'll need one anyway if you want to get Legion Revenant.
+
+
+
+Option 2
+
+Complete "Legion Sword Training" from /darkally. You'll need:
+
+Sword Scroll Fragment x1000 & Legion Combat Trophy x400 & Technique Observed x50
+Enter a private /dagepvp. Defeat the following:
+
+4 Blade Masters
+Walk right until you can see an exit from the cave then go up and right. After defeating them, go back inside and continue going right. Once you've earned enough Legion Combat Trophies, you can just kill these enemies and then leave/rejoin the map.
+
+6 Legion Guards
+Defeat these as you're walking right. They'll make Dage easier and earn you more Combat Trophies at the end.
+
+Dage
+If you still have time left, try and kill Dage. Otherwise, just wait to earn 1000 points. You will need a strong defensive soloing class to defeat him, even with the Legion Guards defeated.
+
+Sapphire Orb x26
+Defeat the Legion Lich Lord at /frozenlair. I highly recommend doing this in a group as even with a high-dodge class like Chrono Assassin, it would take a long time to get all 26 orbs.
+
+Aeacus Empowered x100
+Defeat Ultra Aeacus at /judgement. Do this in a group - there may already be people here who are farming Legion Revenant.
+
+Traitor's Tract x250
+Defeat the Underfiend at /darkally.
+
+Ogre Titan's Resonance x250
+Defeat Oh'Garr at /shadowsong - you will need to complete all of Dorian Mode's quests to access him at the end of the map.
+
+Shadow Dragonlord's Shroud x250
+Defeat the Titan Shadow Dragonlord at /shadowgrove - you will need to complete all of Galanoth's and Warlic's quests to access it at the top of inside the tower.
+
+Discipline
+Defeat Blade Masters at /underworld.
+
+Step 3
+
+Turn in the "Yami no Ronin" quest to Dage at /darkally with both the Yokai and Blademaster Sword Scrolls in your inventory.

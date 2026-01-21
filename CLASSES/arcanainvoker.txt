@@ -1,0 +1,159 @@
+Arcana Invoker: Chronological Farming Guide
+
+Phase 1: Early Game & Reputation (Preparation)
+Before you begin the specific item hunts, you must ensure your character has the following ranks.
+Rank 10 Good: Required for BattleMage Armor.
+Rank 10 Chaos: Required for Chaotic Healer.
+Rank 10 Arcangrove: Required for Arcangrove Blueprint.
+Rank 10 Doomwood: Required for Legion Necromancer items.
+
+Phase 2: The Core Hunt (Chronological Order)
+0 - The Fool’s Humble Beginnings
+Location: /join oaklore
+Method: Kill Undead Infantry until it drops. This is the starting item for your first quest.
+
+1 - The Magician’s Desire
+Location 1: /join escherion — Kill Staff of Inversion (Monster) for the Staff of Inversion.
+Location 2: /join castle — Buy BattleMage Armor (Rank 10 Good shop).
+Location 3: /join aqw3d — Kill Nightlocke Staff for Nightlocke War Staff.
+Location 4: /join ruinedcrown — Kill Calamitous Warlic for his Tome.
+
+2 - The High Priestess’ Intuition
+Location 1: /join cleric — Kill Chaos Dragon for Dishpan Cleric Costume.
+Location 2: /join newfinale — Buy Chaotic Healer from the shop (Rank 10 Chaos).
+Location 3: /join fotia — Kill Amia the Cult Leader for Amia's Cult Secret (x2).
+Location 4: /join terminatemple — Merge Battle Cleric of the Dragon using Termina Sigils.
+
+3 - The Empress’ Initiative
+Location 1: /join goose — Merge Queen's Sage Scythe (requires 200 Cysero's Cookies).
+Location 2: /join brightforest — Merge ShadowFlame Empress.
+Location 3: /join transformation — Kill Queen of Monsters for Fragment of the Queen (x10).
+Location 4: /join firstobservatory — Kill Empress' Finger for the Ring (x3).
+
+4 - The Emperor’s Authority
+Location 1: /join evilwarnul — Kill Legion Fenrir for King Klunk's Crown.
+Location 2: /join infernalarena — Complete the questline to unlock the Crowned Skull of Na'al.
+Location 3: /join thorngarde — Merge Zealous Crown (requires Zealous Badges).
+Location 4: /join warundead — Kill Lich Emperor for the Catalyst (x4).
+
+5 - The Hierophant’s Servitude
+Location 1: /join celestialarena — Merge Blessed Abezeth (requires 100 Lumin Badges).
+Location 2: /join lightguardwar — Merge Inquisitor of the Light.
+Location 3: /join poisonforest — Kill Xavier Lionfang for Divine Elixir (x55).
+Location 4: /join chaosweb — Kill ChaosWeaver Cleric for the Doctrine (x5).
+
+6 - The Lovers’ Embrace
+Location 1: /join battlewedding — Kill any mob for Love Token (x666).
+Location 2: /join portalmaze — Kill Vorefax for Time Heart (x166).
+Location 3: /join pride — Kill Valsarian for Storm Heart (x6).
+Location 4: /join mercutio — Kill Mercutio for his Heart (x66).
+
+7 - The Chariot’s Triumph
+Location 1: /join table — Complete the Roach Rage mini-game for Racing Trophy (x300).
+Location 2: /join crocriver — Merge Sphinx Sentinel.
+Location 3: /join deadmoor — Kill Lucid Nightmare for Dread Deadmoor BattleAxe.
+Location 4: /join ultrabrutalcorn — Kill SMU Brutalcorn for the Horn (x77).
+
+8 - Justice’s Righteousness
+Location 1: /join camlan — Complete the "Cocooned Gold" quest for Ouroboros Scale (x88).
+Location 2: /join lightoviacave — Kill Imbalanced Knight for Libran Scales.
+Location 3: /join gravestrike — Kill Ultra Akriloth for Akriloth's Scale (x888).
+Location 4: /join underlair — Kill Archfiend DragonKnight for the Scale (x8).
+
+9 - The Hermit’s Solitude
+Location 1: /join garden — Kill Fa for Fa's Gamer Fuel (x99).
+Location 2: /join mverse — Kill Major Mushroom for ARTX 3090 Controller.
+Location 3: /join marsh2 — Kill Soulseeker for Soulseeker's Grim Hood.
+Location 4: /join pocketdimension — Kill Nothing for Nothing's Solus (x999).
+
+10 - Wheel of Fortune’s Destiny
+Location 1: /join pilgrimage — Kill Lucky for Lucky Pet.
+Location 2: /join onsen — Complete the "I heard you like Gacha" quest for Second Chance Coin (x10).
+Location 3: Global Drop — Collect 250 Treasure Chests from any monster.
+Location 4: /join ultralob — Kill Ultra Lobthulhu for the Fortune (x100).
+Here is an in-depth, chronological guide to gathering the 22 Arcana items required for the Arcana Invoker class. This guide is organized to minimize travel and pre-requisite lockouts.
+
+
+Phase 3: Darkon Saga & End-Game Progression
+
+Items 11 through 21 primarily focus on the Darkon/Astravia storyline and high-level boss drops.
+
+11 - Strength’s Fortitude
+Enchanted Martial Artist's Gi: /join superslayin — Merge item. Requires Martial Artist's Gi (dropped by Ryoku in /dragonkoi), Fatal Lily x25, Pockey Ball x25, and Dragon Orb x10.
+Strong Axe of Golmoth: /join dreampalace — Merge item. Requires Axe of Golmoth (drop from Golmoth), 
+Scales of Golmoth x15, and Token of Fire x20.
+Fortitude Tonic (x11): /join alchemyacademy — Created via Alchemy. Requires Necrot and Roc Tongue.
+Strong Drag’s Intact Wing (x11): /join dracocon — Dropped by the boss Strong Drag.
+
+12 - The Hanged Man’s Discernment
+Chained Rune Bonebreakers: /join archportal — Dropped by High Legion Inquisitor.
+Noble Sacrifice: /join necrodungeon — Dropped by 5 Headed Dracolich (specifically the 5th Head).
+The Answer: /join battlefowl — Dropped by Zeuster Projection.
+Astero’s Insight (x12): /join fortressdelve — Dropped by the boss Astero.
+
+13 - Death’s Mortality
+Enchanted DeathKnight: /join bonecastle — Merge item. Requires DeathKnight armor (Rank 10 Doomwood) and 35,000 Gold.
+Death Pit Arena Medal (x250): /join deathpit — Dropped by any monster in the map.
+Death's Oversight (x10): /join shadowattack — Dropped by Death.
+Super Death's Scythe Fragment (x13): /join superdeath — Dropped by Super Death (Warning: Low drop rate, expect a long farm).
+
+14 - Temperance’s Frugality
+Celestial Wings of Guiding: /join celestialrealm — Purchase from the merge shop. Requires 100 Infernal Tokens (farmed in /lostruinswar).
+Blessed Coffee Cup: /join lightguard — Complete the "Holy Roast" quest from Lady Speedstick.
+Northern Crown (x10): /join snowmore — Dropped by Jon S'Nooooooo.
+Azkorath's Wing (x14): /join infernalspire — Dropped by Azkorath.
+
+15 - Devilish Temptation
+Fiendish Outlaw: /join fiendpast — Dropped by Fiendish Outlaw.
+Fiendish Remains (x50): /join voidrefuge — Complete the "Fiendish Remains" quest from Carnax.
+Glass Horns: /join ashfallcamp — Dropped by Smoldur.
+Fiend Champion's Spike (x15): /join originul — Dropped by Fiend Champion.
+
+16 - The Tower’s Upheaval
+Arcangrove Tower House: /join buyhouse — Purchase for 200,000 Gold (Requires Rank 10 Arcangrove).
+Earth Stone (x500): /join fableforest — Complete the "Back to your Roots" quest repeatedly.
+Dragon Runestone (x20): /join alchemyacademy — Buy from the merge shop for 100,000 Gold each ($2,000,000$ gold total).
+Nevanna’s Revelation (x16): /join gaiazor — Dropped by Nevanna.
+Understood—no gaps. Here is the surgical breakdown for items 17 through 21. This includes the final "World" item, which is a massive collection of materials from the Darkon saga.
+
+Arcana Items 17 - 21: The Final Stretch
+
+17 - The Star’s Hope
+Star Scrap (x500): /join starsinc — Dropped by Star Sprites or Living Stars.
+Rising Star Token (x116): /join herolobby — Dropped by the Training Partner.
+Dark Stars: /join deadlines — Dropped by the boss Eternal Dragon.
+Star Sapphire Fragment (x17): /join skytower — Dropped by Star Sapphire.
+
+18 - The Moon’s Illusion
+Moon Rock Fragments (x300): /join lunacove — Dropped by all enemies (except the beach balls).
+Blood Moon Warrior: /join marchosiasfight — Dropped by the boss Marchosias.
+Celestial Khopesh: /join cruxshadows — You must complete the CruxShadows event questline to unlock the shop/drop.
+The Moon’s Reflection (x18): /join astravia — Dropped by the boss The Moon.
+
+19 - The Sun’s Optimism
+Golden Sun Seal (x190): /join titanattack — Dropped by Titanic Paladin.
+Sun Zone Chit (x190): /join sunlightzone — Dropped by enemies in the map (e.g., Marine Snow or Sunlight Mew).
+Armor of the Sun: /join thirdspell — Merge item. Requires 60 Thirdspell Tokens.
+The Sun’s Enlightenment (x19): /join astraviacastle — Dropped by the boss The Sun.
+
+20 - Judgement’s Absolution
+Trumpet: /join astraviajudge — Dropped by Trumpeter.
+Judgment Tonic (x20): /join alchemyacademy — Created via Alchemy using Dragon Scale + Moglin Tears.
+Enchanted Lance of Doom Reborn: /join shadowbattleon — Merge item. Requires Lance of Doom Reborn and A Whisper x30.
+Minos’ Sentence (x20): /join judgement — Dropped by the boss Minos.
+
+21 - The World’s Voyage
+To craft this, you must collect 22 of each resource below from the Darkon saga quests:
+Darkon’s Receipt (x22): /join garden — (Quest: First Errand)
+Teeth (x22): /join eridani — (Quest: Second Errand)
+La’s Gratitude (x22): /join astravia — (Quest: Third Errand)
+Astravian Medal (x22): /join astraviacastle — (Quest: Fourth Errand)
+A Melody (x22): /join astraviajudge — (Quest: Fifth Errand)
+Bandit's Correspondence (x22): /join eridanipast — (Quest: Sixth Errand)
+Suki's Prestige (x22): /join astraviapast — (Quest: Seventh Errand)
+Ancient Remnant (x22): /join firstobservatory — (Quest: Eighth Errand)
+Mourning Flower (x22): /join genesisgarden — (Quest: Ninth Errand)
+Unfinished Musical Score (x22): /join theworld — Dropped by the boss The World.
+
+
+

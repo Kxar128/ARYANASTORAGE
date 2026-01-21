@@ -1,0 +1,53 @@
+Overview
+
+Worth Getting?
+Generally no because there are better options at Level 80 that cost less or nothing at all. However, it's a good choice if you don't want to farm much as it only costs 1k ACs.
+
+Uses
+Good For: Soloing & Support
+
+Enhancement
+Wizard + Spiral Carve or Awe Blast
+Enhancements guide
+
+Requirements
+
+Level 80
+
+1000 ACs
+
+Storyline Completion
+This includes /celestialrealm > /lostruins > /lostruinswar and /celestialarena
+
+Quest
+
+LightMage
+
+Purchase the Evolved LightCaster armour from Aranx at /celestialrealm for 1000 ACs. It cannot be sold.
+
+Open the LightMage Class Token A Shop and purchase Token A.
+
+Merge LightMage using Token A.
+
+
+
+LightCaster
+
+Once you've got LightMage, you can start the "LightCaster Class" quest from Aranx. To start the quest, it requires: 
+
+Burning Blade
+Defeat the Diabolical Warlord at /lostruinswar (1% droprate).
+
+Burning Blade of Azebeth
+Defeat Aranx at /celestialarena (5% droprate).
+
+Guardian of Spirits' Blade
+Complete Aranx's quest "Guardian of Spirits' Blade" by defeating 500 Fallen Knights.
+
+Avatar of Death's Scythe
+Complete Aranx's quest "Avatar of Death's Scythe" by defeating 500 Underworld Hounds.
+
+Spear of Time
+Complete Aranx's quest "Spear of Time" by defeating 500 Infernal Imps.
+
+Accept the "LightCaster Class" quest from Aranx at /celestialrealm and obtain Aranx's Pure Light from Aranx at /celestialarena (10% droprate).

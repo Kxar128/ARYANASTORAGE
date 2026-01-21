@@ -1,0 +1,85 @@
+King's Echo Class Obtain Guide
+
+Prerequisites:
+- Level 80
+- Completion of the Rumbling of Cold Thunder saga
+- Rank 10 in Good faction
+- Rank 10 in Swordhaven faction
+- Alden’s Liberation Armor
+- Completion of “The Storm Queen” content
+
+Starting Location:
+- Go to /terminatemple and talk to Victoria (right side)
+
+Questline Steps:
+
+1. Familial Blessing
+- Click on Tara on screen 1 in /terminatemple
+
+2. Echo of the King
+You must obtain the following items (quests provided by Victoria):
+- Alteon’s Reforged Armor
+- King Alteon’s Crown
+- Royal Dragon Sword
+- Alden’s Mace
+  Note: Alden’s Mace can be picked up at /castle. Enter the throne room, turn right, and take it from the wall. No quest required.
+
+3. The Path to the King (Sword Quest)
+Location: /portal
+
+Requirements:
+- Endured Against the Defiler x100
+  - Destructive Defiler at /infernalarena (1 per kill)
+  - Member option: Graveclaw at /gravechallenge (10 per kill)
+
+- Endured Against the Monster King x90
+  - Dethrix at /ebondungeon
+
+- Endured Against a Fallen Friend x100
+  - Ultra Sepulchure at /sepulchurebattle
+
+- Endured Against Chaos x113
+  - Ultra Chaos Warlord at /chaosboss
+
+- Endured Against the Great Dragon x70
+  - Final dragon at /naoisegrave
+
+4. Purify the Crown (Crown Quest)
+Location: /cleric
+
+Requirements:
+- Trace of Chaos x13
+  - Ultra Drakath at /ultradrakath (low drop)
+  - OR merge using 5x Drakath Insignia at /championdrakath
+
+- Whispers of Chaos x40
+  - Ultra Dreadhaven General at /ultradread
+  - OR Slugwrath at /dreadhaven
+
+- Calcified Tear x60
+  - Queen of Monsters at /transformation (chance drop)
+  - OR guaranteed at /queenbattle
+
+5. The King's Armour
+
+Requirements:
+- 500K Gold Voucher x100
+  - Farm at /sevencircleswar (F2P)
+  - OR /lichwar (Member)
+  - OR gold farming via Leery
+
+- Dwarven Gold x30
+  - Dwarves at /thelimacity
+
+- Atlas Gold x75
+  - King Zedek at /atlasfalls
+  - OR Atlas Lions
+
+- Skye Gold x50
+  - Queen Iona at /queeniona (approximately 25 kills)
+
+- Camlan Gold x120
+  - Two elven minibosses near the end of /camlan
+
+Completion:
+After completing all quests and requirements, you will unlock and obtain the King’s Echo class.

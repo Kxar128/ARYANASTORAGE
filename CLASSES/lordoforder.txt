@@ -1,0 +1,190 @@
+Overview
+
+Worth Getting?
+Yes.
+
+Uses
+Best For: Support
+OK For: Soloing
+
+Enhancement
+Lucky + Awe Blast
+Enhancements guide
+
+Requirements
+
+Rank 7 Fishing
+
+Level 85
+
+Recommended: Storyline Completions
+This includes the 13 Lords of Chaos storyline (Map > Story), /watchtower, /citadel > /citadelruins, /ravenscar, /spookeasy > /dreammaster, /shadowgates, /rivensylth > /elfhame > /darkheart > /gaiazor, /livingdungeon, /andre, /bloodmoon, /firewar > /northmountain > /charredplains, /doomvault > /doomvaultb, /yasaris.
+
+Recommended: Chaorrupter Unlocked
+This drops from High Chaos Knight at /chaoswar - can also use another item that boosts Chaos damage.
+
+Alternative: 11th Anniversary Collection Chest
+If you happen to own this chest, you can claim the Lord of Order class from it without needing to complete the below Quests section.
+
+Quests
+
+Go to /battleoff and complete the following quests from Mirror Drakath. You can only complete one per day:
+
+1. Heart of Servitude
+
+Pristine Blades of Order
+Defeat Chaorrupted Knights at /watchtower.
+
+Dreadrock Donation Receipt
+Purchase for 1m Gold from Deathgore's shop at /dreadrock.
+
+Deadmoor Spirits Helped
+Defeat Banshee Mallora at /deadmoor.
+
+Mage's Gratitude
+Complete Polish's "Defeat Enn'tropy" quest at /citadelruins.
+
+Ravenscar's Truth
+Purchase this from Mina's Ghost's shop at /ravenscar.
+
+
+2. Spirit of Justice
+
+Warden Elfis Detained
+Defeat Warden Elfis at /dwarfprison.
+
+Piggy Drake Punished
+Defeat Piggy Drake at /prison.
+
+Mysterious Stranger Foiled
+Defeat Mysterious Stranger at /mysteriousdungeon - just keep walking right. If you're stuck in the first room, click on the cake, the loose brick on the wall, the pencil inside, the rock next to the bucket, and then the cell door.
+
+Calico Cobby Crushed
+Defeat Calico Cobby at /dreammaster.
+
+
+3. Purification of Chaos
+
+Chaoroot x15
+Defeat Ledgermayne at /ledgermayne for the Supreme Arcane Staff as you need it later. If you're low level, run to the safe zone when he's using Mana Discharge. If you don't get all 15 Chaoroot, purchase 10 from Swindle at /tercessuinotlim by trading a Receipt of Swindle (costs 300k).
+
+Chaotic War Essence x15
+Defeat Ultra Chaos Warlord at /chaosboss.
+
+Chaorrupted Particles x15
+Defeat Chaorruption at /shadowgates.
+
+Purified Raindrop x45
+Defeat Chaos Lord Lionfang at /stormtemple.
+
+
+4. Steadfast Will
+
+Gaiazor's Cornerstone
+Defeat Gaiazor at /gaiazor.
+
+Dakka's Crystal
+Defeat Dakka the Dire Dragon at /treetitanbattle.
+
+Andre's Necklace Fragment
+Defeat Giant Necklace at /andre.
+
+Desolich Skull
+Defeat Desolich at /desolich. Do this in a group.
+
+
+5. Strike of Order
+
+Hanzamune Dragon Koi Blade
+Defeat Kitsune at /kitsune. When he transforms into a fox, he is invulnerable.
+
+The Supreme Arcane Staff
+Defeat Ledgermayne at /ledgermayne. You should already have this from getting Chaoroot.
+
+Dragonoid of Hours
+Defeat Dragonoid at /mqlesson. This weapon can also be used against Iadoa to negate his Astral Shift attack as long as it's in your inventory (doesn't need to be equipped).
+
+Safiria's Spirit Orb
+Click Take The Spirit Orb button from Safiria at /maxius. 
+
+Ice Katana
+Complete Yulgar's and Warlic's quests at /drakonnan. The sword is rewarded upon completion of "Inferno Heart". 
+
+
+6. Harmony
+
+Unity of Life
+Defeat the Tree of Destiny at /elemental.
+
+Harmony of Solace
+Defeat Faust at /orchestra.
+
+Teamwork Observed
+Defeat Pactagonal Knights at /cathedral.
+
+Scroll of Enchantment
+Defeat Queen's Archsage at /goose. To get to it, from the first Sage go down>right x3>up>right.
+
+
+7. Ordinance
+
+Acolyte's Braille
+Defeat Chaos Healer in the Willow Creek section of /newfinale.
+
+Suppressed Drows x50
+Defeat Drow Assassins at /wardwarf.
+
+Suppressed Undead x50
+Defeat enemies at /warundead.
+
+Suppressed Horcs x50
+Defeat Horc Warriors at /warhorc.
+
+Suppressed Weavers x50
+Defeat Weaver Queen Hounds in the Swordhaven section of /weaverwar.
+
+Strength of Resilience
+Defeat Xyfrag at /thevoid. Just keep walking through the room to the right and back until you find it.
+
+
+8. Axiom
+
+Law of Nature
+Defeat Guardian Spirit at /elfhame.
+
+Law of Time
+Defeat Kathool at /deepchaos.
+
+Law of Gravity
+Defeat Shadowstone Support at /necrocavern. To get there quickly, select Necrocavern from Braeus' Fast Travel feature at /shadowfall then walk down and right.
+
+Law of Relativity
+Defeat Reflecteract at /blackholesun.
+
+Law of Conservation of Energy
+Defeat Tonitru at /thunderfang.
+
+Law of Low Drop Rates x100
+Defeat Red Dragon at /lair. You can get to it quicker by exiting left from /underlair.
+
+
+9. Blessing of Order
+
+Weapon Imprint x15
+Defeat Undead Raxgore at /doomvaultb. You must have completed the quests at both /doomvault and /doomvaultb to access him as /goto does not work. If you've done this already, you can get to Raxgore faster by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Legend/Hero > More Details > Helm Boss.
+While fighting him, be careful as he can lock your abilities and has an ability called Counter Attack - you'll need to target off by clicking the X to the top-right of their portrait or pressing ESC. Use the chance to get the Helm of Awe if you haven't already.
+
+Lure of Order
+Purchase this from Faith's Fishin' Gear shop at /greenguardwest. You can get to her quickly by clicking on the map at the top-right and selecting Faith near the bottom. You'll need Rank 7 Fishing to purchase this.
+
+Quixotic Mana Essence
+Defeat Ultra Xiang at /mirrorportal. I suggest using Sentinel, Dragon of Time, or Healer for this fight as they all have abilities that deal damage based on your HP. You might want to do this in a group too.
+
+Inversion Infusion
+Defeat Serepthys at /yasaris.
+
+
+10. The Final Challenge
+
+Champion of Chaos Confronted
+Defeat the Champion of Chaos (Drakath) at /ultradrakath.

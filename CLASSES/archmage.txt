@@ -1,0 +1,275 @@
+Overview
+Worth Getting?
+Yes, if you want a versatile class and are willing to master it. If you are able to get the most out of the class, it can become one of the strongest classes in the game.
+
+Uses
+Best For: Farming and Soloing
+
+Enhancement
+Wizard + Awe Blast
+Enhancements guide
+
+Requirements
+Level 80.
+
+Rank 10 Chaos.
+
+Rank 10 Spellcrafting.
+
+Rank 10 Embersea.
+
+Rank 10 Etherstorm.
+
+Rank 10 Loremaster.
+
+Rank 10 Good.
+
+Rank 10 Evil.
+
+Completed /guardiantree questline.
+
+Completed /brightoak questline
+
+Completed /originul
+
+It is highly recommend that you have a team to help with some of the later quests.
+
+Quests
+Prerequisites
+(You will need to repeat these four quests 5 times)
+
+Tapping into the Arcane
+
+Mythic Quills x49
+
+Defeat Slugfit at /mobius (walk up>right) or obtain while completing "Nulgath (Larvae)".
+
+Mythic Shards x49
+
+Defeat Astral Ephemerites at /timespace. You can also try farming Grief at /underrealm (keep walking right) ~50% drop rate.
+
+Semiramis Feather
+
+Accept "Take Down Terrane" from Fae in /guardiantree, and kill Terrane.
+
+Mythic Inc
+
+Defeat Kathool at /deepchaos
+
+
+Aethereal Flow
+Celestial Ether
+
+Defeat Aranx  (Accept "FINAL FIGHT!" from Aranx in /celestialarena and walk up.) 30% drop rate
+
+Chaotic Ether
+
+Defeat Eternal Drakath in the fourth portal in /eternalchaos. 30% drop rate
+
+Mortal Ether
+
+Defeat Death in /shadowattack (kill all enemies in every room until reaching the last room.) 20% drop rate
+
+Vital Ether
+
+Defeat Gaiazor in /gaiazor (Left>Up>Rightx2>Up.) 20% drop rate
+
+Infernal Ether
+
+Defeat Nulgath's Fiend Shard in /fiendshart (continue walking right, and then up.) 20% drop rate
+
+
+Tracing Ley Lines
+
+Sky Locus
+
+Defeat Moonstone, Sunstone, or Star Sapphire (2% drop rate) or Aspect of Good/Evil (25% drop rate)in /skytower
+
+Sea Locus
+
+Defeat Anglerfish or Merdraconian (2% drop rate) or Chaos Kraken (100% drop rate) in /chaoskraken
+
+Earth Locus
+
+Defeat Ektorax in /ectocave (50% drop rate)
+
+Fire Locus
+
+Defeat Drakonnan (30% drop rate) or Ultra Drakonnan (50% drop rate) in /drakonnan
+
+Prime Locus Attunement x30
+
+Defeat Mana Golem (100% drop rate) or any other monster in /elemental (20% drop rate)
+
+
+Thaumaturgy
+
+Dragon Runestone x30
+
+Bought for 100k gold each in /alchemyacademy
+
+Exalted Paladin Seal
+
+Bought for 500k gold in /darkthronehub
+
+Forsaken Doom Seal
+
+Bought for 500k gold in /shadowfall
+
+Arcane Lotus
+
+Prismatic Ether
+
+Mystic Scribing Kit
+
+
+Class Quests
+
+Book of Magus: Incantation
+
+Brilliant Aura x200
+
+Complete "Finding Fragments with Blinding Mace" from Artix in /necropolis (Highly recommended) or merge 25 Bright Aura (Highly discouraged)
+
+Scroll of Mystify x50
+
+Buy Archmage Ink from /spellcraft, and use the following combination: First green rune on top, second grey rune two times in the middle, first red rune on the bottom left, third red rune on the bottom right.
+
+Prismatic Seams x250
+
+Complete "Mega Timestream Medals" and "Timestream Medals" simultaneously in /streamwar
+
+Unbound Tome
+
+Celestial Magia x50
+
+Defeat Ezrajal, Engineer, or Warden in /timeinn (30% drop rate)
+
+Mortal Essence x100
+
+Defeat Sigrid Sunshield (100% drop rate) or the Lightguard Casters (10% drop rate) in /noxustower or /lightguardwar
+
+Orthogonal Energy x150
+
+Defeat Pactagonal Knight in /portalmazec
+
+
+Book of Fire: Immolation
+
+Scroll of Fire Storm x50
+
+Buy Archmage Ink from /spellcraft, and use the following combination: 2nd green rune on top, second red rune two times in the middle, first grey rune on the bottom left, second grey rune on the bottom right.
+
+Unbound Tome
+
+ShadowFire Wisps x200
+
+Defeat any enemy in /fireavatar (100% drop rate from Avatar Tyndarius, 10% for other monsters)
+
+Spark of Life x200
+
+Defeat Femme Cult Worshiper in /fotia
+
+Emblazoned Basalt x200
+
+Defeat Scoria Serpent, Living Fire, or Volcanic Maggot (10% drop rate) or Mafic Dragon (50% drop rate) in /mafic
+
+Dense Dragon Crystal x200
+
+Defeat Void Draconians in /underlair
+
+
+Book of Ice: Glacial Impact
+
+Scroll of Frostbite x50
+
+Buy Elemental Ink from /spellcraft, and fill every slot with the second red rune.
+
+Ice Diamond x100
+
+Complete Trade for the Ice Diamond from King Coal in /kingcoal
+
+Unbound Tome
+
+Rimeblossom x100
+
+Defeat Warlord Icewing in /icestormarena (100% drop rate) or Chained Kezeroth in /icepike (30% drop rate)
+
+Temporal Floe x100
+
+Defeat Warlord Icewing in /icestormarena or Shade of Kyanos in /icedungeon
+
+Starlit Frost x100
+
+Defeat Warlord Icewing in /icestormarena (100% drop rate) or Karok the Fallen in /icepike (30% drop rate)
+
+
+Book of Aether: Supernova (Team recommended)
+
+Scroll of Eclipse x50
+
+Buy Fading Ink from /spellcraft, and fill the first slot with the third red rune, and every other slot with the first red rune.
+
+Unbound Tome
+
+Void Essentia  
+
+Defeat Flibbitiestgibbet in /voidflibbi (4% drop rate) or merge Void Essence x25, Void Aura x75, and 750k Gold in /thevoid
+
+A Fragment of the Beginning
+
+Defeat Second Speaker (2% drop rate) in /streamwar or merge Prismatic Seams x250, Unbound Thread x10, and 750k Gold
+
+Vital Exanima
+
+Defeat Dage the Evil in /dage (1% drop rate) or merge Dage the Evil Insignia x10 and 750k Gold
+
+Everlight Flame
+
+Defeat Avatar Tyndarius in /fireavatar (1% drop rate) or merge Avatar Tyndarius Insignia x5 and 750k Gold
+
+
+Book of Arcana: Arcane Sigil (Team recommended)
+
+Scroll of Ethereal Curse x50
+
+Buy Archmage Ink from /spellcraft, and use the following combination: 1st grey rune on top, third grey rune two times in the middle, second grey rune two times in the bottom.
+
+The Mortal Coil
+
+Defeat Nulgath or merge Roentgenium of Nulgath x4 in /tercessuinotlim
+
+The Divine Will
+
+Defeat Azalith in /celestialpath
+
+Unbound Tome
+
+Insatiable Hunger
+
+Defeat Nightbane in /voidnightbane (20% drop rate)
+
+Undying Resolve
+
+Defeat Encore Darkon in /theworld (1% drop rate) or merge Darkon Insignia x5 and 750k Gold in /ultradarkon
+
+Calamitous Ruin
+
+Defeat Nightmare Carnax in /darkcarnax (7% drop rate) or merge Synthetic Viscera x25 and 750k Gold
+
+
+Archmage's Ascension 
+
+Book of Magus
+
+Book of Fire
+
+Book of Ice
+
+Book of Aether
+
+Book of Arcana
+
+Elemental Binding x250
+
+Defeat Prismata in /archmage

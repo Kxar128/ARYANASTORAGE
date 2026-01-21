@@ -1,0 +1,30 @@
+Overview
+
+Worth Getting?
+Yes if you are mid-level.
+
+Uses
+Good For: Soloing
+
+Enhancement
+Wizard + Spiral Carve
+Enhancements guide
+
+Requirements
+
+Storyline Completion
+This includes /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress. For the seasonal version, you only have to complete the quests at /blackfridaywar.
+
+Quests
+
+For this class, you must obtain 300 Dragon Shinobi Tokens and trade them in at /shadowfortress (or /blackfridaywar if you want the Shadow variant in November). You have two options for this:
+
+"The 8 Heads of Orochi"
+If it's not Black Friday (November), accept this quest from Ai no Miko at /shadowfortress then defeat the 2nd and 3rd Heads of Orochi (or any screen with two). Make sure to have completed the storyline from the Requirements section first.
+
+"Dragon Shinobi Tokens"
+If it is Black Friday (November), you will have access to this seasonal quest from Twilly at /blackfridaywar. If you're in a group, farm BOGOdrone Prime and Executive Assistant Vordred. Otherwise, just farm a room with a Deal Bot 2.0 and Hypnotised Shopper. This quest is overall easier to complete.
+
+
+
+DragonSoul Shinobi and Shadow Dragon Shinobi are duplicates of the Rare "Dragon Shinobi" class. If you are an older player who owns that, you do not need this class.

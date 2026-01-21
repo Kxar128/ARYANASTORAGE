@@ -1,0 +1,144 @@
+Overview
+
+Worth Getting?
+Yes, if you want a meta support/farming class. However, Dragon of Time and Archfiend are also great options and require less time to get.
+
+Uses
+Best For: Farming & Support
+Good For: Soloing
+
+Enhancement
+Wizard + Spiral Carve or Awe Blast
+Enhancements guide
+
+Requirements
+
+Level 80
+
+Rank 10 Evil
+
+Legion Member
+
+Dark Caster Class
+Used to enter the map. If you haven't got one, buy Infinite Legion Dark Caster from /underworld for 2k LTs.
+
+If Non-Mem: 50 Bone Dust
+This is dropped by enemies at /battleunderb.
+
+Recommended: Paragon Pet
+Used to farm Legion Tokens in Fealty 3.
+
+Recommended: Undead Damage-Boosting Item
+Since so many enemies are Undead-tagged for these quests, it's highly recommended to have something that boosts damage against them, like Blinding Light of Destiny.
+
+Fealty 1
+
+Join /revenant and accept the "Legion Fealty 1" quest. You have to complete it 20 times. For it, you need:
+
+Aeacus Empowered x50 (stacks to 100)
+Defeat Ultra Aeacus at /revenant. You can also defeat him at /judgement, which has a population limit of 6. You'll need a good soloing class for this fight, like Legion DoomKnight or better.
+
+Tethered Souls x300 (stacks to 500)
+Defeat Forgotten Souls at /revenant (these enemies are untagged). You'll need a moderately defensive farming class. Use Infinite Legion Dark Caster or better. An alternative is using a strong soloing class, like Void Highlord. If you're in a group, Lord of Order + Chaos Slayer or Scarlet Sorceress works wonders.
+
+Darkened Essence x500 (stacks to 600)
+Defeat enemies at /shadowrealmpast (these enemies are untagged).
+
+Dracolich Contract x1000 (stacks to 1000)
+Defeat 5 Headed Dracolich at /necrodungeon. If there is no one at the boss to /goto, the directions are: get to the elevator > walk right to next elevator > enter the right door > walk right to next elevator > at the doom crawler, walk up into train > walk right to next elevator > enter right door and continue right. Use an item that boosts Undead damage.
+
+In total, that's 37k kills.
+
+
+
+You can also trade 1 Dage the Evil Insignia for 1 Revenant's Spellscroll at /ultradage. For more information on defeating Ultra Dage, click here. Fealty 1 and 3 are the best fealties to use this feature with as they take the longest and are the most tedious.
+
+Fealty 2
+
+Complete this quest 6 times. Use an item that boosts damage against Undead (like BLoD) to defeat the enemies in the following locations (each stack to 500):
+
+Grim
+/doomvault - select the bottom-centre button on the map and walk left 3 times. The room should have 4 enemies in it.
+
+Ancient
+/mummies​​
+
+Pirate
+/wrath - walk right 3 times.
+
+Battleon
+/doomwar - select 'Mythsong' then walk up.
+
+Mirror
+/overworld - walk right once as Mages have less HP.
+
+Darkblood
+/deathpits
+
+Vampire
+/maxius
+
+Spirit
+/curseshore
+
+Dragon
+/dragonbone - use something that boosts damage to Dragons here.
+
+Doomwood
+/doomwood - walk left > up > left.
+
+In total, that's 30k kills.
+
+
+
+You can also trade 1 Dage the Evil Insignia for 2 Conquest Wreaths at /ultradage. For more information on defeating Ultra Dage, click here. Fealty 1 and 3 are the best fealties to use this feature with as they take the longest and are the most tedious.
+
+Fealty 3
+
+Complete this quest 10 times. It doesn't have to be accepted to collect the following items:
+
+Hooded Legion Cowl (doesn't stack)
+Purchase from Dage's Legion Shop in /underworld for 500k Gold.
+
+Legion Tokens x4000 (stacks to 25k)
+Legion Tokens guide.
+
+Dage's Favour x300 (stacks to 5000)
+Defeat the Dreadfiend of Nulgath and Infernalfiends at /underworld - they're in the first room outside of the cave past Klunk. You could also defeat enemies at /evilwarnul if you want to get Diamonds of Nulgath at the same time from Diligas' quests, which require a Uni 13 to accept (this is slower).
+
+Emblem of Dage (stacks to 500)
+Complete "Legion Recruits: The Dark Path Waits" from Gresk at /shadowblast. You have to complete Gresk's previous quests first and have the Legion Round 4 Medal in your inventory. Complete this quest by going (from starting screen) up > right > right > right > up and defeat the enemies here. Most of the enemies in this map are not tagged as Undead so use any weapon.
+
+Diamond Token of Dage x30 (stacks to 300)
+Complete "Legion Loyalty Rewarded" from Gresk at /shadowblast. Use a Chaos-boosting weapon for this quest. Everything except for Defeat Makai does not stack. You'll need:
+
+Defeated Makai x25 (stacks to 50)
+Defeat Dark Makai at /tercessuinotlim or /nulgath if you're a member.
+
+Carnax Eye
+Defeat Carnax at /aqlesson.
+
+Kathool Tentacle
+Defeat Kathool at /deepchaos (join from /museum - requires near completion of Iadoa's 13LoC chapter).
+
+Red Dragon's Fang
+Defeat Red Dragon at /lair (join from /underlair by going left).
+
+Fluffy's Bones
+Defeat Fluffy the Dracolich at /dflesson.
+
+Blood Titan's Blade
+Defeat Blood Titan at /bloodtitan.
+
+Dark Token x100 (stacks to 600)
+Defeat Seraphic Soldiers at /seraphicwardage. Turn in the quests at the top-right occasionally and use an item that boosts damage to Humans. Requires completing Laken's quests at /worldsoul.
+
+In total, that's 5m Gold, 40k LTs, 3k Dage's Favours, 10 Emblems of Dage, 300 Diamond Tokens of Dage, and 1000 Dark Tokens.
+
+
+
+You can also trade 1 Dage the Evil Insignia for 1 Exalted Crown at /ultradage. For more information on defeating Ultra Dage, click here. Fealty 1 and 3 are the best fealties to use this feature with as they take the longest and are the most tedious.
+
+Fealty 4
+
+Turn in the Spellscrolls, Wreaths, and Crowns that you've collected from the previous Fealties.

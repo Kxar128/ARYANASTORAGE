@@ -1,0 +1,262 @@
+Overview
+
+Worth Getting?
+Yes.
+
+Uses
+Best For: Soloing & Support
+
+Enhancement
+Lucky + Spiral Carve
+Enhancements guide
+
+Requirements
+
+Rank 10 Good
+
+Rank 8 SpellCrafting
+
+Story Completion
+For most quests, you can /goto someone instead of doing the storyline. However, it's best to do them yourself as some storylines are also needed for other things. They include:
+13 Lord of Chaos storyline, /rivensylth > /elfhame > /darkheart > /gaiazor, /celestialrealm > /lostruins > /lostruinswar, /seraph, /twilightslums > /palace, /volcano > /xantown > /xancave, /poisonforest, /citadel, 
+If you're a non-member, you also have to complete the quests at /temple, /banished, Step 1 of the Blinding Light of Destiny farm up to and including "A Loyal Follower", /frozentower > /frozenruins > /northstar, and Warlic's and Cysero's quests at /battleontown > /downward.
+
+If Member: Rank 10 Healer and Warrior
+Get these from /trainers and rank them up according to the XP section of the New Player guide.
+
+Non-Member
+
+Complete the following quests at /darkthronehub:
+
+1. A Strong Base
+
+Stone Paladin Armour
+After completing all levels of /temple, return to the Stone Paladin at the top and do their "Galvanize the Guardian" quest. For it, purchase a Scroll of Cure Petrification from their Merge shop with drops from Shelletons, which are in the 1st level of the Temple. After, purchase the Stone Paladin Armour from their Temple shop.
+
+Exalted Paladin Seal
+Purchase from Artix's Rep shop at /darkthronehub for 500k Gold.
+
+
+
+2. Proof of Valor
+
+Undead Energy x1000
+Defeat enemies at /battleunderb. Make sure you've completed Step 1 of BLoD (see Requirements section) otherwise this won't drop.
+
+Binky's Uni-horn
+Defeat Binky at /doomvault. You can get there quickly by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Hero > More Details > Cape Boss.
+Because of Binky's difficulty, you'll most likely need a group of people to help fight it too. Binky has numerous abilities, including stuns ranging from 5-21 seconds, Skill Lock, which stops one of your abilities from being used (try and bait this with the Mana Vamp awe enhancement, a scroll, or your least useful ability first), and Prophetic Vision, which reflects your damage to you (avoid this by pressing ESC). Use the chance to get Cape of Awe, and if you have the Hardcore Paragon Pet, accept its "A Single Rib" quest.
+
+Desterrat Moya Tentacle
+Defeat Desterrat Moya at /banished.
+
+Dreadhaven Helm
+Defeat Dreadhaven General at /dreadhaven.
+
+DoomKitten Claw
+Defeat DoomKitten at /doomkitten. I recommend using classes that deal damage through DoTs, like Blaze Binder, DeathKnight, ShadowStalker of Time, Timeless Dark Caster, or Infinity Knight, as critical damage heals DoomKitten.
+
+Vordred's Skull
+Defeat Vordred at /vordredboss by clicking Continue in the middle.
+
+
+
+3. Mastering the Arcane
+
+Pyromancer Artifact
+Defeat Xan at /xantown (3% drop rate).
+
+Zephyrus Manifesto
+Defeat the Proto-Air Dracolich at /dragonheart.
+
+Karok's Glaceran Gem
+Defeat Karok the Fallen at /northstar.
+
+Nightmare Kibble x200
+Defeat enemies at /thirdspell.
+
+Condensed Energy
+Defeat Lightning Ball at /thunderfang.
+
+Crystallised Mana Catalyst
+Defeat Crystal Mana Construct at /downward.
+
+Just the Perfect Stick
+Defeat Treeant at /farm.
+
+
+
+4. For Those Who Have Fallen
+
+Holy Hand Grenade
+Purchase from the Good Reputation shop at /castle.
+
+Feather of Paradise x20
+Defeat Bird of Paradise at /manor.
+
+Shoelace of a Fallen Paladin x77
+Defeat enemies at /doomwood (top-left of map in the room that has an enemy kill counter).
+
+Eternity Flame
+Defeat Amia the Cult Leader at /fotia (located at end of map).
+
+
+
+5. Commandment
+
+Skill Observed
+Defeat Painadin Overlord at /brightfall.
+
+Spirit of Vindication
+Defeat Grand Inquisitor at /citadel.
+
+Radiant Blade Enhancement
+Defeat the Good Lieutenant at /alliance.
+
+
+
+6. Hymn of Light
+
+Divine Elixir
+Defeat Xavier Lionfang at /poisonforest.
+
+Prayer of Salvation
+Defeat Ultra Alteon at /ultraalteon. Without a strong soloing class like Void Highlord, group up with other people to defeat him. Do not attack during the phase where the damage meter appears at the top-right otherwise Alteon will kill everyone instantly.
+
+Acolyte's Braille
+Defeat Chaos Healer at /newfinale by selecting Willow Creek from the War Map.
+
+Innocence x25
+Defeat Doves at /skytower.
+
+
+
+7. Righteous Seal
+
+Fists of Fire
+Defeat the Shurpu Ring Guardian at /xancave.
+
+Scroll of Ethereal Slumber
+Use Archmage Ink to create this combination. Use the SpellCrafting guide if you're confused.
+
+Holy Magic Attunement
+Defeat Golden Caster at /onslaughttower. To pass the gaseous bridge, complete Archlich Xollen's "The Local Locale" quest. 
+
+Ring of Mana Transposition
+Defeat Pettivox at /palace.
+
+
+
+8. Sacred Magic: Eden
+
+Sacred Tome
+Defeat Adventus at /seraph.
+
+Paladaffodil x25
+Defeat Marsh Trees at /marsh.
+
+Spirit Lotus x25
+Defeat Lotus Spiders at /wanders.
+
+Radiant Magnolia x25
+Defeat Trollola Plants at /bloodtusk.
+
+Cyanoblossom x25
+Defeat Wisterrora at /gaiazor.
+
+BrightOak Forest Sapling
+Defeat Nevanna at /gaiazor.
+
+Forbidden Demon Seal
+Defeat Malxas at /infernalspire.
+
+Member
+
+Complete the following quests at /darkthronehub:
+
+1-3. Legendary Paladin's Vow/Oath/Pledge
+
+Purchase Paladin from Artix at /necropolis. Turn in the quests as you accept them.
+
+
+
+4. Aptitude Test
+
+Primarch's Hilt
+Defeat Colossal Primarch at /bosschallenge. Group up with people to defeat it. Collect 3 in total if you want them for Necrotic Sword of Doom too.
+
+Exalted Paladin Seal
+Purchase from Artix's Rep shop at /darkthronehub for 500k Gold.
+
+Condensed Mana
+Defeat the Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+
+
+
+5. Commandment
+
+Skill Observed
+Defeat Painadin Overlord at /brightfall.
+
+Spirit of Vindication
+Defeat Grant Inquisitor at /citadel.
+
+Radiant Blade Enhancement
+Defeat the Good Lieutenant at /alliance.
+
+
+
+6. Hymn of Light
+
+Divine Elixir
+Defeat Xavier Lionfang at /poisonforest.
+
+Prayer of Salvation
+Defeat Ultra Alteon at /ultraalteon. Without a strong soloing class like Void Highlord, group up with other people to defeat him. Do not attack during the phase where the damage meter appears at the top-right otherwise Alteon will kill everyone instantly.
+
+Acolyte's Braille
+Defeat Chaos Healer at /newfinale by selecting Willow Creek from the War Map.
+
+Innocence x25
+Defeat Doves at /skytower.
+
+
+
+7. Righteous Seal
+
+Fists of Fire
+Defeat the Shurpu Ring Guardian at /xancave.
+
+Scroll of Ethereal Slumber
+Use Archmage Ink to create this combination. Use the SpellCrafting guide if you're confused.
+
+Holy Magic Attunement
+Defeat Golden Caster at /onslaughttower. To pass the gaseous bridge, complete Archlich Xollen's "The Local Locale" quest. 
+
+Ring of Mana Transposition
+Defeat Pettivox at /palace.
+
+
+
+8. Sacred Magic: Eden
+
+Sacred Tome
+Defeat Adventus at /seraph.
+
+Paladaffodil x25
+Defeat Marsh Trees at /marsh.
+
+Spirit Lotus x25
+Defeat Lotus Spiders at /wanders.
+
+Radiant Magnolia x25
+Defeat Trollola Plants at /bloodtusk.
+
+Cyanoblossom x25
+Defeat Wisterrora at /gaiazor.
+
+BrightOak Forest Sapling
+Defeat Nevanna at /gaiazor.
+
+Forbidden Demon Seal
+Defeat Malxas at /infernalspire.
