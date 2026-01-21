@@ -1,0 +1,3 @@
+/join Thelimacity
+
+do "Drows Trust Exercise" quest and "A little generosity" quests
