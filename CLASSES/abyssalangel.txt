@@ -12,5 +12,7 @@ Class - Luck
 Weapon - Valiance | Acheron | Dauntless | Spiral Carve
 Helm - Examen | Anima
 Cape - Lament | Vainglory
-Combos: 2 Gives dodge but makes you single target (never use)
+
+COMBOS
+2 skill Gives dodge but makes you single target (never use)
 spam 3 - 4 - 5
