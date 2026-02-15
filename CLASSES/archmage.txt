@@ -272,4 +272,39 @@ Book of Arcana
 
 Elemental Binding x250
 
+
 Defeat Prismata in /archmage
+
+
+ENHANCEMENTS
+
+Class - Luck | Wizard
+
+Weapon - Valiance | Elysium | Acheron (Farming) | Spiral Carve | Awe Blast
+Helm - Pneuma
+Cape - Avarice | Lament
+
+COMBOS
+
+- Technically, just spam everything
+
+- Otherwise: [3+5] and spam [2] and [4]
+
+- [3] increases your damage and recovers mana (use when low)
+
+- [2] deals damage based on mana lost
+
+- [4] deals damage based on hp lost
+
+- [2] and [4] scale with attack power
+
+
+ ACHERON:
+
+- Fixes Elysium's issues with high HP
+
+- Less issues with high mana
+
+- Massive damage on [3]
+
+- May have to use [Penitence] cape
