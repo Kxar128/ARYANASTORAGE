@@ -259,4 +259,22 @@ BrightOak Forest Sapling
 Defeat Nevanna at /gaiazor.
 
 Forbidden Demon Seal
+
 Defeat Malxas at /infernalspire.
+
+ENHANCEMENTS:
+
+Class - Luck
+
+Weapon - Valiance | Awe Blast
+Helm - Forge
+Cape - Vainglory | Lament | Penitence (Tanking)
+
+COMBOS:
+
+- Spam your [2] and [3]
+
+- Use your [5] when your [4] is almost ending
+
+- Keep all buffs and debuffs always on for smooth fights
+
