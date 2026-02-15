@@ -5,10 +5,6 @@ Yes, if you want a versatile class and are willing to master it. If you are able
 Uses
 Best For: Farming and Soloing
 
-Enhancement
-Wizard + Awe Blast
-Enhancements guide
-
 Requirements
 Level 80.
 
@@ -308,3 +304,4 @@ COMBOS
 - Massive damage on [3]
 
 - May have to use [Penitence] cape
+
