@@ -1,0 +1,30 @@
+Overview
+
+Worth Getting?
+Yes.
+
+Uses
+Best For: DoT class with good buffs
+OK For: Soloing
+
+Requirements
+
+- Rank 10 Ravenloss
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Valiance | Arcana's Concerto | Spiral Carve
+Helm - Forge
+Cape - Penitence
+
+COMBOS
+
+- Your skills [2] and [3] make you dodge (lasts ~1 second)
+
+- [4] increases DoT
+
+- [5] increases ALL damage
+
+- Alternate [2 + 4] and [3 + 5] for dodge and damage
