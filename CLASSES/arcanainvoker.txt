@@ -155,5 +155,34 @@ Ancient Remnant (x22): /join firstobservatory — (Quest: Eighth Errand)
 Mourning Flower (x22): /join genesisgarden — (Quest: Ninth Errand)
 Unfinished Musical Score (x22): /join theworld — Dropped by the boss The World.
 
+**Arcana** **Invoker**:
 
+**Class** - Luck
+
+
+**Weapon** - Valiance | Ravenous (The best) | Spiral Carve
+
+**Helm** - Pneuma | Vim | Examen (Mana Problems)
+
+**Cape** - Vainglory | Lament
+
+**Combos**
+
+- Use [2] to start stacking
+
+- Spam [3] [4] and [5] until you see an animation (will play from [4] skill)
+
+- Press [2] again and go back to spamming
+
+- During empowered mode (lasts 2 minutes) you gain massive crit, dodge, hit and haste
+
+- Your [3] will get increased damage every time you use it
+
+- Press [2] again to nuke for stacks gained and restart the cycle
+
+- Full dodge requires full potions and World's End buff active
+
+
+Fun fact:
+- Hybrid"" skills deal physical damage
 
