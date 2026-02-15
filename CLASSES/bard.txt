@@ -2,13 +2,17 @@ Overview
 
 Worth Getting?
 
+- Yes (early game)
+
 Uses
-Best For:
-OK For: 
+
+- Early game version of Stonecrusher
+
+Best For: Buffing and support
 
 Requirements
 
-Rank 4 Mythsong
+- Rank 4 Mythsong
 
 ENHANCEMENTS
 
@@ -16,4 +20,6 @@ Weapon - Valiance | Arcana's Concerto
 Helm - Forge
 Cape - Absolution
 
-COMBOS  Just Spam
+COMBOS
+
+- Just Spam
