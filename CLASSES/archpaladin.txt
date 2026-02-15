@@ -6,10 +6,6 @@ Yes.
 Uses
 Best For: Soloing & Support
 
-Enhancement
-Lucky + Spiral Carve
-Enhancements guide
-
 Requirements
 
 Rank 10 Good
@@ -277,4 +273,5 @@ COMBOS:
 - Use your [5] when your [4] is almost ending
 
 - Keep all buffs and debuffs always on for smooth fights
+
 
