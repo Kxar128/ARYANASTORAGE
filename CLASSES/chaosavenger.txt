@@ -76,4 +76,23 @@ Xiang Chaos
 Defeat Xiang at /mirrorportal. I suggest using Sentinel, Dragon of Time, or Healer for this fight as they all have abilities that deal damage based on your HP.
 
 Fragment of the Queen x13
+
 Defeat The Queen of Monsters at /transformation. You will have needed to complete the storyline from /forestreach > /deepforest > /transformation.
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Dauntless | Valiance
+Helm - Anima | Base Forge
+Cape - Vainglory | Lament
+
+COMBOS
+
+Offensive rotation 5 3 2 4
+
+Drfensive rotation 5 4 2 3
+
+The buffs lasts for quite a while, so it's best to use the skills to increase your dps
+
+weave in autos in between the skills to restack your mana
