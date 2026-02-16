@@ -6,10 +6,6 @@ Generally no because there are better options at Level 80 that cost less or noth
 Uses
 Good For: Soloing & Support
 
-Enhancement
-Wizard + Spiral Carve or Awe Blast
-Enhancements guide
-
 Requirements
 
 Level 80
@@ -50,4 +46,21 @@ Complete Aranx's quest "Avatar of Death's Scythe" by defeating 500 Underworld Ho
 Spear of Time
 Complete Aranx's quest "Spear of Time" by defeating 500 Infernal Imps.
 
+
 Accept the "LightCaster Class" quest from Aranx at /celestialrealm and obtain Aranx's Pure Light from Aranx at /celestialarena (10% droprate).
+
+ENHANCMENTS
+
+Class - Luck
+
+Weapon - Ravenous | Valiance | Praxis
+Helm - Pneuma | Wizard
+Cape - Vainglory | Lament
+
+COMBOS
+
+4-5-2-3 and then just spam the skills
+
+Detailed: Use 4. Then spam the other skills. 
+
+When illuminate fades, use 4 again. Basically skill 4 act as a buff and heals you at the same time.
