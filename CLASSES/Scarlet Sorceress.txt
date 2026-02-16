@@ -6,10 +6,6 @@ Yes, if you're a low-mid level player who doesn't have ArchFiend or Blaze Binder
 Uses
 Good For: Farming
 
-Enhancement
-Lucky + Spiral Carve
-Enhancements guide
-
 Requirements
 Storyline Completion
 This includes /hedgemaze > /towerofmirrors.
@@ -20,3 +16,15 @@ Quest
 
 Obtain Blood Sorceress by defeating Scarletta in /towerofmirrors. To reach her from the starting room, walk left > up > up > up > right > down. If you haven't done the storyline, see the Requirements section, or /goto someone at the boss.
 Then, defeat one enemy with Blood Sorceress then turn in the Thief of Hearts' quest "Blood Sorceress to Scarlet Sorceress".
+
+ENHANCEMENTS
+
+Class - Wizard | Luck
+
+Weapon - Elysium | Valiance | Ravenous
+Helm - Pneuma | Luck
+Cape - Vainglory | Luck
+
+COMBOS
+
+Just stack your 5 skill five times, then use 2, 3, and 4 as they come off cooldown. 5 last for 18 seconds, so you don't have to use this every single time it comes off cooldown when you need to refresh it.
