@@ -90,8 +90,11 @@ ENHANCEMENTS
 Class - Luck
 
 Weapon - Dauntless | Ravenous | Valiance
-Helm - Base Forge | Anima
+Helm - Base Forge | Vim | Anima
 Cape - Lament | Vainglory
+
+
+Vim + Ravenous is good combo for solo play (shoutout Alvii da throatgoat)
 
 COMBOS
 
@@ -102,3 +105,4 @@ COMBOS
 - Step 3: Repeat Step 2 until skill 5 comes off cooldown. 
 
   - Repeat from step 1
+
