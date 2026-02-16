@@ -20,7 +20,7 @@ ENHANCEMENTS
 Class - Luck
 
 Weapon - Valiance | Arcana's Concerto | Health Vamp (Ultradage)
-Helm - Vim (Faster rotations) | Pneuma (more stable dps)
+Helm - Vim (Faster rotations) | Pneuma
 Cape - Vainglory | Lament
 
 COMBOS
