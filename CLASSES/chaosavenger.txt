@@ -6,10 +6,6 @@ Yes, but not needed if you already have Void Highlord (except for Ultra Bosses).
 Uses
 Best For: Soloing & Defensive Support
 
-Enhancement
- Lucky + Awe Blast
-Enhancements guide
-
 Requirements
 
 Level 80
@@ -96,3 +92,4 @@ Drfensive rotation 5 4 2 3
 The buffs lasts for quite a while, so it's best to use the skills to increase your dps
 
 weave in autos in between the skills to restack your mana
+
