@@ -6,10 +6,6 @@ Yes, if you want a mid-level soloing class.
 Uses
 Good For: Soloing
 
-Enhancement
-Wizard + Spiral Carve
-Enhancements guide
-
 Requirements
 
 Level 50
@@ -22,4 +18,23 @@ Quest
 Merge from Syrrus in /frozentower or /frozenruins. This requires:
 
 Glacera Ice Token x84
+
 Complete Syrrus' daily quest "Glacera Ice Token" by defeating a Frost Invader. This is best done in /frozenruins as there is one right outside of the room Syrrus is in. In total, this will take 7 days for non-members and 5 days for members as they have a quest that rewards more tokens.
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Valiance | Elysium | Awe Blast
+Helm - Pneuma | Base Forge | Luck
+Cape - Vainglory | Base Forge | Luck
+
+COMBOS
+
+2 - 5 - 3 - 4. 
+
+2 first for Frozen
+then 5 for PV to be used by 3 for the crit chance buff, 
+then 4 for the HoT.
+
+2, 3, and 5 should be used off cooldown (with 2 preceding 3, and 5 also preceding if you need damage). However, you can make 5 precede 4 if you need heals since it reduces your damage taken and increases your HoT. 4 can be used whenever the HoT goes away after 14 seconds, or if you need the defense/heal buff from 5.
