@@ -1,0 +1,27 @@
+Overview
+
+Worth Getting?
+
+Uses
+
+Requirements
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Lacerate (Support) | Dauntless | Valiance (Overall DPS increase)
+Helm - Forge (Support) | Anima
+Cape - Penitence (Support) | Vainglory
+
+COMBOS
+
+I use Hourglass of Transience and Infinite Corruption.
+
+Here's the combo:
+
+pre-stack: 6 - 4 - 2 - 2 - 4 - 3
+
+heal combo: 4 - 2 - 2 - 3
+
+nuke combo: 4 - 2 - 2 - 2 - 4 - 2 - 5 - 3
