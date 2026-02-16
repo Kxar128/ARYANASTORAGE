@@ -6,10 +6,6 @@ Yes, but only if you don't already own both Void Highlord and Legion Revenant.
 Uses
 Best For: Farming & Soloing
 
-Enhancement
-Healer or Wizard + Awe Blast (Soloing) or Health Vamp (Farming)
-Enhancements guide
-
 Requirements
 
 Level 75
@@ -273,4 +269,29 @@ Complete Granola Twig's "The Importance of Staying Healthy" quest by defeating e
 
 Complete Yulgar's "Burglinster's Revenge" quest by defeating Burglinster, who is located just right of Yulgar. This is the quest that rewards a character page badge.
 
+
 Obtain 5 of the Burger Buns from the previous quest and trade them in for the Borgar weapon in Yulgar's merge shop in the same map and turn it into Kro'nar at /timeinn.
+
+ENHANCEMENTS
+
+Class - Healer
+
+Weapon - Elysium | Valiance
+Helm - Healer | Pneuma
+Cape - Vainglory | Avarice
+
+COMBOS
+
+Single target combo is: 3-2-3-5-4
+
+Survival combo: 3-2-3-5-3-4
+
+For more multi target dmg: 3-2-3-5-4-3-5 , If you have 50% haste instead go for 3-2-3-5-3-4-3-5 (This one is good for ultra nully, but it will eat up your mana)
+
+---
+
+Elysium single target combos:
+
+2 - 3 - 5 - 3 - 4 - 3 or
+
+4 - 3 - 2 - 3 - 5 - 3
