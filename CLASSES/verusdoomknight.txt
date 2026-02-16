@@ -67,3 +67,33 @@ Requires Level 80.
     - Defeat Chaos Vordred at /necrocavern.
 
 You should now be able to obtain the class from the shop.
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Ravenous | Dauntless (Ultradage)
+Helm - Anima | vim
+Cape - Vainglory | Lament | Avarice
+
+COMBOS
+
+2 - 3 - 4 - 5 - 2 - 3 - 4 - 2 - 3 - 4 - 5 - 2 - 3 - 4 - 2 - 3 - 5 - 4 - 2 - 3 - 4
+Repeat cycle
+
+During unleashed doom you can also skip 3 to do more damage if you use dauntless.
+
+Basically you get darkness 2 times per Unleashed Doom:
+
+The first darkness you get when you use 5 with 10 doom stacks. Use this Darkness on 2.
+
+The second Darkness you get when you use 5 during Unleashed. Use this Darkness on 4.
+
+
+OBS!!!! 
+
+(- Simplified version: click 5, spam 2 - 3 - 4 until you have 10 stacks of Doom then click 5 again
+
+during the period that you are in ur enhanced form just spam
+
+repeat after the enhanced for is over)
