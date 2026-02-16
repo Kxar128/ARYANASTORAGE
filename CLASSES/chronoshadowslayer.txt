@@ -1,0 +1,35 @@
+Overview
+
+Worth Getting?
+  
+- Absolutely Yes
+  
+Uses
+
+- S+++ tier DPS|
+- Soloing
+- Farming (2 person rooms)
+
+Requirements
+
+6000 (6k) AC's
+  /join heromart (2024 calendar)
+
+ENHANCEMENTS
+  
+Class - Luck
+
+Weapon - Valiance | Arcana's Concerto (Championdrakath) | Health Vamp (Ultradage)
+Helm - Vim (Faster rotations) | Pneuma (more stable dps)
+Cape - Vainglory | Lament
+
+COMBOS
+
+  * Full DPS
+start with 2 (reload and give extra crit) 4 - 4 - 4 - 4 - 4 - 4 - 5
+  - repeat cycle
+
+  * Soloing (safe)
+  
+start with 2 (reload and give extra crit) 3 - 4 - 3 - 4 - 3 - 4 - 5
+  - repeat cycle
