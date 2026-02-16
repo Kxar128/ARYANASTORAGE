@@ -1,5 +1,14 @@
-Start at /join Trygve
+WEEKLY PORTION
 
+Accept quest at /join ultragramiel and kill the boss there for the same quest.
+
+This is a weekly quest, which means you can only do it once per week, weeklies reset on Friday at 12 PM Server Time
+
+you need 30 Gramiel Insignias total
+
+PREFARMING PORTION
+
+Start at /join Trygve
 
 I 
 
@@ -58,3 +67,5 @@ VII
 3. Buy 40 (Gold Voucher 500k) = 20.000.000 Gold
 4. Complete final merge of the 51% weapon named GRAMIEL'S DIVINE ENOCH
 5. Good goyim
+
+
