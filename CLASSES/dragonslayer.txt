@@ -1,0 +1,26 @@
+Overview
+
+Worth Getting?
+
+- Yes
+
+Uses
+  
+- Decent DPS
+- Good in party comps (with supports to buff haste and crit damage)
+  
+Requirements
+  
+- Must have completed the 'Dragonslayer Marshal' quest to purchase.
+    - /join lair - speak to "Galanoth (NPC)"
+
+ENHANCEMENTS
+
+Weapon - Valiance | Dauntless
+Helm - Vim | Anima
+Cape - Vainglory
+
+COMBOS
+
+5 - 2 - 4 - 5 - 2
+repeat cycle
