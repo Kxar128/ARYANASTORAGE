@@ -6,10 +6,6 @@ Yes if you are mid-level.
 Uses
 Good For: Soloing
 
-Enhancement
-Wizard + Spiral Carve
-Enhancements guide
-
 Requirements
 
 Storyline Completion
@@ -25,6 +21,15 @@ If it's not Black Friday (November), accept this quest from Ai no Miko at /shado
 "Dragon Shinobi Tokens"
 If it is Black Friday (November), you will have access to this seasonal quest from Twilly at /blackfridaywar. If you're in a group, farm BOGOdrone Prime and Executive Assistant Vordred. Otherwise, just farm a room with a Deal Bot 2.0 and Hypnotised Shopper. This quest is overall easier to complete.
 
-
-
 DragonSoul Shinobi and Shadow Dragon Shinobi are duplicates of the Rare "Dragon Shinobi" class. If you are an older player who owns that, you do not need this class.
+
+ENHANCEMENTS
+
+Weapon - Valiance | Dauntless
+Helm - Vim | Anima
+Cape - Vainglory
+
+
+COMBOS
+
+Combo: 5-2-2-5-2-2-3-4-5-2-2
