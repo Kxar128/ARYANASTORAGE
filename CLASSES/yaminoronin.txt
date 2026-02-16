@@ -7,10 +7,6 @@ Uses
 Best For: Soloing
 Good For: Short-Range Farming
 
-Enhancement
-Lucky + Awe Blast
-Enhancements guide
-
 Requirements
 
 Rank 10 Yokai.
@@ -158,4 +154,28 @@ Defeat Blade Masters at /underworld.
 
 Step 3
 
+
 Turn in the "Yami no Ronin" quest to Dage at /darkally with both the Yokai and Blademaster Sword Scrolls in your inventory.
+
+ENHANCMENTS
+
+Class - Luck
+
+Weapon - Dauntless | Valiance
+Helm - Anima | Vim
+Cape - Vainglory
+
+COMBOS
+
+                  - DODGE PLAYSTYLE -
+
+The main thing to keep in mind about the dodge playstyle is keeping above 86-87% dodge. This is the dodge threshold, where no monster is able to hit you. With this in mind, note that you will gain 3 stacks of flash between every reset of stacks when u use 5, so u need at least a 21% dodge buffer in order to not fall under. You should try to aim for 108% total dodge. which means having at least 33% dodge shown in ur char stat panel (press C to check).
+
+The combo is pretty simple, press 5 every time it comes off cooldown. If you miss the nuke for some reason, press 'T' to stop attacking, so u stop losing dodge from each flash stack. Spam 2 for extra damage, and if u have mana for 3, use it. While the nukes and dots wont be as potent as the offensive rotation, due to lack of flash stacks, you will be able to survive. Do not use 4, as you should never need the healing, and it will only give you more change to be hit.
+
+
+                  - OFFENSIVE ROTATION - 
+
+To put it in the simplest break down. Use 4 as much as possible to generate flash stacks quicker, which means more dmg (and less survival). When you use 3, wait 3-4 seconds before starting to stack 2 (This is why most combos go 3442, since using 4 two times will take that long) afterwards, spam 2 and 4 to build up stacks and buffs while u wait for the DoT ticks. Theres 5 ticks total, and 1 second between the 5th tick, and the effect fading, which is when u want to nuke.
+
+Tip: Remember to take in account global cooldown. When you see that final DoT tick, be sure the nuke is ready rather than squeeze in that last 2 or 4. Its better to nuke at the right time, than to lose half of the nuke damage by being too late.
