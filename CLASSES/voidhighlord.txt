@@ -6,10 +6,6 @@ Yes, if you want the best non-chronomancer soloing class and have the time to ge
 Uses
 Best For: Soloing & Short-Range Farming
 
-Enhancement
-Lucky + Spiral Carve or Awe Blast
-Enhancements guide
-
 Requirements
 
 Level 80
@@ -56,8 +52,6 @@ Tainted Gem x100 (1700)
 
 Unidentified 13 (15)
 
-
-
 You will get 1 Roentgenium each time you complete the quest. You need 15 to merge the class.
 
 Step 2
@@ -76,8 +70,6 @@ Tainted Gem x200 (1700)
 
 Unidentified 10 x200 (200)
 
-
-
 B
 
 Blood Gem of the ArchFiend x30 (30)
@@ -90,4 +82,23 @@ Totem of Nulgath x15 (15)
 
 Step 3
 
+
 Merge the class at the Void Highlord NPC's shop.
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Dauntless | Ravenous | Valiance
+Helm - Base Forge | Anima
+Cape - Lament | Vainglory
+
+COMBOS
+
+- Step 1: 4 --> 5 --> 3 --> 2
+
+- Step 2: 4 --> 3 --> 2
+
+- Step 3: Repeat Step 2 until skill 5 comes off cooldown. 
+
+  - Repeat from step 1
