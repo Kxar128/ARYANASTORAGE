@@ -7,10 +7,6 @@ Uses
 Good For: Farming
 OK For: Soloing & Secondary Support (Debuff/Stun)
 
-Enhancement
-Lucky + Spiral Carve (use Health Vamp if needed)
-Enhancements guide
-
 Requirements
 
 Storyline Completion
@@ -32,6 +28,18 @@ Defeat Zorba the Bakk at /zorbaspalace.
 25k Gold Voucher x4
 Purchase from /murdermoon.
 
-
-
 If you own the Rare Darkside class, select the book at /curio to purchase the class and its cosmetics for free. Otherwise, this class is only available during the May the 4th event.
+
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Valiance | 
+Helm - Pneuma | Vim | Base Forge
+Cape - Lament | Avarice (glass cannon)
+
+COMBOS
+
+2 - 3 - 4 - 5
+repeat cycle
