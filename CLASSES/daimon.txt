@@ -1,20 +1,33 @@
 Overview
 
 Worth Getting?
-Yes, it's too cheap to pass up at any point.
+
+- Yes (if you are a member), DO NOT SPEND 2000 AC FOR THIS CLASS
 
 Uses
-Good For: Farming
-OK For: Soloing
 
-Enhancement
-Wizard + Mana Vamp
-Enhancements guide
+- Good For: Farming
+- OK For: Soloing
 
 Requirement
 
-Membership
+- Membership (Free Version) + Rank 10 BaconCat reputation
+- Non-Membership version requires 2000 AC
 
 Purchase
 
-Purchase from Ziri at /baconcat, /baconcatb, or /baconcatyou for 200k Gold. 
+- Purchase from Ziri at /baconcat, /baconcatb, or /baconcatyou for free or 2000 AC. 
+
+ENHANCEMENTS
+
+- Class - Wizard
+
+- Weapon - Elysium
+- Helm - Pneuma
+- Cape - Vainglory
+
+(or full Wizard)
+
+COMBOS
+
+- Spam
