@@ -7,10 +7,6 @@ Uses
 Best For: Farming & Support
 Good For: Soloing
 
-Enhancement
-Wizard + Spiral Carve or Awe Blast
-Enhancements guide
-
 Requirements
 
 Level 80
@@ -50,7 +46,6 @@ Defeat 5 Headed Dracolich at /necrodungeon. If there is no one at the boss to /g
 In total, that's 37k kills.
 
 
-
 You can also trade 1 Dage the Evil Insignia for 1 Revenant's Spellscroll at /ultradage. For more information on defeating Ultra Dage, click here. Fealty 1 and 3 are the best fealties to use this feature with as they take the longest and are the most tedious.
 
 Fealty 2
@@ -88,8 +83,6 @@ Doomwood
 /doomwood - walk left > up > left.
 
 In total, that's 30k kills.
-
-
 
 You can also trade 1 Dage the Evil Insignia for 2 Conquest Wreaths at /ultradage. For more information on defeating Ultra Dage, click here. Fealty 1 and 3 are the best fealties to use this feature with as they take the longest and are the most tedious.
 
@@ -135,10 +128,22 @@ Defeat Seraphic Soldiers at /seraphicwardage. Turn in the quests at the top-righ
 
 In total, that's 5m Gold, 40k LTs, 3k Dage's Favours, 10 Emblems of Dage, 300 Diamond Tokens of Dage, and 1000 Dark Tokens.
 
-
-
 You can also trade 1 Dage the Evil Insignia for 1 Exalted Crown at /ultradage. For more information on defeating Ultra Dage, click here. Fealty 1 and 3 are the best fealties to use this feature with as they take the longest and are the most tedious.
 
 Fealty 4
 
 Turn in the Spellscrolls, Wreaths, and Crowns that you've collected from the previous Fealties.
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Arcana's Concerto | Valiance | Praxis | Awe Blast
+Helm - Pneuma | Base Forge
+Cape - Absolution | Vainglory | Penitence | Lament
+
+COMBOS
+
+- Just spam
+
+Only slightly skill based aspect of this class is timing ur 2 skill to apply decay if the boss or monster has a healing aspect
