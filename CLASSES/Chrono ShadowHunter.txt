@@ -19,7 +19,7 @@ ENHANCEMENTS
   
 Class - Luck
 
-Weapon - Valiance | Arcana's Concerto (Championdrakath) | Health Vamp (Ultradage)
+Weapon - Valiance | Arcana's Concerto | Health Vamp (Ultradage)
 Helm - Vim (Faster rotations) | Pneuma (more stable dps)
 Cape - Vainglory | Lament
 
