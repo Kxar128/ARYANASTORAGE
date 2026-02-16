@@ -83,3 +83,17 @@ Requirements:
 
 Completion:
 After completing all quests and requirements, you will unlock and obtain the King’s Echo class.
+
+ENHANCEMENTS
+
+Class - Luck
+
+Weapon - Ravenous | Elysium | Valiance
+Helm - Examen (Mana Problems)| Pneuma
+Cape - Vainglory | Lament
+
+COMBOS:
+
+Full Damage: 2 - 3 (8 times) - 5 - repeat
+Defensive: 4 -> 2 - 3 (8 times) - 5 - repeat
+Full Defense: 4 -> 2 - 3 (2 times) -> 4 -> 2 - 3 (2 times) -> 5 - repeat 
