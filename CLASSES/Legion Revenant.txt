@@ -138,12 +138,13 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Arcana's Concerto | Valiance | Praxis | Awe Blast
-Helm - Pneuma | Base Forge
-Cape - Absolution | Vainglory | Penitence | Lament
+Weapon - Arcana's Concerto | Valiance (Farming) | Praxis | Ravenous
+Helm - Pneuma | Wizard | Base forge (if going ravenous)
+Cape - Avarice (Farming) | Lament | Penitence | Vainglory
 
 COMBOS
 
 - Just spam
 
 Only slightly skill based aspect of this class is timing ur 2 skill to apply decay if the boss or monster has a healing aspect
+
