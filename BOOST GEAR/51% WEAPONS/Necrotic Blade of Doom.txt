@@ -1,0 +1,20 @@
+/join shadowfall --> Speak to "Braeus (NPC)
+
+Merge the following:
+
+- Necrotic Sword of Doom (Sword) x1 (Refer to BOOST (%) / 51 WEAPONS channel in Library server)
+
+- Void Aura x750 (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+
+- Void Essentia x1
+
+Dropped by Flibbitiestgibbet (Level 99) at /join voidflibbi
+
+or
+
+Merge the following:
+
+Void Essence x25 --> /join voidflibbi --> Kill Flibbitiestgibbet
+Void Aura x75 (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+
+750,000 Gold

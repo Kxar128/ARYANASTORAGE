@@ -1,0 +1,60 @@
+Requirements
+
+- Rank 10 Yokai
+- Must have completes the Atlas storyline
+
+start at /join Atlasfalls
+
+Go to room 5 --> Press the Sin of the Undying (Blue-ish sword) top right of the screen
+
+--> Accept "Undying Fealty" quest
+
+Items Required:
+
+Legion Token x 5,000 (Refer to ITEMS / LEGION channel in Library server)
+
+Broken Chain x 150 --> /join atlaspromenade --> Complete "You and Your Chain" quest
+
+Atlas Lion Pelt x 20 --> /join atlaskingdom --> Complete "Inhuman Children of Man" quest
+
+Atlas Regalia x 20 --> /join Atlasfalls --> Complete " Oh Anima Effimera" quest
+
+Beast Soul x 20 --> /join sevencircleswar --> Kill "The Beast"
+
+Essence of Wrath x 20 --> /join Sevencircleswar -->  --> Complete "Wrath Against the Machine" quest
+
+Essence of Violence x 20 --> /join Sevencircleswar -->  --> Complete "Violence Gatekeeper" quest
+
+Essence of Treachery x 20 --> /join Sevencircleswar -->  --> Complete "Hanged for Treason" quest
+
+
+now go to /join ultradage --> Accept "Sin of the Underworld" quest
+
+Items Required:
+
+Legion Token x25,000 (Refer to ITEMS / LEGION channel in Library server)
+
+Undead Champion Blade --> /join Underworld --> Speak to "Dage (NPC)" --> Accept "Legion Exercise Number 1" Quest
+
+Corrupted Dragon Slayer --> /join Underworld --> Speak to "Dage (NPC)" --> Accept "Legion Exercise Number 4" Quest
+
+Wrath of the Legion Blade --> /join legionpvp --> Merge 300 Legion Combat Trophy
+
+Fatal Keraunos --> /join Underworld --> Speak to "SoulForge (NPC)"
+
+	- Dage's Favor x 1500  --> /join underworld --> Kill mobs in room 10
+	- Obsidian Rock x 333 --> /join underworld --> Speak to Soulforge 	merge legion tokens
+	- Solidified Soul x 333 --> /join underworld --> Speak to Soulforge 	merge legion tokens
+
+Yami no Ronin Katana --> /join DarkAlly --> Accept "The Edge of an Era" quest
+
+Items Required:
+
+	- Perfect Orochi Scales x888 --> /join shogunwar --> Kill Head's of 	Orochi
+	- Shadow Katana Blade --> Merge at SoulForge at /join Underworld
+	- Oni Skull Charm --> /join akiba --> Hashi Hime Rep Yokai shop
+	- Darkened Essence x 600 --> /join shadowrealmpast --> Kill mobs 	there
+ 
+Dual Legion Soul Devourers --> /join Underworld --> Speak to "Vulcar (NPC)" --> Merge there
+
+Dage the Evil Insignia x30 --> /join ultradage --> Complete the weekly quest there

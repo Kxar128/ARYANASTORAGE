@@ -1,0 +1,30 @@
+Merge the following:
+
+
+- Higure x1 --> /join Lolosia --> Deep Trobble Shop
+
+Merge the following:
+
+- Darkon's Receipt x 66 --> /join garden --> Speak to "Darkon (NPC)" --> Complete "Darkon's Second Errand" or "Darkon's Third Errand" quests
+
+- La's Gratitude x 66 --> /join Astravia --> Speak to "La (NPC)" --> Complete "Let Sleeping Dogs Lie" quest
+
+- Astravian Medal x 66 --> /join Astraviacastle --> Complete "Vanity Project" Quest
+
+- A Melody x 66 /join Astraviajudgement --> Complete "A Storied Vow" Quest
+
+- Suki's Prestige (Misc) x 66 --> /join astraviapast --> Complete "Morning Mood" Quest
+
+- Ancient Remnant x 66 --> /join Firstobservatory --> Complete "Taurus Gugalanna" Quest
+
+- Mourning Flower x 66 --> /join Genesisgarden --> Complete "Wheel of Fortune" Quest
+
+- Unfinished Musical Score x 66 --> /join Theworld --> Kill "Encore Darkon"
+
+- Bounty Hunter Dubloon x 222
+	- Reward from Lolosia's Quests
+
+- King Drago Insignia x20 --> /join Ultradrago
+- Darkon Insignia x20 --> /join Ultradarkon
+
+/join Ultradarkon --> Finish the merge for Empowered Higure

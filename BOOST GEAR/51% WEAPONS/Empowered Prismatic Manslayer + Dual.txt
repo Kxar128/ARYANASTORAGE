@@ -1,0 +1,21 @@
+Requirements:
+
+Must be Level 95.
+Must have the following items in your inventory:
+
+- Taro's Prismatic Manslayer (Refer to ITEMS / NULGATH channel in Library Server)
+- Taro's Dual Prismatic Manslayers (Refer to ITEMS / NULGATH channel in Library Server)
+
+/join Ultranulgath --> Complete "Empowered Prismatic Manslayers" quest
+
+Items Required:
+
+Tainted Gem x 400 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+Dark Crystal Shard x 250 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+Diamond of Nulgath x 600 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+Gem of Nulgath x 150 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+Blood Gem of the Archfiend x 70 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+
+Complete this quest a second time for the dual version
+
+Nulgath Insignia x 25 --> /join Ultranulgath --> Complete weekly quest there

@@ -1,0 +1,30 @@
+Requirements:
+
+Must be Level 95.
+Must have the following items in your inventory:
+
+- Underworld Blade of DOOM --> /join Dage --> Kill Dage
+
+- Necrotic Sword of Doom (Sword) (Refer to BOOST (%) / 51 WEAPONS channel in Library server)
+
+Items Required:
+
+- Legion Token x 25,000 (Refer to ITEMS / LEGION in Library server)
+
+- Beast Soul x 25 --> /join sevencircleswar --> Kill "The Best"
+
+- Soul Sand x 7 --> /join underworld --> Speak to "Vulcar (NPC)" --> Accept "Another one Bites the Dust" quest
+
+	- Bone Dust x 333 --> /join necroproject --> Kill "Imperial Noxus"
+	- Dage's Favor x 400 --> /join underworld --> Kill mobs in room 8
+	- Dark Token x 80 --> /join seraphicwardage --> 
+
+	- Complete the following: 
+
+		- "Seraphic Medals" Quest
+		- "Mega Seraphic Medals" Quest
+		- "Seraphic Commanders" Quest
+
+Kill mobs in room 4
+
+- Dage the Evil Insignia x 5 --> /join ultradage --> Complete weekly quest there
