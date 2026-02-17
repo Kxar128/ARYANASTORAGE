@@ -26,7 +26,7 @@ Otherwise, purchase the Earth’s Song Token and Shaman armor from Ravinos Brigh
 
 ENHANCEMENTS
 
-Class - Wizard
+Class - Wizard (Damage) / Fighter (Heal)
 
 Weapon - Valiance | Arcana's Concerto | Awe Blast
 Helm - Anima (Healing) | Pneuma (Damage)
@@ -36,4 +36,16 @@ COMBO
 
 - Spam
 
+POTIONS
+
+- (DMG) - 
+
+Malevolant, 
+Sage 
+Phonor 
+
+- (Heal) - 
+Divine
+Might
+Phonor 
 
