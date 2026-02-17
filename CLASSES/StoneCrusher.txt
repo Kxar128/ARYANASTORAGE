@@ -28,10 +28,11 @@ ENHANCEMENTS
 
 Class - Wizard
 
-Weapon - Arcana's Concerto | Awe Blast
+Weapon - Valiance | Arcana's Concerto | Awe Blast
 Helm - Forge
 Cape - Absolution
 
 COMBO
 
 - Spam
+
