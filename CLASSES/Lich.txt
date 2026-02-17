@@ -2,14 +2,69 @@ Overview
 
 Worth Getting?
 
-- Yes
+- Yes (it has a very nice niche)
 
 Uses
 
-- DPS
+- DPS, Damage over Time
+- Battlepet class
 
 Requirements
 
+* Requires Rank 10 DoomWood (REFER TO REPUTATION GUIDES IN LIBRARY SERVER)
+* Requires Rank 10 Evil. (REFER TO REPUTATION GUIDES IN LIBRARY SERVER)
+* Requires Rank 10 Grimskull Trolling. (REFER TO REPUTATION GUIDES IN LIBRARY SERVER)
+
+1. Klaatu's Necronomicon
+(Reward from the 'Klaatu's Necronomicon' quest)
+- Bone Dust X 6666 --> /join necroproject --> Kill Imperial Noxus
+- Shadow Lich --> /join shadowfall --> Goto gravelyn and then open Evil rep shop
+- Lich of The Stone --> /join Darkoviaforest --> Kill "Lich of the Stone (Monster)"
+- Sapphire Orb X 133 --> Frozenlair --> Kill "Legion Lich Lord" (Monster)
+-  Writte Exam Completed --> /join necroproject --> Click on the blue arrow on screen 2
+
+2. Verata's Necronomicon
+
+- /join gaolcell
+
+3. Nicto's Necronomicon
+
+Gold Voucher 100k x 66
+Grimskull's Favor x 776 --> /Join lichwar
+
+Reward from the following quests:
+
+"Grimskull War Medal"
+"Mega Grimskull War Medal"
+
+Noxus' Favor x 776 --> /Join lichwar
+
+Reward from the following quests:
+
+"Noxus War Medal"
+"Mega Noxus War Medal"
+
+Pristine Skull x 66 --> /join moreskulls
+
+Reward from the following quests:
+
+"We Will Rebuild"
+"We Will Rebuild (Legend)" 
+
 ENHANCEMENTS
 
+Class - Luck
+
+Weapon - Ravenous
+Helm - Examen
+Cape - Vainglory
+
 COMBOS
+
+5 - 4 > 5 - 3 > 5 - 2 (LOOP)
+
+POTIONS
+
+* Fate Tonic
+* Battle Elixir
+* Felicitous Philtre
