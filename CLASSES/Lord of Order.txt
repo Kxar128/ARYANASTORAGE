@@ -190,7 +190,7 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Awe Blast | Lacerate | Health Vamp (Ultradage)
+Weapon - Awe Blast | Health Vamp (Ultradage)
 Helm - Base Forge
 Cape - Penitence | Absolution
 
@@ -202,3 +202,4 @@ COMBOS
 Note: just because it's a spam based class (brainrot class) does not mean you can't time certain skills.
 
 for example: you can time your 5 skill to survive certain boss attacks (Ultradarkon, Ultraspeaker)
+
