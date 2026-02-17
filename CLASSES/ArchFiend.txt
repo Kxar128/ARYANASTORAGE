@@ -57,14 +57,14 @@ ENHANCEMENTS
 Class - Luck
 
 Weapon - Ravenous | Valiance | Spiral Carve
-Helm - Anima
-Cape - Vainglory
+Helm - Anima | Vim
+Cape - Vainglory | Lament (if you need the crit)
 
 COMBOS
 
 - Technically, just spam everything
 
-- Otherwise: [345 - 32... spam]
+- Otherwise: [3 - 4 - 5 - 3 - 2... spam]
 
 - [4] increases everyone's crit damage
 
@@ -73,4 +73,5 @@ COMBOS
 - Both [4] and [5] need stacks from [2]"
 
 - Make sure to stack ur 2 and 3 to 6 - 7 (jk im not making a 67 joke) stack it to 8 then press 5 and spam 4 everytime it's off cooldown
+
 
