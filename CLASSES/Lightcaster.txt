@@ -53,8 +53,8 @@ ENHANCMENTS
 
 Class - Luck
 
-Weapon - Ravenous | Valiance | Praxis
-Helm - Pneuma | Wizard
+Weapon - Valiance | Praxis
+Helm - Base Forge | Pneuma | Wizard
 Cape - Vainglory | Lament
 
 COMBOS
@@ -64,3 +64,4 @@ COMBOS
 Detailed: Use 4. Then spam the other skills. 
 
 When illuminate fades, use 4 again. Basically skill 4 act as a buff and heals you at the same time.
+
