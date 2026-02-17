@@ -15,9 +15,9 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Valiance | Arcana's Concerto | Spiral Carve
-Helm - Forge
-Cape - Penitence
+Weapon - Ravenous | Dauntless
+Helm - Base Forge | Anima | Vim
+Cape - Vainglory | Penitence
 
 COMBOS
 
