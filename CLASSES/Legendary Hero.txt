@@ -18,9 +18,9 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Ravenous | Valiance
-Helm - Vim | Examen (Mana Problems)
-Cape - Vainglory
+Weapon - Valiance
+Helm - Base | Forge
+Cape - Lament | Absolution
 
 COMBOS
 
