@@ -20,7 +20,7 @@ Class - Fighter
 
 Weapon - Mana Vamp | Valiance
 Helm - Healer | Hearty
-Cape -  Vainglory | Penitence
+Cape -  Vainglory
 
 COMBOS
 
