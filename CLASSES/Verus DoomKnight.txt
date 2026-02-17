@@ -73,13 +73,14 @@ ENHANCEMENTS
 Class - Luck
 
 Weapon - Ravenous | Dauntless (Ultradage)
-Helm - Anima | vim
-Cape - Vainglory | Lament | Avarice
+Helm - Anima
+Cape - Vainglory | Lament (if you don't have Vainglory)
 
 COMBOS
 
 2 - 3 - 4 - 5 - 2 - 3 - 4 - 2 - 3 - 4 - 5 - 2 - 3 - 4 - 2 - 3 - 5 - 4 - 2 - 3 - 4
-Repeat cycle
+
+- Repeat cycle
 
 During unleashed doom you can also skip 3 to do more damage if you use dauntless.
 
@@ -97,3 +98,4 @@ OBS!!!!
 during the period that you are in ur enhanced form just spam
 
 repeat after the enhanced for is over)
+
