@@ -42,10 +42,17 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Dauntless | Valiance
+Weapon - Dauntless | Praxis (Ultras)
 Helm - Base Forge
-Cape - Vainglory | Lament
+Cape - Vainglory | Lament (if you need crit)
 
 COMBOS
 
 4-2-3-5 opening and then 2-4 spam and some times 5
+
+POTIONS
+
+Fate Tonic
+Battle Elixir
+Felicitous Philtre
+
