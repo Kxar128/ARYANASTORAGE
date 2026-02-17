@@ -160,11 +160,11 @@ Unfinished Musical Score (x22): /join theworld — Dropped by the boss The World
 **Class** - Luck
 
 
-**Weapon** - Valiance | Ravenous (The best) | Spiral Carve
+**Weapon** - Valiance | Ravenous (The best) | Elysium | Spiral Carve
 
-**Helm** - Pneuma | Vim | Examen (Mana Problems)
+**Helm** - Base Forge (With Ravenous) | Pneuma | Vim | Examen (Mana Problems)
 
-**Cape** - Vainglory | Lament
+**Cape** - Vainglory | Lament | Lament | Absolution
 
 **Combos**
 
@@ -186,3 +186,8 @@ Unfinished Musical Score (x22): /join theworld — Dropped by the boss The World
 Fun fact:
 - Hybrid"" skills deal physical damage
 
+POTIONS
+
+Fate Tonic
+Battle Elixir
+Felicitous Philtre
