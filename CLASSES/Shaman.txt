@@ -19,7 +19,7 @@ Class - Wizard | Luck
  
 Weapon - Elysium | Ravenous
 Helm - Examen | Wizard | Base Forge
-Cape - Wizard | Absolution | Penitence
+Cape - Wizard | Absolution | Penitence | Vainglory
 
 COMBOS
 
