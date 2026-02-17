@@ -55,9 +55,9 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Ravenous
-Helm - Examen
-Cape - Vainglory
+Weapon - Ravenous | Elysium
+Helm - Examen | Pneuma
+Cape - Vainglory | Lament
 
 COMBOS
 
