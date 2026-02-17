@@ -19,7 +19,7 @@ ENHANCEMENTS
 Class - Fighter
 
 Weapon - Mana Vamp | Valiance
-Helm - Healer
+Helm - Healer | Hearty
 Cape -  Vainglory | Penitence
 
 COMBOS
