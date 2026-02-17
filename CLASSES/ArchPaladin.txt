@@ -262,9 +262,9 @@ ENHANCEMENTS:
 
 Class - Luck
 
-Weapon - Valiance | Awe Blast
+Weapon - Valiance | Praxis | Awe Blast | Arcana's Concerto
 Helm - Forge
-Cape - Vainglory | Lament | Penitence (Tanking)
+Cape - Lament | Vainglory | Penitence (Tanking)
 
 COMBOS:
 
@@ -274,4 +274,9 @@ COMBOS:
 
 - Keep all buffs and debuffs always on for smooth fights
 
+POTIONS
+
+Fate Tonic
+Battle Elixir
+Felicitous Philtre
 
