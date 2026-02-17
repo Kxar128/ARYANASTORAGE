@@ -278,7 +278,7 @@ Class - Healer
 
 Weapon - Elysium | Valiance
 Helm - Healer | Pneuma | Wizard
-Cape - Vainglory | Avarice
+Cape - Vainglory
 
 COMBOS
 
@@ -295,4 +295,5 @@ Elysium single target combos:
 2 - 3 - 5 - 3 - 4 - 3 or
 
 4 - 3 - 2 - 3 - 5 - 3
+
 
