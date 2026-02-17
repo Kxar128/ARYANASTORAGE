@@ -278,7 +278,7 @@ Class - Luck | Wizard
 
 Weapon - Valiance | Elysium | Acheron (Farming) | Spiral Carve | Awe Blast
 Helm - Pneuma
-Cape - Avarice | Lament
+Cape - Absolution | Penitence | Vainglory
 
 COMBOS
 
@@ -304,4 +304,5 @@ COMBOS
 - Massive damage on [3]
 
 - May have to use [Penitence] cape
+
 
