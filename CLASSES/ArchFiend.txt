@@ -56,8 +56,8 @@ ENHANCEMENTS
 
 Class - Luck
 
-Weapon - Ravenous | Valiance | Spiral Carve
-Helm - Anima | Vim | Base Forge
+Weapon - Ravenous (Ultras) | Dauntless (Soloing + Farming) | Health Vamp (Farming)
+Helm - Anima (Dage) | Vim | Base Forge
 Cape - Vainglory | Lament (if you need the crit)
 
 COMBOS
@@ -73,6 +73,7 @@ COMBOS
 - Both [4] and [5] need stacks from [2]"
 
 - Make sure to stack ur 2 and 3 to 6 - 7 (jk im not making a 67 joke) stack it to 8 then press 5 and spam 4 everytime it's off cooldown
+
 
 
 
