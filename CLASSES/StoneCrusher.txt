@@ -29,10 +29,11 @@ ENHANCEMENTS
 Class - Wizard
 
 Weapon - Valiance | Arcana's Concerto | Awe Blast
-Helm - Forge
-Cape - Absolution
+Helm - Anima (Healing) | Pneuma (Damage)
+Cape - Absolution (Healing) | Vainglory (Damage)
 
 COMBO
 
 - Spam
+
 
