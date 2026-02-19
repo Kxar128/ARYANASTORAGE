@@ -17,7 +17,7 @@ ENHANCEMENTS
 Class - Luck
 
 Weapon - Ravenous (Group + Ultras + Solo)
-Helm - Base Forge | Examen
+Helm - Vim |
 Cape - Vainglory | Penitence
 
 - Ravenous can be swapped for Spiral Carve (if you don't have Ravenous)
