@@ -1,1 +1,33 @@
+Overview
 
+Worth Getting?
+
+- Yes
+
+Uses
+
+- DPS - Buffs
+
+Requirements
+
+- 6000 (6k AC) --> /join heromart (2025 calendar)
+
+ENHANCEMENTS
+
+Class - Fighter
+
+Weapon - Ravenous | Valiance
+Helm - Forge | Examen
+Cape -  Vainglory
+
+COMBOS
+
+- Always start with [4] (for dodge)
+
+- Use [2-3] (x4) then [42 - 3 - 45]
+
+Normal:
+[4 - 23 (x4) - 42 - 3 - 45]
+
+Examen:
+[4 - 23 (x4) - 42 - 43 - 45]
