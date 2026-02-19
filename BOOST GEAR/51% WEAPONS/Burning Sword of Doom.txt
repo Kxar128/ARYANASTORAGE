@@ -13,3 +13,5 @@ Seasonal (June)
 * Volcanic Essence x 10 --> /join lavarockbay --> (Reward from the 'The Molten Heart' quest)
 
 - Molten Heart x1 --> /join lavarockbay --> Kill Kasuko
+
+change
