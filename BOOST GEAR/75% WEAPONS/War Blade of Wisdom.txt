@@ -1,6 +1,0 @@
-Merge the following:
-
-- Malgor Insignia x7 --> /join Ultraspeaker
-- Fragment of the Queen x13 --> /join transformation --> Kill Queen of Monsters
-- ShadowChaos Mote x250 --> /join Laguna or Lagunabeach --> reward from "A Closer Look" and "Snack Time" Quests
-- Acquiescence x10 --> /join Worldscore --> Reward from "Tranquil Mediocrity" quest
