@@ -17,5 +17,3 @@ Merge the following:
 		- Enchantment Rune x 1  --> /join river --> click chest in room 2 --> Quests --> (Reward from the 'Victory Blade Enchantment' quest)
 
 		- Silver Victory Blade x 1  --> /join river --> click chest in room 2 --> Shop
-
-change
