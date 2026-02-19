@@ -1,0 +1,14 @@
+PRE-REQUIREMENTS
+
+Requires Rank 10 Skye
+
+/join queeniona --> Lothian Tresury shop
+
+Merge the following:
+
+Lothian's Lightning x 7 --> Complete the Daily quest at /join queeniona (OBS!! you can do it repeatably if you are member)
+
+Skye's Lightning x 40 --> /join coldthunder --> Reward from the following quests:
+'Eilean a' Cheò'
+
+Priestess Eire's Cletiné x 1 --> /join Coldthunder --> Kill Cold Thunder Avatar

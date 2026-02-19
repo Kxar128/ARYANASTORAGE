@@ -1,0 +1,13 @@
+/Join necropolis
+
+Items Required:
+
+Bone Dust x 300 --> /join necrodungeon --> down --> right --> kill Doom Overlord
+
+Loyal Spirit Orb x 25 --> scroll up man
+
+Glorious Gold of Destiny x 1 --> Reward from the 'Glorious Gold of Destiny' quest at /join dwarfholdkeep
+
+Pious Platinum of Destiny x 1 --> Reward from the 'Pious Platinum of Destiny' quest at /join dwarfholdkeep
+
+Refined Metal x 5 --> /join Extinction --> Kill Cyworg

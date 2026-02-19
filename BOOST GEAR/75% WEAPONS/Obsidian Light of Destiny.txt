@@ -1,0 +1,33 @@
+PRE-REQUIREMENTS
+
+Must have Blinding Edge of Obsidian (Non-AC) in your inventory
+Rank 10 Mysterious Dungeon
+
+/join darkthronehub --> Mysterious Dungeon Rep shop --> Buy Blinding Edge of Obsidian (Non-AC)
+
+/join techfortress
+
+Speak to "Stellaria (NPC)" --> Accept "The Edge of Destiny" quest
+
+Bright Aura x 120 --> /join necropolis --> "Finding Fragments with the Blinding Bow" quest
+
+Brilliant Aura x 40 --> /join necropolis --> "Finding Fragments with the Blinding Mace"
+
+Blinding Aura --> /join necropolis --> "Finding Fragments with the Blinding Scythe of Destiny"
+
+Spirit Orb (Misc) x 5,000 --> /join necropolis --> "Finding
+Fragments with the Blinding Blade".
+
+Loyal Spirit Orb x 750 --> /join necropolis --> "Finding Fragments with the Blinding Blade".
+
+Ultimate Blinding Light of Destiny x 1 --> /join techfortress --> Techfortress War Merge
+
+Overwhelmed Axe x 1 -->
+ 	* Spirit Orb (Misc) x250
+ 	* Loyal Spirit Orb x100
+ 	* Brilliant Aura x10
+ 	* Blinding Aura x1
+
+Shard of An Orb x 5 --> /join techfortress --> (Reward from the 'This Little Light Of Mine' quest)
+
+Purified Undead Dragon Essence x 1 --> /join techfortress (Reward from the 'I'm Gonna Let It Shine' quest)

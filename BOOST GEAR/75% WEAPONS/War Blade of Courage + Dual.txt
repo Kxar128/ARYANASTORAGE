@@ -1,0 +1,18 @@
+/join ultraspeaker --> Ultra Speaker Merge
+
+Merge the following:
+
+Malgor Insignia x7 --> Complete the weekly quest at /join ultraspeaker
+
+Brilliant Aura x50 --> /join necropolis --> "Finding Fragments with the Blinding Mace"
+
+Blinding Aura x1 --> /join necropolis --> "Finding Fragments with the Blinding Scythe of Destiny"
+
+Acquiescence x10 --> /join worldscore --> (Reward from the 'Tranquil Mediocrity' quest)
+
+FOR THE DUAL
+
+Merge the following:
+
+War Blade of Courage x1
+Elemental Core x3 --> /join manacradle --> (Reward from the 'Once Upon Another Time' quest)

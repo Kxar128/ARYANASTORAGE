@@ -1,0 +1,15 @@
+/join ultraspeaker --> Ultraspeaker merge shop
+
+REQUIREMENTS:
+
+* DRAGONSLAYER CLASS RANK 10
+
+Merge the following:
+
+Malgor Insignia x 7 --> --> Complete weekly quest for /join ultraspeaker
+
+Enchanted Scale x 250 --> /join dragontown --> (Reward from the 'DragonSlayer General Class' quest)
+
+Dragon Scale (1) x 30 --> /join lair --> Kill any draconian version there
+
+Acquiescence x 10 --> /join worldscore --> (Reward from the 'Tranquil Mediocrity' quest)

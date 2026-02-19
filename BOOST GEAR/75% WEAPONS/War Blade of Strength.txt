@@ -1,0 +1,11 @@
+/join ultraspeaker --> Ultra Speaker Merge 
+
+Merge the following:
+
+Malgor Insignia x7 --> Complete the weekly quest at /join ultraspeaker
+
+Elemental Core x25 --> /join manacradle --> (Reward from the 'Once Upon Another Time' quest)
+
+Fire Avatar's Favor x25 --> /join fireavatar -->  (Reward from the 'Avatar's Rage' quest)
+
+Acquiescence x10 --> /join worldscore --> (Reward from the 'Tranquil Mediocrity' quest)

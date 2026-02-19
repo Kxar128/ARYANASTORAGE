@@ -1,0 +1,21 @@
+PRE-REQUIREMENTS
+
+Must have completed the 'Contract With the Abyss' quest.
+
+Must have the following items in your inventory:
+
+Void Paladin --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Complete "A Dark Temptation" quest (http://aqwwiki.wikidot.com/oblivion-s-quests#2)
+
+Void Paladin Helm --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Complete "A Dark Temptation" quest (http://aqwwiki.wikidot.com/oblivion-s-quests#2)
+
+Void Paladin Katana Cape --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Complete "A Dark Temptation" quest (http://aqwwiki.wikidot.com/oblivion-s-quests#2)
+
+Void Paladin Katana --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Complete "A Dark Temptation" quest (http://aqwwiki.wikidot.com/oblivion-s-quests#2)
+
+Void Light of Destiny --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Complete "A Dark Temptation" quest (http://aqwwiki.wikidot.com/oblivion-s-quests#2)
+
+/join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Cyber Void Paladin Set" quest
+
+Items Required:
+
+Powerpack x5 --> /join dreadspace --> Kill Undead Space Warrior
