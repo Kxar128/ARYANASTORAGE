@@ -1,1 +1,15 @@
-dd
+/join Lavarockbay or /join lavarockbay
+
+Seasonal (June)
+
+* Scroll of Scorched Steel x 99 --> /join spellcraft --> buy Elemental Ink --> Make this combo "https://imgur.com/TS7dt70"
+
+* Akriloth's Scale x 1,500 --> /join gravestrike or /join shadowstrike --> Kill "Sepulchuroth or "Ultra Akriloth"
+
+* Flame Heart x 1 --> /join ashfallcamp --> Kill "Smoldur"
+
+* Molten Core x 150 --> /join battleunderE --> Kill any mob there
+
+* Volcanic Essence x 10 --> /join lavarockbay --> (Reward from the 'The Molten Heart' quest)
+
+- Molten Heart x1 --> /join lavarockbay --> Kill Kasuko
