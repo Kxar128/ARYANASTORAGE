@@ -1,1 +1,66 @@
+/join gaolcell --> Speak to "Undead Cashfear (NPC)" --> Quests --> 
 
+Accept Gaol Rerun or Gaol Rerun (Legend) quest  (750 Reputation Normal and 1,500 Reputation Legend)
+
+And
+
+Beat Up My Master For My Enjoyment quest (Daily) (Can only be completed once per day) (2,500 Rep)
+
+Since we are using Dragon of Time, potting is required (using potions), due to how Potent Honor Potions interact with Dragon of Time squaring.
+
+In the link at the bottom you can see the video show you which potions are used:
+
+* Unstable Sage Tonic (Non-Unstable also works)
+* Unstable Malevolence Elixir (same case as above)
+* Potent Honor/ Malice Potions (REQUIRED)
+
+
+ENCHANTMENTS:
+
+Weapon: Elysium / Valiance
+Helm: Pneuma / Wizard
+Cape: Vainglory / Penitence
+
+There will be designated rooms in which a greaswap is mandatory, the video will provide when and where those are and why. Base wizard can substitute Penitence cape enhancement IF you don't own it.
+
+
+
+ROTATION OF SKILLS: 2 - 3 - 5 - 3 - 4 (3) unless otherwise stated
+
+ROOM 1 - You can burst before he counters you
+
+If potted and using Elysium / Pneuma / Vainglory, as well as doing the rotation with haste on low lag, you can burst him before he counters you
+
+If this does not work, simply avoid using (2) and use 4 / 5 to get him into his first HP threshold, stop attacking during his counter then burst him down. Don't forget your (3) heals you.
+
+ROOM 2 - Clear with normal rotation of skills
+
+ROOM 3 - Make sure you are NOT on Vainglory in this room. IF and WHEN he wants you at full health, avoid pressing 2 /  4 to not lower your health and use 3 to make sure you're at max HP.
+
+ROOM 4 - Clear with normal rotation of skills 
+
+ROOM 5  - Elysium / Pneuma / Penitence is fine here, but if you struggle with this room, do not be afraid to swap to Wizard helm for more HP, you will need Wizard for the next room anyways so might aswell swap here for a safer run
+
+ROOM 6  - If you have't already swapped to Wizard helm, now is where it becomes mandatory. The Fell Statue can do up to 3000 damage, which would 1-shot us if we were on Pneuma
+
+ROOM 7  - Make sure you are NOT on Vainglory in this room. IF and WHEN he wants you at full health, avoid pressing 2 /  4 to not lower your health and use 3 to make sure you're at max HP. It is also safe to use Pneuma in this room, just keep ur max HP% above 50%
+
+---
+NOTE: For the rest of the dungeon, you are very safe to stay on Pneuma and Vainglory. There is only 1 more gearswap left in the Grimgaol dungeon, so rest assured, the hardest parts are done.
+---
+
+ROOM 8  - Clear with normal rotation of skills 
+
+ROOM 9  - Clear with normal rotation of skills 
+
+ROOM 10  - Clear with normal rotation of skills 
+
+ROOM 11  - The Final fight and 1 last gearswap to make this fight stress-free. Let you HoT's fade and swap to Valiance weapon enhancement. When the fight starts, use 4 / 5 to damage him and balance 3 to keep your HP up.
+
+At 90% HP (900k), he will Invert Healing for 4 seconds. When that ends, you are safe to do 2 / 3 and continue doing your rotation as normal.
+
+GG that's the whole dungeon, don't forget to go to next room and clear last mob (ez)
+
+ROOM 12  - Clear with normal rotation of skills 
+
+SHOUTOUT TO ORIGINAL GUIDE MAKER: https://www.reddit.com/r/AQW/comments/1mf6lnr/an_updated_1class_clear_grimgaol_dragon_of_time/
