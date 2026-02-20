@@ -1,6 +1,7 @@
 ULTRAGRAMIEL
 
-:crossed_swords: ULTRA GRAMIEL :crossed_swords:
+♛ ULTRA GRAMIEL ♛
+
 Phase 1:
 2 classes alternates taunt on each cristal in the text: "The Grace Crystal prepares a defense shattering attack!"
 
@@ -16,6 +17,7 @@ Everyone turns to attack Gramiel (mid Boss) when it says "Gramiel attempts to dr
 *Note 2: LR shouldn't use his skill 2 on phase 1 (decay)
 
 Phase 2:
+
  DPS should call taunts by class 
 ⚔️ Shaman Enhancements/Potions
 🛡️ Elysium, Wizard, Wizard, Vainglory
@@ -29,3 +31,4 @@ Phase 2:
 ⚔️ Lord of Order Enhancements/Potions
 🛡️ Aweblast, Luck, base Forge, Penitence
 ⚗️ Divine Elixir, Sage Tonic, Scroll of Enrage
+
