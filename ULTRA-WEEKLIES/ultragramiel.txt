@@ -17,15 +17,15 @@ Everyone turns to attack Gramiel (mid Boss) when it says "Gramiel attempts to dr
 
 Phase 2:
  DPS should call taunts by class 
-:class: Shaman Enhancements/Potions
-:shield: Elysium, Wizard, Wizard, Vainglory
-:test_tube: Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
-:class: StoneCrusher Enhancements/Potions
-:shield: Valiance, Fighter/Hybrid, Anima, Absolution
-:test_tube: Might Tonic, Divine Elixir, Scroll of Enrage
-:class: Legion Revenant Enhancements/Potions
-:shield: Heath Vamp, Wizard, Wizard, Absolution
-:test_tube: Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
-:class: Lord of Order Enhancements/Potions
-:shield: Aweblast, Luck, base Forge, Penitence
-:test_tube: Divine Elixir, Sage Tonic, Scroll of Enrage
+⚔️ Shaman Enhancements/Potions
+🛡️ Elysium, Wizard, Wizard, Vainglory
+⚗️ Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
+⚔️ StoneCrusher Enhancements/Potions
+🛡️ Valiance, Fighter/Hybrid, Anima, Absolution
+⚗️ Might Tonic, Divine Elixir, Scroll of Enrage
+⚔️ Legion Revenant Enhancements/Potions
+🛡️ Heath Vamp, Wizard, Wizard, Absolution
+⚗️ Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
+⚔️ Lord of Order Enhancements/Potions
+🛡️ Aweblast, Luck, base Forge, Penitence
+⚗️ Divine Elixir, Sage Tonic, Scroll of Enrage
