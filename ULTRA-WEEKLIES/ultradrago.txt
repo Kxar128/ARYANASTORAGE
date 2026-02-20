@@ -14,36 +14,20 @@ Decide who wants to DPS and who wants to Taunt, Enhancement Equipments will diff
 (if you're going dps, please use pots)
 
 CLASSES:
-LR - Arcana/Elysium - Wiz - Wiz - Penitence
 
-AP - Lacerate/Smite/Spiral Luck - Luck - Luck - Penitence
-
-LOO - Rave/Aweblast Wiz/Healer - Wiz - Wiz - Penitence
-
-CAV - Dauntless - Luck - Anima - Vainglory 
-**Interchangable DPS classes**
-AI - Elysuim - Wiz - Wiz - Peni/Vainglory 
-
-CSS - Rave - Luck - Vim - Lament 
+LR - Arcana's Concerto
+AP - Lacerate
+LoO - Awe Blast
+DPS - CaV, CSS, AI, K.E
 
 **
 
-Potions : 
-If  you bonk : Potent Battle Elixir + Might Tonic + Potent Malice/Honor Potion
-
-If you're a Chunibyo: Potent Malevolence + Sage Tonic + Potent Malice/Honor Potion 
-
-If you're Unaliving : Angelic Elixir + Body Tonic 
-
-Obviously, have someone use Scroll of Enrage to taunt boss.
+Scroll of Enrage for taunts
 
 **
 Boss Mechanism :
 
-Axe Guy - On the Left side of the screen when you go into the boss room, you'll find 3 doods, the one carrying the Axe on the left side will need to be taunted otherwise you will die
-Middle Guy - POS Drago, don't do anything, just focus on the soldiers and Drago will die 
+Don't focus Drago (he can't take damage until you kill right and left boss)
+Axe Boss - On the Left side when you go into the boss room, you'll find 3 enemies, AP taunts the axe mob on left or insta party nuke
 
-Bow Guy - CAV (most common)/CSH/Arcana Invoker/DOT, whoever is your  DPS can solo this. Just kill it fast, but if you're not fast enough, use scroll of enrage. 
-
-
-Once the bow guy is dead, Axe guy will heal up to full HP, just knock him back down again and when he dies, drago will also die.
+Bow Guy - LR taunts this boss on the right side of room and DPS focuses him before changing focus to left boss
