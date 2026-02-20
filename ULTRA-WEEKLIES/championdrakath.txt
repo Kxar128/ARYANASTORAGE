@@ -2,61 +2,37 @@ CHAMPION DRAKATH
 
 Champion Drakath
 ♦ Every 2,000,000 dmg, Drakath will scream at your team, designated Taunter should taunt JUST BEFORE the 000,000 mark or else your team will not want to help xd
-
 ♦ Everytime he screams, he gains "Evasion" to self, increasing Dodge by 20%, stacks indefinitely.
-
+♦ Recommended to have dual taunters if the DPS is CSS or DoT due to very fast damage
+♦ Dual taunters take turns in first phase (first 10 million HP) and then only 1 takes next phase (whichever class has the best survivability (usually Stonecrusher, Obsidian Paladin Chronomancer, Archpaladin, Chaos Avenger, King's Echo)
 
 LORD OF ORDER: 
 
-Ravenous/Wizard Aweblast/Wizard/Healer
-Wizard
-Wizard
-Penitence
+- Class - Wizard
 
---------------------------------------------------------------------------------------------------
-These are breakdowns of forge enhancements used for LOO
-RAVENOUS
-♦ 100% chance to activate on auto attack (10 second cooldown).
+- Weapon - Aweblast
+- Helm - Base Forge | Wizard
+- Cape - Penitence
 
-♦ Deals 75% Hybrid Damage.
+LEGION REVENANT:
 
-♦ Recovers 15 mana.
+- Class - Luck
 
-♦ Applies Ravenous to the target for 10 seconds:
--5% Haste
--5% Crit Chance
--5% Dodge
--5% Damage Boost
+- Weapon - Arcana's Concerto | Valiance (Farming) | Praxis | Ravenous
+- Helm - Pneuma | Wizard | Base forge (if going ravenous)
+- Cape - Avarice (Farming) | Lament | Penitence | Vainglory
 
-♦ Applies Execute to yourself for 10 seconds:
-+5% Haste
-+5% Crit Chance
-+5% Dodge
-+5% Damage Boost
+OBSIDIAN PALADIN CHRONOMANCER / PALADIN CHRONOMANCER / STONECRUSHER
 
-♦ Skills deal 0.9% bonus damage for each 1% of the target's missing HP. (This includes normal heals, but not HoT effects.)
-WIZARD AWEBLAST
-♦ 30% chance to activate on auto attack (no cooldown).
+- Class - Fighter
 
-♦ Deals 100% Hybrid Damage.
+- Weapon - Mana Vamp | Valiance
+- Helm - Healer | Hearty
+- Cape -  Vainglory
 
-♦ Applies Awe Blast to the target for 10 seconds:
--15% Crit Chance
--15% Damage Resistance
-PENITENCE
-♦+25% Damage Resistance
+- DPS 
 
-♦-25% DoT Boost
-
--------------------------------------------------------------------------------------------------
-These are Potions and scrolls used for LOO
-HEALTH
-:Elixir: Angelic Elixir
-:Tonic: Body Tonic
-:BlueHand: Scroll of Lifesteal
-Angelic Elixir
-♦ Use to increase your healing potential by 30% for 10 minutes.
-Body Tonic
-♦ Use to increase your endurance by 20% for 15 minutes.
-Scroll of Lifesteal
-♦ Drains some of the target's HP and gives it to you.
+- KING'S ECHO, 
+- CHRONO SHADOWHUNTER, 
+- VERUS DOOMKNIGHT, 
+- DRAGON OF TIME
