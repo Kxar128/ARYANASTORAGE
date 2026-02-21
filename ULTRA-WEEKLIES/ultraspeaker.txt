@@ -5,7 +5,7 @@ Follow the chart
 🛡️ Aweblast, Luck, base Forge, Penitence
 ⚗️ Divine Elixir, Sage Tonic, Scroll of Enrage
 
- ⚔️ Legion Revenant Enhancements/Potions 
+⚔️ Legion Revenant Enhancements/Potions 
 🛡️ Arcana Concerto, Wizard, Wizard, Lament
 ⚗️ Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
 
@@ -27,3 +27,4 @@ King's Echo
 ⚗️ Fate Tonic, Potent Battle Elixir, Felicitous Philtre
 
 *Note: for DPS these are mere suggestions it can be other classes.
+
