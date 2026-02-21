@@ -8,27 +8,27 @@ Champion Drakath
 
 LORD OF ORDER: 
 
-- Class - Wizard
+🧥Class - Wizard
 
-- Weapon - Aweblast
-- Helm - Base Forge | Wizard
-- Cape - Penitence
+🗡️Weapon - Aweblast
+🪖Helm - Base Forge | Wizard
+🧣Cape - Penitence
 
 LEGION REVENANT:
 
-- Class - Luck
+🧥Class - Luck
 
-- Weapon - Arcana's Concerto | Valiance (Farming) | Praxis | Ravenous
-- Helm - Pneuma | Wizard | Base forge (if going ravenous)
-- Cape - Avarice (Farming) | Lament | Penitence | Vainglory
+🗡️Weapon - Arcana's Concerto | Valiance (Farming) | Praxis | Ravenous
+🪖Helm - Pneuma | Wizard | Base forge (if going ravenous)
+🧣Cape - Avarice (Farming) | Lament | Penitence | Vainglory
 
 OBSIDIAN PALADIN CHRONOMANCER / PALADIN CHRONOMANCER / STONECRUSHER
 
-- Class - Fighter
+🧥Class - Fighter
 
-- Weapon - Mana Vamp | Valiance
-- Helm - Healer | Hearty
-- Cape -  Vainglory
+🗡️Weapon - Mana Vamp | Valiance
+🪖Helm - Healer | Hearty
+🧣Cape -  Vainglory
 
 - DPS 
 
@@ -36,3 +36,4 @@ OBSIDIAN PALADIN CHRONOMANCER / PALADIN CHRONOMANCER / STONECRUSHER
 - CHRONO SHADOWHUNTER, 
 - VERUS DOOMKNIGHT, 
 - DRAGON OF TIME
+
