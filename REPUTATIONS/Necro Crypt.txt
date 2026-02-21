@@ -1,0 +1,9 @@
+/join dragonrune
+
+Accept "Help Professor Mueran" quest from "Mueran (NPC)"
+
+/join shadowfall
+
+UP - MIDDLE RIGHT - RIGHT - MIDDLE UP
+
+Kill mobs in that room
