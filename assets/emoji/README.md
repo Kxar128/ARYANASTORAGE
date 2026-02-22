@@ -1,6 +1,0 @@
-![swords](SoE.gif)
-![sword](Weapon.gif)
-![shield](Shield.gif)
-![helmet](Helm.gif)
-![armor](Class.gif)
-![cape](Cape.gif)
