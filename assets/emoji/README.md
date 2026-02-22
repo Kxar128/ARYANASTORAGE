@@ -1,0 +1,6 @@
+![swords](assets/emoji/Cape)
+![sword](assets/emoji/SoE)
+![shield](assets/emoji/Weapon)
+![helmet](assets/emoji/Shield)
+![armor](assets/emoji/Helm)
+![cape](assets/emoji/Class)
