@@ -1,5 +1,6 @@
-![swords](assets/emoji/Weapon.gif)
+![swords](assets/emoji/SoE.gif)
+![sword](assets/emoji/Weapon.gif)
 ![shield](assets/emoji/Shield.gif)
 ![helmet](assets/emoji/Helm.gif)
+![armor](assets/emoji/Class.gif)
 ![cape](assets/emoji/Cape.gif)
-![class](assets/emoji/Class.gif)
