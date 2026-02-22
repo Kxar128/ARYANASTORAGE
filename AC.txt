@@ -1,4 +1,4 @@
-Tips
+Tips 
 
 1500 ACs are given out for free each year.
 
@@ -115,3 +115,4 @@ Calendar Class - 6000
 4 Inventory Slots - 800
 
 Total: 11920 ACs
+
