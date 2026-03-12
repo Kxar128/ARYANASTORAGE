@@ -1,146 +1,95 @@
-
---------------------
-🕳 VOID FLIBBI
---------------------
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VOID FLIBBI
 /join voidflibbi
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🔹 Solo Setup
-
+SOLO
 Class: Dragon Knight (WIZ)
 
 Gear
-
-Weapon: Empowered Hollowborn Caladbolg (Ravenous)
-
-Armor: RGoW
-
-Helm: Forge Helm
-
-Cape: Forge Cape
+• Weapon: Empowered Hollowborn Caladbolg (Ravenous)
+• Armor: RGoW
+• Helm: Forge Helm
+• Cape: Forge Cape
 
 Combo
-
-3 → 4 → 2 → 5
-Repeat
+3 → 4 → 2 → 5 → repeat
 
 Notes
+• You can add extra 2s between 3 and 4 cooldowns
+• ALWAYS use 2 before 5 to activate HoT
 
-You can add extra 2 between 3 and 4 during cooldowns.
 
-Always use 2 before 5 to activate HoT.
-
-🔹 Group Setup
-
+GROUP
 Recommended Classes
-
-CSS
-
-VDK
-
-LR
-
-LoO
-
-GT
-
-DoT
-
-SC
-
-LH
+• CSS
+• VDK
+• LR
+• LoO
+• GT
+• DoT
+• SC
+• LH
 
 Important
-⚠️ Heal when HP drops using a HoT class.
-
---------------------
-🌙 VOID NIGHTBANE
---------------------
-
+• Heal when HP drops using a HoT class
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VOID NIGHTBANE
 /join voidnightbane
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🔹 Solo Setup
-
+SOLO
 Gear
-
-RGoW
-
-Legion Dragonblade
-(or any weapon with 75% Dragonkin Boost)
+• RGoW
+• Legion Dragonblade
+  (or ANY 75% Dragonkin boost weapon)
 
 Enhancements
-
-Health Vamp
-
-Vim
-
-Lament
+• Health Vamp
+• Vim
+• Lament
 
 Consumables
-
-Unstable Fate Tonic
-
-Potent Battle Elixir
-
-Felicitous Philtre
+• Unstable Fate Tonic
+• Potent Battle Elixir
+• Felicitous Philtre
 
 Combo (Gunslinger)
-
 4 → 1 → 4 → 4 → 4 → 2
-🔹 Group Setup
 
+
+GROUP
 Recommended Classes
-
-CSS
-
-VDK
-
-LR
-
-LoO
-
-GT
-
-DoT
-
-SC
-
-LH
+• CSS
+• VDK
+• LR
+• LoO
+• GT
+• DoT
+• SC
+• LH
 
 Important
-⚠️ Do NOT use Vainglory
-⚠️ A Decay class is required
-
------------------
-🧬 VOID XYFRAG
------------------
-
+• DO NOT use Vainglory
+• A decay class is REQUIRED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VOID XYFRAG
 /join voidxyrag
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🔹 Group Setup
-
+GROUP
 Recommended Classes
-
-CSS
-
-VDK
-
-LR
-
-LoO
-
-GT
-
-DoT
-
-SC
-
-LH
+• CSS
+• VDK
+• LR
+• LoO
+• GT
+• DoT
+• SC
+• LH
 
 Important
-⚠️ LR must taunt when the text prompt appears:
+
+• LR must taunt when the prompt appears:
 
 "BLEEEEEECH"
-
-✅ Tip:
-Have LoO / SC / LH ready to react with heals during burst damage phases.
