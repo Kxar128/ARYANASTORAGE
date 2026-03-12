@@ -1,0 +1,72 @@
+╔════════════════════════════════╗
+
+     GODDESS OF WAR PRESTIGE
+             CLOAK
+
+╚════════════════════════════════╝
+
+📦 Final Merge Requirements
+
+Goddess of War Blades  ×1
+Goddess of War Cloak   ×1
+
+
+
+╔════════════════════════════════╗
+         GODDESS OF WAR
+              BLADES
+╚════════════════════════════════╝
+
+Requirements:
+
+War Blade of Courage   ×1
+War Blade of Power     ×1
+War Blade of Speed     ×1
+War Blade of Strength  ×1
+War Blade of Wisdom    ×1
+
+🛡 WAR BLADE OF COURAGE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia        ×7 --> /join ultraspeaker (Complete the weekly quest there)
+  Brilliant Aura         ×50 --> /join necropolis (Complete Finding Fragments with ...' quests)
+  Blinding Aura          ×1 --> /join necropolis (Complete Finding Fragments with ...' quests)
+  Acquiescence           ×10 --> /join worldscore (Complete the 'Tranquil Mediocrity' quest)
+╰────────────────────────────────────╯
+
+⚡ WAR BLADE OF POWER
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia        ×7 --> /join ultraspeaker (Complete the weekly quest there)
+  Enchanted Scale        ×250 --> /join dragontown (Complete DragonSlayer General Class quest there)
+  Dragon Scale (1)       ×30 --> /join lair --> Kill any draconian there
+  Acquiescence           ×10 --> /join worldscore (Complete the 'Tranquil Mediocrity' quest)
+╰────────────────────────────────────╯
+
+🏹 WAR BLADE OF SPEED
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia        ×7 --> /join ultraspeaker (Complete the weekly quest there)
+  Ultimate Darkness Gem  ×75 --> /join shadowfallwar --> Kill mobs in Room 2
+  Death's Oversight      ×5 --> /join shadowattack --> Kill Death (Monster)
+  Acquiescence           ×10 --> /join worldscore (Complete the 'Tranquil Mediocrity' quest)
+╰────────────────────────────────────╯
+
+💪 WAR BLADE OF STRENGTH
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia        ×7 --> /join ultraspeaker (Complete the weekly quest there)
+  Elemental Core         ×25 --> /join manacradle (Complete Once Upon another Time quest there)
+  Fire Avatar's Favor    ×25 --> /join fireavatar --> (Complete Avatar's Rage quest there)
+  Acquiescence           ×10 --> /join worldscore (Complete the 'Tranquil Mediocrity' quest)
+╰────────────────────────────────────╯
+
+🧠 WAR BLADE OF WISDOM
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia        ×7 --> /join ultraspeaker (Complete the weekly quest there)
+  Fragment of the Queen  ×13 --> /join transformation --> Kill Queen of Monsters (Monster)
+  ShadowChaos Mote       ×250 --> /join Laguna or /join Lagunabeach (Complete "A Closer Look" or "Snack Time" quests there)
+  Acquiescence           ×10 --> /join worldscore (Complete the 'Tranquil Mediocrity' quest)
+╰────────────────────────────────────╯
+
+🧥 GODDESS OF WAR CLOAK
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia        ×10 --> /join ultraspeaker (Complete the weekly quest there)
+  Acquiescence           ×10 --> /join worldscore (Complete the 'Tranquil Mediocrity' quest)
+╰────────────────────────────────────╯
