@@ -1,0 +1,129 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEFT DUNGEON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Comp
+• CSS / KE
+• VDK
+• LoO
+• LR
+
+ROOM 1
+Focus: Faithless Deer
+→ When it dies switch to Shackled Fairy
+
+ROOM 2
+Focus: Lunar Haze
+→ When it dies switch to Faithless Deer
+
+ROOM 3
+Focus: Lunar Haze
+→ When it dies switch to Shackled Fairy
+
+BOSS ROOM
+LR  = T1 taunt on "The Moon Converges"
+LoO = T2 taunt on "The Moon Converges"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RIGHT DUNGEON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Comp
+• CSS / KE
+• VDK
+• LoO
+• LR
+
+ROOM 1
+Focus: Dying Light
+→ When it dies switch to Shining Star
+
+ROOM 2
+Focus: Dawn Knight
+→ When it dies switch to Shining Star
+
+ROOM 3
+Focus: Dawn Knight
+→ When it dies switch to Shining Star
+
+BOSS ROOM
+LR  = T1 taunt on "The Sun Converges"
+LoO = T2 taunt on "The Sun Converges"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BOSS DUNGEON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Comp
+• DPS (AI / Shaman / DoT)
+• LR
+• LoO
+• AP
+
+ROOM 1
+AP + LR + DPS
+Focus: Fallen Star
+(MUST die before Blessless Deer)
+
+LoO
+Solo: Blessless Deer
+
+
+ROOM 2
+AP  = T1 taunt on Suffocated Light
+LR  = T2 taunt on Suffocated Light
+Trigger: "Gathering Light"
+
+DPS
+Focus: Suffocated Light
+
+LoO
+Solo: Imprisoned Fairy
+
+
+ROOM 3
+AP
+Solo taunt Sunset Knight
+Press taunt 6s after "Sun" prompt
+
+LoO
+Solo taunt Sunset Knight
+Press taunt 6s after "Moon" prompt
+
+LR + DPS
+Focus: Sunset Knight
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FINAL BOSS ROOM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ASCENDED MIDNIGHT (MOON)
+
+AP  = T1 taunt on "Moon Converges"
+LoO = T2 taunt on "Moon Converges"
+
+Taunts alternate:
+1st → AP
+2nd → LoO
+3rd → AP
+4th → LoO
+Repeat
+
+
+ASCENDED SOLSTICE (SUN)
+
+LR  = T1 taunt on "Sun Converges"
+DPS = T2 taunt on "Sun Converges"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HP BALANCE MECHANIC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The HP difference between Sun and Moon
+must stay within the correct range.
+
+Minimum difference: 200k
+Example
+Moon: 1.6m
+Sun:  1.7m
+
+Maximum difference: 1,000,000
+Example
+Moon: 1.6m
+Sun:  590k
