@@ -1,49 +1,60 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║         FROSTVAL BARBARIAN           ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Absolutely yes — great in 7-man boss fights.
 
-- Absolutely yes, great in 7 man bosses
+  Best Used For:  🤝 Support
 
-Uses
+  ⚠️  Seasonal:   December – January
 
-- Support class
 
-Requirements
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
 
-Seasonal (December - January) --> /join Frostvale --> Talk to "Robina (NPC)" --> Accept "Unleash the Frostvale Barbarian" quest 
+  → /join Frostvale  ·  Speak to "Robina (NPC)"  ·  Accept "Unleash the Frostvale Barbarian"
 
-Sword Of Hope --> /join frostdeep
-Sassafras --> /join battlefield
-Fur Tuft --> /join alpine
-  - (Reward from the 'Forest Guardian Gauntlet' quest)
-Icy Holly --> /join coldwindvalley
-  - (Reward from the 'Holly and Ice' quest)
-Glaceran Key --> /join northstar
-  - (Reward from the 'Defeat Karok!' quest)
-Infernal Ice Heart --> /join curio
-  - merge the following
-  5 x Frozen orb --> /join frostvalfuture --> Kill "Wargoth the Frozen"
-  5 x Crypto token
-    - (Reward from the 'Odd's 'n' Ends' quest) --> /join curio
-    (OBS!! It's a daily quest)
-      - Metal ore --> /join boxes --> Kill Sneevil
+  Sword of Hope          ×1   → /join frostdeep
+  Sassafras              ×1   → /join battlefield
+  Fur Tuft               ×1   → /join alpine  ·  Reward from "Forest Guardian Gauntlet" quest
+  Icy Holly              ×1   → /join coldwindvalley  ·  Reward from "Holly and Ice" quest
+  Glaceran Key           ×1   → /join northstar  ·  Reward from "Defeat Karok!" quest
+  Infernal Ice Heart     ×1   → /join curio  ·  Merge the following:
+    Frozen Orb           ×5   → /join frostvalfuture  ·  Kill "Wargoth the Frozen"
+    Crypto Token         ×5   → /join curio  ·  Reward from "Odd's 'n' Ends" quest
+                                  ⚠️ Daily quest
+                                  Metal Ore ×1 → /join boxes  ·  Kill Sneevil
 
-ENHANCEMENTS
 
-Class - Fighter
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Arcana's Concerto | Awe Blast
-Helm - Fighter
-Cape - Absolution | Penitence
+  🧿 Class ·········  Fighter
 
-COMBOS
+  ⚔️  Weapon ········  Arcana's Concerto
+                       Awe Blast
 
-Skill 2- Strong HOT or 30% dmg reduction
+  🪖 Helm ··········  Fighter
 
-Skill 3- Reduce enemy haste by 20%. Stacks up to 4
+  🧣 Cape ··········  Absolution
+                       Penitence
 
-Skill 4- Reduce mana cost by 15%, Crit chance increase by 10%, Crit damage increase by 20%. All effect can stack 4 times.
 
-Skill 5- Applies focus for 10s to 3 targets.
+╔══════════════════════════════════════╗
+║     SKILL BREAKDOWN & COMBOS         ║
+╚══════════════════════════════════════╝
 
-you'll start your combo with 5 then 4 2 3. Prioritizing 5 and 4 to keep taunt up and dmg buff for your party up.
+  💡 Skill 2 ········  Strong HoT  OR  30% damage reduction
+  💡 Skill 3 ········  Reduces enemy haste by 20%  (stacks ×4)
+  💡 Skill 4 ········  Reduces mana cost 15%  |  Crit chance +10%  |  Crit damage +20%
+                        All effects stack ×4
+  💡 Skill 5 ········  Applies Focus for 10s to 3 targets
+
+  ✅ Main Rotation ··  5 → 4 → 2 → 3  →  repeat cycle
+                        Prioritise  5  and  4  to keep taunt and party damage buff active
