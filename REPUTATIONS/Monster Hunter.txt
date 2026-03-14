@@ -1,16 +1,20 @@
-**Uses**
+╔════════════════════════════════╗
 
-Rift Gear
-Rift Rep Shop
+       MONSTER HUNTER
 
-Quests:
+╚════════════════════════════════╝
 
-/join charredpath
+🏆 USES
+╭──────────────────────────────────╮
+  Rift Gear
+  Rift Rep Shop
+╰──────────────────────────────────╯
 
-go to boss room
-
-accept quest from top right corner NPC head
-
-kill boss and turn in quest
-
-simple shit
+⚔️ QUESTS
+╭──────── MEMBER + NON-MEM ────────╮
+  1. /join charredpath
+  2. Go to the boss room
+  3. Accept the quest from the NPC head in the top-right corner
+  4. Defeat the boss and turn in the quest
+  5. Repeat
+╰──────────────────────────────────╯
