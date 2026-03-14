@@ -1,383 +1,425 @@
-Difficulty
+╔════════════════════════════════════╗
 
-★ = Most Important  |  ☆ Important
+   DAILIES LIST
 
+╚════════════════════════════════════╝
 
-This section is only intended as a goals list.
-Use the New Player guide for in-game progression instead.
+💡 NOTES
+╭──────────────────────────────────╮
+  ★ = Most Important  |  ☆ = Important
+  All daily quests reset at 12:01am EST
+  Weekly quests reset on Friday
+╰──────────────────────────────────╯
 
-Items are not ranked within each category.
+⚔️ PERMANENT FARMS
+╭──────── ★ = Most Important  |  ☆ = Important ────────╮
 
+  ──────── Beyond ────────
 
-Beyond
+  Hollowborn DoomKnight + Badge
+  --> Same boosts as original items + 25% extra Gold
+      (difficulty lies in requirements: NSoD, SDKA, Level 100, and more)
 
-Hollowborn DoomKnight + Badge
-Same boosts as original items + 25% extra Gold (The difficulty lies in the requirements such as NSoD, SDKA, Level 100, and more).
+  ──────── Extraordinary ────────
 
+  ☆ Necrotic Sword of Doom + Badge
+  --> 51% extra damage to All
 
+  ★ Awescended + Badge
+  --> Armour, Cape, Helm: 30% extra Gold + 50% extra CP & Rep
+      Weapon: 40% extra damage to All
+      (difficulty lies in item and story requirements)
 
-Extraordinary
+  ──────── Very Difficult ────────
 
-☆ Necrotic Sword of Doom + Badge
-51% extra damage to All
+  Empowered Vordred's Armour
+  --> 51% extra damage to Humans (requires SDKA)
 
-★ Awescended + Badge
-Armour, Cape, Helm give 30% extra Gold and 50% extra CP & Rep. Weapon gives 40% extra damage to All (The difficulty lies in its item and story requirements).
+  ☆ Enchanted Nulgath Nation House
+  --> House with farming quests + portal to /join tercessuinotlim
 
+  ★ Legion Revenant + Badge
+  --> Class
 
+  ★ Void Highlord + Badge
+  --> Class
 
-Very Difficult
+  Void Warlock
+  --> Cosmetics
 
-Empowered Vordred's Armour
-51% extra damage to Humans (difficulty lies in requiring SDKA)
+  ──────── Difficult ────────
 
-☆ Enchanted Nulgath Nation House
-House with farming quests + portal to /tercessuinotlim
+  ★ ArchFiend DoomLord
+  --> 35% damage to All (15% for accessory pieces) + 25% XP, CP, Rep, Gold
+  ⚠️ Not needed if you own Infernal Flame Pyromancer (same boosts, easier farm)
 
-★ Legion Revenant + Badge
-Class
+  ☆ Sepulchure's DoomKnight Armour + Badge
+  --> 51% extra damage to Humans
 
-★ Void Highlord + Badge
-Class
+  Classic Hollowborn Paladin Armour + Badge
+  --> 25% extra damage to Humans
 
-Void Warlock
-Cosmetics
+  75% Racial Damage Items (excluding BLoD and LDBoN)
+  --> See Tiers 4–6 in New Player guide
 
+  ★ Chaos Avenger + Badge
+  --> Class (difficulty lies in required setup and length)
 
+  ★ Dragon of Time + Badge
+  --> Class
 
-Difficult
+  ☆ Yami no Ronin
+  --> Class
 
-★ ArchFiend DoomLord
-35% (15% for accessory pieces) extra damage to All + 25% extra CP, XP, Rep, and Gold - not needed if you own Infernal Flame Pyromancer, which has the same boosts and is an easier farm.
+  Original Drakath Armour + Badge
+  --> Cosmetic (difficulty lies in required items: BLoD, BoA)
 
-☆ Sepulchure's DoomKnight Armour + Badge
-51% extra damage to Humans
+  Void Paladin
+  --> Cosmetics
 
-Classic Hollowborn Paladin Armour + Badge
-25% extra damage to Humans
+  Evolved Shadow/Hex/Blood Orb Quests
+  --> Cosmetics
 
-75% Racial Damage Items (excluding BLoD and LDBoN)
-These can be found from Tier 4-6 in the New Player guide.
+  ──────── Hard ────────
 
-★ Chaos Avenger + Badge
-Class (difficulty lies in the required setup and length)
+  ★ Blinding Light of Destiny + Badge
+  --> 75% extra damage to Undead
 
-★ Dragon of Time + Badge
-Class
+  ★ ArchFiend DeathLord
+  --> 30% damage to Chaos, Dragons, Elementals, Humans, and Undead (not All)
+  ⚠️ Not needed if you own Polly Roger (same boosts, easier farm)
 
-☆ Yami no Ronin
-Class
+  Arch DoomKnight
+  --> 30% damage to Dragons and Humans (25% for accessory pieces)
 
-Original Drakath Armour + Badge
-Cosmetic (difficulty lies in required items, like BLoD and BoA)
+  Head of the Legion Beast + Badge
+  --> 40% damage (Undead, Human) · 30% damage (Dragons) · 30% XP, CP, Rep, Gold
 
-Void Paladin
-Cosmetics
+  Armour of Awe
+  --> 25% extra CP, XP, Rep, and Gold
 
-Evolved Shadow Orb Quests
-Cosmetics
+  Legion Castle
+  --> 25k LTs + 15 Dailies from Kunoichi @ /join akiba
+      House with farming quests
 
-Evolved Hex Orb Quests
-Cosmetics
+  ★ ArchPaladin (non-member)
+  --> Class
 
-Evolved Blood Orb Quests
-Cosmetics
+  ★ ArchFiend
+  --> Class
 
+  Void Avenger Scythe
+  --> Cosmetic
 
+  Yulgath's Inn
+  --> House
 
-Hard
+  Void Shogun / Void Spartan
+  --> Cosmetics
 
-★ Blinding Light of Destiny + Badge
-75% extra damage to Undead
+  ──────── Medium ────────
 
-★ ArchFiend DeathLord
-30% (20% for accessory pieces) extra damage to Chaos, Dragons, Elementals, Humans, and Undead (not All) - not needed if you own Polly Roger, which has the same boosts and is an easier farm.
+  ★ (Legion) DragonBlade of Nulgath
+  --> 75% extra damage to Dragons
 
-Arch DoomKnight
-30% (25% for accessory pieces) extra damage to Dragons and Humans
+  Hollowborn Oblivion Blade
+  --> 30% extra damage to All
 
-Head of the Legion Beast + Badge
-40% Damage (Undead, Human), 30% Damage (Dragons), 30% XP, CP, Rep, Gold
+  Taro's Prismatic Manslayer
+  --> 30% extra damage to All
 
-Armour of Awe
-25% extra CP, XP, Rep, and Gold
+  Helm of Awe
+  --> 25% extra CP, XP, Rep, and Gold
 
-Legion Castle
-(25k LTs + 15 Dailies from Kunoichi at /akiba) - House with farming quests 
+  ★ ArchPaladin (member)
+  --> Class
 
-★ ArchPaladin (non-member)
-Class
+  ★ Chrono Assassin
+  --> Class
 
-★ ArchFiend
-Class
+  ★ Lord of Order
+  --> Class
 
-Void Avenger Scythe
-Cosmetic
+  LightCaster
+  --> Class
 
-Yulgath's Inn
-House
+  Juggernaut Item of Nulgath
+  --> Cosmetics
 
- Void Shogun
-Cosmetics
+  Ultimate Lich King (10k LTs)
+  --> Cosmetic
 
-Void Spartan
-Cosmetics
+  Golden Hanzo Void
+  --> Cosmetic
 
+  ──────── Fair ────────
 
+  ☆ Burning Blade of Abezeth
+  --> 30% extra damage to All
+      5% drop from Aranx @ /join celestialarena (complete quests up to "FINAL FIGHT!")
 
-Medium
+  ★ Cape of Awe
+  --> 25% extra CP, XP, Rep, and Gold
 
-★ (Legion) DragonBlade of Nulgath
-75% extra damage to Dragons
+  ★ Blade of Awe + Badge
+  --> Cosmetic
 
-Hollowborn Oblivion Blade
-30% extra damage to All
+  Shadow Legacy of Nulgath
+  --> Cosmetic
 
-Taro's Prismatic Manslayer
-30% extra damage to All
+  ArchFiend Baby Dragon
+  --> Cosmetic (Pet)
 
-Helm of Awe
-25% extra CP, XP, Rep, and Gold
+  ──────── Easy ────────
 
-★ ArchPaladin (member)
-Class
+  ☆ Burning Blade
+  --> 15% extra damage to All
+      1% drop from Diabolical Warlord @ /join lostruinswar
+╰──────────────────────────────────╯
 
-★ Chrono Assassin
-Class
+🗓️ SEASONAL FARMS
+╭──────── ★ = Most Important  |  ☆ = Important ────────╮
 
-★ Lord of Order
-Class
+  ──────── January – February ────────
 
-LightCaster
-Class
+  ★ Nulgath's Birthday Gift     1,500 ACs
+  --> Purchase from Game Menu during Nulgath's Birthday event
+      Speeds up farming for Nation reagents — well worth it
 
-Juggernaut Item of Nulgath
-Cosmetics
+  ──────── February – March ────────
 
-Ultimate Lich King
-(10k LTs) - Cosmetic
+  Evolved Leprechaun             2,000 ACs or Farmed
+  --> /join luck. If farming: 12 Lucky Clovers (Mog O'Rahilly's daily quest —
+      defeat Lucky Harms @ /join rainbow) + 20 Rainbow Shards (Rainbow Rats
+      @ /join rainbow) + 2,000 Golden Tickets (minigame @ /join luck or
+      William Sneevil's "A-MAZE-ing Race" — Pot O' Golds @ /join hedge +
+      defeat Monochrome @ /join rainbow)
+  💡 Great GDPS (group DPS) potential
 
-Golden Hanzo Void
-Cosmetic
+  ──────── March – April ────────
 
+  ★ Shogun Paragon Pet           Farmed (2,000 LTs)
+  --> Future War Merge shop @ /join futurewar
+      Best method for farming Legion Tokens — highly recommended
 
+  ★ Legion DoomKnight            Farmed (2,000 LTs) or 2,000 ACs
+  --> Game Menu during Dage's Birthday event
+      Well-rounded class — get AFTER the Shogun Paragon pet
+  ⚠️ Not recommended for ACs — easy to farm with Shogun pet
 
-Fair
+  Timeless Dark Caster           2,000 ACs
+  --> Game Menu during Dage's Birthday event
+  ⚠️ Most damage comes from DoTs — doesn't scale with damage boosts
 
-☆ Burning Blade of Abezeth
-(5% drop rate from Aranx at /celestialarena - must complete Aranx's quests up to "FINAL FIGHT!") - 30% extra damage to All
+  Immortal Dark Caster           2,000 ACs
+  --> Game Menu during Dage's Birthday event
+      Fine for soloing but not needed if getting Legion DoomKnight
 
-★ Cape of Awe
-25% extra CP, XP, Rep, and Gold
+  Legion SwordMaster Assassin    Farmed (5,000 LTs)
+  --> Dark Birthday Token merge shop @ /join darkbirthday
+      Also requires 300 Obsidian Rocks from Dage's "Obsidian Mining"
+      (member: "Undead Legion Member Special") — defeat Skeletal Fire Mages
+      at 4th level down @ /join temple
+  ⚠️ Only get with leftover Legion Tokens
 
-★ Blade of Awe + Badge
-Cosmetic
+  ──────── April ────────
 
-Shadow Legacy of Nulgath
-Cosmetic
+  Vorpal Bunny                   Farmed
+  --> "Egg Hunt - Vorpal Bunny" from Cabdury @ /join battleon (Easter event)
+      Need: all eggs hidden around /battleon and /battleontown
+            + drop from Grenwog @ /join grenwog
+      Used to farm Gold via its "Bunny Berzerker Armour - Were Egg" quest
+      (sell the armour reward) — not the most efficient method
 
-ArchFiend Baby Dragon
-Cosmetic (Pet)
+  ──────── May ────────
 
+  ★ Dark Lord                    Farmed
+  --> Complete storyline quests @ /join murdermoon then merge the class
 
+  ──────── September ────────
 
-Easy
+  Heroic/Legendary Naval Commander  100k Gold (mem-only) or 2,000 ACs
+  --> Game Menu during TLAPD event
+  ⚠️ Not worth purchasing for ACs
 
-☆ Burning Blade
-(1% drop rate from Diabolical Warlord at /lostruinswar) - 15% extra damage to All
+  Pirate                         Farmed
+  --> Complete Elissa Keelhaul's quests including "Map Recovery" @ /join pirates
+      Get Classic Pirate > fight one enemy > complete Kervaal's "New Pirate Class"
+      @ /join blazebeard (defeat Undead Pirate in same map)
 
-Seasonal
+  ☆ Iara Merge Weapons           5 Iara Insignias each
+  --> Purchase from Iara Merge @ /join ultraiara
+      Complete "Ultra Iara" daily to earn Insignias
+      See Ultra Boss guide for strategy
 
-★ = Most Important  |  ☆ Important
+  ★ Polly Roger                  Farmed (Level 80)
+  --> Barnaby's "Sailor of the Celestial Skies" @ /join pirates
+  👥 Many enemies are very hard — ask for help @ /join yulgar or /join battleon
+      30% damage to all tagged enemies — stack with an All-damage weapon
+      See Polly Roger guide
 
+  ──────── October ────────
 
+  ★ Vampire Lord                 2,000 ACs or Farmed
+  --> 2k ACs from Game Menu OR farm Blood Moon Token quests from Barnabus
+      @ /join mogloween (member: use member version) — need 300 tokens to merge
+  💡 Great farming class if you don't already own AF or LR
 
-January - February
+  Evolved Pumpkin Lord           2,000 ACs or Farmed
+  --> ACs from Game Menu during Mogloween (not recommended for ACs)
+      OR drops from Great Pumpkin King @ /join mogloween (October)
+      OR merge 500 Glowing Pumpkinseeds from Apephryx @ /join cruxship (year-round)
 
-★ Nulgath's Birthday Gift - 1500 ACs
-Purchased from the Game Menu during Nulgath's Birthday event. Used to speed up farming for items required for Nation farms. Well worth it.
+  ──────── November ────────
 
+  Abyssal Angel's Shadow         2,000 ACs
+  --> Game Menu during Black Friday event
+      Defensive high-tier farming class — good even if you own VL
 
+  Dark Ultra OmniKnight          2,000 ACs
+  --> Game Menu during Black Friday event
+      Good soloing class — not needed if you have other strong soloers
 
-February - March
+  Dark BattleMage                2,000 ACs
+  --> Game Menu during Black Friday event
+  ⚠️ Not worth it — normal version obtainable for free with Rank 10 Swordhaven
 
-Evolved Leprechaun - 2000 ACs or Farmed
-Obtainable from /luck. If farming, you'll need to complete Mog O'Rahilly's quests for 12 Lucky Clovers by defeating Lucky Harms at /rainbow (daily) and 20 Rainbow Shards by defeating Rainbow Rats at /rainbow. You'll also need 2000 Golden Tickets, which can be obtained by your minigame of choice at /luck or by completing William Sneevil's "A-MAZE-ing Race" quest by finding Pot O' Golds at /hedge and defeating Monochrome at /rainbow. This class has great GDPS (group dmg) potential 
+  ──────── December – January ────────
 
+  ☆ Frostval Barbarian           2,000 ACs or Farmed
+  --> Robina's "Unleash the Frostvale Barbarian" @ /join frostvale
+      OR ACs during Frostvale event
+      Useful for healing and supporting classes with crit and mana buffs
+  ⚠️ Outclassed as a solo support by LoO and StoneCrusher
+      Shines in groups — essential for optimal Exaltia Ultra Boss setup
 
+  Northlands Monk                Farmed
+  --> Defeat FrozenSoul Queen @ /join frozensoul during Frostvale
+  ⚠️ Mediocre class — outclassed by other support options
+╰──────────────────────────────────╯
 
-March - April
+🔁 DAILIES
+╭──────── ★ = Most Important  |  ☆ = Important ────────╮
 
-★ Shogun Paragon Pet - Farmed (2000 LTs)
-Available at the Future War Merge shop at /futurewar. Used to farm Legion Tokens. Highly recommended.
+  ──────── Classes ────────
 
-★ Legion DoomKnight - Farmed (2000 LTs) or 2000 ACs
-Purchased from the Game Menu during Dage's Birthday event. This is a well-rounded class that's worth getting but only after obtaining the Shogun Paragon pet. Would not recommend purchasing for ACs since Legion Tokens are easy to farm with the Shogun pet.
+  ★ Chaos Avenger                28 days mem / 28 days non-mem
+  --> "Chaos Avenger Class" @ /join championdrakath
+      Requires 13LoC completion + Level 80+. See guide
 
-Timeless Dark Caster - 2000 ACs
-Purchased from the Game Menu during Dage's Birthday event. Unfortunately, most of its damage comes from DoTs so it doesn't scale well when you use damage boosts as they have no effect on them.
+  ★ Lord of Order                10 days mem / 10 days non-mem
+  --> Mirror Drakath's quests @ /join battleoff up to "The Final Challenge"
+      See guide
 
-Immortal Dark Caster - 2000 ACs
-Purchased from the Game Menu during Dage's Birthday event. Like Timeless Dark Caster, it's a fine choice for soloing but it's not needed if you're planning to get Legion DoomKnight.
+  ☆ DeathKnight Lord             30 days (mem-only)
+  --> Merge 30 Shadow Skulls @ /join bonecastle
+      Complete Gravelyn's "Slithering Shadows" @ /join shadowfall
+      Kill Shadow Serpents @ /join bludrut4
+      Only important for Ultra Boss use
 
-Legion SwordMaster Assassin - Farmed (5000 LTs)
-Available in the Dark Birthday Token merge shop at /darkbirthday. Requires 5000 LTs and 300 Obsidian Rocks, which are from Dage's "Obsidian Mining", or if you're a member "Undead Legion Member Special", quest. Defeat the Skeletal Fire Mages in the 4th level down at /temple. Not the most important thing to buy. Only get it if you have leftover Legion Tokens.
+  ☆ Pyromancer                   5 days mem / 7 days non-mem
+  --> Quests @ /join volcano > /join xantown > /join xancave
+      84 Shurpu Blaze Tokens from Warlic's quest @ /join xancave
+      Defeat Shurpu Ring Guardian at bottom of map
+      Used to get Blaze Binder (also needs Rank 10 DoomWood + Embersea)
 
+  Cryomancer                     5 days mem / 7 days non-mem
+  --> Rian's and Syrrus' quests @ /join frozentower
+      84 Glacera Ice Tokens from Syrrus' quest @ /join frozenruins
+      Defeat Frost Invaders. Merge @ Syrrus' shop @ /join frozentower
 
+  ShadowScythe General           17 days mem / 50 days non-mem
+  --> Gravelyn's ShadowScythe daily quests @ /join shadowfall
+      Defeat human enemies @ /join lightguardwar
+      (quickly access Gravelyn by exiting left from /join shadowvoid)
+      Also defeat Sigrid Sunshield (3% extra Shadow Shields)
+      Merge @ Gravelyn's ShadowScythe General Merge shop
 
-April
+  The Collector                  30 days mem / 90 days non-mem
+  --> Drakath (Kid)'s quests @ /join terrarium (defeat enemies in same map)
+      Merge 90 Tokens of Collection @ Collector Token Merge shop @ /join collection
 
-Vorpal Bunny - Farmed
-Complete the "Egg Hunt - Vorpal Bunny" quest from Cabdury at /battleon during the Easter event. You'll need all eggs, which are hidden around /battleon and /battleontown, and a drop from Grenwog at /grenwog. Used to farm Gold by selling the armour rewarded from its "Bunny Berzerker Armour - Were Egg", however, this method is not the most efficient. See the Gold guide for more information.
+  ──────── Items ────────
 
+  ★ Exalted Apotheosis           24 days mem / 24 days non-mem
+  --> 24 Ezrajal Insignias + 24 Warden Insignias + 16 Engineer Insignias
+      All from /join timeinn. See guide
 
+  Mad Weaponsmith                30 days mem / 90 days non-mem
+  --> 90 C-Armour Tokens from Cysero's "Nightmare Fire"
+      (member: also "Naturally Unlucky") @ /join deadmoor
+      Defeat Nightmare in same map (complete prior quests to access)
 
-May
+  Cysero's SUPER Hammer          30 days mem / 90 days non-mem
+  --> 90 C-Hammer Tokens from Cysero's "Links To The Past"
+      (member: also "Spooky Lint") @ /join deadmoor
+      Defeat Geist in same map. Requires Mad Weaponsmith in inventory
 
-★ Dark Lord - Farmed
-Complete the storyline quests at /murdermoon. After, you can merge the class.
+  Bright Knight                  50 days mem / 50 days non-mem
+  --> 50 Seals of Light from Lady Celestia's "Seal of Light" @ /join alteonbattle
+      + 50 Seals of Darkness from her quest @ /join sepulchurebattle
+      Merge at either map (also requires 1m Gold)
 
+  Golden Inquisitor of Shadowfall  Up to 12 days mem / 12 days non-mem
+  --> Gravelyn's "Inquisitor Inquiry" @ /join shadowfall
+      Defeat Inquisitor Guards @ /join citadel
 
+  Zorbak, Twilly, & Twig Pets    30 days mem / 30 days non-mem
+  --> 30 Moglin MEALs from Aria's "Moglin Companions" @ /join ariapet
+      Defeat Frogzards @ /join nexus
 
-September
+  ──────── Misc ────────
 
-Heroic/Legendary Naval Commander - 100k Gold (mem-only) or 2000 ACs
-Purchase from the Game Menu during Talk Like A Pirate Day event. Decent farming class but not worth purchasing for ACs.
+  ★ Boosts & Wheel of Doom       Daily / Weekly
+  --> Weekly spin @ /join doom for everyone (use 3 Gears of Doom)
+      Members: additional free daily spin + daily boost from Ragnar @ /join battleon
 
-Pirate - Farmed
-Complete Elissa Keelhaul's quests including "Map Recovery" from /pirates for Classic Pirate. Fight one enemy with it then complete Kervaal's "New Pirate Class" from /blazebeard by defeating an Undead Pirate in the same map.
+  ★ Insignias                    Daily / Weekly
+  --> Obtained from quests requiring Ultra Boss defeats
 
-☆ Iara Merge Weapons - Insignias
-Purchase from the Iara Merge at /ultraiara. They will require 5 Iara Insignias each, which involves completing "Ultra Iara" by defeating Ultra Iara. This is a daily quest. For more information on how to defeat Ultra Iara and other Ultra Bosses, see the guide for it.
+  ☆ Elders' Blood Potion         Daily
+  --> Reens' "Experiment 107..." @ /join arcangrove
+      Defeat 50 Gorillaphants in same map
+      Also from Tendurrr's "Assisting Crag and Bamboozle" (requires membership +
+      Sparrow's Blood from Reens' "Experiment 231...")
+      Primarily used for Void Highlord
 
-★ Polly Roger - Farmed
-This pet requires Level 80. Get it from Barnaby's "Sailor of the Celestial Skies" quest at /pirates. Many of the enemies you need to defeat are very hard, so I highly suggest asking people to help you out from /yulgar or /battleon.
-Other reward pieces have the same effect but having it in a pet is more convenient. It will boost your damage by 30% to all tagged enemies but not every enemy, as many don't have a monster type. Because of this, it can be used with a weapon that boosts your damage to All enemies.
+  Treasure Chest Keys            Monthly (member only)
+  --> 2 free keys from Valencia @ /join battleon
+      Can be sold for ACs or used to open chests
 
+  Power Gems                     Weekly
+  --> Valencia @ /join battleon. Used in her Power Gem shop
 
+  ★ "Mine Crafting" & "Hard Core Metals"  Daily
+  --> Artix's "Mine Crafting" + Vayle's "Hard Core Metals" @ /join necropolis
+      Defeat Balboa @ /join stalagbite
+      Used for BLoD, SDKA, and NSoD
 
-October
+  ★ "GRUMBLE, GRUMBLE..."        Daily (Crag & Bamboozle)
+  --> 30 Diamonds of Nulgath + 5% chance for Blood Gems — free daily
+      30 Diamonds = 2 Uni 13s via "Diamond Exchange"
 
-★ Vampire Lord - 2000 ACs or Farmed
-Purchase for 2k ACs or farm one of Barnabus' Blood Moon Token quests (if you're a member, complete the member version) located at /mogloween during the Mogloween event in October. You'll need 300 Blood Moon Tokens to merge the Vampire Lord class.
-Vampire Lord is a great farming class if you don't already own something like ArchFiend or Legion Revenant.
+  Dage's Scroll Fragment         Daily
+  --> Loremaster Maya's "Embrace Your Chaos (Daily)" @ /join mountdoomskull
+      Defeat enemies in same map. Used for Drakath's Armour
 
-Evolved Pumpkin Lord - 2000 ACs or Farmed
-If farming for this, it can be dropped by Great Pumpkin King at /mogloween during October or merged for 500 Glowing Pumpkinseeds, which are dropped by Apephryx at /cruxship, during any time of the year. Otherwise, purchased for ACs from the Game Menu during the Mogloween event - I wouldn't recommend buying it for ACs.
+  Crypto Token                   Daily
+  --> Vinara's "Odd's 'n' Ends" @ /join curio
+      Defeat a Sneevil @ /join boxes
+      Trade for Darkness Shards (used for DoomBlades, Frostval Barbarian,
+      and some of Cysero's Upgrade Items)
 
+  Shadow Shroud                  Daily
+  --> Kunoichi's "Shadow Embargo" @ /join akiba
+      Defeat Shadow Creepers @ /join bludrut2
 
+  1v1 PvP Trophy                 Daily
+  --> Dumoose's "Victory Most Honourable" @ /join doomarena
+      Queue for duels in same map — duel an alt or friend for 10 easy wins
+      Used for Doomwood Arena shop, Alpha Omega, and Evolved Blood Orb quest
 
-November
-
-Abyssal Angel's Shadow - 2000 ACs
-Purchase from the Game Menu during the Black Friday event. It's a defensive high-tier farming class. Not necessarily needed if you already own Vampire Lord but it's still good in its own right, especially for low HP targets.
-
-Dark Ultra OmniNight - 2000 ACs
-Purchase from the Game Menu during the Black Friday event. It's a good option for a soloing class but isn't needed if you already have other strong soloing classes.
-
-Dark BattleMage - 2000 ACs
-Available during the Game Menu during the Black Friday event. Not worth getting when you can get the normal version with Rank 10 Swordhaven for no AC cost.
-
-
-
-December - January
-
-☆ Frostval Barbarian - 2000 ACs or Farmed
-Obtained from /frostvale via Robina's "Unleash the Frostvale Barbarian" quest or with ACs during the Frostvale event. It's useful for healing and supporting classes with crit and mana buffs. However, it's generally outclassed as a solo support by classes such as Lord of Order and StoneCrusher. In a group it shines, for example, it's used in the optimal setup for the Exaltia Ultra Bosses. If this interests you, click here for more info.
-
-Northlands Monk - Farmed
-Obtained by defeating FrozenSoul Queen at /frozensoul during Frostvale event. Very mediocre class - outclassed by other support classes.
-
-Dailies
-
-★ = Most Important  |  ☆ Important
-
-
-All daily quests reset at 12:01am EST. Weeklies reset on Friday.
-
-
-
-Classes
-
-★ Chaos Avenger - 28 days mem/28 non-mem
-Complete the "Chaos Avenger Class" quest at /championdrakath. You must have completed the 13 Lords of Chaos storyline and be level 80+. For more information, click here.
-
-★ Lord of Order - 10 days mem/10 non-mem
-Complete Mirror Drakath's quests at /battleoff up to and including "The Final Challenge". See the guide for it for more information.
-
-☆ DeathKnight Lord - 30 days (mem-only)
-Merge 30 Shadow Skulls in the shop at /bonecastle. To get them, complete Gravelyn's "Slithering Shadows" quest from /shadowfall by killing Shadow Serpents at /bludrut4. This is only important if you plan on using it for Ultra Bosses.
-
-☆ Pyromancer - 5 days mem/7 non-mem
-Complete the quests from /volcano > /xantown > /xancave. After, obtain 84 Shurpu Blaze Tokens from Warlic's quest in /xancave by defeating the Shurpu Ring Guardian at the bottom of the map. Merge in Warlic's shop in the same map. Used to get Blaze Binder, which also requires Rank 10 DoomWood and Embersea and is merged at /fireforge.
-
-Cryomancer - 5 days mem/7 non-mem
-Complete Rian's and Syrrus' quests in /frozentower. After, obtain 84 Glacera Ice Tokens from Syruss' quest in /frozenruins by defeating Frost Invaders in the same map. Merge at Syruss' shop at /frozentower.
-
-ShadowScythe General - 17 days mem/50 non-mem
-Complete Gravelyn's ShadowScythe daily quests from /shadowfall by defeating human enemies at /lightguardwar (quickly access Gravelyn by exiting left from /shadowvoid). Additionally, you can defeat Sigrid Sunshield at the end of the same map for more Shadow Shields (3% drop rate). Merge in Gravelyn's ShadowScythe General Merge shop.
-
-The Collector - 30 days mem/90 non-mem
-Complete Drakath (Kid)'s quests in /terrarium by defeating enemies in the same map. Merge 90 Tokens of Collection in the Collector Token Merge shop at /collection.
-
-
-
-Items
-
-★ Exalted Apotheosis - 24 days mem/24 non-mem
-Obtain 24 Ezrajal Insignias, 24 Warden Insignias, and 16 Engineer Insignias from /timeinn. For more information, click here.
-
-Mad Weaponsmith - 30 days mem/90 non-mem
-Obtain 90 C-Armour Tokens by completing Cysero's "Nightmare Fire", and if you're a member "Naturally Unlucky", quest at /deadmoor by defeating Nightmare, located in the same map. Requires completing the previous quests to access.
-
-Cysero's SUPER Hammer - 30 days mem/90 non-mem
-Obtain 90 C-Hammer Tokens by completing Cysero's "Links To The Past", and if you're a member "Spooky Lint", quest at /deadmoor by defeating Geist, located in the same map. You must have Mad Weaponsmith in your inventory to access these quests.
-
-Bright Knight - 50 days mem/50 non-mem
-Obtain 50 Seals of Light by completing Lady Celestia's "Seal of Light" quest at /alteonbattle by defeating Alteon. You'll also need 50 Seals of Darkness from her quest in /sepulchurebattle. Merge the armour at either map (you'll also need 1m Gold).
-
-Golden Inquisitor of Shadowfall - up to 12 days mem/12 non-mem
-Complete Gravelyn's "Inquisitor Inquiry" quest from /shadowfall by defeating Inquisitor Guards at /citadel.
-
-Zorbak, Twilly, & Twig Pets - 30 days mem/30 non-mem
-Obtain 30 Moglin MEALs by accepting Aria's "Moglin Companions" quest from /ariapet and defeating Frogzards at /nexus.
-
-
-
-Misc
-
-★ Boosts & Wheel of Doom - Daily/Weekly
-Anyone can claim their weekly Wheel of Doom spin at /doom. Members get an additional free daily spin and a boost from Ragnar in /battleon.
-
-★ Insignias - Daily/Weekly
-Obtained from quests that require you to defeat Ultra Bosses.
-
-☆ Elders' Blood Potion (and Sparrow's Blood) - Daily
-Elders' Blood is obtained from Reens' "Experiment 107..." quest at /arcangrove by defeating 50 Gorillaphants in the same map. It's also rewarded from Tendurrr the Assistant's "Assisting Crag and Bamboozle" quest, which requires being a member and turning in a Sparrow's Blood from Reens' "Experiment 231..." quest. Elders' Blood are primarily used for Void Highlord.
-
-Treasure Chest Keys - Monthly
-Members can claim 2 free keys from Valencia in /battleon. Can be sold for ACs or used to open chests.
-
-Power Gems - Weekly
-Obtained from Valencia in /battleon. Used in her Power Gem shop.
-
-★ "Mine Crafting" & "Hard Core Metals" - Daily
-Obtained from Artix's "Mine Crafting" and Vayle's "Hard Core Metals" quests from /necropolis by defeating Balboa at /stalagbite. Used for Blinding Light of Destiny, Sepulchure's DoomKnight Armour, and Necrotic Sword of Doom.
-
-★ "GRUMBLE, GRUMBLE..." - Daily
-Complete this quest from Crag. It rewards 30 Diamonds of Nulgath and possibly Blood Gems (5% drop rate) for free daily. These could be traded for two Uni 13s.
-
-Dage's Scroll Fragment - Daily
-Obtained from Loremaster Maya's "Embrace Your Chaos (Daily)" quest in /mountdoomskull by defeating enemies in the same map. Used for Drakath's Armour.
-
-Crypto Token - Daily
-Obtained from Vinara's "Odd's 'n' Ends" quest in /curio by defeating a Sneevil in /boxes. Trade them in at Vinara's shop for Darkness Shards, which are used for DoomBlades, Frostval Barbarian, and for some of Cysero's Upgrade Items.
-
-Shadow Shroud - Daily
-Obtained from Kunoichi's "Shadow Embargo" quest in /akiba by defeating Shadow Creepers in /bludrut2. 
-
-1v1 PvP Trophy - Daily
-Obtained by completing Dumoose's "Victory Most Honourable" quest in /doomarena by queuing for duels in the same map. Duel an alt or friend for 10 easy wins. Used for the Doomwood Arena shop, Alpha Omega, and an Evolved Blood Orb's quest.
-
-1v1 Legion PvP Trophy - Daily
-Same as above but in /legionpvp. Duel in /dage1v1. Used for the shops in /legionpvp.
+  1v1 Legion PvP Trophy          Daily
+  --> Same as above but @ /join legionpvp
+      Duel @ /join dage1v1. Used for shops in /join legionpvp
+╰──────────────────────────────────╯
