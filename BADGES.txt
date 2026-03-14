@@ -1,274 +1,255 @@
-Farms
+╔════════════════════════════════════╗
 
+   BADGES
 
-Blinding Light of Destiny
-Obtain the Blinding Light of Destiny.
+╚════════════════════════════════════╝
 
+⚔️ FARM BADGES
+╭──────────────────────────────────╮
+  Blinding Light of Destiny
+  --> Obtain the Blinding Light of Destiny
 
-★ Sepulchure's Armour
-Obtain Sepulchure's DoomKnight Armour.
+  ★ Sepulchure's Armour
+  --> Obtain Sepulchure's DoomKnight Armour
 
+  Necrotic Sword of Doom
+  --> Obtain the NSoD, then do Braeus' quest @ /join shadowfall
 
-Necrotic Sword of Doom
-Obtain the Necrotic Sword of Doom. Then do Braeus' quest at /shadowfall.
+  Awe Ascension
+  --> Complete Trissa's Awe-scension quests
 
+  Drakath's Epic Armour
+  --> Obtain the Original Drakath Armour
 
-Awe Ascension
-Complete Trissa's Awe-scension quests.
+  Blade of Awe
+  --> Obtain the Blade of Awe
 
+  Celestial Pirate Commander
+  --> Obtain Polly Roger or any item from Barnaby's
+      "Sailor of the Celestial Skies" quest
 
-Drakath's Epic Armour
-Obtain the Original Drakath Armour.
+  Head of the Legion Beast
+  --> Obtain the Head of the Legion Beast
+      Then do the Legion Beast Head's quest @ /join curio
 
+  Apotheosis
+  --> Obtain Exalted Apotheosis
+      Then do Sir Cole's quest @ /join timeinn
 
-Blade of Awe
-Obtain the Blade of Awe.
+  Hollowborn Paladin
+  --> Obtain the Classic Hollowborn Paladin Armour
 
+  ★ Hollowborn DoomKnight
+  --> Obtain the Hollowborn DoomKnight gear
 
-Celestial Pirate Commander
-Obtain Polly Roger or any other item from Barnaby's "Sailor of the Celestial Skies" quest.
+  Legion Revenant
+  --> Obtain Legion Revenant
 
+  Void Highlord
+  --> Obtain Void Highlord
+      Then do Tharanak Thrii's quest @ /join shadowblast
 
-Head of the Legion Beast
-Obtain the Head of the Legion Beast. Then do the Legion Beast Head's quest at /curio.
+  Dragon of Time
+  --> Obtain Dragon of Time
 
+  Chaos Avenger
+  --> Obtain Chaos Avenger
+╰──────────────────────────────────╯
 
-Apotheosis
-Obtain Exalted Apotheosis. Then do Sir Cole's quest at /timeinn.
+🗺️ QUEST / LOCATION BADGES
+╭──────────────────────────────────╮
+  Justice Squad
+  --> Complete Nythera's "Sign Nythera's Scroll" @ /join battleontown
+      Defeat the Frogzard
 
+  Champion of Chaos
+  --> Complete the 13 Lords of Chaos storyline
 
-Hollowborn Paladin
-Obtain the Classic Hollowborn Paladin Armour.
+  You Mad Bro?
+  --> 0.1% chance from the Alchemy minigame
 
+  Endless Doom
+  --> Complete quests at /join doomvault then walk through 100 rooms
+      in the Endless Bridge To Nowhere
 
-★ Hollowborn DoomKnight
-Obtain the Hollowborn DoomKnight gear.
+  ★ Stubborn
+  --> /join twig > walk right to the room with a counter
+      Keep going right until it reaches 100
 
+  ★ Unicorn Commander  (also in Seasonal Events)
+  --> Complete Voltaire's quests @ /join firehouse
+      Non-members can access during a Friday the 13th event
 
-Legion Revenant
-Obtain Legion Revenant.
+  ★ Cornelis Reborn
+  --> Complete Hodan's quests @ /join cornelis
+      Then do the Cornelis Chest's quest by defeating 100 Gargoyles
 
+  ★ SkyPirate Slayer
+  --> Do the Skyguard storyline from /join airship
+      Then defeat 100 enemies @ /join strategy (outside Level 5)
 
-Void Highlord
-Obtain Void Highlord. Then do Tharanak Thrii's quest at /shadowblast.
+  Derp Moosefish
+  --> 0.01% chance while Fishing — a large silhouetted fish with antlers
+      appears in the water. Click it
 
+  ★ Ctrl+Alt+Del
+  --> Complete Ethan's quests @ /join gamehaven > /join warehouse
+      Then complete quests @ /join arcadion
 
-Dragon of Time
-Obtain Dragon of Time. 
+  Stone Cold
+  --> Reach the bottom of /join temple then do the Stone Paladin's quest
+      Scroll is bought with Shelleton drops
 
+  ★ Desoloth Freed
+  --> Complete quests from /join dragonplane > /join water > /join wind
+      > /join fire > /join desoloth
 
-Chaos Avenger
-Obtain Chaos Avenger.
+  Thief of Chaos
+  --> Complete quests from /join twilightslums > /join palace
+      Defeat Pettivox
 
+  ★ Ultra-Carnax
+  --> Defeat Ultra Carnax @ /join ultracarnax
+      👥 May need a group
 
+  Committed
+  --> Complete quests from /join mirrormaze > /join catacombs
+      Defeat Dr. De'Sawed (FOR REAL)
 
-Quests / Locations
+  Story ARC
+  --> Complete quests from /join lab > /join mountain
 
+  ★ Master of Time
+  --> Do Iadoa's 13LoC story and defeat him @ /join ultravoid
+      💡 A Dragonoid of Hours from Dragonoid @ /join mqlesson helps
 
-Justice Squad
-Complete Nythera's "Sign Nythera's Scroll" quest from /battleontown by defeating the Frogzard.
+  ConZombie Slayer
+  --> Do Artix's quests @ /join battlecon (1st quest @ /join artistalley)
+      "Cosplay Zombies On Parade" rewards the badge
 
+  BattleCon VIP
+  --> Defeat Ultra Brutalcorn @ /join undergroundlabb
 
-Champion of Chaos
-Complete the 13 Lords of Chaos storyline.
+  Chaos Harpy
+  --> Do the Chaos Twins' 13LoC storyline
+      "Horror Takes Flight" from /join mirrorportal rewards the badge
 
+  2nd Chaos Lord
+  --> Obtain the Chaos Harpy badge then complete
+      "Good, Evil, and Chaos Battle!" @ /join mirrorportal
 
-You Mad Bro?
-0.1% chance occurrence from the Alchemy minigame.
+  Lord of the Wedding Ring
+  --> Complete the event @ /join artixwedding
 
+  Ravenloss War
+  --> Complete quests from /join twilightedge > /join weaverwar
+      > /join ravenloss > /join chaosweb
 
-Endless Doom
-Complete quests at /doomvault then walk through 100 rooms in the Endless Bridge To Nowhere.
+  Ravenloss Champion
+  --> Defeat 100 enemies @ /join ravenloss without leaving the map
+      Walk right to find 3 enemies
 
+  Horde Zombie SLAYER
+  --> Walk left @ /join darkoviahorde then defeat 100 enemies
+      without leaving the screen
 
-★ Stubborn
-Enter /twig then walk right to find the room with a counter. Keep going right until it reaches 100.
+  Mummy Slayer
+  --> Complete Clara's "100 Mummy Massacre" @ /join mummies
 
+  CruxShadows Defender
+  --> Complete the /join cruxshadows event
 
-★ Unicorn Commander (Also in Seasonal Events section)
-Complete Voltaire's quests at /firehouse. Non-members can access this during a Friday the 13th event.
+  Golden Laurel
+  --> Complete Aranx's quests @ /join goldenarena
+      including "Golden Laurel Challenge" (defeat Queen of Hope)
 
+  6th Birthday Saviour
+  --> Complete Artix's quests @ /join artixpointe
+      (see Omni Artifact guide — 3rd quest of Classic Hollowborn Paladin Armour)
 
-★ Cornelis Reborn
-Complete Hodan's quests at /cornelis. Then do the Cornelis Chest's quest by defeating 100 Gargoyles.
+  Celestial Champion
+  --> Complete Aranx's quests @ /join celestialarena including "FINAL FIGHT!"
 
+  ShadowVault Champion
+  --> Complete Treasure Hunter Z's quests @ /join shadowvault
+      including "BOSS FIGHT!"
 
-★ SkyPirate Slayer
-Do the Skyguard storyline from /airship then defeat 100 enemies at /strategy (located outside of Level 5). 
+  Table Flipper
+  --> Complete Yulgar's quests @ /join borgars
+      (see Quest 10 of Dragon of Time guide)
 
+  #1 Battle Babysitter
+  --> Complete /join thorngarde > /join stonewood > /join techdungeon
+      > /join stonewooddeep including "Never Give Up"
 
-Derp Moosefish
-A silhouette of a large fish with antlers has a 0.01% chance to appear in the water while Fishing. Click it.
+  Chaos PuppetMaster
+  --> Complete /join transformation > /join downbelow
+      including "Undying Rage" (defeat Earthwyrms and Anka)
+╰──────────────────────────────────╯
 
+🗓️ SEASONAL BADGES
+╭──────────────────────────────────╮
+  Moglin Punter                  February–March
+  --> Punt Twilly 100 yards @ /join punt
 
-★ Ctrl+Alt+Del
-Complete Ethan's quests at /gamehaven > /warehouse then the quests at /arcadion.
+  GOAL!                          February–March
+  --> Punt the soccer ball 100 yards @ /join chute
 
+  Conquest Victor                March
+  --> Complete Dage's "Conquest Badge" @ /join undervoid
+      Do the Gauntlet daily ×7
 
-Stone Cold
-Reach the bottom of /temple then do the Stone Paladin's quest. The scroll is bought with Shelleton drops.
+  War Victor                     March
+  --> Complete Dage's "War Badge" @ /join undervoid
+      Do the Gauntlet daily ×7
 
+  Famine Victor                  March
+  --> Complete Dage's "Famine Badge" @ /join undervoid
+      Do the Gauntlet daily ×7
 
-★ Desoloth Freed
-Complete quests from /dragonplane > /water > /wind > /fire > /desoloth.
+  Death Victor                   March
+  --> Complete Dage's "Death Badge" @ /join undervoid
+      Do the Gauntlet daily ×7
 
+  DERP!                          April
+  --> Do Rainbow Derpicorn Guard (R)'s quest from your house
+      Pet drops @ /join battlefools (2011 area)
 
-Thief of Chaos
-Complete the quests from /twilightslums > /palace and defeat Pettivox.
+  Super SLAYIN'                  April
+  --> Complete the GardenQuest Announcer's quests @ /join gardenquest
 
+  Friday the 13th                Various
+  --> Complete a Friday the 13th event
+      Next ones: May 2022 and January + October 2023
 
-★ Ultra-Carnax
-Defeat Ultra Carnax at /ultracarnax. You might need a group for this.
+  Unicorn Commander              Friday the 13th  (also in Quest / Locations)
+  --> Complete Voltaire's quests @ /join firehouse during F13 event
+      Members can access anytime
 
+  ★ AVAST!                       September
+  --> Complete Quibble's quests @ /join battleon
+      including "Thee Seven C's!"
 
-Committed
-Complete the quests from /mirrormaze > /catacombs and defeat Dr. De'Sawed (FOR REAL).
+  AQW Birthdays                  October (new badge each year)
+  --> Log in during AQW's Birthday event
+      May require completing a quest
 
+  ★ Upholder                     November (new badge each year)
+  --> Be a member on November 2nd
 
-Story ARC
-Complete the quests from /lab > /mountain.
+  Kung Food                      November
+  --> Get 200 points in the Food Fight minigame @ /join harvest
 
+  World Saviour                  December
+  --> Complete quests @ /join frostdeep > /join battlefield > /join icerise
+      including "Face Kezeroth"
 
-★ Master of Time
-Do Iadoa's 13LoC story & defeat him at /ultravoid. A Dragonoid of Hours from Dragonoid at /mqlesson helps.
+  Frost Defanged                 December
+  --> Complete quests @ /join darkwinter
+      including "Defeat Frostfang (Good/Evil)"
 
-
-ConZombie Slayer
-Do Artix's quests at /battlecon (1st quest at /artistalley). "Cosplay Zombies On Parade" rewards badge.
-
-
-BattleCon VIP
-Defeat Ultra Brutalcorn at /undergroundlabb.
-
-
-Chaos Harpy
-Do the Chaos Twins' 13LoC storyline. "Horror Takes Flight" from /mirrorportal rewards badge.
-
-
-2nd Chaos Lord
-Obtain the Chaos Harpy badge above then complete "Good, Evil, and Chaos Battle!" at /mirrorportal.
-
-
-Lord of the Wedding Ring
-Complete the event at /artixwedding.
-
-
-Ravenloss War
-Complete quests from /twilightedge > /weaverwar > /ravenloss > /chaosweb.
-
-
-Ravenloss Champion
-Defeat 100 enemies at /ravenloss without leaving the map. Walk right to find 3 enemies.
-
-
-Horde Zombie SLAYER
-Walk left at /darkoviahorde then defeat 100 enemies without leaving the screen.
-
-
-Mummy Slayer
-Complete Clara's "100 Mummy Massacre" quest at /mummies.
-
-
-CruxShadows Defender
-Complete the /cruxshadows event.
-
-
-Golden Laurel
-Complete Aranx's quests at /goldenarena including "Golden Laurel Challenge" (defeat the Queen of Hope).
-
-
-6th Birthday Saviour
-Complete Artix's quests at /artixpointe. A guide can be found under Omni Artifact in the 3rd quest of Classic Hollowborn Paladin Armor.
-
-
-Celestial Champion
-Complete Aranx's quests at /celestialarena including "FINAL FIGHT!".
-
-
-ShadowVault Champion
-Complete Treasure Hunter Z's quests at /shadowvault including "BOSS FIGHT!".
-
-
-Table Flipper
-Complete Yulgar's quests at /borgars. A guide can be found under Quest 10 of Dragon of Time.
-
-
-#1 Battle Babysitter
-Complete /thorngarde > /stonewood > /techdungeon > /stonewooddeep including "Never Give Up".
-
-
-Chaos PuppetMaster
-Complete /transformation > /downbelow including "Undying Rage" (defeat Earthwyrms and Anka).
-
-
-
-Seasonal Events
-
-
-Moglin Punter
-Punt Twilly 100 yards at /punt. Available February-March.
-
-
-GOAL!
-Punt the soccer ball 100 yards at /chute. Available February-March.
-
-
-Conquest Victor
-Complete Dage's "Conquest Badge" quest at /undervoid by doing the Gauntlet daily x7. Available March.
-
-
-War Victor
-Complete Dage's "War Badge" quest at /undervoid by doing the Gauntlet daily x7. Available March.
-
-
-Famine Victor
-Complete Dage's "Famine Badge" quest at /undervoid by doing the Gauntlet daily x7. Available March.
-
-
-Death Victor
-Complete Dage's "Death Badge" quest at /undervoid by doing the Gauntlet daily x7. Available March.
-
-
-DERP!
-Do Rainbow Derpicorn Guard (R)'s quest from your house. It drops at /battlefools in 2011 area in Apr.
-
-
-Super SLAYIN'
-Complete the GardenQuest Announcer's quests at /gardenquest. Available April.
-
-
-Friday the 13th
-Complete a Friday the 13th event. The next ones are May 2022 and January + October 2023.
-
-
-Unicorn Commander (Also in Quests / Locations section)
-Complete Voltaire's quests at /firehouse during a Friday the 13th event. Members can always access.
-
-
-★ AVAST!
-Complete Quibble's quests at /battleon including "Thee Seven C's!". Available September.
-
-
-AQW Birthdays (Event is Seasonal with a new badge each year)
-Log in during AQW's Birthday event. May require completing a quest in October.
-
-
-★ Upholder (Event is Seasonal with a new badge each year. Also in Purchase section)
-Be a member on the 2nd of November.
-
-
-Kung Food
-Get 200 points in the Food Fight minigame at /harvest. Available November.
-
-
-World Saviour
-Complete quests at /frostdeep > /battlefield > /icerise including "Face Kezeroth". Available December.
-
-
-Frost Defanged
-Complete quests at /darkwinter including "Defeat Frostfang (Good/Evil)". Available December.
-
-
-Honourable Hero (Event is Seasonal with a new badge each year)
-Log in once during the year with a Level 11+ acc without a 24hr+ mute or ban. Rewards 500 ACs in Jan.
-
+  Honourable Hero                January (new badge each year)
+  --> Log in once during the year with Level 11+ account
+      No 24hr+ mute or ban required
+      Rewards 500 ACs in January
+╰──────────────────────────────────╯
