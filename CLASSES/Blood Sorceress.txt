@@ -1,25 +1,42 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           BLOOD SORCERESS            ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-Yes
+  Best Used For:  🌾 Farming  (Early–Mid Game)
 
-Uses
+  How to Get:     /join towerofmirrors  ·  Kill Scarletta  (Level 50)
 
-Great for farming (Early - Mid Game)
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Dropped at /join towerofmirrors - Kill Scarletta (LvL 50)
+  🧿 Class ·········  Wizard  |  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Elysium
+                       Valiance
+                       Ravenous
 
-Class - Wizard | Luck
+  🪖 Helm ··········  Pneuma
+                       Luck
 
-Weapon - Elysium | Valiance | Ravenous
-Helm - Pneuma | Luck
-Cape - Vainglory | Luck
+  🧣 Cape ··········  Vainglory
+                       Luck
 
-COMBO
 
-Basically just spam but you can use 5th skill and just use 2 and 3 Doesn’t really matter what order but I use 3 and then 2 to get my health incase the monster attacks me, use the 4th if in dire need of health otherwise just avoid it because you lose unnecessary health
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 5 ········  Use to activate then fall into rotation below
+  💡 Skill 4 ········  Use only in dire need of health — costs you HP unnecessarily
+
+  ✅ Main Rotation ··  Spam  3  then  2
+                        Use  3  first to deal damage
+                        Use  2  after if the monster attacks you to recover HP
