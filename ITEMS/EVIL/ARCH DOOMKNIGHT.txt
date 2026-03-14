@@ -4,7 +4,84 @@ Rank 7 Evil
 Buy these for 200 ACs each.
 
 Storyline Completion
-This includes Treasure Hunter Z's quests at /shadowvault, Step 1 of BLoD, /noxustower, and 13LoC (Map > Story).
+This includes Treasure Hunter Z's quests at /shadowvault, Step 1 of BLoD, /noxustower, and 13LoC (Map > Story).╔════════════════════════════════╗
+
+      ARCH DOOMKNIGHT
+
+╚════════════════════════════════╝
+
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Rank 7 Evil
+  14+ Inventory Slots            --> Buy for 200 ACs each
+
+  Storyline Completion:
+  --> Treasure Hunter Z's quests at /join shadowvault
+  --> Step 1 of BLoD
+  --> /join noxustower
+  --> 13LoC (Map > Story)
+╰──────────────────────────────────╯
+
+⚔️ QUESTS
+╭──────── Head to Ancient DoomKnight at /join shadowvault ────────╮
+
+  1. "Gathering Power"
+  ╭──────────────────────────────────╮
+    Undead Energy          ×1,800  --> /join battleunderb (Kill enemies)
+    Human Souls            ×500    --> /join noxustower (Kill Lightguard Paladins
+                                       and Casters — 2 rooms near end with 3 each)
+    Dragon Energy          ×600    --> /join lair (exit left from /join underlair)
+  ╰──────────────────────────────────╯
+
+  2. "Death's Door"
+  ╭──────────────────────────────────╮
+    Death's Power &
+    Souls of the Dead      ×400    --> /join shadowattack (Kill Death at end of map)
+                                       💡 If you've done the /join shadowrise storyline:
+                                       click "Battle Death Again" on the NPC for a teleport
+  ╰──────────────────────────────────╯
+
+  3. "Chaotic Lords"
+  ╭──────────────────────────────────╮
+    Chaotic Power          ×13     --> Earned automatically as you collect the items below
+
+    Escherion's Helm               --> /join escherion (Kill Escherion)
+    Legendary Sword of
+     Dragon Control                --> /join stalagbite (Kill Vath)
+    Hanzamune Dragon Koi Blade     --> /join kitsune (Kill Kitsune — invincible in fox form)
+    Wolfwing Armour                --> /join wolfwing (Kill Wolfwing)
+    One Eyed Doll Breaker          --> /join palooza (Kill Kimberly)
+    Ledgermayne (Armour)           --> /join ledgermayne (Kill Ledgermayne)
+    Tibicenas (Armour)             --> /join djinn (Kill Tibicenas)
+    Soul of Chaos Armour           --> /join dreamnexus (Kill Khasaanda)
+    Chaos Lionfang Armour          --> /join stormtemple (Kill Lionfang)
+    Shorn Chaos King Crown         --> /join swordhavenfalls or /join ultraalteon
+                                       (Kill Alteon — /join ultraalteon also drops Relics of Chaos)
+                                       👥 Recommended with a group unless strong solo class
+    Xiang Chaos                    --> /join mirrorportal (Kill Xiang)
+                                       💡 Sentinel, Dragon of Time, or Healer recommended
+                                       (abilities that scale with your HP)
+    Drakath's Sword                --> /join ultradrakath (Kill Drakath)
+    Chaorrupted Hourglass          --> /join timespace (Kill Iadoa)
+                                       💡 Get Dragonoid of Hours from Dragonoid at /join mqlesson
+                                       — disables Iadoa's Astral Shift (inventory only, no equip needed)
+  ╰──────────────────────────────────╯
+
+  4. "A Means to an End"
+  ╭──────────────────────────────────╮
+    Ultimate Darkness Gem  ×50     --> /join shadowfallwar (walk up > right)
+                                       Kill 2 Ghouls and 2 Undead War Mages
+    Undead Energy          ×2,000  --> /join battleunderb (Kill enemies)
+    (Necro) Scroll of
+     Dark Arts             ×2      --> /join epicvordred (Kill Ultra Vordred ~1% drop)
+    Doom Heart             ×1      --> /join sepulchurebattle (Kill Ultra Sepulchure ~0.5% drop)
+    Dread Knight Cleaver           --> /join sepulchure (Kill Dark Sepulchure)
+    Reaper's Soul                  --> /join thevoid (Kill Reaper)
+                                       💡 Select "Fight Me!" from The Reaper NPC at start of map
+    Desolich's Undead Eye  ×2      --> /join desolich (Kill Desolich)
+                                       👥 Group strongly recommended — very high HP
+  ╰──────────────────────────────────╯
+╰──────────────────────────────────╯
 
 Quests
 
