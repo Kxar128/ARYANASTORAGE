@@ -1,33 +1,44 @@
-Uses
+╔════════════════════════════════╗
 
-Classes
-Master Ranger, Legendary Elemental Warrior.
+          SANDSEA
 
-Quests
+╚════════════════════════════════╝
 
-Everyone
+🏆 USES
+╭──────────────────────────────────╮
+  Classes --> Master Ranger, Legendary Elemental Warrior
+╰──────────────────────────────────╯
 
-Complete Tibicenas' 13LoC chapter (Map > Story). This includes /sandsea > /sandport > /pyramid > /wanders > /sandcastle > /djinn.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete Tibicenas' 13LoC chapter (Map > Story)
+  --> /join sandsea > /join sandport > /join pyramid > /join wanders
+      > /join sandcastle > /join djinn
+╰──────── MEMBER ────────╮
+  1. Complete Malorie's "Sandsea Membership Dues" quest from /join collection
+     ⚠️ NOTE: This quest gives 15k Rep for this faction (normally 5k)
+  2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
+  3. Join /join collectorlab and defeat enemies there
+       Token Cs have a 70% drop rate and stack to 500
+  4. Merge Token Cs --> Token Bs --> Token As
+       in the Super Fan Token shop at /join collection
 
+  Rank 1–10 requires ×9 Token As with consumable Rep Boost + Cape of Awe
+  (or other 25% boost)
 
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
+╰──────── NON-MEM ────────╮
+  Accept the following quests from /join sandsea:
+  --> Zhoom's "Dissertations Burpers Camel"
+  --> Zhoom's "Crafting Creepers: A Favourite of Mine"
+  --> Cassim's "Oasis Ornaments"
+  --> Nkuku's "Parched Pets"
+  --> Kephri's "The Power of Pomade"
 
-Member
+  Complete by defeating Cactus Creepers and the Bupers Camel in the same map
+  ⚠️ NOTE: They are on separate screens but right next to each other
 
-Complete Malorie's "Sandsea Membership Dues" quest from /collection. Normally this quest rewards 5k Rep but for this faction it gives 15k.
-
-Accept Drakath (Kid)'s "For Science" quest from /terrarium.
-
-Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
-
-Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
-
-Getting from Rank 1-10 for this faction requires 9 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
-
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-
-
-Non-Mem
-
-Accept Zhoom's "Dissertations Burpers Camel" and "Crafting Creepers: A Favourite of Mine", Cassim's "Oasis Ornaments", Nkuku's "Parched Pets", and Kephri's "The Power of Pomade" quests from /sandsea. Complete them by defeating Cactus Creepers and the Bupers Camel in the same map - they are on separate screens but next to each other.
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
+╰──────────────────────────────────╯
