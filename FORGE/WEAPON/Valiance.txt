@@ -1,0 +1,42 @@
+╔════════════════════════════════════╗
+
+   VALIANCE
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 100               --> Refer to XP Guide
+  Must have Rank 10 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have completed "The Final Challenge" quest
+  Must have ArchPaladin (Class)
+  Must have the following in your inventory:
+    · Fire Champion's Armor
+    · Dragon of Time (Class)
+    · Drakath the Eternal
+    · Eternity Blade
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────── All quests start at /join darkthronehub ────────╮
+  ArchPaladin Armor          --> /join darkthronehub (direct)
+
+  Gravelyn's DoomFire Token  --> Accept "The Summoning" Quest
+                                 --> /join darkthronehub
+
+  Empowered Essence          --> /join shadowrealmpast
+                                 --> Kill Pure Shadowscythe, Shadow Guardian, Shadow Warrior
+
+  Gravelyn's Blessing        --> Accept "Let Darkness Enter your Heart"
+                                 --> /join necrodungeon --> Kill Doom Overlord
+
+  Burning Passion Flame      --> Accept "Abyssal" Quest
+                                 --> /join shadowstrike --> Kill Sepulchuroth
+
+  Father's Sorrowful Tear    --> Accept "Memories of The Past" Quest
+                                 --> /join shadowfall --> Shadow of the Past --> Room 14
+                                 (Click the hay → click the lid → enter the black hole)
+
+  Painful Memory Bubble      --> Accept "Find me some Doom" Quest
+                                 --> /join swordhavenfalls --> Kill Chaos Lord Alteon
+╰──────────────────────────────────╯
