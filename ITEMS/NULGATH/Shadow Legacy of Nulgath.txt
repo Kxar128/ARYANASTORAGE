@@ -1,13 +1,16 @@
-Merge this armour in Dirtlicker's shop at /archportal.
+╔════════════════════════════════════╗
 
-Use the Reagent Library for details on how to get the following items:
+   SHADOW LEGACY OF NULGATH
 
-Hadean Onyx of Nulgath
+╚════════════════════════════════════╝
 
-Voucher of Nulgath (non-mem)
+⚔️ MERGE REQUIREMENTS
+╭──────── Merged @ Dirtlicker's shop in /join archportal ────────╮
+  Hadean Onyx of Nulgath        ×1
+  Voucher of Nulgath (non-mem)  ×1
+  Essence of Nulgath            ×100
+  Nulgath's Approval            ×100
+  Letter from Asuka and Tendou  ×1
 
-Essence of Nulgath x100
-
-Nulgath's Approval x100
-
-Letter from Asuka and Tendou
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
