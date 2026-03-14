@@ -1,58 +1,70 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║        HOLLOWBORN VINDICATOR         ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes — though better options exist.
+  Essentially Exalted Soul Cleaver with different animations.
 
-Yes --> There are better options though
-Personally i believe the class is just Exalted Soul Cleaver with different animations but that's just my personal opinion (UwU)
-Uses
+  Best Used For:  💥 DPS  (Semi-Tanky)
 
-DPS (Semi tanky)
+  How to Get:     Start at /join ultragramielhub
 
-How to get:
+  💊 Potions ·······  Fate Tonic  |  Battle Elixir  |  Felicitous Philtre
 
-Start at Ultragramielhub
 
-Two options
+╔══════════════════════════════════════╗
+║      OPTION 1 — EASY (Weekly)        ║
+║  "Echoes of a Forgotten Fate"        ║
+╚══════════════════════════════════════╝
 
-1. Easy version
-- "Echoes of a Forgotten Fate (Weekly)" 
-  - 4 x Death's Power -> /join shadowattack --> Kill Death (Monster)
-  - 300 x Hollow Soul --> 
-    - /join hbchallenge --> Kill The Darkdweller (With Party)
-    - /join Dawnsanctum --> Accept "Nauthiz - Realized" quest from "Veronika (NPC) (If solo)
-  - 40 x Vindicator badge --> /join Trygve --> Accept "Nauthiz" quest from "Lae (NPC)"
-  - 100 x Grace Orb --> /join neofortress --> Accept "Grace Extraction" quest from "Lae (NPC)"
-  - 60 x Gramiel's Emblem --> /join dawnsanctum --> Kill Celestial Gramiel in room 10
-  - 20 x Vindicator's Crest --> /join neotower -> Accept "Mutual Friends" quest from "Lae (NPC)"
-  - 20 x Gramiel the Graceful's Insignia --> /join ultragramiel --> Accept "Resuscitated Hope" quest from "Lae (NPC)" and kill boss at the same map
+  Death's Power          ×4    → /join shadowattack  ·  Kill Death (Monster)
+  Hollow Soul            ×300  → /join hbchallenge   ·  Kill The Darkdweller (with party)
+                                  OR /join Dawnsanctum  ·  Accept "Nauthiz - Realized" from Veronika NPC (solo)
+  Vindicator Badge       ×40   → /join Trygve  ·  Accept "Nauthiz" quest from Lae NPC
+  Grace Orb              ×100  → /join neofortress  ·  Accept "Grace Extraction" quest from Lae NPC
+  Gramiel's Emblem       ×60   → /join dawnsanctum  ·  Kill Celestial Gramiel in Room 10
+  Vindicator's Crest     ×20   → /join neotower  ·  Accept "Mutual Friends" quest from Lae NPC
+  Gramiel the Graceful's Insignia ×20 → /join ultragramiel
+                                  Accept "Resuscitated Hope" quest from Lae NPC → Kill boss
 
-2. Hard version
 
-- "Trials of the Vessel (Weekly)" 
-  - 4 x Death's Power --> /join shadowattack --> Kill Death (Monster)
-  - 6000 x Hollow Soul ->
-    - /join hbchallenge --> Kill The Darkdweller (With Party)
-    - /join Dawnsanctum --> Accept "Nauthiz - Realized" quest from "Veronika (NPC) (If solo)
-  - 800 x Vindicator badge --> /join Trygve --> Accept "Nauthiz" quest from "Lae (NPC)"
-  - 1600 x Grace Orb --> /join neofortress --> Accept "Grace Extraction" quest from "Lae (NPC)"
-  - 1200 x Gramiel's Emblem --> /join dawnsanctum --> Kill Celestial Gramiel in room 10
-  - 400 x Vindicator's Crest --> /join neotower -> Accept "Mutual Friends" quest from "Lae (NPC)"
+╔══════════════════════════════════════╗
+║      OPTION 2 — HARD (Weekly)        ║
+║   "Trials of the Vessel"             ║
+╚══════════════════════════════════════╝
 
-ENHANCEMENTS
+  Death's Power          ×4    → /join shadowattack  ·  Kill Death (Monster)
+  Hollow Soul            ×6,000 → /join hbchallenge  ·  Kill The Darkdweller (with party)
+                                  OR /join Dawnsanctum  ·  Accept "Nauthiz - Realized" from Veronika NPC (solo)
+  Vindicator Badge       ×800  → /join Trygve  ·  Accept "Nauthiz" quest from Lae NPC
+  Grace Orb              ×1,600 → /join neofortress  ·  Accept "Grace Extraction" quest from Lae NPC
+  Gramiel's Emblem       ×1,200 → /join dawnsanctum  ·  Kill Celestial Gramiel in Room 10
+  Vindicator's Crest     ×400  → /join neotower  ·  Accept "Mutual Friends" quest from Lae NPC
 
-Class - Luck
 
-Weapon - Dauntless | Praxis (Ultras)
-Helm - Base Forge
-Cape - Vainglory | Lament (if you need crit)
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-COMBOS
+  🧿 Class ·········  Luck
 
-4-2-3-5 opening and then 2-4 spam and some times 5
+  ⚔️  Weapon ········  Dauntless
+                       Praxis  (Ultras)
 
-POTIONS
+  🪖 Helm ··········  Base Forge
 
-Fate Tonic
-Battle Elixir
-Felicitous Philtre
+  🧣 Cape ··········  Vainglory
+                       Lament  (if you need crit)
 
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Opening ········  4 → 2 → 3 → 5
+
+  ✅ Main Rotation ··  2 → 4  (spam)  +  occasional  5
