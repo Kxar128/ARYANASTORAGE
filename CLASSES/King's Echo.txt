@@ -1,99 +1,96 @@
-King's Echo Class Obtain Guide
+╔══════════════════════════════════════╗
+║                                      ║
+║             KING'S ECHO              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Prerequisites:
-- Level 80
-- Completion of the Rumbling of Cold Thunder saga
-- Rank 10 in Good faction
-- Rank 10 in Swordhaven faction
-- Alden’s Liberation Armor
-- Completion of “The Storm Queen” content
+  Worth Getting?
+  ──────────────
+  Yes.
 
-Starting Location:
-- Go to /terminatemple and talk to Victoria (right side)
+  Best Used For:  💥 DPS
 
-Questline Steps:
+  Requirements:   Level 80
+                  Rank 10 Good  |  Rank 10 Swordhaven
+                  Completion of the Rumbling of Cold Thunder saga
+                  Alden's Liberation Armor
+                  Completion of "The Storm Queen" content
 
-1. Familial Blessing
-- Click on Tara on screen 1 in /terminatemple
+  Starting Location: /join terminatemple  ·  Speak to Victoria (right side)
 
-2. Echo of the King
-You must obtain the following items (quests provided by Victoria):
-- Alteon’s Reforged Armor
-- King Alteon’s Crown
-- Royal Dragon Sword
-- Alden’s Mace
-  Note: Alden’s Mace can be picked up at /castle. Enter the throne room, turn right, and take it from the wall. No quest required.
 
-3. The Path to the King (Sword Quest)
-Location: /portal
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Requirements:
-- Endured Against the Defiler x100
-  - Destructive Defiler at /infernalarena (1 per kill)
-  - Member option: Graveclaw at /gravechallenge (10 per kill)
+  🧿 Class ·········  Luck
 
-- Endured Against the Monster King x90
-  - Dethrix at /ebondungeon
+  ⚔️  Weapon ········  Ravenous
+                       Elysium
+                       Valiance
 
-- Endured Against a Fallen Friend x100
-  - Ultra Sepulchure at /sepulchurebattle
+  🪖 Helm ··········  Examen   (mana problems)
+                       Pneuma
 
-- Endured Against Chaos x113
-  - Ultra Chaos Warlord at /chaosboss
+  🧣 Cape ··········  Vainglory
+                       Lament
 
-- Endured Against the Great Dragon x70
-  - Final dragon at /naoisegrave
 
-4. Purify the Crown (Crown Quest)
-Location: /cleric
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-Requirements:
-- Trace of Chaos x13
-  - Ultra Drakath at /ultradrakath (low drop)
-  - OR merge using 5x Drakath Insignia at /championdrakath
+  ✅ Full Damage ····  2 → 3 (×8) → 5  →  repeat
 
-- Whispers of Chaos x40
-  - Ultra Dreadhaven General at /ultradread
-  - OR Slugwrath at /dreadhaven
+  ✅ Defensive ······  4 → 2 → 3 (×8) → 5  →  repeat
 
-- Calcified Tear x60
-  - Queen of Monsters at /transformation (chance drop)
-  - OR guaranteed at /queenbattle
+  ✅ Full Defense ···  4 → 2 → 3 (×2) → 4 → 2 → 3 (×2) → 5  →  repeat
 
-5. The King's Armour
 
-Requirements:
-- 500K Gold Voucher x100
-  - Farm at /sevencircleswar (F2P)
-  - OR /lichwar (Member)
-  - OR gold farming via Leery
+╔══════════════════════════════════════╗
+║               QUESTS                 ║
+╚══════════════════════════════════════╝
 
-- Dwarven Gold x30
-  - Dwarves at /thelimacity
+  1 · Familial Blessing
+  ───────────────────────
+  → Click on Tara on Screen 1 in /join terminatemple
 
-- Atlas Gold x75
-  - King Zedek at /atlasfalls
-  - OR Atlas Lions
+  2 · Echo of the King
+  ──────────────────────
+  → Alteon's Reforged Armor ×1  ·  (Quest from Victoria)
+  → King Alteon's Crown ×1      ·  (Quest from Victoria)
+  → Royal Dragon Sword ×1       ·  (Quest from Victoria)
+  → Alden's Mace ×1             ·  /join castle  ·  Enter throne room → turn right → take from wall
+                                   (No quest required)
 
-- Skye Gold x50
-  - Queen Iona at /queeniona (approximately 25 kills)
+  3 · The Path to the King  (Sword Quest)
+  ─────────────────────────────────────────
+  → Location: /join portal
 
-- Camlan Gold x120
-  - Two elven minibosses near the end of /camlan
+  Endured Against the Defiler      ×100  → /join infernalarena  ·  Kill Destructive Defiler (1 per kill)
+                                           Member alt: /join gravechallenge  ·  Kill Graveclaw (10 per kill)
+  Endured Against the Monster King ×90   → /join ebondungeon  ·  Kill Dethrix
+  Endured Against a Fallen Friend  ×100  → /join sepulchurebattle  ·  Kill Ultra Sepulchure
+  Endured Against Chaos            ×113  → /join chaosboss  ·  Kill Ultra Chaos Warlord
+  Endured Against the Great Dragon ×70   → /join naoisegrave  ·  Kill Final Dragon
 
-Completion:
-After completing all quests and requirements, you will unlock and obtain the King’s Echo class.
+  4 · Purify the Crown  (Crown Quest)
+  ─────────────────────────────────────
+  → Location: /join cleric
 
-ENHANCEMENTS
+  Trace of Chaos    ×13   → /join ultradrakath  ·  Kill Ultra Drakath (low drop rate)
+                             OR merge 5× Drakath Insignia at /join championdrakath
+  Whispers of Chaos ×40   → /join ultradread  ·  Kill Ultra Dreadhaven General
+                             OR /join dreadhaven  ·  Kill Slugwrath
+  Calcified Tear    ×60   → /join transformation  ·  Kill Queen of Monsters (chance drop)
+                             OR guaranteed at /join queenbattle
 
-Class - Luck
-
-Weapon - Ravenous | Elysium | Valiance
-Helm - Examen (Mana Problems)| Pneuma
-Cape - Vainglory | Lament
-
-COMBOS:
-
-Full Damage: 2 - 3 (8 times) - 5 - repeat
-Defensive: 4 -> 2 - 3 (8 times) - 5 - repeat
-Full Defense: 4 -> 2 - 3 (2 times) -> 4 -> 2 - 3 (2 times) -> 5 - repeat 
+  5 · The King's Armour
+  ───────────────────────
+  Gold Voucher 500k ×100  → /join sevencircleswar  (F2P)
+                             OR /join lichwar  (Member)
+                             OR Gold farming via Leery
+  Dwarven Gold      ×30   → /join thelimacity  ·  Kill Dwarves
+  Atlas Gold        ×75   → /join atlasfalls  ·  Kill King Zedek  OR  Atlas Lions
+  Skye Gold         ×50   → /join queeniona  ·  Kill Queen Iona (~25 kills)
+  Camlan Gold       ×120  → /join camlan  ·  Kill two Elven Minibosses near end of map
