@@ -1,15 +1,22 @@
-Requirements:
+╔════════════════════════════════╗
 
-- Complete Archmage farm (Refer to CLASSES / CLASSES-GUIDE channel in Library server)
+          PROVIDENCE
 
-start here /join archmage --> Speak to "Warlic (NPC)" --> Accept "Lumina Elementi" quest
+╚════════════════════════════════╝
 
-Items Required:
- 
-Valiance x 1 (Refer to FORGE ENHANCEMENTS / WEAPON channel in Library server)
-Elysium x 1 (Refer to FORGE ENHANCEMENTS / WEAPON channel in Library server)
-Prismatic Seams x 2,000 --> /join streamwar --> Complete medal quests
-Unbound Thread x 100 --> /join deadlines --> Complete "Fallen Branches" quest
-Unbound Tome x 30 --> /join Archmage --> Complete "Thaumaturgy" quest
-Book of Arcana x 1 --> /join Archmage --> Complete "Book of Arcana: Arcane Sigil"
-Elemental Binding x 2,500 --> /join Archmage --> Kill Prismata in Room 2
+📦 Pre-Requirements
+
+Complete Archmage farm --> (Refer to CLASSES / CLASSES-GUIDE channel in OUR server)
+
+➡️ /join archmage --> Speak to "Warlic (NPC)" --> Accept "Lumina Elementi" quest
+
+✨ PROVIDENCE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Valiance           ×1      --> (Refer to FORGE ENHANCEMENTS / WEAPON channel in Library server)
+  Elysium            ×1      --> (Refer to FORGE ENHANCEMENTS / WEAPON channel in Library server)
+  Prismatic Seams    ×2,000  --> /join streamwar (Complete medal quests)
+  Unbound Thread     ×100    --> /join deadlines (Complete "Fallen Branches" quest)
+  Unbound Tome       ×30     --> /join Archmage (Complete "Thaumaturgy" quest)
+  Book of Arcana     ×1      --> /join Archmage (Complete "Book of Arcana: Arcane Sigil")
+  Elemental Binding  ×2,500  --> /join Archmage (Kill Prismata in Room 2)
+╰────────────────────────────────────╯
