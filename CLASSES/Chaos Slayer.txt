@@ -1,27 +1,42 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║            CHAOS SLAYER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you're a low-mid level player who doesn't have ArchFiend.
+  Worth Getting?
+  ──────────────
+  Yes — especially for low-to-mid level players who don't have ArchFiend.
 
-Uses
-Good For: Farming & Soloing
+  Best Used For:  🌾 Farming  |  ⚔️  Soloing
 
-Quest
+  How to Get:
+  ─────────────
+  Non-Member  ·  Complete 13 Lords of Chaos story (Map → Story tab)
+                  → Farm Rank 10 Chaos → Purchase at /join mountdoomskull
 
-Non-Member
-Complete the 13 Lords of Chaos story (open the Map then click on Story) then farm Rank 10 Chaos. After, purchase the class at /mountdoomskull. 
+  Member  ······  Go to /join mountdoomskull → Farm Rank 10 Chaos
+                  → Press "Legend Skip" at Loremaster Maya → Purchase class
 
-Member
 
-Members don't need to complete the 13 Lords of Chaos story - just go to /mountdoomskull, farm Rank 10 Chaos, and press Legend Skip at Loremaster Maya. Then purchase the class.
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-ENHANCEMENTS
+  🧿 Class ·········  Luck
 
-Class - Luck
+  ⚔️  Weapon ········  Valiance
+                       Dauntless
+                       Elysium
 
-Weapon - Valiance | Dauntless | Elysium
-Helm - Anima
-Cape - Vainglory | Avaricec
+  🪖 Helm ··········  Anima
 
-COMBOS
-3-3-5-2-3-2-3-2-3-5-2-3-2-3 
+  🧣 Cape ··········  Vainglory
+                       Avarice
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  3→3→5→2→3→2→3→2→3→5→2→3→2→3
