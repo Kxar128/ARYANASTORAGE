@@ -1,42 +1,48 @@
-Uses
+╔════════════════════════════════╗
 
-Classes
-Shaman, Evolved Shaman, StoneCrusher.
+         ARCANGROVE
 
-Items
-EVA, AFDL.
+╚════════════════════════════════╝
 
-Quests
+🏆 USES
+╭──────────────────────────────────╮
+  Classes  --> Shaman, Evolved Shaman, StoneCrusher
+  Items    --> EVA, AFDL
+╰──────────────────────────────────╯
 
-Everyone
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete Ledgermayne's 13LoC chapter (Map > Story)
+  --> /join arcangrove > /join cloister > /join mudluk > /join natatorium
+      > /join gilead > /join mafic > /join elemental > /join ledgermayne
+╰──────── MEMBER ────────╮
+  1. Complete Malorie's "Arcangrove Membership Dues" quest from /join collection
+  2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
+  3. Join /join collectorlab and defeat enemies there
+       Token Cs have a 70% drop rate and stack to 500
+  4. Merge Token Cs --> Token Bs --> Token As
+       in the Super Fan Token shop at /join collection
 
-Complete Ledgermayne's 13LoC chapter (Map > Story). This includes /arcangrove > /cloister > /mudluk > /natatorium > /gilead > /mafic > /elemental > /ledgermayne.
+  Rank 1–10 requires ×25 Token As with consumable Rep Boost + Cape of Awe
+  (or other 25% boost)
 
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
+╰──────── NON-MEM ────────╮
+  Accept the following quests from /join arcangrove:
+  --> Rayst's "A Necessary Sacrifice"
+  --> Blakk's "Thistle Do Nicely"
+  --> Moonwrath's "ArcanRobe"
+  --> Reens' "Thyme and a Half"
 
+  Complete by defeating Seed Spitters at the bottom of the map (3 per room)
 
-Member
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
+╰──────── DAILIES ────────╮
+  Complete Reens' "Experiment 107: Elder's Blood Potion" quest from /join arcangrove
+  --> Defeat Gorillaphants
+  --> Rewards Elders' Blood (used for Void Highlord)
 
-Complete Malorie's "Arcangrove Membership Dues" quest from /collection.
-
-Accept Drakath (Kid)'s "For Science" quest from /terrarium.
-
-Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
-
-Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
-
-Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
-
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-
-
-Non-Mem
-
-Accept Rayst's "A Necessary Sacrifice", Blakk's "Thistle Do Nicely", Moonwrath's "ArcanRobe", and Reens' "Thyme and a Half" quests from /arcangrove.
-Complete these quests by defeating Seed Spitters at the bottom of the map (has 3 in the same room).
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-Dailies
-
-Complete Reens' "Experiment 107: Elder's Blood Potion" quest from /arcangrove by defeating Gorillaphants. This will reward you with Elders' Blood, which is used for Void Highlord.
-Other daily quests aren't worth the effort.
+  ⚠️ NOTE: Other daily quests are not worth the effort
+╰──────────────────────────────────╯
