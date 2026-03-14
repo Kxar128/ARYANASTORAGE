@@ -1,19 +1,42 @@
-/join River --> Click Chest in room 2
+╔════════════════════════════════════╗
 
-Merge the following:
+   ARCANE BLADE OF GLORY
 
-* Amulet of Glory x 1 --> /join river --> click chest in room 2 --> Quests --> (Reward from the 'Choose: Despair... or Glory?' quest)
+╚════════════════════════════════════╝
 
-* Enchanted Mana Blade x 1
+📦 HOW TO ACCESS
+╭──────────────────────────────────╮
+  /join river --> Click the Chest in room 2
+╰──────────────────────────────────╯
 
-Merge the following:
+✅ STEP 1 — Obtain the Enchantment Rune
+╭──────── "Victory Blade Enchantment" from Loot Chest NPC ────────╮
+  Silver Victory Blade          ×1     --> Loot Chest NPC shop @ /join river
+  --> Complete the quest to receive an Enchantment Rune as the reward
+╰──────────────────────────────────╯
 
-* Bright Aura Gem x1 --> /join river --> click chest in room 2 --> Quests --> (Reward from the 'Alignment Quest: Light... or Dark?' quest)
+✅ STEP 2 — Forge the Enchanted Victory Blade
+╭──────────────────────────────────╮
+  Exchange in Loot Chest NPC shop:
+  Enchantment Rune              ×1     --> Reward from Step 1
+  Silver Victory Blade          ×1
+╰──────────────────────────────────╯
 
-* Enchanted Victory Blade x1
+✅ STEP 3 — Choose Your Path
+╭──────── "Alignment Quest: Light... or Dark?" from Loot Chest NPC ────────╮
+  🌟 For Arcane Blade of Glory  --> Choose Bright Aura Gem
+  🌑 For Shadow Blade of Despair --> Choose Dark Aura Gem
 
-	- Merge the following:
+  Exchange in Loot Chest NPC shop:
+  Bright Aura Gem               ×1     --> Reward from this quest
+  Enchanted Victory Blade       ×1     --> Reward from Step 2
+  --> Produces the Enchanted Mana Blade
+╰──────────────────────────────────╯
 
-		- Enchantment Rune x 1  --> /join river --> click chest in room 2 --> Quests --> (Reward from the 'Victory Blade Enchantment' quest)
-
-		- Silver Victory Blade x 1  --> /join river --> click chest in room 2 --> Shop
+✅ STEP 4 — Final Merge
+╭──────── "Choose: Despair... or Glory?" from Loot Chest NPC ────────╮
+  Exchange in Loot Chest NPC shop:
+  Amulet of Glory               ×1     --> Reward from this quest
+  Enchanted Mana Blade          ×1     --> Reward from Step 3
+  --> Produces the Arcane Blade of Glory
+╰──────────────────────────────────╯
