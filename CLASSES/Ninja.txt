@@ -1,15 +1,22 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║               NINJA                  ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you want it for fun or you're low level.
+  Worth Getting?
+  ──────────────
+  Yes — if you want it for fun or you're low level.
 
-Uses
-OK For: Soloing, Support (with Defensive Rotation)
+  Also OK For:    ⚔️  Soloing  |  🤝 Support (Defensive Rotation)
 
-Enhancement
-Lucky + Mana Vamp
-Enhancements guide
+  How to Get:     Purchase from Shadowmoon at /join classhalla or /join greenguardwest  (15k Gold)
 
-Purchase
 
-Purchase from Shadowmoon at /classhalla or /greenguardwest for 15k Gold.
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Luck
+
+  ⚔️  Weapon ········  Mana Vamp
