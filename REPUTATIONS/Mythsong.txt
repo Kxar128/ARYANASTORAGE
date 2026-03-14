@@ -1,19 +1,21 @@
-Uses
+╔════════════════════════════════╗
 
-Classes
-StoneCrusher, Bard.
+         MYTHSONG
 
-Item
-Evolved Shadow Orb Armour.
+╚════════════════════════════════╝
 
-Quests
+🏆 USES
+╭──────────────────────────────────╮
+  Classes --> StoneCrusher, Bard
+  Item    --> Evolved Shadow Orb Armour
+╰──────────────────────────────────╯
 
-Everyone
-
-Complete Kimberly's 13LoC chapter (Map > Story). This includes /stairway > /beehive > /orchestra > /mythsongwar > /palooza.
-
-
-
-Member + Non-Mem
-
-Complete Great Godfather of Souls' "Sugar, Sugar" quest at /beehive by defeating Stingers in the same map.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete Kimberly's 13LoC chapter (Map > Story)
+  --> /join stairway > /join beehive > /join orchestra
+      > /join mythsongwar > /join palooza
+╰──────── MEMBER + NON-MEM ────────╮
+  Complete Great Godfather of Souls' "Sugar, Sugar" quest at /join beehive
+  --> Defeat Stingers in the same map
+╰──────────────────────────────────╯
