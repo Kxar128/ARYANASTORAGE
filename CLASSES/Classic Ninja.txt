@@ -1,11 +1,25 @@
-ENHANCEMENTS
+╔══════════════════════════════════════╗
+║                                      ║
+║            CLASSIC NINJA             ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Class - Luck
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Dauntless
-Helm - Vim
-Cape - Vainglory
+  🧿 Class ·········  Luck
 
-COMBOS
+  ⚔️  Weapon ········  Dauntless
 
-3 5 spam 2 then 4 when the dodge is about to run out.
+  🪖 Helm ··········  Vim
+
+  🧣 Cape ··········  Vainglory
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  3 → 5 → spam  2
+                        Use  4  when dodge is about to run out
