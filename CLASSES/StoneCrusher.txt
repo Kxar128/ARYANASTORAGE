@@ -1,51 +1,52 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║            STONECRUSHER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes
+  Worth Getting?
+  ──────────────
+  Yes.
 
-Uses
-Best For: Support
-Good For: Ultra Bosses
+  Best Used For:  🤝 Support
+  Also Good For:  👑 Ultra Bosses
 
-Requirements
+  Requirements:   Rank 10 Brightoak  |  Rank 10 Mythsong  |  Rank 10 Arcangrove
+                  Storyline: /rivensylth > /elfhame > /darkheart > /gaiazor
 
-Storyline Completion 
-This includes /rivensylth > /elfhame > /darkheart > /gaiazor.
+  💡 Shortcut:    Spent $9.95+ on ACs or membership?
+                   → Claim the Infinity Titan Bonus Package from your account manager
+                   → Infinity Titan is a duplicate of StoneCrusher — no farming needed
 
-Rank 10 Brightoak
+  How to Get:     /join gaiazor  ·  Speak to Ravinos Brightglade
+                  → Buy Earth's Song Token + Shaman armor (50k Gold each)
+                  → Merge both in the same shop
 
-Rank 10 Mythsong
+  💊 Potions:
+  ─────────────
+  DMG  ·  Malevolent  |  Sage  |  Phonor
+  Heal ·  Divine  |  Might  |  Phonor
 
-Rank 10 Arcangrove
 
-Purchase
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-If you've spent at least $9.95 on ACs or membership, you can claim the Infinity Titan Bonus Package from your online account manager. It rewards the Infinity Titan class, which is a duplicate of StoneCrusher, meaning you won't need to do the farming below.
+  🧿 Class ·········  Wizard  (Damage)  |  Fighter  (Heal)
 
-Otherwise, purchase the Earth’s Song Token and Shaman armor from Ravinos Brightglade at /gaiazor for 50k Gold each. Then, merge them in the same shop for the Stonecrusher class. 
+  ⚔️  Weapon ········  Valiance
+                       Arcana's Concerto
+                       Awe Blast
 
-ENHANCEMENTS
+  🪖 Helm ··········  Anima   (Healing)
+                       Pneuma  (Damage)
 
-Class - Wizard (Damage) / Fighter (Heal)
+  🧣 Cape ··········  Absolution  (Healing)
+                       Vainglory  (Damage)
 
-Weapon - Valiance | Arcana's Concerto | Awe Blast
-Helm - Anima (Healing) | Pneuma (Damage)
-Cape - Absolution (Healing) | Vainglory (Damage)
 
-COMBO
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- Spam
-
-POTIONS
-
-- (DMG) - 
-
-Malevolant, 
-Sage 
-Phonor 
-
-- (Heal) - 
-Divine
-Might
-Phonor 
-
+  ✅ Main Rotation ··  Just spam
