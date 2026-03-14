@@ -1,30 +1,49 @@
-♛ ULTRA SPEAKER ♛
-Follow the chart
+╔════════════════════════════════╗
 
-⚔️ Lord of Order Enhancements/Potions 
-🛡️ Aweblast, Luck, base Forge, Penitence
-⚗️ Divine Elixir, Sage Tonic, Scroll of Enrage
+       ULTRA SPEAKER
 
-⚔️ Legion Revenant Enhancements/Potions 
-🛡️ Arcana Concerto, Wizard, Wizard, Lament
-⚗️ Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
+╚════════════════════════════════╝
 
-⚔️ ArchPaladin Enhancements/Potions 
-🛡️ Valiance/Praxis, Luck, base Forge, Penitence
-⚗️ Unstable Fate Tonic, Potent Battle Elixir, Scroll of Enrage
+⚙️ GEAR SETUPS
+╭──────── LORD OF ORDER ────────╮
+  Weapon --> Aweblast
+  Helm   --> LUK · Base Forge
+  Cape   --> Penitence
+  Potions: Divine Elixir · Sage Tonic · Scroll of Enrage
+╰──────── LEGION REVENANT ────────╮
+  Weapon --> Arcana Concerto
+  Helm   --> Wizard
+  Cape   --> Lament
+  Potions: Sage Tonic · Potent Malevolence Elixir · Scroll of Enrage
+╰──────── ARCHPALADIN ────────╮
+  Weapon --> Valiance / Praxis
+  Helm   --> LUK · Base Forge
+  Cape   --> Penitence
+  Potions: Unstable Fate Tonic · Potent Battle Elixir · Scroll of Enrage
+╰──────── DPS ────────╮
+  💡 These are suggestions — other DPS classes can work
 
-⚔️ DPS (CSS/VDK/KE) Enhancements/Potions 
-Chrono ShadowHunter
-🛡️ Valiance/Arcana Concerto, Luck, base Forge, Vainglory
-⚗️ Unstable Fate Tonic, Potent Battle Elixir, Felicitous Philtre
+  Chrono ShadowHunter (CSS)
+  Weapon --> Valiance / Arcana Concerto
+  Helm   --> LUK · Base Forge
+  Cape   --> Vainglory
+  Potions: Unstable Fate Tonic · Potent Battle Elixir · Felicitous Philtre
 
-Verus DoomKnight
-🛡️ Ravenous, Luck, Anima, Vainglory
-⚗️ Unstable Fate Tonic, Potent Battle Elixir, Potent Honor
+  Verus DoomKnight (VDK)
+  Weapon --> Ravenous
+  Helm   --> LUK · Anima
+  Cape   --> Vainglory
+  Potions: Unstable Fate Tonic · Potent Battle Elixir · Potent Honour
 
-King's Echo
-🛡️ Ravenous, Luck, Examen, Vainglory
-⚗️ Fate Tonic, Potent Battle Elixir, Felicitous Philtre
+  King's Echo (KE)
+  Weapon --> Ravenous
+  Helm   --> LUK · Examen
+  Cape   --> Vainglory
+  Potions: Fate Tonic · Potent Battle Elixir · Felicitous Philtre
+╰──────────────────────────────────╯
 
-*Note: for DPS these are mere suggestions it can be other classes.
-
+📎 REFERENCE
+╭──────────────────────────────────╮
+  3-man chart: Check the discord for charts
+  2-man chart: Check the discord for charts
+╰──────────────────────────────────╯
