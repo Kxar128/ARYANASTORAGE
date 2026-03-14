@@ -1,15 +1,36 @@
-Astral:
+╔════════════════════════════════╗
 
-Comp: LH LOO LR VDK CSS CSS AF
+       ASTRAL SHRINE
 
-Assign t1 to LR and T2 to VDK
+╚════════════════════════════════╝
 
-Have VDK Taunt start the fight with Taunt. Make sure everyone is above 80% health before behold hits everyone.
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  LH
+  LoO
+  LR
+  VDK
+  CSS  ×2
+  AF
+╰──────────────────────────────────╯
 
-LH: luk class, base forge helm, absolution, valiance, creeping horror
-LOO: luk class, base forge helm, absolution, luk aweblast, dark grip/corrosion
-LR: wiz class, pnuema helm, lament, arcana's concerto, scroll of enrage
-VDK: luk class, anima helm, penitence, ravenous, scroll of enrage
-CSS: luk class, base forge helm, penitence, arcana's concerto, feli pot
-AF: luk class, base forge helm, penitence, ravenous, feli pot 
-LH Spam heal off cooldown LOO heal immediately when behold damage hits everyone
+⚔️ MECHANICS
+╭──────────────────────────────────╮
+  Assign T1 to LR · Assign T2 to VDK
+
+  VDK starts the fight with Taunt
+  ⚠️ Make sure everyone is above 80% HP before Behold hits the group
+
+  LH  --> Spam heal off cooldown
+  LoO --> Heal immediately when Behold damage hits everyone
+╰──────────────────────────────────╯
+
+⚙️ GEAR SETUPS
+╭──────────────────────────────────╮
+  LH  --> LUK class · Base Forge helm · Absolution · Valiance · Creeping Horror
+  LoO --> LUK class · Base Forge helm · Absolution · LUK Aweblast · Dark Grip / Corrosion
+  LR  --> WIZ class · Pneuma helm · Lament · Arcana's Concerto · Scroll of Enrage
+  VDK --> LUK class · Anima helm · Penitence · Ravenous · Scroll of Enrage
+  CSS --> LUK class · Base Forge helm · Penitence · Arcana's Concerto · Feli Pot
+  AF  --> LUK class · Base Forge helm · Penitence · Ravenous · Feli Pot
+╰──────────────────────────────────╯
