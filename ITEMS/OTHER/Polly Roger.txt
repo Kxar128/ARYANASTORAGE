@@ -1,34 +1,47 @@
-Requirement
+╔════════════════════════════════════╗
 
-Level 80
+   POLLY ROGER
 
-Quest
+╚════════════════════════════════════╝
 
-Barnaby's "Sailor of the Celestial Skies" quest from /pirates is only available during September. Many of the enemies you need to defeat are very hard, so I highly suggest doing it in a group. Defeat the following enemies for each item:
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 80
+  ⚠️ Only available during September
+╰──────────────────────────────────╯
 
-Sapphire Orb x5
-Legion Lich Lord at /frozenlair.
+⚔️ QUEST
+╭──────── "Sailor of the Celestial Skies" from Barnaby @ /join pirates ────────╮
+  ⚠️ Many enemies are very hard — group strongly recommended
 
-Rumours of the Celestial Commander x5
-Diabolical Warlord at /lostruinswar (located at end of map).
+  Sapphire Orb                  ×5
+  --> Legion Lich Lord @ /join frozenlair
 
-Page 1 Scraps x10
-Animuses of Ice at /iceplane (requires completing map's quests or /goto).
+  Rumours of the Celestial Commander ×5
+  --> Diabolical Warlord @ /join lostruinswar (end of map)
 
-Page 2 Scraps x10
-Ivoliss at /ivoliss (located at end of map).
+  Page 1 Scraps                 ×10
+  --> Animuses of Ice @ /join iceplane
+      (complete map's quests first or /goto)
 
-Page 3 Scraps x10
-Nightbane at /thevoid (keep walking right and back to get the correct spawn).
+  Page 2 Scraps                 ×10
+  --> Ivoliss @ /join ivoliss (end of map)
 
-Page 4 Scraps x10
-Ultra SN.O.W. at /extinction (requires completing map's quests or /goto).
+  Page 3 Scraps                 ×10
+  --> Nightbane @ /join thevoid
+      (keep walking right and back to get the correct spawn)
 
-Map of the Celestial Seas
-Empowered Prime at /starsinc (requires completing map's quests to get the Guard's Key or /goto).
+  Page 4 Scraps                 ×10
+  --> Ultra SN.O.W. @ /join extinction
+      (complete map's quests first or /goto)
 
-Coffer of the Stars
-ArchFiend Dragonlord at /underlair (located at end of map).
+  Map of the Celestial Seas     ×1
+  --> Empowered Prime @ /join starsinc
+      (complete map's quests for the Guard's Key or /goto)
 
-Other pieces from this quest have the same boosts but having them in a pet is more convenient.
+  Coffer of the Stars           ×1
+  --> ArchFiend Dragonlord @ /join underlair (end of map)
 
+  💡 Other pieces from this quest share the same boosts
+     but having them as a pet is more convenient
+╰──────────────────────────────────╯
