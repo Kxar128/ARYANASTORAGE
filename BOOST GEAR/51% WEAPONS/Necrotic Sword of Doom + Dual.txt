@@ -1,114 +1,103 @@
-Level 60
+╔════════════════════════════════╗
 
+   NECROTIC SWORD OF
+      DOOM + DUAL
+
+╚════════════════════════════════╝
+
+📦 Pre-Requirements
+
+Level 60
 Rank 10 DoomWood
 
-Storyline Completion
-Complete Step 1 of Blinding Light of Destiny and quests from /maul > /necrotower until you get to Sally. 
+Storyline Completion (Required)
+--> Complete Step 1 of Blinding Light of Destiny
+--> Complete quests from /maul > /necrotower until you reach Sally
 
-Recommended: Storyline Completion
-This includes the Iadoa 13LoC chapter and Yara's quests from /battleundera > /battleunderb > /battleunderc.
+Storyline Completion (Recommended)
+--> Iadoa 13LoC chapter
+--> Yara's quests from /battleundera > /battleunderb > /battleunderc
 
-Recommended: Sepulchure's DoomKnight Armour
-This makes getting the bulk of the farm (Void Auras) far easier. I don't recommend farming NSoD without it.
+Sepulchure's DoomKnight Armour (Recommended)
+--> Makes farming Void Auras significantly easier
+--> Not recommended to farm NSoD without it
 
-Step 1
+Necromancer Rank 10 (Required for Step 2)
+--> Merge NUE Necronomicon (from Lady Speedstyk's Rep shop at /lightguard)
+    + Creature Shard (from /maul - Kill Creature Creation)
+    at Sally's shop in /necrotower
+--> Level it to Rank 10 (or purchase for 2k ACs - not recommended)
 
-Obtain the following:
+╔════════════════════════════════╗
+              STEP 1
+╚════════════════════════════════╝
 
-Void Aura x7500 (stacks to 7.5k)
-Both quests below will reward 2, 5, or 10 Void Auras. Choose your method:
+⚔️ VOID AURA FARM
+╭──────── MERGE REQUIREMENTS ────────╮
+  Void Aura           ×7,500  --> Choose one method below:
 
-"Commanding Shadow Essences" 
-Complete this quest from Braeus at /shadowfall (requires SDKA to accept it). You'll need:
-- Empowered Essence x50: Defeat enemies at /shadowrealmpast.
-- Malignant Essence x3: Defeat Shadow Lord at /shadowlordpast if you're a member. Otherwise, defeat it at /shadowrealm. To access it, complete "Key to the ShadowLord" quest from Skully at /shadowrealm (top-left>right from starting screen) by defeating enemies at /shadowrealmpast. Then, you can enter to the portal on the screen left of Skully.
+  METHOD 1: "Commanding Shadow Essences" (Requires SDKA)
+  --> /join shadowfall --> Accept quest from Braeus
+    Empowered Essence ×50  --> /join shadowrealmpast (Kill mobs there)
+    Malignant Essence ×3   --> /join shadowlordpast (Member) or /join shadowrealm (Non-member)
+                               (Non-member: Complete "Key to the ShadowLord" from Skully first)
 
-"Retrieve Void Auras"
-If you don't have SDKA, accept this quest from Braeus at /shadowfall. Use his Fast Travel feature to quickly get to each boss then obtain 20 Essences from them. Requires Rank 10 Evil.
-Since it's very tedious to do this method, I would recommend getting Exalted Apotheosis instead.
+  METHOD 2: "Retrieve Void Auras" (No SDKA required, Rank 10 Evil)
+  --> /join shadowfall --> Accept quest from Braeus
+  --> Use Fast Travel to reach each boss and collect 20 Essences
+  NOTE: Very tedious - consider getting Exalted Apotheosis instead
+╰────────────────────────────────────╯
 
-You'll also want to complete the Void Aura dailies, which require level 75 but reward many more VAs:
+⚡ VOID AURA DAILIES (Level 75+ required)
+╭──────── MERGE REQUIREMENTS ────────╮
+  "Glimpse Into The Dark" (Members only) --> /join shadowfall (Braeus NPC)
+    Kraken Doubloon           ×13 --> /join chaoskraken (Kill Chaos Kraken with "Keelhaulin' a Kraken" quest)
+    Ancient Trigora's Horns   ×3  --> /join ancienttrigoras (Kill Ancient Trigoras)
+    Graveclaw's Broken Axe    ×1  --> /join gravechallenge (Kill Graveclaw the Destroyer)
 
-"Glimpse Into The Dark"
-This quest requires membership and is accepted from Braeus at /shadowfall. Turn in:
-- Kraken Doubloon x13: Defeat the Chaos Kraken with the "Keelhaulin' a Kraken" quest accepted from the top-right button at /chaoskraken. Stacks to 100.
-- Ancient Trigora's Horns x3: Defeat Ancient Trigoras at /ancienttrigoras. Stacks to 3.
-- Graveclaw's Broken Axe: Defeat Graveclaw the Destroyer at /gravechallenge. Doesn't stack. Use the menu to the right on the first screen to get to Graveclaw.
+  "The Encroaching Shadows" (No membership, Group required) --> /join shadowfall (Braeus NPC)
+    Glacial Pinion    ×1  --> /join icestormarena (Kill Warlord Icewing)
+    Hydra Eyeball     ×3  --> /join hydrachallenge (Select Hydra Head 90s from Dew Drop fairy)
+    Flibbitigiblets   ×1  --> /join thevoid (Kill Flibbitiestgibbet)
+╰────────────────────────────────────╯
 
-"The Encroaching Shadows"
-This quest doesn't require membership but it does need a group to complete. Turn in these items to Braeus at /shadowfall:
-Glacial Pinion: Defeat Warlord Icewing at /icestormarena.
-Hydra Eyeball x3: Defeat the Hydra Head 90s at /hydrachallenge (select them from the Dew Drop fairy at the beginning screen).
-Flibbitigiblets: Defeat Flibbitiestgibbet at /thevoid (keep walking right and back until you get the correct screen).
+⚔️ REMAINING STEP 1 MATERIALS
+╭──────── MERGE REQUIREMENTS ────────╮
+  Barium                    ×4      --> /join necropolis (Artix's "Mine Crafting" quest - Kill Balboa at /stalagbite)
+  Cavern Celestite          ×1,600  --> /join battleunderc (Yara's "Soul Searching" quest)
+                                        Exit left --> Kill Undead Champion
+                                        /join battleunderb exit top-right --> Kill Bone Terror at /battleundera
+                                        Member: Exit left from /battleunderd --> Kill Crystalised Jellyfish
+  Bone Dust                 ×5,100  --> /join battleunderb (Kill enemies - private room recommended)
+  Undead Energy             ×10,000 --> /join battleunderb (Kill enemies - earned alongside Bone Dust)
+  Primarch's Hilt           ×2      --> /join bosschallenge (Kill Colossal Primarch - Group recommended)
+  Blade Essence             ×2      --> /join chaoscrypt (Kill Chaorrupted Armour ~1% drop)
+  Chaorrupted Hourglass     ×31     --> /join timespace (Kill Chaos Lord Iadoa ~20% drop)
+  (Necro) Scroll of Dark Arts ×4   --> /join epicvordred (Kill Ultra Vordred ~1% drop)
+  Doom Heart                ×1      --> /join sepulchurebattle (Kill Ultra Sepulchure ~0.5% drop)
+╰────────────────────────────────────╯
 
-Barium x4 (stacks to 10)
-Complete Artix's "Mine Crafting" quest from /necropolis by defeating Balboa at /stalagbite. If you can't access this quest, complete the quests in Step 1 of the BLoD guide.
+╔════════════════════════════════╗
+              STEP 2
+╚════════════════════════════════╝
 
-Cavern Celestite x1600 (stacks to 1600)
-Complete Yara's "Soul Searching" quest from /battleunderc, which will reward both Cavern Celestite and Undead Energy. For it, do the following:
+➡️ Head to /join shadowfall --> Speak to "Braeus (NPC)"
+Complete the following merges and quests in order:
 
-Exit left from /battleunderc then walk up the ladder to defeat the Undead Champion.
+  1. Merge 4 Barium of Doom
+  2. Merge 52 Bones from the Void Realm
+  3. Merge 3 Time Lord's Necronomicon
+  4. Complete "Find the Doom Blade's Blade"
+  5. Complete "Find the Doom Blade's Hilt"
+  6. Complete "Create the Doom Blade's Aura"
+  7. Complete "Find the Doom Blade's Blade"
+  8. Complete "Find the Doom Blade's Hilt"
+  9. Merge Energised Blade, Hilt, and Aura
+  10. Merge Necrotic Sword's Blade, Hilt, and Aura
+  11. Merge Necrotic Sword of Doom
 
-Join a new /battleunderb and exit top-right to defeat Bone Terror at /battleundera.
-
-If you're a member, exit left from /battleunderd to defeat the Crystalised Jellyfish - otherwise walk to it from /battleunderc.
-
-Bone Dust x5100 (stacks to 5.1k)
-Defeat enemies at /battleunderb (this will generally be faster in a private room). You will earn Undead Energy as you do this.
-
-Undead Energy x10k (stacks to 10k)
-If you haven't gotten all 10k Undead Energy by farming Cavern Celestite and Bone Dust, just keep killing at /battleunderb.
-
-Primarch's Hilt x2 (stacks to 3)
-Defeat Colossal Primarch at /bosschallenge. Unless you want to solo this with Chaos Avenger, Void Highlord, or a dodge class like Yami no Ronin, do this with a group.
-
-Blade Essence x2 (stacks to 2)
-Defeat Chaorrupted Armour at /chaoscrypt (~1% drop rate).
-
-Chaorrupted Hourglass x31 (stacks to 31)
-Defeat Chaos Lord Iadoa at /timespace (~20% drop rate). Complete Iadoa's 13LoC storyline to access him or /goto someone. I would also suggest getting a Dragonoid of Hours from Dragonoid at /mqlesson as it disables his Astral Shift ability - this doesn't need to be equipped to work, just in your inventory.
-
-(Necro) Scroll of Dark Arts x4 (stacks to 4)
-Defeat Ultra Vordred at /epicvordred (~1% drop rate).
-
-Doom Heart (doesn't stack)
-Defeat Ultra Sepulchure at /sepulchurebattle (~0.5% drop rate).
-
-Necromancer Rank 10
-This class is needed to complete a quest in Step 2. To get it, merge the below items at Sally's shop in /necrotower then you need to get it to Rank 10 (follow XP section of New Player guide). You could also purchase it for 2k ACs but I don't recommend that.
-
-NUE Necronomicon
-Obtain this from Lady Speedstyk's Rep shop at /lightguard.
-
-Creature Shard
-Defeat Creature Creation at /maul.
-
-Step 2
-
-Go to Braeus at /shadowfall and do this:
-
-
-
-Merge 4 Barium of Doom.
-
-Merge 52 Bones from the Void Realm.
-
-Merge 3 Time Lord's Necronomicon.
-
-Complete "Find the Doom Blade's Blade".
-
-Complete "Find the Doom Blade's Hilt".
-
-Complete "Create the Doom Blade's Aura".
-
-Complete "Find the Doom Blade's Blade".
-
-Complete "Find the Doom Blade's Hilt".
-
-Merge Energised Blade, Hilt, and Aura.
-
-Merge Necrotic Sword's Blade, Hilt, and Aura.
-
-Merge Necrotic Sword of Doom.
-
-OBS "You can make this into dual version at /join nostalgiaquest if you have an account that is older than 8 years old"
+🗡️ DUAL VERSION
+╭──────── MERGE REQUIREMENTS ────────╮
+  Account must be older than 8 years
+  --> /join nostalgiaquest --> Merge dual version there
+╰────────────────────────────────────╯
