@@ -1,45 +1,63 @@
-Uses
+╔════════════════════════════════╗
 
-Farm
-Awe-scension.
+         CRAGGLE ROCK
 
-Quests
+╚════════════════════════════════╝
 
-Member + Non-Mem
+🏆 USES
+╭──────────────────────────────────╮
+  Farm --> Awe-scension
+╰──────────────────────────────────╯
 
-Complete Bamboozle's quests at /cragglerock. I recommend pinning the quests.
+⚔️ QUESTS
+╭──────── MEMBER + NON-MEM ────────╮
+  Complete Bamboozle's quests at /join cragglerock (pin the quests recommended)
 
-"Star of the Sandsea"
-Defeat a Kalestri Worshiper at /wanders.
+  "Star of the Sandsea"
+  --> Defeat a Kalestri Worshiper at /join wanders
 
-"Ice Diamond"
-Complete King Coal's "Trade for the Ice Diamond" quest from /kingcoal by defeating Snow Golems at /mountfrost.
+  "Ice Diamond"
+  --> Complete King Coal's "Trade for the Ice Diamond" quest from /join kingcoal
+      Defeat Snow Golems at /join mountfrost
 
-"Dark Bloodstone"
-Complete "Trade for the Dark Bloodstone" from Orlok at /safiria by defeating Blood Maggots. There are two on the same screen in the castle.
+  "Dark Bloodstone"
+  --> Complete "Trade for the Dark Bloodstone" from Orlok at /join safiria
+      Defeat Blood Maggots (2 on the same screen in the castle)
 
-"Doomstone"
-Defeat Painadin Overlord at /brightfall (walk left).
+  "Doomstone"
+  --> Defeat Painadin Overlord at /join brightfall (walk left)
 
-"Void Opal"
-Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+  "Void Opal"
+  --> Defeat Unending Avatar at /join timevoid
+      (select Timevoid from Braeus' Fast Travel at /join shadowfall)
 
-"Mana Crystal"
-Click on the blue crystal just right of the Crystal Mana Construct at the end of the /downward map. Either /goto someone or complete Warlic's and Cysero's quests from /battleontown > /downward to access this.
+  "Mana Crystal"
+  --> Click the blue crystal just right of the Crystal Mana Construct
+      at the end of the /join downward map
+      Either /goto someone or complete Warlic's and Cysero's quests
+      from /join battleontown > /join downward to access
 
-"Songstone"
-Complete Dorian's "Trade for the Songstone" quest from /mythsong by clicking on crystals around the map. One is hidden behind the French Horned Toadra.
+  "Songstone"
+  --> Complete Dorian's "Trade for the Songstone" quest from /join mythsong
+      Click crystals around the map
+      ⚠️ NOTE: One crystal is hidden behind the French Horned Toadra
 
-"Butterfly Sapphire"
-Complete Alina's "Trade for the Butterfly Sapphire" quest from /alchemyacademy by defeating Trollola Plants at /bloodtusk.
+  "Butterfly Sapphire"
+  --> Complete Alina's "Trade for the Butterfly Sapphire" quest from /join alchemyacademy
+      Defeat Trollola Plants at /join bloodtusk
 
-"Understone"
-Complete Yara's "Trade for the Understone" quest at /battleunderc by defeating any enemies here.
+  "Understone"
+  --> Complete Yara's "Trade for the Understone" quest at /join battleunderc
+      Defeat any enemies here
 
-"Rainbow Moonstone"
-Complete Dr'Rader's "Trade for the Rainbow Moonstone" quest at /earthstorm by defeating Diamond, Emerald, Ruby, and Sapphire Golems around the map. Keep the Floozer that drops as it's needed for Awe-scension.
+  "Rainbow Moonstone"
+  --> Complete Dr'Rader's "Trade for the Rainbow Moonstone" quest at /join earthstorm
+      Defeat Diamond, Emerald, Ruby, and Sapphire Golems around the map
+      💡 Keep the Floozer that drops — needed for Awe-scension
 
-"Time Quartz"
-Join /thespan then, from Warlic, walk left>down>up into Inn and talk to the NPC.
+  "Time Quartz"
+  --> /join thespan > from Warlic walk left > down > up into Inn > talk to NPC
 
-After completing all quests, just farm "Ice Diamond" to get to Rank 10.
+  ─────────────────────────────────
+  After completing all quests, repeatedly farm "Ice Diamond" to reach Rank 10
+╰──────────────────────────────────╯
