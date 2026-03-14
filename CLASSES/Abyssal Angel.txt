@@ -1,18 +1,40 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║          ABYSSAL ANGEL               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-worth getting?
-Not really, there are better options, not worth 2k AC, but if you insist on getting go ahead bro/broette
+  Worth Getting?
+  ──────────────
+  Not really — better options exist.
+  Not worth 2,000 AC. But if you insist, go ahead bro/broette.
 
-good for: Farming
+  Best Used For:  🌾 Farming
 
-ENHANCEMENTS
 
-Class - Luck
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Valiance | Acheron | Dauntless | Spiral Carve
-Helm - Examen | Anima
-Cape - Lament | Vainglory
+  🧿 Class ·········  Luck
 
-COMBOS
-2 skill Gives dodge but makes you single target (never use)
-spam 3 - 4 - 5
+  ⚔️  Weapon ········  Valiance
+                       Acheron
+                       Dauntless
+                       Spiral Carve
+
+  🪖 Helm ··········  Examen
+                       Anima
+
+  🧣 Cape ··········  Lament
+                       Vainglory
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ⚠️  Skill 2 ·······  Gives dodge but forces single target
+                        ❌ Never use
+
+  ✅ Main Rotation ··  3 → 4 → 5  (spam)
