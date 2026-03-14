@@ -1,16 +1,23 @@
-Uses
+╔════════════════════════════════╗
 
-Item
-Empowered Chaos Avenger's Greatsword.
+         CHAOS MILITIA
 
-Quests
+╚════════════════════════════════╝
 
-Everyone
+🏆 USES
+╭──────────────────────────────────╮
+  Item --> Empowered Chaos Avenger's Greatsword
+╰──────────────────────────────────╯
 
-Complete the 13LoC story then do the storyline from /shadowwar > /dualplane, and /forestreach > /deepforest > /transformation > /downbelow.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  1. Complete the 13LoC story
+  2. Complete the storyline from:
+     --> /join shadowwar > /join dualplane
+     --> /join forestreach > /join deepforest > /join transformation > /join downbelow
+╰──────── MEMBER + NON-MEM ────────╮
+  Complete Iaste's "Expect the Inquisitors" quest from /join crownsreach
+  --> Defeat Inquisitor Guards at /join citadel
 
-
-
-Member + Non-Mem
-
-Complete Iaste's "Expect the Inquisitors" quest from /crownsreach by defeating Inquisitor Guards at /citadel. Requires Rank 10 Chaos to see this quest.
+  ⚠️ NOTE: Requires Rank 10 Chaos to see this quest
+╰──────────────────────────────────╯
