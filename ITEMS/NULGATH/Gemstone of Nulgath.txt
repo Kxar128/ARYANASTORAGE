@@ -1,84 +1,93 @@
-Requirements
+╔════════════════════════════════════╗
 
-Level 45
+   GEMSTONE OF NULGATH
 
-Rank 10 Vampire
+╚════════════════════════════════════╝
 
-Step 1
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 45
+  Rank 10 Vampire
+  ⚠️ This pet's quests are member-only
+     Only farm as a non-member if you plan to get membership later
+╰──────────────────────────────────╯
 
-First, complete Valencia's quests at /crashsite until you have the DwaToken III. Then, head over to /crashruins and complete Valencia's quests until you have the DwaToken X (keep it in your inventory).
+⚔️ STEP 1 — Obtain the Pet
+╭──────────────────────────────────╮
+  1. Complete Valencia's quests @ /join crashsite until you have DwaToken III
+  2. Head to /join crashruins and complete Valencia's quests until DwaToken X
+     --> Keep DwaToken X in your inventory
+  3. Farm 100 Dwobo Coins from one of Dwobo's quests:
 
-Now, you can start earning 100 Dwobo Coins to merge the Gemstone of Nulgath pet. They are farmed from one of Dwobo's quests. Choose the method that suits your membership status:
+     Non-Member  --> "Earn Dwobo Coins"
+     Member      --> "More Dwobo Coins"
 
-Non-Member: "Earn Dwobo Coins"
+  👥 Kill route (both quests):
+     --> Cluckmoo Idol at end of map
+     --> Room right: 2 Unlucky Explorers
+     --> Room down: 1 Spacetime Anomaly
+  💡 Use a class that handles high-HP enemies to avoid swapping
+╰──────────────────────────────────╯
 
-Member: "More Dwobo Coins"
+⚔️ STEP 2 — Earn the Gemstone Receipt
+╭──────── "Demanding Approval from Nulgath" (pet quest) ────────╮
+  Complete to obtain the Gemstone Receipt of Nulgath
 
-Keep in mind that this pet's quests are member-only. Only farm it as a non-member if you plan on getting membership to use it.
-Both of the quests can be completed by defeating the Cluckmoo Idol at the end of the map, then the room right of it with 2 Unlucky Explorers, then the room down from them with 1 Spacetime Anomaly. I recommend using a class that can effectively farm and defeat higher HP enemies so that you don't need to swap classes. 
+  Unidentified 13               ×4     --> Get 4; 1 needed again in Step 3
+  Voucher of Nulgath            ×1
+  Voucher of Nulgath (non-mem)  ×1
+  Essence of Nulgath            ×100
+  Totem of Nulgath              ×1
 
-Step 2
+  Ultimate Darkness Gem         ×5
+  --> /join shadowfallwar > walk up > right
+      Defeat 2 Ghouls and 2 Undead War Mages
+      Stacks to 2,500 — farm extras now for later
 
-Now that you've got the pet, compete its "Demanding Approval from Nulgath" quest to get the Gemstone Receipt of Nulgath. Use the Reagent Library for the best methods to obtain the following:
+  Receipt of Nulgath            ×1
+  --> Complete Nulgath's "Receipt of Nulgath" @ /join tercessuinotlim
+      (or ENNH if owned). If no drop within 13 tries:
+      trade Shredded ARS Documents at Swindle's shop
 
-Unidentified 13 x3 (get 4 as you'll need one for later)
+      Blade of Affliction        ×1  --> Buy from Nulgath's shop for 1.5m Gold
+      Essence of Nulgath         ×10 --> Defeat Dark Makai @ /join nulgath
+      ArchFiend's Favour         ×100
+        --> /join evilwarnul — first room with grass (4 enemies)
+            or farm start of map while doing Diligas' "Crush the Weak"
+      Coal                       ×15
+        --> /join extinction — room with 3 Cyworgs and 2 Control Panels
+      Dwobo Coin                 ×10 --> See Step 1
 
-Voucher of Nulgath
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Voucher of Nulgath (non-mem)
+⚔️ STEP 3 — Farm Gemstone Quests
+╭──────── "Forge ___ for Nulgath" (pet quest) ────────╮
+  Requires Gemstone Receipt of Nulgath to accept any forge quest
+  Also needed for every quest:
 
-Essence of Nulgath x100
+  Unidentified 4 & 5
+  --> 20% drop from "Supplies to spin The Wheel of Chance"
+      Make sure they aren't blacklisted
 
-Totem of Nulgath
+  Unidentified 13               ×1     --> Reagent Library
+  Hadean Onyx of Nulgath        ×1     --> Reagent Library
 
-You'll also need these:
+  ──────── "Forge Gemstones for Nulgath" ────────
+  Balor's Cruelty               ×1  --> Defeat Abaddon @ /join twilight
+  Yara's Sword                  ×1
+  --> Complete Yara's "The Search for the Sword" @ /join battleundera
+      Defeat enemies in the room left of Yara (3 enemies)
+  Ultimate Darkness Gem         ×1  --> See Step 2
 
-Ultimate Darkness Gem x5
-Join /shadowfallwar then walk up>right. Defeat the 2 Ghouls and 2 Undead War Mages. You'll need more of these later so farm however many you want (they stack to 2.5k).
+  💡 Use the Gems of Nulgath, Bloodstones, Quartz, and Tanzanite you earn
+     to farm "Forge Dark Crystal Shards for Nulgath" and
+     "Forge Blood Gems for Nulgath"
+  ⚠️ The Diamonds and Tainted Gem quests are not worth farming
+  💡 If more Gems of Nulgath are needed, see the Reagent Library
 
-Receipt of Nulgath
-Complete Nulgath's "Receipt of Nulgath" quest from /tercessuinotlim or an ENNH if you own one. If you don't get the Receipt within 13 tries, trade the Shredded ARS Documents for it at Swindle's shop. For the quest, you need:
-
-Blade of Affliction
-Purchase from Nulgath's shop for 1.5m Gold.
-
-Essence of Nulgath x10
-Defeat Dark Makai at /nulgath.
-
-ArchFiend's Favour x100
-Defeat enemies at /evilwarnul. Do this in is the first room with grass near the end of the map as it has 4 enemies. Alternatively, farm enemies at the start of the map as you complete Diligas' "Crush the Weak" quest for Diamonds of Nulgath.
-
-Coal x15
-Go to /extinction and farm the room with 3 Cyworgs and 2 Control Panels.
-
-Dwobo Coin x10
-See Step 1.
-
-Step 3
-
-Now you should have the Gemstone Receipt of Nulgath. It's required to accept the Gemstone of Nulgath's "Forge ___ for Nulgath" quests. You'll also need these reagents to accept every quest:
-
-Unidentified 4 and 5
-20% drop rate from "Supplies to spin The Wheel of Chance". Make sure they aren't blacklisted.
-
-Unidentified 13
-Reagent Library.
-
-Hadean Onyx of Nulgath
-Reagent Library.
-
-Then, you can get started on "Forge Gemstones for Nulgath". For it, you need:
-
-Balor's Cruelty
-Defeat Abaddon at /twilight.
-
-Yara's Sword
-Complete Yara's "The Search for the Sword" quest from /battleundera by defeating enemies in the room left of Yara as it has 3 enemies.
-
-Ultimate Darkness Gem x1
-See Step 2.
-
-Use the Gems of Nulgath, Bloodstones, Quartz, and Tanzanite that you get to farm "Forge Dark Crystal Shards for Nulgath" and "Forge Blood Gems for Nulgath". The quests for Diamonds and Tainted Gems aren't worth farming.
-If you need more Gems of Nulgath, see the Reagent Library for the best methods to obtain them.
-
-If an Unidentified Gemstone of Nulgath happens to drop, use it to complete "Carve the Unidentified Gemstones", which also requires The Secret 1 (see Reagent Library). Choose whatever reward you need.
+  If an Unidentified Gemstone of Nulgath drops:
+  --> Use it for "Carve the Unidentified Gemstones"
+      Also requires The Secret 1 (Reagent Library)
+      Choose whichever reward you need
+╰──────────────────────────────────╯
