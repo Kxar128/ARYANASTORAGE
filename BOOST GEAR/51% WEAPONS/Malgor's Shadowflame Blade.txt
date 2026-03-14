@@ -1,9 +1,15 @@
-/join ultraspeaker --> Open merge shop
+╔════════════════════════════════╗
 
-Merge the following:
+   MALGOR'S SHADOWFLAME
+         BLADE
 
-- Malgor Insignia x 20 --> /join ultraspeaker --> Complete weekly quest there
+╚════════════════════════════════╝
 
-- ShadowFlame Dragon Blade x1 --> /join manacradle --> Kill Malgor (Monster) (2)
+➡️ Head to /join ultraspeaker --> Open merge shop
 
-- Elemental Core x 20 --> /join Manacradle --> Speak to "Tara (NPC)" --> Complete "Once Upon Another Time" quest
+🔥 MALGOR'S SHADOWFLAME BLADE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia          ×20 --> /join ultraspeaker (Complete the weekly quest there)
+  ShadowFlame Dragon Blade ×1  --> /join manacradle (Kill Malgor in Room 2)
+  Elemental Core           ×20 --> /join manacradle (Speak to Tara NPC --> Complete "Once Upon Another Time" quest)
+╰────────────────────────────────────╯
