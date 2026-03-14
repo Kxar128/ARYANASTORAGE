@@ -1,25 +1,29 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║          IMPERIAL CHUNIN             ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you are low-level or want a debuffing support class.
+  Worth Getting?
+  ──────────────
+  Yes — if you are low-level or want a debuffing support class.
 
-Uses
-Good For: Secondary Support (Debuff)
-OK For: Farming
+  Best Used For:  🤝 Secondary Support (Debuff)
+  Also OK For:    🌾 Farming
 
-Enhancement
-Lucky + Spiral Carve
-Enhancements guide
+  Requirements:   Rank 10 Yokai
+                  Storyline: /yokaiboat > /akiba > /dragonkoi
 
-Requirements
+  How to Get:     Purchase from Announcer Guy at /join dragonkoiz for 100k Gold
 
-Storyline Completion
-This includes /yokaiboat > /akiba > /dragonkoi.
+  ℹ️  Note ·······  Imperial Chunin is a duplicate of the Rare "Chunin" class.
+                    If you own that, you don't need this class.
 
-Rank 10 Yokai
 
-Purchase
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Purchase from Announcer Guy at /dragonkoiz for 100k Gold. 
+  🧿 Class ·········  Luck
 
-Imperial Chunin is a duplicate of the Rare "Chunin" class. If you are an older player who owns that, you do not need this class.
+  ⚔️  Weapon ········  Spiral Carve
