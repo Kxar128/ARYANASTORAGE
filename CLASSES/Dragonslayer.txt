@@ -1,26 +1,35 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║            DRAGONSLAYER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  ⚔️  Decent DPS
+  Also Good For:  🤝 Party Comps (with haste + crit damage supports)
 
-Uses
-  
-- Decent DPS
-- Good in party comps (with supports to buff haste and crit damage)
-  
-Requirements
-  
-- Must have completed the 'Dragonslayer Marshal' quest to purchase.
-    - /join lair - speak to "Galanoth (NPC)"
+  Requirements:   Complete the "Dragonslayer Marshal" quest
+                  → /join lair  ·  Speak to "Galanoth (NPC)"
 
-ENHANCEMENTS
 
-Weapon - Valiance | Dauntless
-Helm - Vim | Anima
-Cape - Vainglory
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-COMBOS
+  ⚔️  Weapon ········  Valiance
+                       Dauntless
 
-5 - 2 - 4 - 5 - 2
-repeat cycle
+  🪖 Helm ··········  Vim
+                       Anima
+
+  🧣 Cape ··········  Vainglory
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  5 → 2 → 4 → 5 → 2  →  repeat cycle
