@@ -1,101 +1,105 @@
-Set of Awe
+╔════════════════════════════════════╗
 
-Requirements
+   ARMOR OF AWE
 
-If Non-Mem: Level 55
-This is only needed if you want to farm the Cape, Helm, and Armour.
+╚════════════════════════════════════╝
 
-Recommended: Escherion's 13LoC Chapter Completion
-Completing this allows you to access areas that are optimal for this farm. You can access it from your Map > Story.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 55 (non-members only — required for Cape, Helm, and Armour)
 
-Blade
+  Recommended: Escherion's 13LoC Chapter Completion
+  --> Unlocks optimal farming areas
+      Access via Map > Story
+╰──────────────────────────────────╯
 
-Join /museum then talk to Valencia. Select Artifact Quests > Armour of Awe > To the Crossroads. This will take you to a new area where you can start farming for the Blade of Awe. Talk to Valencia once again and select Awe Quests then complete the following quests:
+⚔️ PART 1 — BLADE OF AWE
+╭──────── Awe Quests from Valencia @ /join museum ────────╮
+  Talk to Valencia > Artifact Quests > Armour of Awe > To the Crossroads
 
-"Find the Stonewrit!"
-Choose your method:
+  "Find the Stonewrit!"
+  --> Low level:    Sketchy Dragon @ /join j6 (970 HP, lower drop rate)
+  --> Otherwise:    Greenguard Dragon @ /join greenguard (13.8k HP, higher drop rate)
 
-If you're low level, defeat Sketchy Dragon at /j6. It has 970 HP but a lower drop rate compared to option 2.
+  "Find the Handle!"
+  --> Elementals @ /join gilead (walk down from Fire Elemental to find 3)
 
-Otherwise, defeat the Greenguard Dragon at /greendragon, which has 13.8k HP but a higher drop rate.
+  "Find the Hilt!"
+  --> Skeletal Warriors and Vikings @ /join castleundead
+  ⚠️ Non-members: repeat until Rank 10 Blade of Awe rep
+     (required to farm Cape, Helm, and Armour)
 
-"Find the Handle!"
-Defeat Elementals at /gilead (walk down from the fire elemental to find 3).
+  "Find the Blade!"
+  --> Hydra Heads @ /join hydra
+      After Escherion's chapter: talk to Dew Drop fairy @ /join mobius
+      > select The Hydra
 
-"Find the Hilt!"
-Defeat Skeletal Warriors and Vikings at /castleundead. If you're non-mem, you'll need to repeat this quest until you have Rank 10 Blade of Awe rep so that you can also farm for the Cape, Helm, and Armour of Awe.
+  "Find the Runes!"
+  --> Escherion @ /join escherion (usually others fighting already)
 
-"Find the Blade!"
-Defeat Hydra Heads at /hydra. After completing Escherion's chapter, talk to the Dew Drop fairy at /mobius and select The Hydra to get here.
+  ──────── After All Quests ────────
+  Return to Valencia at the Crossroads > Forge the Blade > Create Blade of Awe
 
-"Find the Runes!"
-Defeat Escherion at /escherion (there should be people fighting him already).
+  💡 Unlocks Awethur's Accoutrements from the Awe-some Gear shop
+     (+25% XP, CP, Gold, and Rep)
+  💡 Unlocks Awe Enhancements shop with special procs:
+     · Spiral Carve    (15%) — high damage + 25% crit boost for 10s
+     · Awe Blast       (30%) — medium damage + −15% enemy crit/def for 10s
+     · Health Vamp     (50%) — medium damage + HP restore
+     · Mana Vamp       (80%) — low damage + restores 10 MP
+     · Powerword Die   (0.3%) — 999,999 damage (too rare to be reliable)
+  💡 See the enhancement guide for best choice per class
+╰──────────────────────────────────╯
 
+⚔️ PART 2 — CAPE, HELM, AND ARMOUR
+╭──────── Valencia @ Crossroads in /join museum ────────╮
+  Select Armour of Awe > open the Awe Passes shop
+  Members:      Purchase both Legendary Awe Pass + Armour of Awe Pass
+  Non-Members:  Purchase Armour of Awe Pass only
 
+  How it works:
+  Enemies drop Shards --> Turn in quest to convert to Fragments
+  --> Merge Fragments into a Relic (Hero or Legend merge shop)
+  --> Use Relic to merge the Cape, Helm, or Armour
 
-After completing this, go back to Valencia at the Crossroads and select Forge the Blade > Create Blade of Awe. Then you can get Awethur's Accoutrements from the Awe-some Gear shop, which has a 25% boost to XP, CP, Gold, and Rep. You'll also unlock special enhancements from the Awe Enhancements shop. They have special effects:
+  💡 Access each boss quickly via More Details in your Hero/Legend section
+  👥 All bosses recommended in a group
 
-Spiral Carve: (15% chance to activate)
-Deals high damage and boosts your crit chance by 25% for 10s.
+  ──────── CAPE ────────
+  "Cape of Awe"
+  --> Defeat Binky @ /join doomvault ×1
+  ⚠️ Difficult boss — group strongly recommended
+     · Stuns ranging from 5–21 seconds
+     · Skill Lock — bait with Mana Vamp enhancement, a scroll, or least-used ability
+     · Prophetic Vision (reflects damage back) — press ESC to avoid
+  💡 If you have the Hardcore Paragon Pet, accept its "A Single Rib" quest too
 
-Awe Blast: (30% chance)
-Deals medium damage and debuffs the enemy's crit chance and defense by 15% for 10s.
+  ──────── HELM ────────
+  "Helm of Awe"
+  --> Defeat Undead Raxgore @ /join doomvaultb ×50
+  ⚠️ Must complete quests at /join doomvault > /join doomvaultb to access
+     (/goto does not work)
+  ⚠️ Similar to Binky — can lock abilities and use Counter Attack
+     Target off by clicking the X on the portrait or pressing ESC
 
-Health Vamp: (50% chance)
-Deals medium damage and restores HP.
+  ──────── ARMOUR ────────
+  "Pauldron of Awe"
+  --> Defeat Ultra Akriloth @ /join gravestrike ×225 (Shards stack to 150)
+  ⚠️ Complete the non-member (Hero) version — member version is daily-locked
+      Requires Armour of Awe Pass
 
-Mana Vamp: (80% chance)
-Deals lowest damage but restores 10 MP.
+  "Breastplate of Awe"
+  --> Defeat Carnax @ /join aqlesson ×100
 
-Powerword Die: (0.3% chance)
-Deals highest damage (999,999) but its activation rate is too low to be truly effective.
+  "Vambrace of Awe"
+  --> Defeat Ultra Blood Titan @ /join bloodtitan ×225 (Shards stack to 150)
+  ⚠️ Hits fairly hard, ~400k HP
 
-Click here to see which enhancement is best for each class.
+  "Gauntlet of Awe"
+  --> Defeat Ultra Alteon @ /join alteonbattle ×125 (Shards stack to 100, not 100% drop)
+  ⚠️ Use /join alteonbattle — /join ultraalteon is significantly harder
 
-Cape, Helm, Armour
-
-Select Armour of Awe from Valencia at the Crossroads of /museum then open the Awe Passes shop. If you're a member, purchase the Legendary Awe Pass and the Armour of Awe Pass, otherwise, only get the Armour of Awe Pass. Members can access their quests from the AQW Legend button while non-members do it through the AQW Hero button.
-
-The way this works is that enemies will drop Shards. Turning in the quest turns Shards into Fragments. Then, you merge Fragments into a Relic in your Hero or Legend merge shop. The Relic is used to merge the Cape, Helm, or Armour of Awe.
-
-You can get to each boss quickly by selecting More Details from within your Legend or Hero section. I highly suggest completing all of them with a group.
-
-Cape
-
-"Cape of Awe"
-Defeat Binky at /doomvault once.
-Because of Binky's difficulty, you'll most likely need a group of people to help fight it too. Binky has numerous abilities, including stuns ranging from 5-21 seconds, Skill Lock, which stops one of your abilities from being used (try and bait this with the Mana Vamp awe enhancement, a scroll, or your least useful ability first), and Prophetic Vision, which reflects your damage to you (avoid this by pressing ESC). If you have the Hardcore Paragon Pet, accept its "A Single Rib" quest too.
-
-
-
-Helm
-
-"Helm of Awe"
-Defeat Undead Raxgore at /doomvaultb 50 times. You need to have completed the quests from /doomvault > /doomvaultb to access him as /goto doesn't work.
-This boss is similar to Binky because it can lock your abilities and has an ability called Counter Attack - you'll need to target off by clicking the X to the top-right of their portrait or pressing ESC.
-
-
-
-Armour
-Awe Set
-
-
-"Pauldron of Awe"
-Defeat Ultra Akriloth at /gravestrike 225 times (Shards only stack to 150).
-Akriloth isn't difficult but has over 600k HP. For some reason, the member version of this quest is a daily so complete the non-mem (Hero) version instead, which you'll need an Armour of Awe Pass to access from the Awe Passes shop.
-
-"Breastplate of Awe"
-Defeat Carnax at /aqlesson 100 times.
-This boss is not difficult.
-
-"Vambrace of Awe"
-Defeat Ultra Blood Titan at /bloodtitan 225 times (Shards only stack to 150).
-This boss hits fairly hard and has almost 400k HP.
-
-"Gauntlet of Awe"
-Defeat Ultra Alteon at /alteonbattle. These shards don't have a 100% drop rate but you need 125 of them (they only stack to 100).
-The Ultra Alteon at /ultraalteon is much more difficult so it's best to farm at /alteonbattle.
-
-"Greaves of Awe"
-Defeat Mutated Void Dragon at /bosschallenge. These shards don't have a 100% drop rate but you need 150 of them, which they do stack up to.
-This boss hits very hard and has over 400k HP.
+  "Greaves of Awe"
+  --> Defeat Mutated Void Dragon @ /join bosschallenge ×150 (not 100% drop, stacks to 150)
+  ⚠️ Hits very hard, 400k+ HP
+╰──────────────────────────────────╯
