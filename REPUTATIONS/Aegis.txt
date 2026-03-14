@@ -1,10 +1,22 @@
-Uses
+╔════════════════════════════════════╗
 
-Cosmetics Only.
+   AEGIS
 
-Quests
+╚════════════════════════════════════╝
 
-Member + Non-Mem
+📋 OVERVIEW
+╭──────────────────────────────────╮
+  Worth Getting?  Cosmetics only
+╰──────────────────────────────────╯
 
-Accept Wilfre's "Smashing!" quest from the 1st screen of /skytower. Walk up twice and accept Ithuriel's "Celestial Stones" quest. Defeat the 3 gemstones in the same room.
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
+⚔️ QUESTS
+╭──────── Member + Non-Member ────────╮
+  1. Accept Wilfre's "Smashing!" quest @ 1st screen of /join skytower
+  2. Walk up twice and accept Ithuriel's "Celestial Stones" quest
+  3. Defeat the 3 gemstones in the same room
+
+  💡 Enable these in Advanced Options for faster turn-ins:
+     · Quest Log Turn-Ins
+     · Reaccept Quest After Turn-In
+     Open your Quest Log anytime with L
+╰──────────────────────────────────╯
