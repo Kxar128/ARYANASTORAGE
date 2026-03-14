@@ -1,33 +1,28 @@
-Requirement
+╔════════════════════════════════════╗
 
-Rank 10 Evil
+   VOID AVENGER SCYTHE
 
-Quest
+╚════════════════════════════════════╝
 
-Complete Skew's "Eternal Rest" quest from /tercessuinotlim.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Rank 10 Evil
+╰──────────────────────────────────╯
 
-Use the Reagent Library for details on how to get the following items:
+⚔️ QUEST
+╭──────── "Eternal Rest" from Skew @ /join tercessuinotlim ────────╮
+  Batwing Scythe                ×1
+  Dark Crystal Shard            ×200
+  Death Scythe of Nulgath       ×1
+  Ungodly Reavers of Nulgath    ×1
+  Scythe of Sisyphean           ×1
+  Heart of the Void             ×1
+  The Scythe of Eternal Rest    ×1
+  Nulgath's Approval            ×1000
+  Dracolich Destroyer Scythe    ×1
+  Void Aura                     ×15
+  Letter from Asuka and Tendou  ×1
 
-Batwing Scythe
-
-Dark Crystal Shard x200
-
-Death Scythe of Nulgath
-
-Ungodly Reavers of Nulgath
-
-Scythe of Sisyphean
-
-Heart of the Void
-
-The Scythe of Eternal Rest
-
-Nulgath's Approval x1000
-
-Dracolich Destroyer Scythe
-
-Void Aura x15
-
-Letter from Asuka and Tendou
-
-This quest will also reward 5 Blood Gems of the ArchFiend.
+  💡 This quest also rewards 5 Blood Gems of the ArchFiend upon completion
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
