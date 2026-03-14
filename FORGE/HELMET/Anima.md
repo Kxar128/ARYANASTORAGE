@@ -1,18 +1,17 @@
-**Requirements:**
+╔════════════════════════════════════╗
 
+   ANIMA
 
+╚════════════════════════════════════╝
 
-Must be **Level 70. (Refer to XP Guide)**
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 70               --> Refer to XP Guide
+  Must have Rank 7 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have Warrior Rank 10 in your inventory
+╰──────────────────────────────────╯
 
-Must have **Rank 7 Blacksmithing. (Refer To Blacksmithing Reputation Guide)**
-
-Must have **Warrior Rank 10** in your inventory.
-
-
-
-**Items Required:**
-
-
-
-**650 Ethereal Essence** --> /join towerofdoom 6-10 --> Kill any mob in these rooms
-
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  Ethereal Essence  ×650  --> /join towerofdoom (rooms 6-10) --> Kill any mob
+╰──────────────────────────────────╯
