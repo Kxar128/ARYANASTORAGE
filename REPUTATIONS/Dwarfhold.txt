@@ -1,35 +1,49 @@
-Uses
+╔════════════════════════════════════╗
 
-Cosmetics Only.
+   DWARFHOLD
 
-Quests
+╚════════════════════════════════════╝
 
-Everyone
+📋 OVERVIEW
+╭──────────────────────────────────╮
+  Worth Getting?  Cosmetics only
+╰──────────────────────────────────╯
 
-Complete Vath's 13LoC chapter (Map > Story). This includes /tavern > /llama > /tavern > /dwarfhold > /uppercity > /vath > /dwarfprison > /vath > /roc > /stalagbite.
+⚔️ QUESTS
+╭──────── Everyone ────────╮
+  Complete Vath's 13LoC chapter (Map > Story):
+  --> /join tavern > /join llama > /join tavern > /join dwarfhold
+      > /join uppercity > /join vath > /join dwarfprison > /join vath
+      > /join roc > /join stalagbite
+╰──────────────────────────────────╯
+╭──────── Member ────────╮
+  1. Complete Malorie's "Dwarfhold Membership Dues" @ /join collection
+  2. Accept Drakath (Kid)'s "For Science" quest @ /join terrarium
+  3. /join collectorlab and defeat enemies
+     --> Token C: 70% drop rate, stacks to 500
+  4. Merge Token Cs → Token Bs → Token As
+     --> Super Fan Token shop @ /join collection
+  5. Rank 1–10 requires 25 Token As
+     --> Use a consumable Rep Boost + Cape of Awe (or other 25% boost)
 
+  💡 Enable these in Advanced Options for faster turn-ins:
+     · Quest Log Turn-Ins
+     · Reaccept Quest After Turn-In
+     Open your Quest Log anytime with L
+╰──────────────────────────────────╯
+╭──────── Non-Member ────────╮
+  Complete Mick Guyver's "Jailhouse Rock" @ /join dwarfprison
+  --> Mick is at the end of the map (far right)
+  --> Defeat Warden Elfis at the very left of the map (past the metal bars)
+  ⚠️ Must have completed the storyline to access this
 
+  💡 If very low level, do Mick's "Lodestone Locater" instead
+     --> Farm Balboa @ /join stalagbite
+         Enemies are aggressive after respawning — swap between them
+         and the Vath/Stalagbite room to turn in the quest
 
-Member
-
-Complete Malorie's "Dwarfhold Membership Dues" quest from /collection.
-
-Accept Drakath (Kid)'s "For Science" quest from /terrarium.
-
-Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
-
-Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
-
-Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
-
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-
-
-Non-Mem
-
-Complete Mick Guyver's "Jailhouse Rock" quest from /dwarfprison (they are located at the end of the map to the right). For it, defeat Warden Elfis, who's at the very left of the map past the metal bars. You must have completed the story to access this.
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-If you're very low level, you may find it faster to do Mick's "Lodestone Locater" quest by farming Balboa at /stalagbite. Since these enemies are aggressive after respawning, swap between them and the room with Vath and Stalagbite to turn in the quest.
-
+  💡 Enable these in Advanced Options for faster turn-ins:
+     · Quest Log Turn-Ins
+     · Reaccept Quest After Turn-In
+     Open your Quest Log anytime with L
+╰──────────────────────────────────╯
