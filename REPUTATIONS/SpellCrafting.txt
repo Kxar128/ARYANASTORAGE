@@ -1,46 +1,66 @@
-Overview
+╔════════════════════════════════╗
 
-SpellCrafting is located at /dragonrune. To get started, talk to Neveya behind the 4th door (blue rune) and complete the "You'll need a Spellbook!" quest - do this by clicking on the blue arrows in the room behind you and defeat Skeletal Warriors at /castleundead.
+       SPELL CRAFTING
 
-Now you'll need some reagents. For SpellCrafting, this includes:
+╚════════════════════════════════╝
 
-Arcane Quills
-Purchase Arcane Quills from Neveya with Gold Vouchers.
+📖 OVERVIEW
+╭──────────────────────────────────╮
+  SpellCrafting is located at /join dragonrune
+  Talk to Neveya behind the 4th door (blue rune)
+  Complete "You'll need a Spellbook!" to get started:
+  --> Click the blue arrows in the room behind you
+  --> Defeat Skeletal Warriors at /join castleundead
+╰──────────────────────────────────╯
 
-If you're not spending Gold, you'll instead need:
+🌿 REAGENTS
+╭──────────────────────────────────╮
+  Arcane Quills      --> Purchase from Neveya with Gold Vouchers (easiest method)
 
-Mystic Quills
-Defeat Slugfit at /mobius (walk up>right) or obtain while completing "Nulgath (Larvae)".
-Used for Ember, Radiant, Runic, Fading, and Elemental Ink.
+  If not spending Gold, obtain the following instead:
 
-Mystic Parchment
-Defeat Blade Masters and the Undead Legend at /underworld.
-Used for Hallow and Zealous Ink.
+  Mystic Quills      --> Defeat Slugfit at /join mobius (walk up > right)
+                         OR obtain while completing "Nulgath (Larvae)"
+                         Used for: Ember, Radiant, Runic, Fading, Elemental Ink
 
-Mystic Shards
-Defeat Astral Ephemerites at /timespace (walk right to find 3) ~15% drop rate. You can also try farming Grief at /underrealm (keep walking right) ~50% drop rate.
-Used for Archmage Ink.
+  Mystic Parchment   --> Defeat Blade Masters and the Undead Legend at /join underworld
+                         Used for: Hallow and Zealous Ink
 
-Once you have a scroll that you want to make, merge the correct ink and join /spellcraft. The combinations that you need to make for each scroll can be found on the AQW Wiki. See below for the useful scrolls.
+  Mystic Shards      --> Defeat Astral Ephemerites at /join timespace
+                         (walk right to find 3) ~15% drop rate
+                         OR defeat Grief at /join underrealm
+                         (keep walking right) ~50% drop rate
+                         Used for: Archmage Ink
 
-Useful Scrolls
+  Once you have the scroll you want to make, merge the correct ink
+  then join /join spellcraft
+  Combinations for each scroll can be found on the AQW Wiki
+╰──────────────────────────────────╯
 
-Scroll of Ethereal Slumber
-Used for ArchPaladin.
-Use Archmage Ink for this combination.
+📜 USEFUL SCROLLS
+╭──────────────────────────────────╮
+  Scroll of Ethereal Slumber  --> Used for ArchPaladin
+                                  Use Archmage Ink
 
-Scroll of Underworld
-Used for Void Paladin.
-Use Archmage Ink for this combination.
+  Scroll of Underworld        --> Used for Void Paladin
+                                  Use Archmage Ink
 
-Scroll of Enrage (stacks to 160)
-Used for Ultra Bosses.
-Use Zealous Ink for this combination.
+  Scroll of Enrage            --> Used for Ultra Bosses · Stacks to ×160
+                                  Use Zealous Ink
 
-Don't use scrolls in combat - instead, use consumables from Alchemy.
+  ⚠️ NOTE: Do NOT use scrolls in combat — use Alchemy consumables instead
+╰──────────────────────────────────╯
 
-Ranking Up
-
-Purchase 2x Gold Voucher 500k and 8x Gold Voucher 100k from Nevaya's Buy Arcane Quills shop. If you're low on Gold, see the Gold guide. Trade the Gold Vouchers for 18 Arcane Quills. Then open the AC Get Spell Ink shop and buy 50 Entropic Ink. Use the leftover Quills to buy more Entropic Ink if you need it (they stack to 50).
-Now enter /spellcraft. Press Begin and choose Entropic Ink to make this combination. Simply drag each matching symbol from the left into the corresponding slot. Repeat this until Rank 10.
-
+⬆️ RANKING UP
+╭──────────────────────────────────╮
+  1. Purchase from Neveya's Buy Arcane Quills shop:
+     --> ×2 Gold Voucher 500k
+     --> ×8 Gold Voucher 100k
+     (See the Gold guide if you're low on Gold)
+  2. Trade for ×18 Arcane Quills
+  3. Open AC Get Spell Ink shop and buy ×50 Entropic Ink
+     Use leftover Quills to buy more Entropic Ink if needed (stacks to 50)
+  4. /join spellcraft > press Begin > choose Entropic Ink
+  5. Drag each matching symbol from the left into the corresponding slot
+  6. Repeat until Rank 10
+╰──────────────────────────────────╯
