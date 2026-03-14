@@ -1,33 +1,41 @@
-Overview
+╔════════════════════════════════════╗
 
-Worth Getting?
+   DAIMON
 
-- Yes (if you are a member), DO NOT SPEND 2000 AC FOR THIS CLASS
+╚════════════════════════════════════╝
 
-Uses
+📋 OVERVIEW
+╭──────────────────────────────────╮
+  Worth Getting?  Yes — if you are a member
+                  ⚠️ Do NOT spend 2,000 ACs on this class
 
-- Good For: Farming
-- OK For: Soloing
+  Good For:       Farming
+  OK For:         Soloing
+╰──────────────────────────────────╯
 
-Requirement
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Member version (free):     Membership + Rank 10 BaconCat reputation
+  Non-Member version:        2,000 ACs
+╰──────────────────────────────────╯
 
-- Membership (Free Version) + Rank 10 BaconCat reputation
-- Non-Membership version requires 2000 AC
+🛒 PURCHASE
+╭──────────────────────────────────╮
+  Buy from Ziri @ /join baconcat, /join baconcatb, or /join baconcatyou
+  --> Free (member) or 2,000 ACs (non-member)
+╰──────────────────────────────────╯
 
-Purchase
+⚙️ ENHANCEMENTS
+╭──────────────────────────────────╮
+  Class    Wizard
+  Weapon   Elysium
+  Helm     Pneuma
+  Cape     Vainglory
 
-- Purchase from Ziri at /baconcat, /baconcatb, or /baconcatyou for free or 2000 AC. 
+  💡 Or run full Wizard
+╰──────────────────────────────────╯
 
-ENHANCEMENTS
-
-- Class - Wizard
-
-- Weapon - Elysium
-- Helm - Pneuma
-- Cape - Vainglory
-
-(or full Wizard)
-
-COMBOS
-
-- Spam
+⚔️ COMBOS
+╭──────────────────────────────────╮
+  Spam
+╰──────────────────────────────────╯
