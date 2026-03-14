@@ -1,36 +1,45 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           INFINITY KNIGHT            ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  💥 DPS
 
-Uses
-
-- DPS
-
-Requirements
-
-6000 (6k) AC's --> /join heromart (2016 calendar)
-
-ENHANCEMENTS
-
-Class - Wizard
-
-Weapon - Ravenous / Elysium / Acheron / Wizard
-Helm - Base Forge / Pneuma / Wizard
-Cape - Vainglory / Wizard
-
-- Ravenous can be replaced by Valiance
-
-- Vainglory can be replaced by Absolution for even higher healing"
-
-COMBOS
+  How to Get:     6,000 AC  →  /join heromart  (2016 Calendar)
 
 
-- Start with [3 - 5 - 23 - 25]
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- Then [2 - 23] x2
+  🧿 Class ·········  Wizard
 
-- Use [4] for massive damage, or hold stacks for massive healing
+  ⚔️  Weapon ········  Ravenous
+                       Elysium
+                       Acheron
+                       Wizard
+                       (Valiance as Ravenous alternative)
 
-- Repeat from the start
+  🪖 Helm ··········  Base Forge
+                       Pneuma
+                       Wizard
+
+  🧣 Cape ··········  Vainglory
+                       Wizard
+                       Absolution  (for even higher healing)
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 4 ········  Massive damage — or hold stacks for massive healing
+
+  ✅ Opening ········  3 → 5 → 23 → 25
+
+  ✅ Main Rotation ··  2 → 23  (×2)  →  use  4  when ready  →  repeat from opening
