@@ -1,9 +1,18 @@
-Uses
+╔════════════════════════════════╗
 
-Cosmetics Only.
+         DRUID GROVE
 
-Quests
+╚════════════════════════════════╝
 
-Member + Non-Mem
+🏆 USES
+╭──────────────────────────────────╮
+  Cosmetics Only
+╰──────────────────────────────────╯
 
-Accept Maedoc's "Help Professor Maedoc" quest from /dragonrune (they are behind the 2nd door, which has a green rune). Complete the quest by defeating Crystal-Rocks at /bloodtusk (there's only up to 1 in a room).
+⚔️ QUESTS
+╭──────── MEMBER + NON-MEM ────────╮
+  1. Accept Maedoc's "Help Professor Maedoc" quest from /join dragonrune
+     (they are behind the 2nd door — look for the green rune)
+  2. Complete the quest by defeating Crystal-Rocks at /join bloodtusk
+     ⚠️ NOTE: Only up to 1 Crystal-Rock per room
+╰──────────────────────────────────╯
