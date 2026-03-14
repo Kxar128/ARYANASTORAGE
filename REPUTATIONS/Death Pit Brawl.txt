@@ -1,19 +1,29 @@
-Uses
+╔════════════════════════════════╗
 
-Cosmetics Only.
+       DEATH PIT BRAWL
 
-Quests
+╚════════════════════════════════╝
 
-Everyone
+🏆 USES
+╭──────────────────────────────────╮
+  Cosmetics Only
+╰──────────────────────────────────╯
 
-First complete General Velm's quests at /deathpit. This is required to complete General Hun'Gar's quests from /deathpitarena.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete General Velm's quests at /join deathpit first
+  ⚠️ NOTE: Required to access General Hun'Gar's quests at /join deathpitarena
+╰──────── MEMBER + NON-MEM ────────╮
+  1. Accept General Hun'Gar's "Do You Even Brawl" quest from /join deathpitarena
+  2. Defeat enemies from the opposing team at /join deathpitbrawl
+     ⚠️ NOTE: This quest can only be done once — farm the below quests after
 
+  Repeatable quests from Hun'Gar:
+  "Flex For Hun'Gar" and "Pummel For Hun'Gar"
+  --> Defeat enemy Restorers and Brawlers
+      (Blue team: keep walking right to find them)
 
-
-Member + Non-Mem
-
-Accept General Hun'Gar's "Do You Even Brawl" quest from /deathpitarena. Then defeat enemies from the opposing team at /deathpitbrawl. This quest can only be done once. After that, farm the below quests.
-
-"Flex For Hun'Gar" and "Pummel For Hun'Gar": Defeat enemy Restorers and Brawlers. If you're on the Blue team, keep walking right to find them.
-
-"Destroy For Hun'Gar": If you can, also defeat the enemy's General. You will need a good soloing class for this.
+  "Destroy For Hun'Gar"
+  --> Also defeat the enemy's General
+      Requires a strong soloing class
+╰──────────────────────────────────╯
