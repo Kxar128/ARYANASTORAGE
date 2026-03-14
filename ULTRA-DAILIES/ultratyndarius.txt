@@ -1,12 +1,21 @@
-COMP: 
+╔════════════════════════════════╗
 
+       ULTRA TYNDARIUS
 
-CaV/CSS, LoO, LR, AP
+╚════════════════════════════════╝
 
-AP taunts mid (boss)
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  CaV / CSS   (or any hard-hitting DPS)
+  LoO
+  LR
+  AP
+╰──────────────────────────────────╯
 
-LR taunts left orb
-
-LoO cycle 5 on mid boss and spam buffs
-
-CaV/CSS, (Any DPS in general that hits hard) focuses Right orb ---> Left orb ---> Mid boss
+⚔️ ROLES
+╭──────────────────────────────────╮
+  AP          --> Taunt Mid (Boss)
+  LR          --> Taunt Left Orb
+  LoO         --> Cycle 5 on Mid Boss · Spam buffs
+  CaV / CSS   --> Focus Right Orb --> Left Orb --> Mid Boss
+╰──────────────────────────────────╯
