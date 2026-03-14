@@ -1,0 +1,27 @@
+╔════════════════════════════════════╗
+
+   PRAXIS
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 60               --> Refer to XP Guide
+  Must have Rank 6 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have completed "Defeat Jaaku!" quest
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  DragonSoul Shinobi (Armor)  --> /join shadowfortress  --> Merge shop
+  Imperial Chunin Clone       --> /join yokai           --> Reputation shop
+  Dragon Rogue                --> /join ectocave        --> Kill Ektorax
+  Hashashin Armor             --> /join yulgar          --> Yulgar --> Legendary Suggestion Shop
+  Thief of Hours Armor        --> /join thespan         --> Reputation shop
+  Yami                   ×3   --> /join darkally        --> Accept "Embracing Darkness" Quest from Dage The Evil (NPC)
+╰──────────────────────────────────╯
+
+✅ STEP 2 — Obtain Dark Wisps
+╭──────────────────────────────────╮
+  Dark Wisp  ×1332  --> /join darkally --> Kill any monster
+╰──────────────────────────────────╯
