@@ -1,20 +1,25 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           MASTER RANGER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you're a low-mid level player who doesn't have ArchFiend.
+  Worth Getting?
+  ──────────────
+  Yes — if you're a low-to-mid level player who doesn't have ArchFiend.
 
-Uses
-Good For: Farming
-OK For: Soloing
+  Best Used For:  🌾 Farming
+  Also OK For:    ⚔️  Soloing
 
-Enhancement
-Lucky + Spiral Carve
-Enhancements guide
+  Requirements:   Rank 10 Sandsea
 
-Requirements
+  How to Get:     Purchase from Zhoom's Reputation shop at /join sandsea  (50k Gold)
 
-Rank 10 Sandsea
 
-Purchase
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Purchase from Zhoom's Reputation shop at /sandsea for 50k Gold.
+  🧿 Class ·········  Luck
+
+  ⚔️  Weapon ········  Spiral Carve
