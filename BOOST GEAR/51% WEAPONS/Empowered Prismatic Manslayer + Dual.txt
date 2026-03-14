@@ -12,17 +12,17 @@ Must have the following items in inventory:
   Taro's Prismatic Manslayer --> (Refer to ITEMS / NULGATH channel in Library Server)
   Taro's Dual Prismatic Manslayers --> (Refer to ITEMS / NULGATH channel in Library Server)
 
-⚠️ NOTE: Refer to NULGATH ITEMS / MATERIALS channel in Library Server for all materials below
+⚠️ NOTE: Refer to ITEMS / NULGATH channel in OUR Server for all materials below
 
 ➡️ /join Ultranulgath --> Complete "Empowered Prismatic Manslayers" quest
 
 ⚔️ EMPOWERED PRISMATIC MANSLAYER
 ╭──────── MERGE REQUIREMENTS ────────╮
-  Tainted Gem                ×400 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-  Dark Crystal Shard         ×250 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-  Diamond of Nulgath         ×600 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-  Gem of Nulgath             ×150 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-  Blood Gem of the Archfiend ×70  --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Tainted Gem                ×400 --> (ITEMS / NULGATH channel in OUR Server)
+  Dark Crystal Shard         ×250 --> (ITEMS / NULGATH channel in OUR Server)
+  Diamond of Nulgath         ×600 --> (ITEMS / NULGATH channel in OUR Server)
+  Gem of Nulgath             ×150 --> (ITEMS / NULGATH channel in OUR Server)
+  Blood Gem of the Archfiend ×70  --> (ITEMS / NULGATH channel in OUR Server)
   Nulgath Insignia           ×25  --> /join Ultranulgath (Complete the weekly quest there)
 ╰────────────────────────────────────╯
 
