@@ -1,32 +1,56 @@
-Membership
+╔════════════════════════════════════╗
 
-Recommended: Sword of Nulgath pet
-Don't have one? Do one of these:
+   DRAGON BLADE OF NULGATH
 
-Complete "Nulgath (Larvae)" for the 8th Betrayal Blade of Nulgath - either equip it or activate its quests from your inventory.
+╚════════════════════════════════════╝
 
-Use a Bonus Package from your online account management and claim the Copper Void ChronoKnight set for the Copper Void Blade pet, which can be equipped by non-members too. 
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Membership (required)
 
-As a member, you can get the original Sword of Nulgath pet by trading a Voucher of Nulgath, Voucher of Nulgath (non-mem) (use Reagent Library for these two Vouchers), Dark Crystal pet from /ariapet, and Dark Makai Rune from Makai at /nulgath, to Nulgath's "Purchase Sword of Nulgath" quest at /tercessuinotlim, or if you own it, your ENNH.
+  Recommended: Sword of Nulgath pet
+  --> Don't have one? See options below
+╰──────────────────────────────────╯
 
-Quest
+📦 SWORD OF NULGATH PET — ALTERNATIVES
+╭──────────────────────────────────╮
+  Option 1 (Free):
+  --> Complete "Nulgath (Larvae)" for the 8th Betrayal Blade of Nulgath
+      Equip it or activate its quests from your inventory
 
-Complete "Demanding Items Of Nulgath" from either your Sword of Nulgath pet or Nulgath from /tercessuinotlim. Use the Reagent Library for details on how to get the following items:
+  Option 2 (Free, Non-Mem):
+  --> Claim a Bonus Package from your online account management
+      Get the Copper Void ChronoKnight set for the Copper Void Blade pet
 
-DragonFire of Nulgath
+  Option 3 (Member):
+  --> Trade to Nulgath's "Purchase Sword of Nulgath" quest
+      @ /join tercessuinotlim (or via your ENNH)
+      Voucher of Nulgath            ×1
+      Voucher of Nulgath (non-mem)  ×1
+      Dark Crystal pet from /join ariapet
+      Dark Makai Rune from Makai @ /join nulgath
+╰──────────────────────────────────╯
 
-Crimson Plate of Nulgath
+⚔️ QUEST
+╭──────── "Demanding Items of Nulgath" ────────╮
+  Accept from your Sword of Nulgath pet
+  or from Nulgath @ /join tercessuinotlim
 
-Crimson Face Plate of Nulgath
+  DragonFire of Nulgath         ×1
+  Crimson Plate of Nulgath      ×1
+  Crimson Face Plate of Nulgath ×1
+  Totem of Nulgath              ×3
+  Behemoth Blade of Light       ×1
+  Behemoth Blade of Shadow      ×1
+  Legion Fenrir Rune            ×1
 
-Totem of Nulgath x3
+  💡 In total: ~12 Totems of Nulgath and 1,200 Combat Trophies
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Behemoth Blade of Light
-
-Behemoth Blade of Shadow
-
-Legion Fenrir Rune
-
-In total, it's essentially 12 Totems of Nulgath and 1200 Combat Trophies.
-
-After you get the DragonBlade of Nulgath, you can create the Legion DragonBlade of Nulgath, which is a stable version of the weapon but requires being a Legion member to obtain it.
+✅ UPGRADE
+╭──────────────────────────────────╮
+  After obtaining the Dragon Blade of Nulgath:
+  --> Merge the Legion Dragon Blade of Nulgath (stable version)
+  ⚠️ Requires Legion membership
+╰──────────────────────────────────╯
