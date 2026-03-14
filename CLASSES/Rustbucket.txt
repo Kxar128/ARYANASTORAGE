@@ -1,26 +1,36 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             RUSTBUCKET               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Greatest class in the game. Insanely broken.
+  ...okay maybe not. But it's a decent early game pick.
 
-Yes, greatest class in the game, insanely broken, am i lying? maybe...
+  Best Used For:  💥 Early Game DPS  |  ⚔️  Soloing
 
-Uses
+  How to Get:     /join crashsite  ·  Go to Room 3
+                  → Click the broken down armor pieces in the middle-left of the room
 
-Decent early game DPS and soloer
 
-How to get:
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-/join crashsite -- go to room 3 -- click the broken down armor pieces in the middle left of the room
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Valiance
 
-Class - Luck
+  🪖 Helm ··········  Forge
 
-Weapon - Valiance
-Helm - Forge
-Cape - Vainglory
+  🧣 Cape ··········  Vainglory
 
-COMBOS
 
-5 - 2 - 3 - 4
-repeat the skills as they come off cooldown
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  5 → 2 → 3 → 4
+                        Repeat skills as they come off cooldown
