@@ -1,106 +1,116 @@
-Level 60
+╔════════════════════════════════╗
 
-Rank 10 DoomWood
+  EMPOWERED VORDRED'S ARMOR
+           (EVA)
 
-Rank 10 Evil
+╚════════════════════════════════╝
 
-Rank 9 Arcangrove
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 60
+  Rank 10 DoomWood
+  Rank 10 Evil
+  Rank 9 Arcangrove
+  Sepulchure's DoomKnight Armour (SDKA)
 
-Sepulchure's DoomKnight Armour
+  Storyline Completion:
+  --> /join maul > /join necrotower
+      (including Necro Tower Elevator minigame —
+      if already done, press Exit at top-right)
+╰──────────────────────────────────╯
 
-Storyline Completion
-This includes /maul > /necrotower, including the Necro Tower Elevator minigame - if you've already completed it before, just press Exit at the top-right.
+⚔️ QUESTS
+╭──────── Complete Vordred's quests at /join stonewood ────────╮
 
-Quests
+  1. "SKULLS"
+  ╭──────────────────────────────────╮
+    Defeat enemies at /join warundead
+  ╰──────────────────────────────────╯
 
-Complete the following quests from Vordred at /stonewood:
+  2. "MORE SKULLS"
+  ╭──────────────────────────────────╮
+    Bone Axe                       --> /join graveyard (Kill Big Jack Sprat)
+    Spine Gripper                  --> /join battleundera (walk left then up)
+                                       Kill Angry Undead Giant (~1% drop)
+    Dread Staff                    --> (Member) /join twilight (walk right)
+                                       Kill Abaddon and Dreadspider
+                                       (Non-Mem) /join marsh (Kill Dreadspider)
+    O-dokuro Blade                 --> /join odokuro (Kill O-dokuro)
+    Ancient Skull Blade            --> Purchase from Rayst's shop at /join arcangrove
+    Dracolich Destroyer Scythe     --> /join dragonheart (Kill Avatar of Desolich)
+                                       Walk to very left of map > up > continue right
+    Screaming Might                --> /join dagefortress (Merge 10 Dark Palace Tokens
+                                       at Aeneas' shop — defeat starting screen enemies)
+    Boneblade of Gorgorath         --> /join wrath or /join dragonbone (Kill Gorgorath)
+                                       ⚠️ If no Seven Deadly Dragons story done:
+                                       complete quests at /join dragonbone to access Gorgorath
+  ╰──────────────────────────────────╯
 
-1. "SKULLS"
+  3. "MORE SKULLS ON THE SKULLS"
+  ╭──────────────────────────────────╮
+    Shadow Lich                    --> Purchase from Gravelyn's Evil Rep shop at /join shadowfall
+                                       (quick access: exit left from /join shadowvoid)
+    Escherion's Robe               --> /join escherion (Kill Escherion)
+                                       💡 /goto someone or complete 13LoC chapter
+    Undead Terror Armour           --> /join battleundera (exit right from /join battleunderb)
+                                       Kill Bone Terror
+    Skulls of the Necromancer      --> /join necrocavern (Kill Shadow Dragon)
+                                       💡 Select Necrocavern from Braeus' fast travel
+                                       at /join shadowfall then walk down
+    Undead Warrior Executioner     --> /join underworld
+                                       Step 1: Defeat Revontheus (near end of map)
+                                              → Obtain Undead Warrior Bruiser armour
+                                       Step 2: Farm ×100 Dage's Approvals + ×75 Dage's Favours
+                                              from enemies in same map
+                                              (room after orange sphere portal, or
+                                              3 rooms left of Revontheus)
+                                       Step 3: Merge all items in Rogath's Favour shop
+                                              (faster to rejoin /join underworld than walk back)
+  ╰──────────────────────────────────╯
 
-Defeat enemies at /warundead.
+  4. "MORE SKULLS ON THOSE SKULLS"
+  ╭──────────────────────────────────╮
+    👥 GROUP strongly recommended for all bosses in this quest
 
+    Desolich's Skull       ×5      --> /join desolich (Kill Desolich — 8M+ HP)
+    Undead Raxgore's Skull ×10     --> /join doomvaultb (Kill Raxgore)
+                                       ⚠️ Must complete quests from /join doomvault > /join doomvaultb
+                                       /goto does not work
+                                       Shortcut (if done before): Talk to Valencia at /join museum
+                                       > Artifact Quests > Armour of Awe > To the Crossroads
+                                       > Armour of Awe > AQW Legend/Hero > More Details > Helm Boss
+                                       ⚠️ Raxgore can lock abilities and uses Counter Attack
+                                       → Target off via X on portrait or press ESC
+                                       💡 Use the chance to get Helm of Awe
+    Legion Lich Lord's
+     Skull                 ×15     --> /join frozenlair (Kill Legion Lich Lord)
+                                       👥 Group recommended — solo requires a dodge class
+                                       (Yami no Ronin, Chrono Assassin, Horc Evader, etc.)
+    Reaper's Skull         ×20     --> /join thevoid (Kill Reaper)
+                                       💡 Select "Fight Me!" from The Reaper NPC at start of map
+  ╰──────────────────────────────────╯
 
+  5. "VOIDUMINANCE"
+  ╭──────────────────────────────────╮
+    (Necro) Scroll of
+     Dark Arts             ×1      --> /join epicvordred (Kill Ultra Vordred ~1% drop)
+    Noxus Runes                    --> /join lightguardwar (Kill Extreme Noxus)
+                                       💡 /goto someone or complete quests from
+                                       /join noxustower > /join lightguardwar
+                                       Then select Challenge > To Battle from Noxus
+    Sally's Necronomicon           --> Purchase from Sally at /join necrotower for 20M Gold
+    Ancient Evil of
+     the Necropolis                --> /join necrodungeon (Kill 5 Headed Dracolich)
+                                       If no one to /goto, directions from elevator:
+                                       walk right > next elevator > right door > walk right
+                                       > next elevator > doom crawler > up into train > walk right
+                                       > next elevator > right door > continue right
+  ╰──────────────────────────────────╯
 
-2. "MORE SKULLS"
-
-Bone Axe
-Defeat Big Jack Sprat at /graveyard.
-
-Spine Gripper
-Defeat Angry Undead Giant at /battleundera (walk left then up) - 1% drop rate.
-
-Dread Staff
-If you're a member, defeat Abaddon and Dreadspider at /twilight (walk right). Otherwise, defeat Dreadspider at /marsh.
-
-O-dokuro Blade
-Defeat O-dokuro at /odokuro.
-
-Ancient Skull Blade
-Purchase from Rayst's shop at /arcangrove.
-
-Dracolich Destroyer Scythe
-Defeat Avatar of Desolich at /dragonheart. It can be found by walking to the very left of the map then walking up and continuing right.
-
-Screaming Might
-Merge 10 Dark Palace Tokens at Aeneas' shop at /dagefortress. Just defeat enemies at the starting screen for them.
-
-Boneblade of Gorgorath
-Defeat Gorgorath at /wrath or /dragonbone (located at end of map). If you haven't done any of the Seven Deadly Dragons story, complete the quests at /dragonbone to access Gorgorath.
-
-
-
-3. "MORE SKULLS ON THE SKULLS"
-
-Shadow Lich
-Purchase from Gravelyn at /shadowfall in the Evil Reputation shop (quickly access by exiting left from /shadowvoid).
-
-Escherion's Robe
-Defeat Escherion at /escherion. You can either /goto someone who's there or complete Escherion's 13LoC saga from the Map > Story.
-
-Undead Terror Armour
-Defeat Bone Terror at /battleundera by exiting right from /battleunderb.
-
-Skulls of the Necromancer
-Defeat Shadow Dragon at /necrocavern (get there quickly by selecting Necrocavern from Braeus' fast travel at /shadowfall then walk down).
-
-Undead Warrior Executioner
-Obtain the Undead Warrior Bruiser armour by defeating Revontheus at /underworld (located near end of map). Then, obtain 100 Dage's Approvals and 75 Dage's Favours from enemies in the same map - either do this in the room after the orange sphere portal or 3 rooms left of Revontheus. Then, merge all the items in Rogath's Favour shop at the start of the map (it's faster to rejoin /underworld than walk back).
-
-
-
-4. "MORE SKULLS ON THOSE SKULLS"
-
-Desolich's Skull x5
-Defeat Desolich at /desolich - it has over 8m HP. I highly recommend grouping up for this and the other bosses in this quest.
-
-Undead Raxgore's Skull x10
-Defeat Raxgore at /doomvaultb. You'll need to complete the quests from /doomvault > /doomvaultb to access him as /goto doesn't not work. If you've done this already, you can get to Raxgore faster by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Legend/Hero > More Details > Helm Boss.
-While fighting him, be careful as he can lock your abilities and has an ability called Counter Attack - you'll need to target off by clicking the X to the top-right of their portrait or pressing ESC. Use the chance to get the Helm of Awe if you haven't already.
-
-Legion Lich Lord's Skull x15
-Defeat Legion Lich Lord at /frozenlair. I highly suggest doing this in a group but if you're doing this alone, you will need a dodge class like Yami no Ronin, Chrono Assassin, Horc Evader, etc. 
-
-Reaper's Skull x20
-Defeat Reaper at /thevoid. You can access them quickly by selecting Fight Me! from the NPC version of The Reaper at the beginning of the map.
-
-
-
-5. "VOIDUMINANCE"
-
-(Necro) Scroll of Dark Arts
-Defeat Ultra Vordred at /epicvordred (~1% drop rate). You might want to group up for this.
-
-Noxus Runes
-Defeat Extreme Noxus at /lightguardwar. You either need to /goto someone or complete the quests from /noxustower > /lightguardwar to access him. Then, select Challenge > To Battle from Noxus to access him.
-
-Sally's Necronomicon
-Purchase from Sally at /necrotower for 20m Gold.
-
-Ancient Evil of the Necropolis
-Defeat 5 Headed Dracolich at /necrodungeon. If there is no one at the boss to /goto, the directions are: get to the elevator > walk right to next elevator > enter the right door > walk right to next elevator > at the doom crawler, walk up into train > walk right to next elevator > enter right door and continue right.
-
-
-
-6. "Empower Vordred's Armour"
-
-Have SDKA in your inventory and purchase Vordred's Armour from /stonewood to accept the quest then defeat Ultra Vordred at /epicvordred.
+  6. "Empower Vordred's Armour"
+  ╭──────────────────────────────────╮
+    Have SDKA in your inventory
+    --> Purchase Vordred's Armour from /join stonewood to accept the quest
+    --> Defeat Ultra Vordred at /join epicvordred
+  ╰──────────────────────────────────╯
+╰──────────────────────────────────╯
