@@ -1,67 +1,56 @@
-Quest 1 - Helms, Capes, Katanas
+╔════════════════════════════════════╗
 
-Complete Oblivion's "A Dark Temptation" quest from /tercessuinotlim.
+   VOID PALADIN
 
-Use the Reagent Library for details on how to get the following items:
+╚════════════════════════════════════╝
 
-Dark Crystal Shard x25
+⚔️ QUEST 1 — Helms, Capes, Katanas
+╭──────── "A Dark Temptation" from Oblivion @ /join tercessuinotlim ────────╮
+  Dark Crystal Shard            ×25
+  Diamond of Nulgath            ×13
+  Emblem of Nulgath             ×2
+  Scroll of Underworld          ×1
+  Tainted Gem                   ×35
+  Totem of Nulgath              ×1
+  Unidentified 13               ×1
 
-Diamond of Nulgath x13
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Emblem of Nulgath x2
+⚔️ QUEST 2 — Armour
+╭──────── "Deeper and Deeper into Darkness" from Oblivion @ /join tercessuinotlim ────────╮
+  Diamond of Nulgath            ×25
+  Tainted Gem                   ×40
+  Voucher of Nulgath (non-mem)  ×1
+  Gem of Nulgath                ×25
+  Dark Crystal Shard            ×40
+  Unidentified 13               ×2
+  Nulgath Shaped Chocolate      ×1
+  Void Aura                     ×2
 
-Scroll of Underworld
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Tainted Gem x35
+⚔️ QUEST 3 — Axe
+╭──────── "Sacrifice (BLoD or ALoD Version)" from Oblivion @ /join tercessuinotlim ────────╮
+  ⚠️ Requires owning the Blinding Light of Destiny
+     or the Ascended version (made with Original Drakath's Armour)
 
-Totem of Nulgath
+  Diamond of Nulgath            ×40
+  Dark Crystal Shard            ×40
+  Gem of Nulgath                ×20
+  Tainted Gem                   ×40
+  Emblem of Nulgath             ×3
+  Totem of Nulgath              ×1
+  Void Aura                     ×6
 
-Unidentified 13
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Quest 2 - Armour
+✅ QUEST 4 — Cyber Set
+╭──────── "Cyber Void Paladin Set" from Oblivion @ /join tercessuinotlim ────────╮
+  ⚠️ Must have the Void Paladin armour, axe, helm, katana,
+     and katana cape in your inventory to accept
 
-Complete Oblivion's "Deeper and Deeper into Darkness" quest from /tercessuinotlim.
-
-Use the Reagent Library for details on how to get the following items:
-
-Diamond of Nulgath x25
-
-Tainted Gem x40
-
-Voucher of Nulgath (non-mem)
-
-Gem of Nulgath x25
-
-Dark Crystal Shard x40
-
-Unidentified 13 x2
-
-Nulgath Shaped Chocolate
-
-Void Aura x2
-
-Quest 3 - Axe
-
-Complete Oblivion's "Sacrifice (BLoD or ALoD Version)" quest from /tercessuinotlim. This quest requires owning the Blinding Light of Destiny or the Ascended version, which is made with Original Drakath's Armour.
-
-Use the Reagent Library for details on how to get the following items:
-
-Diamond of Nulgath x40
-
-Dark Crystal Shard x40
-
-Gem of Nulgath x20
-
-Tainted Gem x40
-
-Emblem of Nulgath x3
-
-Totem of Nulgath
-
-Void Aura x6
-
-Quest 4 - Cyber Set
-
-Complete Oblivion's "Cyber Void Paladin Set" quest from /tercessuinotlim. You must have the Void Paladin armour, axe, helm, katana, and katana cape to accept it.
-
-All you need to do is defeat Undead Space Warriors at /dreadspace.
+  --> Defeat Undead Space Warriors @ /join dreadspace
+╰──────────────────────────────────╯
