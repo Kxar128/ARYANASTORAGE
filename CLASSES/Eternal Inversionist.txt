@@ -1,29 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║        ETERNAL INVERSIONIST          ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Absolutely yes — especially as an early to mid game player.
 
-- As an early - mid game player, ABSOLUTELY YES
+  Best Used For:  🌾 Farming
 
-Uses
+  How to Get:
+  ─────────────
+  → 2,000 AC
+  → OR Rank 10 Eternal  →  /join fourdpyramid
 
-- Farming
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- 2000 AC's
+  🧿 Class ·········  Luck
 
-or 
+  ⚔️  Weapon ········  Dauntless
+                       Valiance
 
-- Requires Eternal Rank 10. --  /join fourdpyramid
+  🪖 Helm ··········  Anima
+                       Pneuma
 
-ENHANCEMENTS
+  🧣 Cape ··········  Vainglory
 
-Class - Luck
 
-Weapon - Dauntless | Valiance
-Helm - Anima | Pneuma
-Cape - Vainglory
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-COMBOS
-
-- Spam
+  ✅ Main Rotation ··  Just spam
