@@ -1,38 +1,49 @@
-CHAMPION DRAKATH
+╔════════════════════════════════╗
 
-Champion Drakath
-♦ Every 2,000,000 dmg, Drakath will scream at your team, designated Taunter should taunt JUST BEFORE the 000,000 mark or else your team will not want to help xd
-♦ Everytime he screams, he gains "Evasion" to self, increasing Dodge by 20%, stacks indefinitely.
-♦ Recommended to have dual taunters if the DPS is CSS or DoT due to very fast damage
-♦ Dual taunters take turns in first phase (first 10 million HP) and then only 1 takes next phase (whichever class has the best survivability (usually Stonecrusher, Obsidian Paladin Chronomancer, Archpaladin, Chaos Avenger, King's Echo)
+     CHAMPION DRAKATH
 
-LORD OF ORDER: 
+╚════════════════════════════════╝
 
-🧥Class - Wizard
+⚠️ BOSS MECHANICS
+╭──────────────────────────────────╮
+  Every 2,000,000 damage dealt, Drakath screams at your team
+  --> Designated taunter MUST taunt JUST BEFORE the 000,000 mark
+  --> Each scream grants Drakath +20% Dodge (stacks indefinitely)
+╰──────────────────────────────────╯
 
-🗡️Weapon - Aweblast
-🪖Helm - Base Forge | Wizard
-🧣Cape - Penitence
+⚙️ GEAR SETUPS
+╭──────── LORD OF ORDER ────────╮
+  Weapon --> Ravenous / Wizard Aweblast
+  Class  --> Wizard
+  Helm   --> Wizard
+  Cape   --> Penitence
 
-LEGION REVENANT:
+  Potions:
+  Elixir  --> Angelic Elixir (+30% healing potential for 10m)
+  Tonic   --> Body Tonic (+20% Endurance for 15m)
+  Scroll  --> Scroll of Lifesteal (drains target HP to you)
+╰──────────────────────────────────╯
 
-🧥Class - Luck
+📖 ENHANCEMENT BREAKDOWNS
+╭──────── RAVENOUS ────────╮
+  100% proc on auto attack (10s cooldown)
+  Deals 75% Hybrid Damage · Recovers 15 mana
 
-🗡️Weapon - Arcana's Concerto | Valiance (Farming) | Praxis | Ravenous
-🪖Helm - Pneuma | Wizard | Base forge (if going ravenous)
-🧣Cape - Avarice (Farming) | Lament | Penitence | Vainglory
+  Applies Ravenous to target (10s):
+  -5% Haste · -5% Crit Chance · -5% Dodge · -5% Damage Boost
 
-OBSIDIAN PALADIN CHRONOMANCER / PALADIN CHRONOMANCER / STONECRUSHER
+  Applies Execute to self (10s):
+  +5% Haste · +5% Crit Chance · +5% Dodge · +5% Damage Boost
 
-🧥Class - Fighter
+  Skills deal 0.9% bonus damage per 1% of target's missing HP
+  (includes normal heals, excludes HoT effects)
+╰──────── WIZARD AWEBLAST ────────╮
+  30% proc on auto attack (no cooldown)
+  Deals 100% Hybrid Damage
 
-🗡️Weapon - Mana Vamp | Valiance
-🪖Helm - Healer | Hearty
-🧣Cape -  Vainglory
-
-- DPS 
-
-- KING'S ECHO, 
-- CHRONO SHADOWHUNTER, 
-- VERUS DOOMKNIGHT, 
-- DRAGON OF TIME
+  Applies Awe Blast to target (10s):
+  -15% Crit Chance · -15% Damage Resistance
+╰──────── PENITENCE ────────╮
+  +25% Damage Resistance
+  -25% DoT Boost
+╰──────────────────────────────────╯
