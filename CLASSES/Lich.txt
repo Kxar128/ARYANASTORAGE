@@ -1,70 +1,64 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             LIGHTCASTER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Generally no — better options at Level 80 that cost less or nothing.
+  Good choice if you don't want to farm much (only 1,000 AC).
 
-- Yes (it has a very nice niche)
+  Best Used For:  ⚔️  Soloing  |  🤝 Support
 
-Uses
+  Requirements:   Level 80  |  1,000 AC
+                  Storyline: /celestialrealm > /lostruins > /lostruinswar > /celestialarena
 
-- DPS, Damage over Time
-- Battlepet class
 
-Requirements
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
 
-* Requires Rank 10 DoomWood (REFER TO REPUTATION GUIDES IN LIBRARY SERVER)
-* Requires Rank 10 Evil. (REFER TO REPUTATION GUIDES IN LIBRARY SERVER)
-* Requires Rank 10 Grimskull Trolling. (REFER TO REPUTATION GUIDES IN LIBRARY SERVER)
+  Step 1 — LightMage
+  ────────────────────
+  → /join celestialrealm  ·  Purchase Evolved LightCaster armour from Aranx (1,000 AC — cannot be sold)
+  → Open LightMage Class Token A Shop → Purchase Token A
+  → Merge LightMage using Token A
 
-1. Klaatu's Necronomicon
-(Reward from the 'Klaatu's Necronomicon' quest)
-- Bone Dust X 6666 --> /join necroproject --> Kill Imperial Noxus
-- Shadow Lich --> /join shadowfall --> Goto gravelyn and then open Evil rep shop
-- Lich of The Stone --> /join Darkoviaforest --> Kill "Lich of the Stone (Monster)"
-- Sapphire Orb X 133 --> Frozenlair --> Kill "Legion Lich Lord" (Monster)
--  Writte Exam Completed --> /join necroproject --> Click on the blue arrow on screen 2
+  Step 2 — LightCaster
+  ──────────────────────
+  → Accept "LightCaster Class" quest from Aranx at /join celestialrealm
 
-2. Verata's Necronomicon
+  Burning Blade               ×1   → /join lostruinswar  ·  Kill Diabolical Warlord  (~1%)
+  Burning Blade of Azebeth    ×1   → /join celestialarena  ·  Kill Aranx  (~5%)
+  Guardian of Spirits' Blade  ×1   → Complete Aranx's quest  ·  Kill 500 Fallen Knights
+  Avatar of Death's Scythe    ×1   → Complete Aranx's quest  ·  Kill 500 Underworld Hounds
+  Spear of Time               ×1   → Complete Aranx's quest  ·  Kill 500 Infernal Imps
+  Aranx's Pure Light          ×1   → /join celestialarena  ·  Kill Aranx  (~10%)
 
-- /join gaolcell
 
-3. Nicto's Necronomicon
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Gold Voucher 100k x 66
-Grimskull's Favor x 776 --> /Join lichwar
+  🧿 Class ·········  Luck
 
-Reward from the following quests:
+  ⚔️  Weapon ········  Valiance
+                       Praxis
 
-"Grimskull War Medal"
-"Mega Grimskull War Medal"
+  🪖 Helm ··········  Base Forge
+                       Pneuma
+                       Wizard
 
-Noxus' Favor x 776 --> /Join lichwar
+  🧣 Cape ··········  Vainglory
+                       Lament
 
-Reward from the following quests:
 
-"Noxus War Medal"
-"Mega Noxus War Medal"
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-Pristine Skull x 66 --> /join moreskulls
+  💡 Skill 4 ········  Acts as both a buff AND a heal — reuse when Illuminate fades
 
-Reward from the following quests:
-
-"We Will Rebuild"
-"We Will Rebuild (Legend)" 
-
-ENHANCEMENTS
-
-Class - Luck
-
-Weapon - Ravenous | Elysium
-Helm - Examen | Pneuma
-Cape - Vainglory | Lament
-
-COMBOS
-
-5 - 4 > 5 - 3 > 5 - 2 (LOOP)
-
-POTIONS
-
-* Fate Tonic
-* Battle Elixir
-* Felicitous Philtre
+  ✅ Main Rotation ··  4 → 5 → 2 → 3  →  spam skills as they come off cooldown
+                        Reapply  4  whenever Illuminate expires
