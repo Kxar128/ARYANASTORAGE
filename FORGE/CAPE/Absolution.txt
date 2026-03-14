@@ -1,0 +1,37 @@
+╔════════════════════════════════════╗
+
+   ABSOLUTION
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 90               --> Refer to XP Guide
+  Must have Rank 9 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+╰──────────────────────────────────╯
+
+📦 HOW TO ACCESS
+╭──────────────────────────────────╮
+  /join therift --> Merge Shop
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  Slimed Sigil  --> /join therift --> Kill Plague Spreader (room 9)
+╰──────────────────────────────────╯
+
+✅ STEP 2 — Merge: Ascended Paladin
+╭──────────────────────────────────╮
+  Exchange in /join therift merge shop:
+  Gold          ×25,000
+  Slimed Sigil  ×50
+  --> Produces Ascended Paladin
+╰──────────────────────────────────╯
+
+✅ STEP 3 — Merge: Ascended Paladin Sword
+╭──────────────────────────────────╮
+  Exchange in /join therift merge shop:
+  Gold          ×100,000
+  Slimed Sigil  ×100
+  --> Produces Ascended Paladin Sword
+╰──────────────────────────────────╯
