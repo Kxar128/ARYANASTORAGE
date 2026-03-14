@@ -1,40 +1,51 @@
-Introduction
+╔════════════════════════════════════╗
 
-This is the map that you must travel through to start many Nation quests and farms. It can't be directly travelled to using the /join command. Instead, you can get there via two ways:
+   TERCESSUINOTLIM
 
-Citadel
-Join /citadel and enter the cave to the right. Take the following path: middle>right x3>enter portal.
+╚════════════════════════════════════╝
 
-Enchanted Nulgath Nation House
-To get there even faster, use an ENNH. For example, enter /house ver0 into the chat box and walk upwards for the portal.
+📦 INTRODUCTION
+╭──────────────────────────────────╮
+  Cannot be accessed via /join command directly
+  Required item: 50 Bone Dust (drops from enemies @ /join battleunderb)
+  ⚠️ Old guides may list Escherion's Chain — this is no longer needed
+╰──────────────────────────────────╯
 
-You will also need 50 Bone Dust, which is dropped from enemies at /battleunderb. Old guides will suggest obtaining other items, like Escherion's Chain, but this is not needed.
-If you want to, you can make a private /tercessuinotlim by getting to the portal room of /citadel where the /join command is enabled.
+📦 HOW TO ACCESS
+╭──────────────────────────────────╮
+  Option A — Via Citadel (standard)
+  --> /join citadel > enter cave on the right
+      Path: middle > right ×3 > enter portal
 
-Paths
+  Option B — Via ENNH (faster)
+  --> Enter /house ver0 into the chat box
+      Walk upwards to the portal
 
-All paths assume your position is the starting room of /tercessuinotlim.
+  💡 To create a private /tercessuinotlim:
+     Reach the portal room of /join citadel where /join is enabled
+╰──────────────────────────────────╯
 
+🗺️ NPC / ENEMY LOCATIONS
+╭──────── All paths from the starting room ────────╮
+  Oblivion, Death's Head         starting room
 
+  Dark Makai                     left
 
-Oblivion, Death's Head
-starting room.
+  Evil Elemental                 left > top-right
 
-Dark Makai
-left.
+  Shadow of Nulgath              left > middle
+  Ninja Spy, Carnage             left > middle
 
-Evil Elemental
-left > top-right.
+  Lae                            left > middle > top-left
 
-Shadow of Nulgath, Ninja Spy, Carnage
-left > middle.
+  Nulgath, Skew                  left > middle > top-left > down > middle
+                                 > right > middle > right > right > left > left
 
-Lae
-left > middle > top-left.
+  Polish, Bamboozle              left > top-right > top-middle
+  Void Highlord NPC, Zee, Taro   left > top-right > top-middle > right
+  Twins                          left > top-right > top-middle > right > right
+  Swindle                        left > top-right > top-middle > right > right > right
+  Jadzia                         left > top-right > top-middle > right > right > right > right
 
-Nulgath, Skew
-left > middle > top-left > down > middle > right > middle > right > right > left > left.
-
-Polish, Bamboozle, Void Highlord NPC, Zee, Taro, Twins, Swindle, Jadzia
-left > top-right > top-middle (Polish, Bamboozle) > right (VHL, Zee, Taro) > right (Twins) > right (Swindle) > right (Jadzia).
-You can also find Polish and Bamboozle at /cragglerock.
+  💡 Polish and Bamboozle can also be found @ /join cragglerock
+╰──────────────────────────────────╯
