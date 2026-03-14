@@ -1,26 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║         ARCHIVIST OF TIME            ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Not currently — underwhelming in every aspect.
+  Does not compete with other DPS Chrono classes such as CSS.
 
-Not currently, the overall experience with this class is underwhelming in every aspect of the supposedly good aspect of the class
-it does not reward you for using it correctly by being able to compete with other DPS Chrono classes such as CSS
+  Also OK For:  ⚔️  DPS Soloing  |  🤝 DPS Team Comp
 
-Good for
-DPS (Soloing)
-DPS (Team Comp)
+  How to Get:   6,000 AC  →  /join heromart  (2025 Calendar)
 
 
-How to get:
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-6000 (6k) AC's --> /join heromart (2025 calendar)
-ENHANCEMENTS
+  🧿 Class ·········  Luck
 
-Class - Luck
+  ⚔️  Weapon ········  Ravenous
 
-Weapon - Ravenous
-Helm - Examen
-Cape - Vainglory | Lament
+  🪖 Helm ··········  Examen
 
-COMBOS
+  🧣 Cape ··········  Vainglory
+                       Lament
 
-1 - (4-2), 1 - (3-4), 1 - (3-3), 1 - (3-2), 5 - 1 - (2-4), 1 - (2-3), 1 - (2-2),
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  1 → (4·2) → 1 → (3·4) → 1 → (3·3)
+                        → 1 → (3·2) → 5 → 1 → (2·4)
+                        → 1 → (2·3) → 1 → (2·2)
+                        → repeat cycle
