@@ -1,33 +1,39 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║        PHANTOM CHRONOMANCER          ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  💥 DPS  |  📈 Buffs
 
-Uses
+  How to Get:     6,000 AC  →  /join heromart  (2025 Calendar)
 
-- DPS - Buffs
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- 6000 (6k AC) --> /join heromart (2025 calendar)
+  🧿 Class ·········  Fighter
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Ravenous
+                       Valiance
 
-Class - Fighter
+  🪖 Helm ··········  Forge
+                       Examen
 
-Weapon - Ravenous | Valiance
-Helm - Forge | Examen
-Cape -  Vainglory
+  🧣 Cape ··········  Vainglory
 
-COMBOS
 
-- Always start with [4] (for dodge)
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- Use [2-3] (x4) then [42 - 3 - 45]
+  💡 Skill 4 ········  Always start with this — grants dodge
 
-Normal:
-[4 - 23 (x4) - 42 - 3 - 45]
+  ✅ Normal ·········  4 → (2·3) ×4 → 4·2 → 3 → 4·5
 
-Examen:
-[4 - 23 (x4) - 42 - 43 - 45]
+  ✅ Examen Variant ·  4 → (2·3) ×4 → 4·2 → 4·3 → 4·5
