@@ -1,0 +1,130 @@
+╔════════════════════════════════════╗
+
+   RAVENOUS
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 100
+  Must have Rank 10 Evil
+  Must have Void Highlord (Class) in your inventory
+╰──────────────────────────────────╯
+
+📦 HOW TO START
+╭──────────────────────────────────╮
+  /join voidchasm --> Open merge shop --> Buy Prime Fiend Shard
+  --> Place it in your house --> Click it --> Begin questing
+╰──────────────────────────────────╯
+
+✅ QUEST 1 — Feed the Fiend Shard
+╭──────────────────────────────────╮
+  Dual Dragonbone Axe of Nulgath  ×1
+    --> /join tercessuinotlim --> Speak to Nulgath (NPC)
+    --> Reward from "Combat Style: Dragonbone Axe" quest
+
+  Essence of Nulgath  ×20
+    --> /join tercessuinotlim or /join nulgath --> Kill Dark Makai
+
+  Iron Dreadsaw  ×1
+    --> /join archportal --> Dirtlicker's shop
+    --> Merge: Archfiend's Favor ×20 | Nulgath's Approval ×40 | Gem of Nulgath ×10 | Raw Dreadsaw ×1
+
+  Nation Soulstealer  ×1
+    --> /join shadowblast --> Nation merge
+    --> Merge: Diamond Badge of Nulgath ×100 | Emblem of Nulgath ×75
+              OR Diamond of Nulgath ×20
+
+  Void Nation Caster  ×1
+    --> /join templedelve --> Temple Delve Merge
+    --> Merge: Tainted Gem ×20 | Dark Crystal Shard ×10 | Diamond of Nulgath ×40
+              | Gold Voucher 25k ×4 | Doomed Extract ×22
+              | Void Nation Ritualist ×1 (/join templedelve --> Kill Doomed Fiend)
+╰──────────────────────────────────╯
+
+✅ QUEST 2 — Grow the Fiend Shard
+╭──────────────────────────────────╮
+  Essence of Nulgath  ×40
+    --> /join tercessuinotlim or /join nulgath --> Kill Dark Makai
+
+  Abyssal Priest of Nulgath  ×1
+    --> /join evilwarnul --> Speak to Dilligas (NPC) --> Nulgath Diamond shop
+    --> Merge: Archfiend's Favor ×100 | Diamond of Nulgath ×100 | Nulgath's Approval ×100
+
+  Void Paladin  ×1
+    --> /join tercessuinotlim --> Speak to Oblivion (NPC)
+    --> Reward from "Deeper and Deeper into Darkness" quest
+
+  Void Spartan  ×1
+    --> /join tercessuinotlim --> Speak to Zee (NPC)
+    --> Reward from "Void Spartan" quest
+
+  Storm Knight  ×1
+    --> /join evilwarnul --> Speak to Dilligas (NPC) --> Nulgath Diamond shop
+    --> Merge: Tainted Gem ×50 | Dark Crystal Shard ×30 | Diamond of Nulgath ×80
+              | Gem of Nulgath ×15 | Blood Gem of the Archfiend ×5
+╰──────────────────────────────────╯
+
+✅ QUEST 3 — Evolve the Fiend Shard
+╭──────────────────────────────────╮
+  Essence of Nulgath  ×60
+    --> /join tercessuinotlim or /join nulgath --> Kill Dark Makai
+
+  ArchFiend Enchanted Orbs  ×1
+    --> /join tercessuinotlim --> Speak to Lae (NPC)
+    --> Merge: Unidentified 36 ×1 | Unidentified 25 ×1 | Unidentified 13 ×1
+              | Diamond of Nulgath ×150 | Fresh Soul ×100
+              | Blood Gem of the Archfiend ×10 | Voucher of Nulgath (non-mem) ×1
+
+  Void Soul of Nulgath  ×1
+    --> /join fiendshard --> Reward from "The Swirling Abyss Gathers" quest
+
+  Blood Ranger  ×1
+    --> /join evilwarnul --> Speak to Dilligas (NPC) --> Nulgath Diamond Shop
+
+  Envenomed Edge of Nulgath  ×1
+    --> /join voidrefuge --> Void Refuge Merge Shop
+    --> Merge: Venomous Fang Blade ×1 (/join museum --> Valencia --> Treasure Hunt
+              > 2023 Hunts > Fang Blade > Repair Blade)
+              | Unidentified 13 ×1 | Tainted Gem ×100 | Dark Crystal Shard ×40
+              | Diamond of Nulgath ×150
+╰──────────────────────────────────╯
+
+✅ QUEST 4 — The Fiend Shard's Demand
+╭──────────────────────────────────╮
+  Void Avenger Scythe  ×1
+    --> /join tercessuinotlim --> Speak to Skew (NPC)
+    --> Reward from "Eternal Rest" quest
+
+  Doomblade of Destruction  ×1
+    --> /join tercessuinotlim --> Speak to Nulgath (NPC)
+    --> Reward from "Nulgath Demands Work" quest
+
+  Archfiend DeathLord  ×1
+    --> /join fiendshard --> Speak to Oversoul Spirit (NPC)
+    --> Reward from "It Calls to You" quest
+
+  Wrath of Nulgath  ×1
+    --> /join darkwarnation --> Speak to Skew (NPC) --> Nation War Chest
+
+  Ancient Shogun Armor  ×1
+    --> /join evilwarnul --> Dilligas' Merge Shop
+╰──────────────────────────────────╯
+
+✅ QUEST 5 — The Fiend Shard's Finale
+╭──────────────────────────────────╮
+  Unidentified 13      ×13    (via "The Contract of Nulgath")
+  Tainted Gem          ×750
+  Dark Crystal Shard   ×400
+  Diamond of Nulgath   ×1,000
+  Totem of Nulgath     ×60
+  Gem of Nulgath       ×300
+  Blood Gem of Archfiend ×100
+  Roentgenium of Nulgath ×10
+╰──────────────────────────────────╯
+
+✅ FINAL STEP — Obtain Ravenous
+╭──────────────────────────────────╮
+  Gluttonous Maw  ×1  --> /join fiendshard --> Shop (unlocked after all quests)
+  --> Turn in to Cysero to receive Ravenous
+╰──────────────────────────────────╯
