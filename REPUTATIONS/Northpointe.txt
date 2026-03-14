@@ -1,7 +1,11 @@
-/join Northpointe
+╔════════════════════════════════════╗
 
-Accept "Sage Advice" quest from "Reens (NPC)"
+   NORTHPOINTE
 
-/join Northpointe
+╚════════════════════════════════════╝
 
-Kill Grim Stalker (Monster) x 10 --> turn in
+⚔️ QUEST
+╭──────── "Sage Advice" from Reens (NPC) @ /join northpointe ────────╮
+  Grim Stalker                  ×10    --> /join northpointe
+  --> Turn in
+╰──────────────────────────────────╯
