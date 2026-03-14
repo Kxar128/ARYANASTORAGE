@@ -1,35 +1,41 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║        CHRONO SHADOWHUNTER           ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-  
-- Absolutely Yes
-  
-Uses
+  Worth Getting?
+  ──────────────
+  Absolutely yes.
 
-- S+++ tier DPS|
-- Soloing
-- Farming (2 person rooms)
+  Best Used For:  💥 S+++ Tier DPS  |  ⚔️  Soloing  |  🌾 Farming (2-person rooms)
 
-Requirements
+  How to Get:     6,000 AC  →  /join heromart  (2024 Calendar)
 
-6000 (6k) AC's
-  /join heromart (2024 calendar)
 
-ENHANCEMENTS
-  
-Class - Luck
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Valiance | Arcana's Concerto | Health Vamp (Ultradage)
-Helm - Vim (Faster rotations) | Pneuma
-Cape - Vainglory | Lament
+  🧿 Class ·········  Luck
 
-COMBOS
+  ⚔️  Weapon ········  Valiance
+                       Arcana's Concerto
+                       Health Vamp  (Ultradage)
 
-  * Full DPS
-start with 2 (reload and give extra crit) 4 - 4 - 4 - 4 - 4 - 4 - 5
-  - repeat cycle
+  🪖 Helm ··········  Vim   (faster rotations)
+                       Pneuma
 
-  * Soloing (safe)
-  
-start with 2 (reload and give extra crit) 3 - 4 - 3 - 4 - 3 - 4 - 5
-  - repeat cycle
+  🧣 Cape ··········  Vainglory
+                       Lament
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 2 ········  Reloads ammo and grants extra crit — always start with this
+
+  ✅ Full DPS ·······  2 → 4→4→4→4→4→4 → 5  →  repeat cycle
+
+  ✅ Soloing (Safe) ·  2 → 3→4→3→4→3→4 → 5  →  repeat cycle
