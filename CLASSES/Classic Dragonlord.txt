@@ -1,13 +1,30 @@
-ENHANCEMENTS
+╔══════════════════════════════════════╗
+║                                      ║
+║          CLASSIC DRAGONLORD          ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Class - Luck
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Valiance | Praxis (Tanking)
-Helm - Forge
-Cape - Vainglory | Penitence (Tanking)
+  🧿 Class ·········  Luck
 
-COMBOS
+  ⚔️  Weapon ········  Valiance
+                       Praxis  (Tanking)
 
-4-2-4-5-3 to start
+  🪖 Helm ··········  Forge
 
-4-2-4-2-4-5-3 for the damage buff you need that your 3 prevents you from getting
+  🧣 Cape ··········  Vainglory
+                       Penitence  (Tanking)
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Opening ········  4 → 2 → 4 → 5 → 3
+
+  ✅ Damage Buff ····  4 → 2 → 4 → 2 → 4 → 5 → 3
+                        Use this rotation when your Skill 3 is preventing
+                        you from getting the damage buff
