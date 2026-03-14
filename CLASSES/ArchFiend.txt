@@ -1,79 +1,79 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             ARCHFIEND                ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes.
+  Worth Getting?
+  ──────────────
+  Yes.
 
-Uses
-Best For: Farming & Secondary Support
-OK For: Soloing
+  Best Used For:  🌾 Farming  |  🤝 Secondary Support
+  Also OK For:    ⚔️  Soloing
 
-Requirements
+  Requirements:   Level 50  |  Rank 10 Evil
 
-Level 50
-
-Rank 10 Evil
-
-Quest
-
-If you don't want to purchase this class with ACs, complete the "Void Promotion" quest from Oblivion at /tercessuinotlim and trade the rewarded Abyssal Contract in the ArchFiend Merge shop. Use the Reagent Library for the following reagents:
-
-Unidentified 13 x3
-
-Pink Star Diamond of Nulgath
-
-Immortal Joe's Black Star
-Defeat Mercutio at /mercutio.
-
-Abyssal Star
-Purchase from Diligas' Diamond Shop at /evilwarnul. It requires:
-
-Dark Crystal Shard x200
-
-Tainted Gem x300
-
-Gem of Nulgath x200
-
-Gold Star of Avarice
-Purchase from Swindle's Ripoff Emporium at /tercessuinotlim. You'll need almost 20m Gold to merge an Unmoulded Fiend Essence with 16 Receipts of Swindle, which are also both bought from Swindle.
-
-Blood Star of the ArchFiend
-Purchase from Tharanak Hrii's shop at /shadowblast. It requires:
-
-Blood Gem of the ArchFiend x20
-
-Totem of Nulgath x8
-
-Void Aura x2
-
-ArchFiend Favour x999
-
-Dirtlicker Demoted
-Defeat Dirtlicker at /fiendshard. Either /goto someone or complete the quests from /originul > /fiendshard to access.
-
-ArchFiend is a duplicate of the Rare "Legendary ArchFiend" class. If you are an older player who owns that, you do not need this class.
-
-ENHANCEMENTS
-
-Class - Luck
-
-Weapon - Ravenous (Ultras) | Dauntless (Soloing + Farming) | Health Vamp (Farming)
-Helm - Anima (Dage) | Vim | Base Forge
-Cape - Vainglory | Lament (if you need the crit)
-
-COMBOS
-
-- Technically, just spam everything
-
-- Otherwise: [3 - 4 - 5 - 3 - 2... spam]
-
-- [4] increases everyone's crit damage
-
-- [2] and [5] debuff the target
-
-- Both [4] and [5] need stacks from [2]"
-
-- Make sure to stack ur 2 and 3 to 6 - 7 (jk im not making a 67 joke) stack it to 8 then press 5 and spam 4 everytime it's off cooldown
+  ℹ️  Note ···  ArchFiend is a duplicate of the rare "Legendary ArchFiend" class.
+                If you are an older player who owns that, you do not need this class.
 
 
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
+
+  Complete "Void Promotion" from Oblivion at /join tercessuinotlim
+  → Trade the Abyssal Contract in the ArchFiend Merge shop
+
+  Unidentified 13              ×3
+  Pink Star Diamond of Nulgath ×1
+  Immortal Joe's Black Star     ×1   → /join mercutio  ·  Kill Mercutio
+
+  Abyssal Star                 ×1   → /join evilwarnul  ·  Dilligas' Diamond Shop
+    Dark Crystal Shard   ×200
+    Tainted Gem          ×300
+    Gem of Nulgath       ×200
+
+  Gold Star of Avarice         ×1   → /join tercessuinotlim  ·  Swindle's Ripoff Emporium
+    Merge Unmoulded Fiend Essence + 16 Receipts of Swindle (~20m Gold)
+
+  Blood Star of the ArchFiend  ×1   → /join shadowblast  ·  Tharanak Hrii's shop
+    Blood Gem of the ArchFiend ×20
+    Totem of Nulgath           ×8
+    Void Aura                  ×2
+    ArchFiend Favour           ×999
+
+  Dirtlicker Demoted           ×1   → /join fiendshard  ·  Kill Dirtlicker
+    (Complete /originul > /fiendshard or /goto someone to access)
 
 
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Luck
+
+  ⚔️  Weapon ········  Ravenous    (Ultras)
+                       Dauntless   (Soloing + Farming)
+                       Health Vamp (Farming)
+
+  🪖 Helm ··········  Anima  (Dage)
+                       Vim
+                       Base Forge
+
+  🧣 Cape ··········  Vainglory
+                       Lament  (if you need the crit)
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 4 ········  Increases everyone's crit damage
+  💡 Skill 2 & 5 ···  Debuff the target
+  💡 Skill 4 & 5 ···  Require stacks from Skill 2
+
+  ✅ Main Rotation ··  3 → 4 → 5 → 3 → 2  (spam)
+
+  ✅ Advanced ·······  Stack Skill 2 and 3 to 8 stacks
+                        → then press  5
+                        → spam  4  every time it's off cooldown
