@@ -1,39 +1,76 @@
-ULTRAEZRAJAL:
+╔════════════════════════════════╗
 
-DPS, LoO, LR, AP/VDK
+          TIME INN
 
-don't forget to prelock abilities that are useless in ur kits by attacking ezrajal and leaving room before dying, when ur ability is unclickable or it says on screen in yellow text " (the ability) has been locked" then it's finished
+╚════════════════════════════════╝
 
-you can lock ur weapon enchancement also by auto attacking ONLY
+╔════════════════════════════════╗
+       ULTRA EZRAJAL
+╚════════════════════════════════╝
 
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  DPS
+  LoO
+  LR
+  AP / VDK
+╰──────────────────────────────────╯
 
-Boss Mechanics:
+⚙️ PREP — ABILITY LOCKING
+╭──────────────────────────────────╮
+  Before the fight, pre-lock any useless abilities in your kit:
+  --> Attack Ezrajal and leave the room before dying
+  --> An ability is locked when it becomes unclickable OR the screen
+      shows yellow text: "[ability] has been locked"
 
-At some point the boss will start countering all abilities, pay attention to the text prompt for this, stop attacking during this phase and when the counter attack aura fades then you can start attacking again.
+  💡 You can also lock your weapon enhancement by auto-attacking ONLY
+╰──────────────────────────────────╯
 
-during this counter attack phase focus on healing and not dying.
+⚠️ BOSS MECHANIC — COUNTER PHASE
+╭──────────────────────────────────╮
+  At some point the boss will begin countering ALL abilities
+  --> Watch for the text prompt on screen
+  --> STOP attacking immediately during this phase
+  --> Focus on healing and surviving until the counter aura fades
+  --> Resume attacking once it clears
+╰──────────────────────────────────╯
 
+╔════════════════════════════════╗
+       ULTRA WARDEN
+╚════════════════════════════════╝
 
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  DPS   (best: CSS)
+  LoO
+  LR
+  VDK
+╰──────────────────────────────────╯
 
-ULTRAWARDEN: 
+⚔️ ROLES
+╭──────────────────────────────────╮
+  LR    --> Taunt at the start of the fight
+  VDK   --> Spam 5 · Cycle into 10 stacks · Repeat 5
+  LoO   --> Focus healing at nukes to keep everyone alive
+  DPS   --> Kill as fast as possible · Use any sustain in your kit
+╰──────────────────────────────────╯
 
-DPS, LoO, LR, VDK
+╔════════════════════════════════╗
+       ULTRA ENGINEER
+╚════════════════════════════════╝
 
-start of the fight LR taunts
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  DPS
+  LoO
+  LR
+  AP
+╰──────────────────────────────────╯
 
-VDK spams 5 and cycles into 10 stacks and 5 again
-
-LoO focus on healing at nukes to keep everyone alive
-
-DPS just commit to killing as fast as possible and trying to not die, use any sustain u have in ur kits
-
-best DPS for this boss is CSS.
-
-
-ULTRAENGINEER
-
-DPS, LoO, LR, AP
-
-AP starts fight with 4 on attack drone and 5 on defense drone
-
-LoO, LR, DPS focus attack drone into defense drone and then all melt boss together before the drones respawn, if they do respawn focus attack drone first and then defense drone same as before
+⚔️ ROLES
+╭──────────────────────────────────╮
+  AP          --> Use 4 on Attack Drone · Use 5 on Defense Drone at fight start
+  LoO / LR / DPS --> Focus Attack Drone --> then Defense Drone
+                     --> then melt Boss together before drones respawn
+  If drones respawn: Focus Attack Drone first, then Defense Drone again
+╰──────────────────────────────────╯
