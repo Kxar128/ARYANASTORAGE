@@ -1,24 +1,26 @@
-Requirements
+╔════════════════════════════════════╗
 
-Level 20
+   VOID SPARTAN
 
-Recommended: Crag & Bamboozle
-Many Uni 13s are required for the quest and this pet is the best way to get them.
+╚════════════════════════════════════╝
 
-Quest
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 20
 
-Complete Zee's "Void Spartan" quest from /tercessuinotlim.
+  Recommended: Crag & Bamboozle
+  --> Many Uni 13s required — this pet is the best source
+╰──────────────────────────────────╯
 
-Use the Reagent Library for details on how to get the following items:
+⚔️ QUEST
+╭──────── "Void Spartan" from Zee @ /join tercessuinotlim ────────╮
+  Unidentified 13               ×1
+  Zee's Red Jasper              ×1
+  Gem of Nulgath                ×10
+  Fiend Cloak of Nulgath        ×1
+  Blood Gem of the ArchFiend    ×5
 
-Unidentified 13
-
-Zee's Red Jasper
-
-Gem of Nulgath x10
-
-Fiend Cloak of Nulgath
-
-Blood Gem of the ArchFiend x5
-
-You'll need to turn in this quest 11 times if you want every item so I suggest stacking any reagents you can.
+  💡 Turn in this quest 11 times to obtain every item
+     Stack as many reagents as possible before starting
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
