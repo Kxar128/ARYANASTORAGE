@@ -1,0 +1,28 @@
+╔════════════════════════════════════╗
+
+   ELYSIUM
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 100               --> Refer to XP Guide
+  Must have Rank 10 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have completed "Awe-scention" quest --> Refer to Awe-scention Guide
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  Bones from the Void Realm  ×15  --> /join shadowfall --> NSoD Shop
+                                      --> Merge 750 Bone Dust + 750 Void Aura
+
+  Blademaster Sword Scroll   ×1   --> /join darkally
+                                      --> Accept "The Path to Power" Quest
+                                      OR
+                                      --> Accept "Legion Sword Training" Quest
+
+  Archfiend Essence Fragment ×3   --> /join tercessuinotlim
+                                      --> Accept "Nulgath Demands Work" from Oblivion (NPC) in Room 1
+
+  The Divine Will            ×1   --> /join celestialpast --> Kill Azalith
+╰──────────────────────────────────╯
