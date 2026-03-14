@@ -1,52 +1,55 @@
-Requirements
+╔════════════════════════════════╗
 
-Level 80
+  HOLLOWBORN OBLIVION BLADE
 
-ArchFiend Enchanted Orbs
-Use the Reagent Library to obtain the following:
+╚════════════════════════════════╝
 
-Diamond of Nulgath x150
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 80
 
-Unidentified 25
+  ArchFiend Enchanted Orbs (merge before starting main quest):
+  ╭──────────────────────────────────╮
+    Diamond of Nulgath     ×150    --> See Reagent Library
+    Unidentified 25        ×1      --> See Reagent Library
+    Unidentified 13        ×1      --> See Reagent Library
+    Voucher of Nulgath (non-mem) ×1 --> See Reagent Library
+    Blood Gem of the ArchFiend ×10 --> See Reagent Library
+  ╰──────────────────────────────────╯
 
-Unidentified 13
+  Then complete Lae's "Let's Make a Deal" quest at /join tercessuinotlim:
+  --> Defeat Inquisitor Guards at /join citadel for ×100 Fresh Souls (stacks to 350)
+  --> Accept Uni 36 drops too (stacks to 3)
+  --> Merge the ArchFiend Enchanted Orbs in Lae's shop
+╰──────────────────────────────────╯
 
-Voucher of Nulgath (non-mem)
+⚔️ QUEST
+╭──────── Lae's "Summoning and Stuff" quest from /join tercessuinotlim ────────╮
+  ⚠️ Requires another Voucher of Nulgath (non-mem) to accept
 
-Blood Gem of the ArchFiend x10
+  From Reagent Library:
+  ╭──────────────────────────────────╮
+    Unidentified 13        ×1
+    Diamond of Nulgath     ×500
+    Unidentified 25        ×1
+    ArchFiend's Favour     ×1,000
+    Blood Gem of the ArchFiend ×50
+  ╰──────────────────────────────────╯
 
-Then, go to Lae at /tercessuinotlim and complete his "Let's Make a Deal" quest for 100 Fresh Souls (stacks to 350). Just defeat Inquisitor Guards at /citadel and make sure to accept the Uni 36s that drop too (stacks to 3).
-Then, go back to Lae and merge the weapon in his shop.
-
-Quest
-
-After obtaining the ArchFiend Enchanted Orbs, you can start the "Summoning and Stuff" quest from Lae. However, you need another Voucher of Nulgath (non-mem) to accept it. After, obtain the following and turn in the quest:
-
-Use the Reagent Library for these reagents:
-
-Unidentified 13
-
-Diamond of Nulgath x500
-
-Unidentified 25
-
-ArchFiend's Favour x1000
-
-Blood Gem of the ArchFiend x50
-
-Then, obtain these reagents:
-
-Diabolical Minion's Seed
-Defeat Diabolical Warlord at /lostruinswar (located at end of map).
-
-4th Dimension Gem
-Complete Anubyx's "Bring the Pain" quest by defeating enemies at /blackholesun.
-
-Celestial Seal
-Defeat the Blessed Dragon at /goldenarena. If you can't access it, complete Aranx's "Greenguard Champion Badge" quest by defeating the Greenguard Dragon at /greendragon. If you complete all the quests here, you'll earn a character page badge.
-
-Death's Power
-Defeat Death at /shadowattack (located at end of map). If you've been to Death before by completing the quick storyline from /shadowrise > /shadowattack, you can click on the NPC's Battle Death Again button for a teleport.
-
-Fresh Soul x350 & Unidentified 36
-Complete Lae's "Let's Make a Deal" quest by defeating Inquisitor Guards at /citadel.
+  Additional reagents:
+  ╭──────────────────────────────────╮
+    Diabolical Minion's Seed        --> /join lostruinswar (Kill Diabolical Warlord — end of map)
+    4th Dimension Gem               --> Complete Anubyx's "Bring the Pain" quest
+                                       Kill enemies at /join blackholesun
+    Celestial Seal                  --> /join goldenarena (Kill Blessed Dragon)
+                                       If inaccessible: complete Aranx's "Greenguard Champion Badge"
+                                       quest by killing the Greenguard Dragon at /join greendragon
+                                       💡 Completing all quests here earns a character page badge
+    Death's Power                   --> /join shadowattack (Kill Death — end of map)
+                                       💡 If Death already killed: talk to Death's Dealer NPC
+                                       and click "Battle Death Again" for a teleport
+    Fresh Soul             ×350 &
+    Unidentified 36        ×1      --> Complete Lae's "Let's Make a Deal" quest
+                                       Kill Inquisitor Guards at /join citadel
+  ╰──────────────────────────────────╯
+╰──────────────────────────────────╯
