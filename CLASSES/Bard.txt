@@ -1,25 +1,33 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║                BARD                  ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes — early game.
 
-- Yes (early game)
+  Best Used For:  🤝 Buffing & Support
+  ℹ️  Note ·······  Early game version of StoneCrusher
 
-Uses
+  Requirements:   Rank 4 Mythsong
 
-- Early game version of Stonecrusher
 
-Best For: Buffing and support
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Requirements
+  ⚔️  Weapon ········  Valiance
+                       Arcana's Concerto
 
-- Rank 4 Mythsong
+  🪖 Helm ··········  Forge
 
-ENHANCEMENTS
+  🧣 Cape ··········  Absolution
 
-Weapon - Valiance | Arcana's Concerto
-Helm - Forge
-Cape - Absolution
 
-COMBOS
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- Just Spam
+  ✅ Main Rotation ··  Just spam
