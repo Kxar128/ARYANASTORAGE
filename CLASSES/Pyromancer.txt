@@ -1,23 +1,35 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             PYROMANCER               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you want a mid-level soloing class and plan on eventually upgrading to Blaze Binder.
+  Worth Getting?
+  ──────────────
+  Yes — if you want a mid-level soloing class and plan to eventually upgrade to Blaze Binder.
 
-Uses
-Good For: Soloing
+  Best Used For:  ⚔️  Soloing
 
-Enhancement
-Wizard + Spiral Carve
-Enhancements guide
+  Requirements:   Storyline: /volcano > /xantown > /xancave
 
-Requirements
 
-Storyline Completion
-This includes /volcano > /xantown > /xancave.
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
 
-Quest
+  → Merge from Warlic at /join xancave
 
-Merge from Warlic in /xancave. This requires:
+  Shurpu Blaze Token ×84
+  ────────────────────────
+  → Complete Warlic's daily quest "Shurpu Blaze Token"
+  → Defeat the Shurpu Ring Guardian at the bottom of the map
+  → Non-Members: 7 days  |  Members: 5 days (bonus token quest)
 
-Shurpu Blaze Token x84
-Complete Warlic's daily quest "Shurpu Blaze Token" by defeating the Shurpu Ring Guardian, which is located at the bottom of the map. In total, this will take 7 days for non-members and 5 days for members as they have a quest that rewards more tokens.
+
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Wizard
+
+  ⚔️  Weapon ········  Spiral Carve
