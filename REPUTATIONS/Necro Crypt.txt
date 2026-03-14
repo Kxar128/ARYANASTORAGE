@@ -1,9 +1,12 @@
-/join dragonrune
+╔════════════════════════════════════╗
 
-Accept "Help Professor Mueran" quest from "Mueran (NPC)"
+   NECRO CRYPT
 
-/join shadowfall
+╚════════════════════════════════════╝
 
-UP - MIDDLE RIGHT - RIGHT - MIDDLE UP
-
-Kill mobs in that room
+⚔️ QUEST
+╭──────── "Help Professor Mueran" from Mueran (NPC) @ /join dragonrune ────────╮
+  /join shadowfall
+  --> Navigate: up > middle-right > right > middle-up
+  --> Defeat enemies in that room
+╰──────────────────────────────────╯
