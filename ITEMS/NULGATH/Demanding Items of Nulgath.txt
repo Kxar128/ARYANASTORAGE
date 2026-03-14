@@ -1,17 +1,28 @@
-/join tercessuinotlim --> make your way to "NULGATH (NPC)" (Refer to TERCESSUINOTLIM / NULGATH - SKEW channel in Library server)
+╔════════════════════════════════════╗
 
-Press Quests --> Reward Quests --> Accept "Demanding Items of Nulgath" Quest
+   DEMANDING ITEMS OF NULGATH
 
-DragonFire of Nulgath x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+╚════════════════════════════════════╝
 
-Crimson Plate of Nulgath x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+📦 HOW TO ACCESS
+╭──────────────────────────────────╮
+  /join tercessuinotlim
+  --> Navigate to NULGATH (NPC)
+  --> Press Quests > Reward Quests
+  --> Accept "Demanding Items of Nulgath"
 
-Crimson Face Plate of Nulgath x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+  💡 See the Tercessuinotlim guide for navigation paths
+╰──────────────────────────────────╯
 
-Totem of Nulgath x 3 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+⚔️ QUEST REQUIREMENTS
+╭──────── "Demanding Items of Nulgath" ────────╮
+  DragonFire of Nulgath         ×1
+  Crimson Plate of Nulgath      ×1
+  Crimson Face Plate of Nulgath ×1
+  Totem of Nulgath              ×3
+  Behemoth Blade of Light       ×1
+  Behemoth Blade of Shadow      ×1
+  Legion Fenrir Rune            ×1
 
-Behemoth Blade of Light x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Behemoth Blade of Shadow x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Legion Fenrir Rune x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
