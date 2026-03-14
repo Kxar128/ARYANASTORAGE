@@ -1,133 +1,111 @@
-NORMAL RUNS
+╔════════════════════════════════╗
 
-Normal Comp :
+        ULTRA DARKON
 
-Decide who wants to DPS and who wants to Taunt, Enhancement Equipments will differ. 
+╚════════════════════════════════╝
 
-(if you're going dps, please use pots to see faster clear)
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  LoO   (non-negotiable)
+  LR    (non-negotiable)
+  Healer (PCM / STONECRUSHER)
+  DPS (AI / K.E / CSS / LC)
+╰──────────────────────────────────╯
 
-CLASSES:
-LR - Arcana/Elysium/Wiz Spiral(if don't got forge) - Wiz - Wiz - Penitence
+⚙️ GEAR SETUPS
+╭──────── LOO ────────╮
+  LUK class · Base Forge helm · Absolution · Aweblast
+╰──────── LR ────────╮
+  WIZ class · Pneuma helm · Lament · Arcana Concerto
+╰──────── HEALERS ────────╮
+  ArchPaladin       --> LUK class · Base Forge helm · Lament · Praxis
+                        uFate · uBattle · Feli Pot
+  Frostval Barbarian --> Fighter class · Anima helm · Absolution · Valiance
+                        Divine · uMight · Potent Honour
+  Stone Crusher     --> Fighter class · Anima helm · Absolution · Valiance
+                        Divine · uMight · Potent Honour
+  Paladin Chrono    --> Fighter class · Vim helm · Absolution · Valiance
+                        uBody · uBattle · Holey Cheese
+╰──────── DPS ────────╮
+  Guardian  --> LUK class · Vim helm · Penitence · Ravenous
+                uFate · uBattle · Feli Pot
+  CSS       --> LUK class · Base Forge helm · Penitence · Arcana Concerto / Valiance
+                uFate · uBattle · Feli Pot
+  AI        --> LUK class · Examen helm · Penitence · Ravenous
+                uFate · uBattle · Feli Pot
+  PhCM      --> LUK class · Examen helm · Penitence · Ravenous
+                uFate · uBattle · Feli Pot
 
-Stone Crusher/Legendary Hero/Frost Barbarian - Lacerate/Smite - Luck - Luck - Penitence
+  💡 Other DPS classes are welcome, but slow DPS in Phase 2 can give
+     your healer bad Haste — use recommended classes where possible
+╰──────── STANDARD COMP (with PCM) ────────╮
+  LR    --> Arcana / Elysium · WIZ · WIZ · Penitence
+  PCM   --> Ely / Rave / ManaVamp · Healer · Healer · Absolution / Penitence
+  LoO   --> Rave / Aweblast · LUK · LUK · Penitence
+  DPS   --> (any recommended class above)
+╰──────────────────────────────────╯
 
-LOO - Rave/Awe Blast - Wiz - Wiz - Penitence (if your LC has Rave, you should Aweblast) 
+🧪 POTIONS
+╭──────────────────────────────────╮
+  CAV / VDK / Sentinel    --> Potent Battle Elixir + Might Tonic + Potent Malice / Honour
+  LR / LoO / LC / SC      --> Potent Malevolence + Sage Tonic + Potent Malice / Honour
+  Constantly dying        --> Angelic Elixir + Body Tonic
+╰──────────────────────────────────╯
 
-LC - Rave/Valiance - Wiz - Wiz - Penitence 
+⚠️ BOSS MECHANICS
+╭──────── PHASE 1 — 22,222,222 HP to 15,555,555 HP ────────╮
+  Every auto applies -50% Hit Chance debuff (non-stackable)
+  Two mouth animations (Elegy) = Stun — these are tauntable
+  ⚠️ If still in Phase 1 at 72 seconds, Darkon begins one-shotting
+╰──────── PHASE 2 — 15,555,555 HP to 4,444,444 HP ────────╮
+  Every auto applies -22% Haste debuff (stackable)
+  Taunting mouth animations removes the Haste debuff
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Interchangeable Classes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-If a Party Mem has PCM you should be able to:
+  ⚠️ Taunting 2 mouth animations in a row = Crit Invert
+     (Crits on Darkon heal him · Heals damage the party)
+     STOP TAUNTING immediately if you have this debuff
 
-LR - Arcana/Elysium - Wiz - Wiz - Penitence
+  ⚠️ Taunting 3 mouth animations in a row = instant death
 
-PCM - Ely/Rave/ManaVamp - Healer - Healer - Absolute/Penitence
+  In Phase 2 Darkon cuts heals — healers must NOT heal simultaneously
+  or it will likely cause a party wipe
 
-LOO - Rave/Awe Blast - Luck - Luck - Penitence 
+  Once he reaches low HP, damage output increases significantly
+  and taunters no longer need to loop taunt
+╰──────── PHASE 3 — 20,000,000 HP to 0 ────────╮
+  Autos hit harder for the first 50 seconds
+  Taunting mouth animations now applies a mana cost debuff
+  The nuke now applies an 8-second DoT
+╰──────────────────────────────────╯
 
-(DPS CLASS) 
+🔢 AUTO / ELEGY PATTERN
+╭──────── STANDARD PATTERN (P1) ────────╮
+  Start Animation
+  Auto         --> LoO heal
+  Auto (T1)    --> AP / PCM heal
+  Elegy
+  Auto         --> LoO heal
+  Auto
+  Nuke (T2)    --> AP / PCM heal
+  Elegy
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Repeating pattern after opener:
+  Auto         --> LoO heal
+  Auto (T1)    --> AP / PCM heal
+  Elegy
+  Auto         --> LoO heal
+  Nuke (T2)    --> AP / PCM heal
+  Elegy
+╰──────── IF PHASE TRANSITION OCCURS DURING ELEGY ────────╮
+  Auto         --> AP / PCM heal
+  Auto (T1)    --> LoO heal
+  Elegy
+  Nuke         --> AP / PCM heal
+  Auto (T2)    --> LoO heal
+  Elegy
 
-Potions : 
-CAV/VDK/Sentinel:  Potent Battle Elixir + Might Tonic + Potent Malice/Honor Potion
-
-LR/LOO/LC/SC/Arcana Invoker: Potent Malevolence + Sage Tonic + Potent Malice/Honor Potion 
-
-If you're Constantly Dying: Angelic Elixir + Body Tonic 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Boss Mechanism :
-
-LR and SC will be Loop Taunting Darkon
-
-Loo - Spam your skills UNTIL 9m Mark. STOP USING 5 and wait for Darkon to reach 4.7M and then Spam your 5 ability
-
-LC - Please be aware of your party's health. If LOO is keeping up well with the heals then you should save yours for the big nukes that takes 1 player's HP to dirt poor.
-
-2nd Phase:
-
-Darkon will cut heals so healers will need to be cautious so they don't heal at the same time, otherwise it'll most likely be a party wipe.
-
-Once you get him to a certain amount of HP,  You will start doing alot more dmg and taunters won't have to loop taunt anymore. 
-
-Congratulations, you managed to beat Darkon this time
-
-COMPS:
-
-Loo and LR - Non negotiable in the comp and the taunters
-Healer
-DPS
-
-Loo - Luk class, base forge helm, absolution, aweblast
-LR - Wiz class, pnuema helm, lament, arcana concerto
-
-Healers: 
-Arch Paladin - Luk class, base forge helm, lament, praxis, uFate uBattle Feli pot
-Frostval Barbarian - Fighter class, anima helm, absolution, valiance, divine uMight potent honor potion
-Stone Crusher - Fighter class, anima helm, absolution, valiance, divine uMight potent honor potion
-Paladin Chronomancer - Fighter class, vim helm, absolution, valiance, uBody uBattle holey cheese
-
-DPS:
-Guardian - Luk class, vim helm, penitence, ravenous, uFate uBattle Feli pot
-CSS - Luk class, base forge helm, penitence, arcana concerto / valiance, uFate uBattle Feli pot
-AI - Luk class, examen helm, penitence, ravenous, uFate uBattle Feli pot
-PhCM - Luk class, examen helm, penitence, ravenous, uFate uBattle Feli pot
-
-These are recommended DPS classes if you want to try another DPS class you're welcome to. However you run the risk of giving your healer bad haste due to slow DPS in phase 2.
-
-MECHANICS:
-
-Phase 1: 22,222,222 HP to 15,555,555 HP
-Every auto he does applies a -50% debuff to hit chance (non stackable).
-If you're hit with 2 mouth animations (elegy) you will be stunned. These are tauntable.
-If it is 72 seconds (1 minute 12 seconds) into the fight and you are still in phase 1 he will start to one shot you.
-
-Phase 2: 15,555,555 HP to 4,444,444 HP
-Every auto he does applies a -22% haste debuff (stackable)
-Taunting the mouth animations will remove the haste debuff
-Taunting 2 mouth animations in a row will invert your outgoing crits (Crits dealt to Darkon will heal him and Heals you do will damage the party). STOP TAUNTING IF YOU HAVE THIS DEBUFF.
-Taunting 3 mouth animations is instant death
-
-Phase 3: 20,000,000 HP to 0 HP
-Autos hit harder up until 50 seconds into phase 3
-Taunting the mouth animations will now apply a mana cost debuff
-The nuke will now apply a DOT for 8 seconds.
-
-COUNTING AUTOS
-
-At the start of the fight Darkon will do this for his autos and Elegy pattern
-
-Start Animation
-Auto (Loo heal this auto)
-Auto (T1 taunt here)  (AP/PCM heal this auto)
-Elegy
-Auto (Loo heal this auto)
-Auto
-Nuke (T2 taunt here)  (AP/PCM heal this nuke)
-Elegy
-
-After this he'll do this pattern for the rest of p1:
-
-
-Auto (Loo heal this auto)
-Auto (T1 taunt here)  (AP/PCM heal this auto)
-Elegy
-Auto (Loo heal this auto)
-Nuke (T2 taunt here)  (AP/PCM heal this nuke)
-Elegy
-
-
-IF DARKON DOES A PHASE TRANSITION ANIMATION DURING AN ELEGY HE WILL CHANGE WHEN HE NUKES IN THIS CASE THE PATTERN WILL BE THIS:
-
-Auto (AP/PCM heal this auto)
-Auto (T1 taunt here)   (Loo heal this auto)
-Elegy
-Nuke   (AP/PCM heal this nuke)
-Auto (T2 taunt here)  (Loo heal this auto)
-Elegy
-
-The LOO heals don't necessarily need to follow this pattern as long as LOO does not double heal with AP you're fine. If you have PCM in the team LOO doesn't have to worry about healing you can spam your heals all you want on LOO.
-
-Ap needs to follow the healing guide.
+  💡 LoO doesn't need to follow this exactly — as long as LoO and AP
+     do NOT double-heal at the same time, you're fine
+  💡 If PCM is in the team, LoO can spam heals freely
+     AP must still follow the healing guide
+╰──────────────────────────────────╯
