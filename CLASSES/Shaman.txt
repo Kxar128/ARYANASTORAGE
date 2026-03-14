@@ -1,35 +1,45 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║               SHAMAN                 ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  🌾 Farming  |  ⚔️  Soloing
 
-Uses
+  Requirements:   Rank 10 Arcangrove
+  How to Get:     /join arcangrove  ·  Open merge shop
 
-- Farming
-- Soloing
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- Requires Rank 10 Arcangrove -- goto /join arcangrove (Open merge shop there)
+  🧿 Class ·········  Wizard  |  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Elysium
+                       Ravenous
 
-Class - Wizard | Luck
- 
-Weapon - Elysium | Ravenous
-Helm - Examen | Wizard | Base Forge
-Cape - Wizard | Absolution | Penitence | Vainglory
+  🪖 Helm ··········  Examen
+                       Wizard
+                       Base Forge
 
-COMBOS
+  🧣 Cape ··········  Wizard
+                       Absolution
+                       Penitence
+                       Vainglory
 
-- Soloing
 
-5 then cycle 2 - 3 (3 times) i.e 232323
-- repeat cycle
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-use 4 rarely
+  💡 Skill 4 ········  Use sparingly
 
-- Farming
+  ✅ Soloing ········  5  →  cycle  2 → 3  (×3)  i.e.  2·3·2·3·2·3
+                        → repeat cycle
 
-Spam 2 - 3
+  ✅ Farming ········  Spam  2 → 3
