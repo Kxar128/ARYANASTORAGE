@@ -1,25 +1,36 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║          CHRONO DATAKNIGHT           ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
-  
-Uses
+  Best Used For:  💥 Top Tier Nuke  (Instant one shot)
 
-- Top tier Nuke class (instant one shot)
-  
-Requirements
+  How to Get:     6,000 AC  →  /join heromart  (2015 Calendar)
 
-- 6000 (6k) AC's --> /join Heromart (2015 calendar)
 
-ENHANCEMENTS
-  
-Class - Luck
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Ravenous | Valiance
-Helm - Vim | Examen (Mana Problems)
-Cape - Vainglory
+  🧿 Class ·········  Luck
 
-COMBOS
+  ⚔️  Weapon ········  Ravenous
+                       Valiance
 
-Do your 4 skill them stack your 2 skill 4 times then do 4 - 3 - 2 - 2 - 5
+  🪖 Helm ··········  Vim
+                       Examen  (mana problems)
+
+  🧣 Cape ··········  Vainglory
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  4  →  stack  2  four times
+                        →  4 → 3 → 2 → 2 → 5
