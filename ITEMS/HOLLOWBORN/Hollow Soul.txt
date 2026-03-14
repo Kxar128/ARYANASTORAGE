@@ -1,16 +1,25 @@
-BEST WAY TO FARM HOLLOW SOUL
+╔════════════════════════════════╗
 
+        HOLLOW SOUL
 
-3 Ways:
+╚════════════════════════════════╝
 
-1. /join dawnsanctum --> Speak to Veronika (NPC) accept the "Nauthiz-realized" (legendary version gives double the amount.
+⚔️ FARMING METHODS
+╭──────── METHOD 1 ────────╮
+  /join dawnsanctum --> Speak to Veronika (NPC)
+  --> Accept "Nauthiz-realized" quest
+  💡 Legend version gives double the Hollow Souls per turn-in
+╰──────── METHOD 2 ────────╮
+  /join hbchallenge --> Speak to Vici (NPC)
+  --> Accept "Vile Valdostana" quest
+  --> Requires a party
 
-2. /join hbchallenge --> speak to Vici (NPC) --> Accept "Vile Valdostana" Quest --> Get a Party of friends
+  👥 RECOMMENDED COMPOSITIONS:
+  Solo   --> CaV (not recommended)
+  Duo    --> LoO + CSS (potted: UBE, UF, Feli)
+             Only viable with CSS or another fast-nuking Chrono class
+  3-Man+ --> LoO · LR · DPS · (fill with more DPS and supports)
 
-Comp: 
-
-Solo: CaV (Not recommended) 
-Duo: LoO, CSS (Potted, UBE, UF, Feli)(only viable with CSS or another fast nuking chrono) 
-3 man+: LoO, LR, DPS..... Just fill more DPS and supports for 3 to 7 man
-
-recommended supports: LoO, LR, AF, VDK, QCM, AP, LH, FB, SC
+  Recommended supports:
+  LoO · LR · AF · VDK · QCM · AP · LH · FB · SC
+╰──────────────────────────────────╯
