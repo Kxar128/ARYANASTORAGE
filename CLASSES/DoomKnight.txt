@@ -1,27 +1,34 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             DOOMKNIGHT               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  No — there are better versions available.
 
-- No, there are better versions
+  Also OK For:    ⚔️  Decent Soloing
 
-Uses
+  Requirements:   Rank 5 Evil  |  Rank 10 Warrior  |  Rank 10 Healer
 
-- decent soloer
-  
-Requirements
-  
-- Rank 5 Evil reputation
-- Rank 10 Warrior Class
-- Rank 10 Healer Class
 
-ENHANCEMENTS
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Weapon - Valiance | Dauntless
-Helm - Anima
-Cape - Vainglory
+  ⚔️  Weapon ········  Valiance
+                       Dauntless
 
-COMBOS
+  🪖 Helm ··········  Anima
 
-2 - 3 - 5 - 4
+  🧣 Cape ··········  Vainglory
 
-max out 2 for stacks for the buffs
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 2 ········  Stack to max for buffs before using other skills
+
+  ✅ Main Rotation ··  2 → 3 → 5 → 4
