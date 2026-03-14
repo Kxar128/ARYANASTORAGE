@@ -1,0 +1,45 @@
+╔════════════════════════════════════╗
+
+   DAUNTLESS
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 100
+  Must have Rank 10 Blacksmithing
+  Must have completed "Build Malgor's Armor Set" or "Malgor, The First Speaker" quest
+  Must have the following in your inventory:
+    · Infernal Flame Pyromancer
+    · Malgor's ShadowFlame Blade
+    · Malgor the ShadowLord
+    · ShadowLord's Helm
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain: Infernal Flame Pyromancer
+╭──────── Merge at /join ultratyndarius ────────╮
+  Avatar Tyndarius Insignia  ×20  --> /join ultratyndarius --> Kill Ultra Tyndarius (4 daily kills)
+  Fire Avatar's Favor        ×75  --> /join fireavatar     --> Accept "Avatar's Rage" Quest
+  --> Produces Infernal Flame Pyromancer
+╰──────────────────────────────────╯
+
+✅ STEP 2 — Obtain: Malgor's ShadowFlame Blade
+╭──────── Merge shop at /join ultraspeaker ────────╮
+  Malgor Insignia        ×20  --> /join ultraspeaker --> Weekly quest
+  ShadowFlame Dragon Blade×1  --> /join manacradle  --> Kill Malgor
+  Elemental Core         ×20  --> /join manacradle  --> Farm quest
+  --> Produces Malgor's ShadowFlame Blade
+╰──────────────────────────────────╯
+
+✅ STEP 3 — Obtain: Malgor The ShadowLord & ShadowLord's Helm
+╭──────────────────────────────────╮
+  /join manacradle --> Accept "Build Malgor's Armor Set" Quest
+  --> Rewards both Malgor The ShadowLord and ShadowLord's Helm
+╰──────────────────────────────────╯
+
+✅ STEP 4 — Final Merge
+╭──────────────────────────────────╮
+  Malgor Insignia              ×5   --> /join ultraspeaker
+  Avatar Tyndarius Insignia    ×10  --> /join ultratyndarius
+  --> Produces Dauntless
+╰──────────────────────────────────╯
