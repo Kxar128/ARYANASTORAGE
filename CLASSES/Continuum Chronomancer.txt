@@ -1,26 +1,35 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║       CONTINUUM CHRONOMANCER         ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
-  
-Uses
+  Best Used For:  🤝 Great Chrono Support Class
 
-- Great chrono support class
-  
-Requirements
+  How to Get:     6,000 AC  →  /join heromart  (2022 Calendar)
 
-6000 (6K AC) - /join heromart (2022 Calendar)
 
-ENHANCEMENTS
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Class - Luck
+  🧿 Class ·········  Luck
 
-Weapon - Ravenous | Dauntless
-Helm - Forge
-Cape - Vainglory
+  ⚔️  Weapon ········  Ravenous
+                       Dauntless
 
-COMBOS
+  🪖 Helm ··········  Forge
 
-3 - 2 - 2 - 3 - 2 - 2 - 4 - 5
-repeat cycle
+  🧣 Cape ··········  Vainglory
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  3 → 2 → 2 → 3 → 2 → 2 → 4 → 5
+                        → repeat cycle
