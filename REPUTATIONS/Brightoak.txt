@@ -1,32 +1,33 @@
-Uses
+╔════════════════════════════════╗
 
-Class
-StoneCrusher.
+         BRIGHTOAK
 
-Quests
+╚════════════════════════════════╝
 
-Everyone
+🏆 USES
+╭──────────────────────────────────╮
+  Class --> StoneCrusher
+╰──────────────────────────────────╯
 
-Complete the Brightoak storyline. This includes /rivensylth > /elfhame > /darkheart > /gaiazor.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete the Brightoak storyline:
+  --> /join rivensylth > /join elfhame > /join darkheart > /join gaiazor
+╰──────── MEMBER + NON-MEM ────────╮
+  Recommended: Spirit of Aven Greywhorl's "Defeat the Guardian Spirit"
+  quest from /join elfhame — very fast in a group or at high level
 
+  ─────────────────────────────────
+  Alternative: Ælfred's "Night in Shining Armour" quest from /join rivensylth
 
-
-Member + Non-Mem
-
-I recommend doing the Spirit of Aven Greywhorl's "Defeat the Guardian Spirit" quest from /elfhame. This will be very fast in a group or if you're high level.
-
-Otherwise, complete Ælfred's "Night in Shining Armour" quest from /rivensylth.
-
-Select Evil and Chaos from Novus Bitterglow at the start of the map.
-
-Equip the Temp Owl from your Temporary Inventory (click scroll button from bottom-right) then take top-left path and accept the "Night in Shining Armour" quest.
-
-Then go back and equip Temp Fox. Take the path to the right into the caves.
-
-Farm the screen with 3 enemies and turn in the quest when you've got 10/10.
-
-Dailies
-
-Member Only
-
-Complete Aven Greywhorl's "Fungi for a Fun Guy" quest from /brightoak by defeating Grove Spores. From the starting screen, walk left>right x2>up to find Aven.
+  1. Select Evil and Chaos from Novus Bitterglow at the start of the map
+  2. Equip the Temp Owl from your Temporary Inventory
+     (click scroll button, bottom-right) then take top-left path
+     and accept the "Night in Shining Armour" quest
+  3. Return and equip Temp Fox, then take the path right into the caves
+  4. Farm the screen with 3 enemies and turn in at 10/10
+╰──────── DAILIES — MEMBER ONLY ────────╮
+  Complete Aven Greywhorl's "Fungi for a Fun Guy" quest from /join brightoak
+  --> Defeat Grove Spores
+  --> From starting screen: walk left > right ×2 > up to find Aven
+╰──────────────────────────────────╯
