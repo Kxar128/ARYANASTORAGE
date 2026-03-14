@@ -1,36 +1,42 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║      SAVAGE GLACERAN WARLORD         ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  🤝 Support
 
-Uses
-
-- Support
-
-Requirements
-
-- Seasonal (February)
-
-ENHANCEMENTS
-
-Class - Lucky
-
-Weapon -  Dauntless | Valiance
-Helm - Base Forge | Anima
-Cape -  Vainglory | Penitence
-
-COMBOS
+  ⚠️  Seasonal:   February
 
 
-- Combo: [232 - 242 - 25 - 32]
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- [2] Changes your skills
+  🧿 Class ·········  Luck
 
-- [3] and [4] are attacks that debuff
+  ⚔️  Weapon ········  Dauntless
+                       Valiance
 
-- [5] is your heal
+  🪖 Helm ··········  Base Forge
+                       Anima
 
-- Use [5] with Frozen Heart buff for massive heal over time
+  🧣 Cape ··········  Vainglory
+                       Penitence
 
-- Use [5] without Frozen Heart buff for massive single heal and various buffs
+
+╔══════════════════════════════════════╗
+║     SKILL BREAKDOWN & COMBOS         ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 2 ········  Changes your other skills
+  💡 Skill 3 & 4 ···  Attacks that debuff the enemy
+  💡 Skill 5 ········  Heal — two versions depending on buff state:
+                        With Frozen Heart buff  →  Massive Heal over Time
+                        Without Frozen Heart    →  Massive single heal + various buffs
+
+  ✅ Main Rotation ··  2·3·2 → 2·4·2 → 2·5 → 3·2
