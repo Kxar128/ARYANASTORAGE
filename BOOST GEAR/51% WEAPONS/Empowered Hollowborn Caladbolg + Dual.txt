@@ -1,23 +1,32 @@
-Pre-requirements
+╔════════════════════════════════╗
 
-Complete "HOLLOWBORN LICH KING" farm in ITEMS / HOLLOWBORN channel
-Complete "Empowered Caladbolg + Dual" farm in BOOST (%) WEAPONS / 51 WEAPONS channel
+   EMPOWERED HOLLOWBORN
+     CALADBOLG + DUAL
 
-1. Place Altar of the Hollowborn Caladbolg in your house
+╚════════════════════════════════╝
+
+📦 Pre-Requirements
+
+Complete "Hollowborn Lich King" farm --> (See ITEMS / HOLLOWBORN channel)
+Complete "Empowered Caladbolg + Dual" farm --> (See BOOST % WEAPONS / 51 WEAPONS channel)
+
+Place Altar of the Hollowborn Caladbolg in your house
 --> Click it
---> Accept " Pay Homage to Caladbolg (Again)" Quest
+--> Accept "Pay Homage to Caladbolg (Again)" quest
 --> /join hbchallenge --> Kill "The Darkdweller" in the last room
 
-Complete the quest until you have singular and dual version of "Hollowborn Caladbolg"
+Complete the quest until you have both singular and dual "Hollowborn Caladbolg"
 
-2. /join Ultradage
+⚔️ EMPOWERED HOLLOWBORN CALADBOLG
+╭──────── MERGE REQUIREMENTS ────────╮
+  Empowered Caladbolg    ×1
+  Hollowborn Caladbolg   ×1
+╰────────────────────────────────────╯
 
-For singular version merge the following:
+🗡️ EMPOWERED DUAL HOLLOWBORN CALADBOLGS
+╭──────── MERGE REQUIREMENTS ────────╮
+  Empowered Dual Caladbolgs    ×1
+  Dual Hollowborn Caladbolgs   ×1
+╰────────────────────────────────────╯
 
-- Empowered Caladbolg
-- Hollowborn Caladbolg
-
-For the dual version merge the following:
-
-- Empowered Dual Caladbolgs
-- Dual Hollowborn Caladbolgs
+➡️ Head to /join Ultradage --> Complete the merge
