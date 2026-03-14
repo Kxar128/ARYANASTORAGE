@@ -1,27 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║   OBSIDIAN PALADIN CHRONOMANCER      ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  🛡️  Tanking  |  💚 Heals over Time
+  ℹ️  Note ·······  Overpowered version of StoneCrusher
 
-Uses
+  How to Get:     6,000 AC  →  /join heromart  (2023 Calendar)
 
-- Overpowered version of Stonecrusher
-- Heals over time
-- Tanking
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- 6000 (6k AC) --> /join heromart (2023 calendar)
+  🧿 Class ·········  Fighter
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Mana Vamp
+                       Valiance
 
-Class - Fighter
+  🪖 Helm ··········  Healer
+                       Hearty
 
-Weapon - Mana Vamp | Valiance
-Helm - Healer | Hearty
-Cape -  Vainglory
+  🧣 Cape ··········  Vainglory
 
-COMBOS
 
-Press 4 then 2 and 3. Make sure you stack 2, 4 times before nuking with 5
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 2 ········  Stack ×4 before nuking with Skill 5
+
+  ✅ Main Rotation ··  4 → 2 → 3  →  stack  2  four times  →  5
