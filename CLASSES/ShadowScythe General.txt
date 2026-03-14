@@ -1,28 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║        SHADOWSCYTHE GENERAL          ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes — great for 5+ monster farms.
 
-- Yes, great 5+ monster farm
+  Best Used For:  🌾 Farming
 
-Uses
+  How to Get:
+  ─────────────
+  → /join lightguardwar  ·  Kill "Sigrid Sunshield"  ·  Collect 100 Shadow Shield
+  → /join shadowfall  ·  Speak to Gravelyn
 
-- Farming
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- /join lightguardwar --> Kill "Sigrid Sunshield" --> collect 100 Shadow Shield
-- /join shadowfall --> Goto Gravelyn
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Smite
 
-Class - Luck
+  🪖 Helm ··········  Forge
 
-Weapon - Smite
-Helm - Forge
-Cape - Vainglory
+  🧣 Cape ··········  Vainglory
 
-COMBOS
 
-- 2 - 3 - 4 Spam
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- use 5 depending on how aggressive you are allowed to be
+  💡 Skill 5 ········  Use depending on how aggressive the fight allows
+
+  ✅ Main Rotation ··  2 → 3 → 4  (spam)
