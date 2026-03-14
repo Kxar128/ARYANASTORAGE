@@ -1,0 +1,84 @@
+╔════════════════════════════════╗
+
+    HOLLOWBORN LICH KING
+
+╚════════════════════════════════╝
+
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 95
+  Lae's Hardcore Contract (see Step 0 if you don't have it)
+  Undead Champion (Armor)          --> Requires Legion membership
+
+  Start from /join hollowdeep
+╰──────────────────────────────────╯
+
+📊 TOTAL RESOURCES NEEDED
+╭──────────────────────────────────╮
+  Soul Sand              ×30      (12 are used to make the 4 Soul Essence listed below)
+  Soul Fragment          ×168
+  Lich King Fragment     ×18
+  Legion Token           ×44,800
+  Exalted Crown          ×4
+  Revenant Spellscroll   ×4
+  Conquest Wreath        ×4
+  Hollow Soul            ×4,200
+  Soul Essence           ×4
+  Undead Energy          ×8,400
+
+  For ×30 Soul Sand you additionally need:
+  Dark Token             ×2,400
+  Bone Dust              ×9,990
+  Dage's Favour          ×12,000
+  💡 Skip farming Soul Sand by doing Daily Exercise 5 and 6 from Dage
+     at /join underworld — rewards ×3 Soul Sand per day
+
+  Legion-locked items require Dage Insignias (×10 for Spellscroll/Wreath/Crowns)
+╰──────────────────────────────────╯
+
+⚔️ QUESTS
+╭──────── Step 0: Lae's Hardcore Contract (skip if already owned) ────────╮
+  Requires Level 65
+  ╭──────────────────────────────────╮
+    Soul Potion            ×1      --> /join alchemyacademy (Merge in Gebo shop)
+    Human Soul             ×50     --> /join noxustower (Kill General Goldhammer)
+    Fallen Soul            ×13     --> /join doomwood (Kill Undead Paladin)
+  ╰──────────────────────────────────╯
+╰──────── Step 1: "Draftless" ────────╮
+  ╭──────────────────────────────────╮
+    Legion Token           ×100    --> See Legion Token guide
+    Undead Energy          ×50     --> /join necrodungeon (Kill Dracolich Heads 1–5)
+    Hollow Soul            ×25     --> /join hbchallenge (Kill The Darkdweller)
+  ╰──────────────────────────────────╯
+╰──────── Step 2: "Flow Stress" ────────╮
+  ╭──────────────────────────────────╮
+    Legion Token           ×1,000  --> See Legion Token guide
+    Soul Sand              ×1      --> /join underworld
+                                       Accept "Another One Bites The Dust" from Vulcat NPC
+      Bone Dust            ×333    --> /join necroproject (Kill Imperial Noxus)
+      Dark Token           ×80     --> /join seraphicwardage (Turn in Medals quests)
+      Dage's Favour        ×400    --> /join underworld (Kill Bloodfiend in Room 8)
+    Soul Fragment          ×6      --> Repeat Step 1 for Soul Fragments
+  ╰──────────────────────────────────╯
+╰──────── Step 3: "Heat Treatment" ────────╮
+  ╭──────────────────────────────────╮
+    Legion Token           ×10,000 --> See Legion Token guide
+    Soul Fragment          ×24     --> Repeat Step 1
+    Lich King Fragment     ×6      --> Repeat Step 2
+    Soul Essence           ×1      --> /join underworld
+                                       Speak to Vulcat NPC > Merge shop
+                                       Merge Legion Bonfire house item
+      Legion Bonfire               --> 10,000 Legion Tokens + 5,000,000 Gold
+                                       Place in your house, click it, accept "Let It Burn" quest
+      ×1 Soul Essence = ×3 Soul Sand (see Soul Sand requirements above)
+  ╰──────────────────────────────────╯
+╰──────── Step 4: "Counterblow" ────────╮
+  ╭──────────────────────────────────╮
+    Exalted Crown          ×4      --> See Legion Revenant Class guide
+    Revenant's Spellscroll ×4      --> See Legion Revenant Class guide
+    Conquest Wreath        ×4      --> See Legion Revenant Class guide
+    Soul Essence           ×3
+    Soul Fragment          ×36     --> Repeat Step 1
+    Lich King Fragment     ×12     --> Repeat Step 2
+  ╰──────────────────────────────────╯
+╰──────────────────────────────────╯
