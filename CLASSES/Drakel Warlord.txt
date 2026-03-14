@@ -1,30 +1,43 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           DRAKEL WARLORD             ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  🛡️  Tanking  |  🤝 Support
 
-Uses
+  How to Get:
+  ─────────────
+  → Merge: Death Pit Arena Medal ×500
+  → OR purchase for 2,000 AC
 
-- Decent tank and support
-  - 2 skill reduces non true damage by 40% (great)
+  💡 Skill 2 Note ···  Reduces non-true damage by 40% — excellent for tanking
 
-Requirements
 
-- Merge the following:
-  - Death Pit Arena Medal acsmall.png x500
-or
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- 2000 AC
+  ⚔️  Weapon ········  Dauntless
+                       Valiance
 
-ENHANCEMENTS
+  🪖 Helm ··········  Vim
+                       Forge
 
-Weapon - Dauntless - Valiance
-Helm - Vim | Forge
-Cape - Vainglory | Penitence
+  🧣 Cape ··········  Vainglory
+                       Penitence
 
-COMBOS
 
-5 - 3 - 4 - 2 (stack 2) 
-- Repeat cycle
-spam 4 everytime it is up (primary way of getting mana back since its guaranteed crit on next 2 autos)
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 4 ········  Guaranteed crit on next 2 autos — primary way to recover mana
+  💡 Skill 2 ········  Stack repeatedly for damage reduction buff
+
+  ✅ Main Rotation ··  5 → 3 → 4 → 2  (stack Skill 2)  →  repeat cycle
+                        Spam  4  every time it comes off cooldown
