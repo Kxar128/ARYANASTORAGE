@@ -1,33 +1,45 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║         EXALTED HARBINGER            ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- YES
+  Best Used For:  💥 DPS
 
-Uses
+  How to Get:     Seasonal — Dage's Birthday (March)
+                  → Merge: Legion Token ×5,000
 
-- DPS
 
-Requirements
-- Seasonal (dage's birthday (March)) 
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- Merge the following:
-Legion Token x5,000
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Dauntless
+                       Ravenous
 
-Class - Luck
+  🪖 Helm ··········  Anima
 
-Weapon - Dauntless | Ravenous
-Helm - Anima
-Cape - Vainglory
+  🧣 Cape ··········  Vainglory
 
-COMBOS
 
-4(miss)-5(siphon)-2(crit)-3(heal) -- to deal damage.
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-5(siphon)-4(miss)-2(crit) -- do it repetitively when you are at a decent chunk of health (e.g. 700-1000). Can be done with or without 5.
+  💡 Skill 4 ········  Miss — causes enemy to miss attacks
+  💡 Skill 5 ········  Siphon — drains enemy stats
+  💡 Skill 2 ········  Crit — deals bonus damage
+  💡 Skill 3 ········  Heal — restores your HP
 
-4(miss)-3(heal)-3(heal) -- use when you're at low health. If you're more of a risk-taker, try 4(miss)-2(crit)-2(crit)-3(heal)
+  ✅ Main Rotation ··  5 → 4 → 2 → 2 → 3
 
-This should be the combo to usually use: 5-4-2-2-3
+  ✅ Low Health ·····  4 → 3 → 3
+                        Risk taker: 4 → 2 → 2 → 3
+
+  ✅ Mid Health ·····  5 → 4 → 2  (repeat)
