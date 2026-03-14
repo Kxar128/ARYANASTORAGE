@@ -1,0 +1,22 @@
+╔════════════════════════════════════╗
+
+   LACERATE
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 40               --> Refer to XP Guide
+  Must have Rank 5 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have completed "Hit Job" quest
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  Undead Plague Spear   --> /join graveyard      --> Kill Big Jack Sprat
+  Kuro's Wrath          --> /join river          --> Kill Kuro
+  Massive Horc Cleaver  --> /join warhorc        --> Accept "Massive Horc Cleaver" Quest from Robina (NPC)
+  Sword in the Stone    --> /join greenguardeast --> Accept "Landing Swords!" Quest from Tom Foolery (NPC)
+  Black Knight Orb      --> /join greenguardwest --> Accept "Hardly Suiting Armor" Quest from The Black Knight (NPC)
+  Forest Axe            --> /join greenguardwest --> Accept "Warm MILK" Quest from Insomniac Beauty (NPC)
+╰──────────────────────────────────╯
