@@ -1,45 +1,54 @@
-Complete Sir Cole's quests at /timeinn. You can access each boss by clicking on the pin board to the right.  I recommend doing this in a group so that you can farm for:
+╔════════════════════════════════╗
 
-10 Exalted Forgementals
-Defeat Ezrajal at the Antechamber.
+   EXALTED APOTHEOSIS
+        + DUAL
 
-10 Exalted Relic Pieces
-Defeat The Warden at the Reliquary.
+╚════════════════════════════════╝
 
-10 Exalted Artillery Shards
-Defeat The Engineer at The Apex.
+➡️ Head to /join timeinn --> Complete Sir Cole's quests
+--> Access each boss by clicking the pin board to the right
+--> Group recommended
 
-300 Exalted Nodes
+╔════════════════════════════════╗
+            PART 1
+╚════════════════════════════════╝
 
-Defeat Elementals at /timeinn (same room as Sir Cole).
+⚔️ INITIAL FARM (Sir Cole's Quests)
+╭──────── MERGE REQUIREMENTS ────────╮
+  Exalted Forgementals    ×10  --> /join timeinn (Kill Ezrajal at the Antechamber)
+  Exalted Relic Pieces    ×10  --> /join timeinn (Kill The Warden at the Reliquary)
+  Exalted Artillery Shards ×10 --> /join timeinn (Kill The Engineer at The Apex)
+  Exalted Nodes           ×300 --> /join timeinn (Kill Elementals - same room as Sir Cole)
+╰────────────────────────────────────╯
 
-Then you can purchase Apostate Alpha and Thaumaturgus Alpha from Sir Cole's Merge shop.
+➡️ Purchase Apostate Alpha and Thaumaturgus Alpha from Sir Cole's Merge shop
 
-From here you need to obtain Insignias from each Ultra version of these bosses.
+╔════════════════════════════════╗
+            PART 2
+╚════════════════════════════════╝
 
-In total you need:
+⚔️ INSIGNIA FARM (Daily Quests)
+╭──────── MERGE REQUIREMENTS ────────╮
+  Ezrajal Insignia  ×24  --> /join ultraezrajal (1 per day - Daily quest)
+  Warden Insignia   ×24  --> /join ultrawarden (1 per day - Daily quest)
+  Engineer Insignia ×16  --> /join ultraengineer (1 per day - Daily quest)
+  Exalted Nodes     ×300 --> /join timeinn (Kill Elementals)
 
-24 Ezrajal Insignias
-Clear /ultraezrajal.
+  NOTE: Drakath's and Drago's quests reset on Fridays and reward more Insignias
+  Complete all quests as often as possible
+╰────────────────────────────────────╯
 
-24 Warden Insignias
-Clear /ultrawarden.
+🔁 MERGE ORDER
+╭──────── MERGE REQUIREMENTS ────────╮
+  Apostate Alpha --> Omega --> Ultima
+  Thaumaturgus Alpha --> Omega --> Ultima
+  Exalted Unity --> Penultima --> Apotheosis
+╰────────────────────────────────────╯
 
-16 Engineer Insignias
-Clear /ultraengineer.
-
-300 Exalted Nodes
-Defeat Elementals
-
-You can only obtain 1 of each Insignia per day because they're daily quests (the same applies for Tyndarius at /ultratyndarius). Drakath's and Drago's quests can only be done once a week, which reset on Fridays, but also reward more Insignias. Do each quest as often as you can.
-
-
-As you obtain the reagents from above, merge the weapons in this order:
-
-Apostate Alpha > Omega > Ultima
-
-Thaumaturgus Alpha > Omega > Ultima
-
-Exalted Unity > Penultima > Apotheosis
-
-You can merge this weapon into the dual version with 14 additional insignias of each Ultra boss. Just remember to get the singular version back from your Buy Back in account manager.
+🗡️ DUAL VERSION
+╭──────── MERGE REQUIREMENTS ────────╮
+  Ezrajal Insignia  ×14  additional --> /join ultraezrajal
+  Warden Insignia   ×14  additional --> /join ultrawarden
+  Engineer Insignia ×14  additional --> /join ultraengineer
+  NOTE: Retrieve singular version from Buy Back in Account Manager first
+╰────────────────────────────────────╯
