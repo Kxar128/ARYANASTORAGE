@@ -1,22 +1,27 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║            SWORDMASTER               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you're looking for a dodge-based soloing class and you do not have Yami no Ronin.
+  Worth Getting?
+  ──────────────
+  Yes — if you want a dodge-based soloing class and don't have Yami no Ronin.
 
-Uses
-Good For: Soloing (Dodge)
+  Best Used For:  ⚔️  Soloing  (Dodge)
 
-Enhancement
-Lucky (Offensive) or Thief (Defensive) + Spiral Carve
-Enhancements guide
+  Requirements:   Legion Member
+  How to Get:     Purchase for 2,000 Legion Tokens at /join underworld
 
-Requirement
+  ℹ️  Note ·······  SwordMaster is a duplicate of the Rare "BladeMaster" class.
+                    If you own that, you don't need this class.
 
-Legion Member
 
-Purchase
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Purchase for 2k Legion Tokens at /underworld.
+  🧿 Class ·········  Luck  (Offensive)
+                       Thief  (Defensive)
 
-SwordMaster is a duplicate of the Rare "BladeMaster" class. If you are an older player who owns that, you do not need this class.
-
+  ⚔️  Weapon ········  Spiral Carve
