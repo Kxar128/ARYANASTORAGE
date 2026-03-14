@@ -1,18 +1,39 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║            VAMPIRE LORD              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes.
+  Worth Getting?
+  ──────────────
+  Yes.
 
-Uses
-Good For: Farming
+  Best Used For:  🌾 Farming
 
-Enhancement
-Lucky + Health Vamp
-Enhancements guide
+  ⚠️  Seasonal:   October  (Mogloween event)
 
-Quest
+  ℹ️  Note ·······  Duplicate of the Rare "Enchanted Vampire Lord", "Royal Vampire Lord",
+                    and "Vampire" classes. If you own any of them, you don't need this.
 
-Complete Barnabus' "Blood Moon Token" quest from /mogloween in October. If you're a member, complete the member version. Merge the class with 300 Blood Moon Tokens.
-For the quest, simply defeat the Black Unicorn and Lycan Guard at /bloodmoon. Their drops stack to 100 each. Normally you'd have to complete the storyline here but you can also /goto someone who's at those enemies.
 
-Vampire Lord is a duplicate of the Rare "Enchanted Vampire Lord", "Royal Vampire Lord", and "Vampire" classes. If you are an older player who owns any of them, you do not need this class.
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
+
+  → /join mogloween  ·  Accept Barnabus' "Blood Moon Token" quest
+  → Members: complete the member version for more tokens
+  → Merge the class with 300 Blood Moon Tokens
+
+  Blood Moon Token ×300
+  ──────────────────────
+  → /join bloodmoon  ·  Kill Black Unicorn + Lycan Guard (drops stack to 100 each)
+  → Can /goto someone at those enemies — storyline not required
+
+
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Luck
+
+  ⚔️  Weapon ········  Health Vamp
