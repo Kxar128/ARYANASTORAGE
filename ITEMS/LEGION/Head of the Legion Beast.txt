@@ -1,39 +1,57 @@
-Requirements
+╔════════════════════════════════╗
 
-Be a Legion Member
+   HEAD OF THE LEGION BEAST
 
-Storyline Completion
-This includes /sevencircles > /sevencircleswar.
+╚════════════════════════════════╝
 
-Merge
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Legion Membership (required)
 
-The Head of the Legion Beast is merged at /sevencircleswar. In total, you need the following:
+  Storyline Completion:
+  --> /join sevencircles > /join sevencircleswar
+╰──────────────────────────────────╯
 
-24k Legion Tokens
-See the guide on farming these. 
+📦 TOTAL MERGE REQUIREMENTS
+╭──────── Merged at /join sevencircleswar ────────╮
+  Legion Token           ×24,000 --> See Legion Token guide
+  Indulgence             ×60     --> /join sevencircles (see below)
+  Penance                ×60     --> /join sevencircleswar (see below)
+  Beast Soul             ×15     --> /join sevencircleswar (Kill The Beast — group recommended)
+╰──────────────────────────────────╯
 
-Indulgence x60
-Complete "Circles of Fate" at /sevencircles by defeating each type of Guard (Limbo, Avarice, Gluttony, and Luxuria).
+⚔️ FARMING
+╭──────── INDULGENCE ────────╮
+  Complete "Circles of Fate" at /join sevencircles
+  --> Defeat each type of Guard: Limbo · Avarice · Gluttony · Luxuria
+╰──────── PENANCE ────────╮
+  Merge at /join sevencircleswar
+  --> Click on Virgil at the top-right to open the shop
 
-Penance x60
-Merge these at /sevencircleswar. Access the shop by clicking on Virgil at the top-right. In total, you need:
+  Essence of Wrath       ×60     --> Accept "Guards of Wrath" from Virgil
+    (stacks to 300)                  Kill Wrath Guards
+                                     👥 Strong solo/group: Use "Wrath Against the Machine" quest
+                                     and kill the Wrath boss (faster)
 
-Essence of Wrath x60 - stacks to 300
-Accept "Guards of Wrath" from Virgil then defeat Wrath Guards.
-If you have a strong soloing class or you're in a group, defeat the Wrath boss with the "Wrath Against the Machine" quest accepted, which will be faster.
+  Essence of Violence    ×60     --> Accept "Meaningless Violence"
+    (stacks to 300)                  Kill Violence Guards
+                                     👥 Strong solo/group: Use "Violence" quest and kill the boss
 
-Essence of Violence x60 - stacks to 300
-Accept "Meaningless Violence" then defeat Violence Guards.
-If you have a strong soloing class or you're in a group, defeat the Violence boss with the "Violence" quest accepted.
+  Essence of Treachery   ×60     --> Complete "Where the Trea-sun Don't Shine"
+    (stacks to 50)                   Kill Treachery Guards
+                                     👥 Strong solo/group: Use "Hanged for Treason" quest
+                                     and kill the Treachery boss
 
-Essence of Treachery x60 - stacks to 50
-Complete "Where the Trea-sun Don't Shine" by defeating Treachery Guards.
-With a strong soloing class or group, defeat the Treachery boss with the "Hanged for Treason" quest accepted.
+  Souls of Heresy        ×900    --> Kill Wrath Guards and turn in War and Mega War Medals
+    (stacks to 300)                  at the top-right
+                                     💡 One of the best Gold farming methods in the game
+╰──────────────────────────────────╯
 
-Souls of Heresy x900 - stacks to 300
-Defeat Wrath Guards and turn in War and Mega War Medals at the top-right. This is also one of the best methods in the game for farming Gold.
-
-Beast Soul x15
-Obtain these from The Beast at /sevencircleswar - you'll need a group to do this efficiently.
-
-After you have all the above reagents, purchase the 3 Helms that cost Indulgence from the /sevencircles merge. Then, buy the 3 Helms that cost Penance from /sevencircleswar and merge them for the Helms of the Seven Circles misc item in the same shop. Now you can merge the Head of the Legion Beast.
+✅ FINAL STEPS
+╭──────────────────────────────────╮
+  1. Purchase the 3 Helms (cost: Indulgence) from /join sevencircles merge shop
+  2. Purchase the 3 Helms (cost: Penance) from /join sevencircleswar merge shop
+  3. Merge the 6 Helms into "Helms of the Seven Circles" misc item
+     (same shop at /join sevencircleswar)
+  4. Merge the Head of the Legion Beast
+╰──────────────────────────────────╯
