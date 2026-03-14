@@ -1,14 +1,25 @@
-Requirements:
+╔════════════════════════════════╗
 
-- Must be Level 95.
-- Must have "Ungodly Reavers of Nulgath" in your inventory (Refer to ITEMS / NULGATH (Juggernaut items file) channel in Library server)
+   EMPOWERED UNGODLY
+        REAVERS
 
-- Tainted Gem x 200 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-- Dark Crystal Shard x 100 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-- Diamond of Nulgath x 400 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-- Voucher of Nulgath (non-mem) (Refer to NULGATH ITEMS / MATERIALS channel in Library -Server)
-- Totem of Nulgath x 30 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
-- Gem of Nulgath x 80 (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+╚════════════════════════════════╝
 
-- Nulgath Insignia x 25
-	- /join Ultranulgath --> Complete the weekly quest	
+📦 Pre-Requirements
+
+Must be Level 95
+Must have "Ungodly Reavers of Nulgath" in inventory
+--> (Refer to ITEMS / NULGATH (Juggernaut items file) channel in Library server)
+
+⚠️ NOTE: Refer to NULGATH ITEMS / MATERIALS channel in Library Server for all materials below
+
+⚔️ EMPOWERED UNGODLY REAVERS
+╭──────── MERGE REQUIREMENTS ────────╮
+  Tainted Gem              ×200 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Dark Crystal Shard       ×100 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Diamond of Nulgath       ×400 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Voucher of Nulgath (non-mem) ×1 --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Totem of Nulgath         ×30  --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Gem of Nulgath           ×80  --> (Refer to NULGATH ITEMS / MATERIALS channel in Library Server)
+  Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
+╰────────────────────────────────────╯
