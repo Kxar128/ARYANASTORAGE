@@ -1,0 +1,17 @@
+╔════════════════════════════════════╗
+
+   PNEUMA
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 70               --> Refer to XP Guide
+  Must have Rank 7 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have Mage Rank 10 in your inventory
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  Ethereal Essence  ×650  --> /join towerofdoom (rooms 6-10) --> Kill any mob
+╰──────────────────────────────────╯
