@@ -1,34 +1,46 @@
-ULTRAGRAMIEL
+╔════════════════════════════════╗
 
-♛ ULTRA GRAMIEL ♛
+       ULTRA GRAMIEL
 
-Phase 1:
-2 classes alternates taunt on each cristal in the text: "The Grace Crystal prepares a defense shattering attack!"
+╚════════════════════════════════╝
 
-It can be something like:
- LR takes the first taunt on the left crystal 
- Shaman takes the first taunt on right crystal  
- SC takes the second taunt on left crystal 
- LoO takes the second taunt on right crystal 
+⚠️ BOSS MECHANICS
+╭──────── PHASE 1 ────────╮
+  Trigger: "The Grace Crystal prepares a defense shattering attack!"
+  --> 2 players alternate taunts on each crystal
 
-Everyone turns to attack Gramiel (mid Boss) when it says "Gramiel attempts to drain your power… break his guard!"
+  Example taunt assignment:
+  Left Crystal  → T1: LR · T2: SC
+  Right Crystal → T1: Shaman · T2: LoO
 
-*Note: Shaman should stack his skill 5 on Gramiel (mid Boss).
-*Note 2: LR shouldn't use his skill 2 on phase 1 (decay)
+  Trigger: "Gramiel attempts to drain your power… break his guard!"
+  --> Everyone switches to attack Gramiel (mid boss)
 
-Phase 2:
+  💡 Shaman should stack skill 5 on Gramiel (mid boss)
+  ⚠️ LR should NOT use skill 2 (Decay) in Phase 1
+╰──────── PHASE 2 ────────╮
+  DPS should call taunts by class name
+╰──────────────────────────────────╯
 
- DPS should call taunts by class 
-⚔️ Shaman Enhancements/Potions
-🛡️ Elysium, Wizard, Wizard, Vainglory
-⚗️ Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
-⚔️ StoneCrusher Enhancements/Potions
-🛡️ Valiance, Fighter/Hybrid, Anima, Absolution
-⚗️ Might Tonic, Divine Elixir, Scroll of Enrage
-⚔️ Legion Revenant Enhancements/Potions
-🛡️ Heath Vamp, Wizard, Wizard, Absolution
-⚗️ Sage Tonic, Potent Malevolence Elixir, Scroll of Enrage
-⚔️ Lord of Order Enhancements/Potions
-🛡️ Aweblast, Luck, base Forge, Penitence
-⚗️ Divine Elixir, Sage Tonic, Scroll of Enrage
-
+⚙️ GEAR SETUPS
+╭──────── SHAMAN ────────╮
+  Weapon --> Elysium
+  Helm   --> Wizard
+  Cape   --> Vainglory
+  Potions: Sage Tonic · Potent Malevolence Elixir · Scroll of Enrage
+╰──────── STONECRUSHER ────────╮
+  Weapon --> Valiance
+  Helm   --> Fighter / Hybrid · Anima
+  Cape   --> Absolution
+  Potions: Might Tonic · Divine Elixir · Scroll of Enrage
+╰──────── LEGION REVENANT ────────╮
+  Weapon --> Health Vamp
+  Helm   --> Wizard
+  Cape   --> Absolution
+  Potions: Sage Tonic · Potent Malevolence Elixir · Scroll of Enrage
+╰──────── LORD OF ORDER ────────╮
+  Weapon --> Aweblast
+  Helm   --> LUK · Base Forge
+  Cape   --> Penitence
+  Potions: Divine Elixir · Sage Tonic · Scroll of Enrage
+╰──────────────────────────────────╯
