@@ -1,0 +1,21 @@
+╔════════════════════════════════════╗
+
+   ARCANA'S CONCERTO
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 100                          --> Refer to XP Guide
+  Must have Rank 10 Blacksmithing            --> Refer to Blacksmithing Reputation Guide
+  Must have completed "Darkon, the Conductor" quest
+  Must have the following in your inventory:
+    · Prince Darkon's Poleaxe                --> Refer to Items/Other Guide
+    · Darkon's Debris 2 (Reconstructed)      --> Refer to Items/Other Guide
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  King Drago Insignia  --> /join ultradrago
+  Darkon Insignia      --> /join ultradarkon
+╰──────────────────────────────────╯
