@@ -1,23 +1,34 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           ARTIFACT HUNTER            ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth getting?
+  Worth Getting?
+  ──────────────
+  Yes — decent mid game DPS and easy to use.
 
-- yes, decent mid game dps and easy to use
+  Best Used For:  🌾 Farming
 
-How to get: 
+  How to Get:     Black Friday Seasonal Shop
 
-- Black Friday Seasonal Shop
 
-ENHANCEMENTS
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Artifact Hunter:
+  🧿 Class ·········  Luck
 
-Class - Luck
+  ⚔️  Weapon ········  Valiance
+                       Dauntless
 
-Weapon - Valiance | Dauntless
-Helm - Anima
-Cape - Vainglory
+  🪖 Helm ··········  Anima
 
-COMBOS
+  🧣 Cape ··········  Vainglory
 
-- Just Spam
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  Just spam
