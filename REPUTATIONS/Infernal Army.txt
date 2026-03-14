@@ -1,9 +1,17 @@
-Uses
+╔════════════════════════════════╗
 
-Cosmetics Only.
+       INFERNAL ARMY
 
-Quests
+╚════════════════════════════════╝
 
-Member + Non-Mem
+🏆 USES
+╭──────────────────────────────────╮
+  Cosmetics Only
+╰──────────────────────────────────╯
 
-Accept Malurach's "Get that Beetle" quest from /dreadfire (keep walking right to find them). Then select Megacerus and farm the enemy.
+⚔️ QUESTS
+╭──────── MEMBER + NON-MEM ────────╮
+  1. Accept Malurach's "Get that Beetle" quest from /join dreadfire
+     (keep walking right to find them)
+  2. Select Megacerus and farm the enemy
+╰──────────────────────────────────╯
