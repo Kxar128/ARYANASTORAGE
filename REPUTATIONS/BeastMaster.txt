@@ -1,16 +1,21 @@
-Uses
+╔════════════════════════════════╗
 
-Class
-BeastMaster.
+         BEAST MASTER
 
-Quests
+╚════════════════════════════════╝
 
-Member Only
+🏆 USES
+╭──────────────────────────────────╮
+  Class --> BeastMaster
+╰──────────────────────────────────╯
 
-Complete Faith's "Dark Creature Demands" quest from /northpointe by defeating Golden Draconians at /lair (exit left from /underlair then walk down>right x2) and Golden Scarabs at /pyramidpain.
-
-Dailies
-
-Member Only
-
-Complete Faith's "BeastMaster Challenge" quest from /northpointe by defeating the Purple Slime at /cellar (walk right > top-right).
+⚔️ QUESTS
+╭──────── MEMBER ONLY ────────╮
+  Complete Faith's "Dark Creature Demands" quest from /join northpointe
+  --> Defeat Golden Draconians at /join lair
+      (exit left from /join underlair then walk down > right ×2)
+  --> Defeat Golden Scarabs at /join pyramidpain
+╰──────── DAILIES — MEMBER ONLY ────────╮
+  Complete Faith's "BeastMaster Challenge" quest from /join northpointe
+  --> Defeat the Purple Slime at /join cellar (walk right > top-right)
+╰──────────────────────────────────╯
