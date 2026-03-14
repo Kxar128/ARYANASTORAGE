@@ -1,25 +1,34 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             TIMEKEEPER               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes — though personally this class sucks mega dek and bawls.
 
-- Yes, but my personal opinion is that this class sucks mega dek and bawls
+  Best Used For:  💥 DPS  |  ☠️  One Shots
 
-Uses
+  How to Get:     6,000 AC  →  /join heromart  (2013 Calendar)
 
-- DPS, one shots
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- 6000 (6K) AC's --> /join heromart (2013 calendar)
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Dauntless
+                       Lacerate
 
-Class - Luck
+  🪖 Helm ··········  Vim
 
-Weapon - Dauntless | Lacerate
-Helm - Vim
-Cape - Lament
+  🧣 Cape ··········  Lament
 
-COMBOS
 
-2-2-3-2-5-2-4
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  2 → 2 → 3 → 2 → 5 → 2 → 4
