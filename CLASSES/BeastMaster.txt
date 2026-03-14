@@ -1,27 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║            BEASTMASTER               ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-- Yes
+  Worth Getting?
+  ──────────────
+  Yes.
 
-Uses
-- Early - mid game soloing class
+  Best Used For:  ⚔️  Soloing  (Early–Mid Game)
 
-Best For: 
+  Requirements:   Rank 10 BeastMaster
+                  (Refer to BeastMaster reputation farming in Library server)
 
-- Soloing
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- Rank 10 Beastmaster (Refer to beastmaster reputation farming in Library server)
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Ravenous
+                       Smite
 
-Class - Luck
+  🪖 Helm ··········  Anima
 
-Weapon - Ravenous | Smite
-Helm - Anima
-Cape - Lament
+  🧣 Cape ··········  Lament
 
-COMBOS
 
-2 - 5 - 4 - 3 (Heal with 2) (Keep all your buffs active)
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 2 ········  Heals you — use to recover HP
+
+  ✅ Main Rotation ··  2 → 5 → 4 → 3
+                        Keep all buffs active at all times
