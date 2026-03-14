@@ -1,17 +1,23 @@
-Uses
+╔════════════════════════════════╗
 
-Cosmetics Only.
+       DEATH PIT ARENA
 
-Quests
+╚════════════════════════════════╝
 
-Everyone
+🏆 USES
+╭──────────────────────────────────╮
+  Cosmetics Only
+╰──────────────────────────────────╯
 
-Complete General Velm's quests at /deathpit. This is required to farm the optimal repeatable quests.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete General Velm's quests at /join deathpit
+  ⚠️ NOTE: Required to unlock the optimal repeatable quests
+╰──────── MEMBER + NON-MEM ────────╮
+  👥 GROUP / Strong solo class:
+  --> Accept General Velm's "Battle: You vs General Gall!" quest
+      Walk right ×2 and defeat General Gall
 
-
-
-Member + Non-Mem 
-
-If you're in a group or have a good soloing class, accept General Velm's "Battle: You vs General Gall!" quest. Then walk right twice and defeat General Gall.
-
-Otherwise, complete "Battle: You vs the Brawlers!".
+  Otherwise:
+  --> Complete "Battle: You vs the Brawlers!"
+╰──────────────────────────────────╯
