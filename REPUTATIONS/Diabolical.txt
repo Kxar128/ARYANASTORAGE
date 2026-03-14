@@ -1,46 +1,60 @@
-Uses
+╔════════════════════════════════╗
 
-Cosmetics Only.
+         DIABOLICAL
 
-Quests
+╚════════════════════════════════╝
 
-Member + Non-Mem
+🏆 USES
+╭──────────────────────────────────╮
+  Cosmetics Only
+╰──────────────────────────────────╯
 
-Choose your method:
+⚔️ QUESTS
+╭──────── MEMBER + NON-MEM ────────╮
+  Choose your method:
 
-Complete Hikari's Riddle Task quests from /banished by defeating the following enemies:
+  ─────────────────────────────────
+  METHOD 1: Hikari's Riddle Task quests from /join banished
+  (Faster per run, but requires ~3× more turn-ins)
 
-Unending Avatar at /timevoid (select Timevoid from Braeus' Fast Travel at /shadowfall).
+  Repeatable quest: Complete "The Third Task" by defeating all of the below:
 
-ChaosWeaver Warrior at /twilightedge (keep walking right).
+  Unending Avatar        --> /join timevoid
+                             (select Timevoid from Braeus' Fast Travel at /join shadowfall)
+  ChaosWeaver Warrior    --> /join twilightedge (keep walking right)
+  Tiger Leech            --> /join mudluk
+                             (walk left > right > up > left > up > up > click To Tiger Leech)
+                             If storyline not done: complete /join arcangrove > /join cloister
+                             > /join mudluk then unlock gate via:
+                             left > right (click red crystal) > up (click red crystal)
+                             > left > top-left > left (click red crystal) > right > up
+  Death Alive            --> /join deathsrealm (keep walking)
+                             If not accessible: complete quests at /join death > /join deathsrealm
+                             /join death locations: /join castleundead > /join river, /join lair,
+                             /join citadel, /join boxes, /join orecavern, /join creatures
+                             /join deathsrealm: /join bludrutbrawl or /join doomarena >
+                             /join deathsrealm ×2 > /join trainers > /join elemental >
+                             /join deathsrealm
+  Void Dragon            --> /join thevoid (keep walking right and back until spawn)
+  Desterrat Moya         --> /join banished
+                             If not accessible: complete Knave1's quests in same map
 
-This is the quest that you would repeatedly complete for this method. It's quicker than "Insomniacs" but requires almost 3x the amount of turn-ins.
-Tiger Leech at /mudluk. If you can't /goto someone, from the starting screen, walk left>right>up>left>up>up and click To Tiger Leech at the top-right.
-If you haven't done the storyline before, complete it from /arcangrove > /cloister > /mudluk. Then you can unlock the gate by walking from the starting screen: left>right (click red crystal in this room)>up (click red crystal)>left>top-left>left (click red crystal)>right>up.
+  ─────────────────────────────────
+  METHOD 2: Hikari's Diabolical quests from /join banished
+  (Slower per run, but fewer turn-ins — better for lower level players)
 
-Death Alive at /deathsrealm. If you can't /goto someone, complete the quests at /death > /deathsrealm. The locations for completing these quests are: 
-/death: /castleundead > /river, /lair, /citadel, /boxes, /orecavern, /creatures.
-/deathsrealm: /bludrutbrawl or /doomarena > /deathsrealm x2 > /trainers > /elemental > /deathsrealm.
+  Repeatable quest: Complete "Diabolical" by defeating all of the below:
 
-Void Dragon at /thevoid (keep walking right then back until you get this spawn).
-
-Desterrat Moya at /banished. If you can't /goto someone, complete Knave1's quests in the same map.
-
-
-
-Complete Hikari's Diabolical quests from /banished by defeating the following enemies:
-
-Eldritch Abomination at /transformation. Either /goto someone or complete Loremaster Anka's quests to access.
-
-Bonefeeder Spider at /blackhorn (walk up then continue right).
-
-Lightguard enemies at /noxustower (continue left to find 3).
-
-Ghostly Hasu at /aozorahills. Either /goto someone or complete Ai no Miko's and Mahou's quests to access.
-
-Purchase a Gold Voucher 100k from Alina's Get Dragon Runes shop at /alchemyacademy. Then trade it for the Vial of Antitoxins in her Buy Potions shop.
-
-Manifestation of Grief at /ghostnexus (located near the end of the map). Either /goto someone or complete the quests from /aozorahills > /ghostnexus to access.
-
-This is the quest that you would repeatedly complete for this method. It's slower than "The Third Task" but requires fewer turn-ins and is more easily completable by lower level players.
-Dream Larva at /somnia (walk up twice from the starting screen - there is no room with 2).
+  Eldritch Abomination   --> /join transformation
+                             (/goto someone OR complete Loremaster Anka's quests)
+  Bonefeeder Spider      --> /join blackhorn (walk up then continue right)
+  Lightguard enemies     --> /join noxustower (continue left to find 3)
+  Ghostly Hasu           --> /join aozorahills
+                             (/goto someone OR complete Ai no Miko's and Mahou's quests)
+  Vial of Antitoxins     --> Purchase Gold Voucher 100k from Alina's Get Dragon Runes
+                             shop at /join alchemyacademy, then trade it in her Buy Potions shop
+  Manifestation of Grief --> /join ghostnexus (near end of map)
+                             (/goto someone OR complete quests from /join aozorahills
+                             > /join ghostnexus)
+  Dream Larva            --> /join somnia (walk up ×2 from starting screen — no room with 2)
+╰──────────────────────────────────╯
