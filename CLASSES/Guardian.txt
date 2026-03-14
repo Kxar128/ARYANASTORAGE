@@ -1,29 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║              GUARDIAN                ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  🤝 DPS Support
 
-Uses
+  How to Get:     /join tower  ·  Guardian Shop
+                  ⚠️  Account must be verified with an AQ Guardian account
 
-- DPS Support
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- /join tower --> Guardian Shop -->  Your account must be verified with an AQ Guardian account to access this shop. Click Here to verify.
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Ravenous      (Group + Ultras + Solo)
+                       Spiral Carve  (if no Ravenous)
 
-Class - Luck
+  🪖 Helm ··········  Vim
 
-Weapon - Ravenous (Group + Ultras + Solo)
-Helm - Vim |
-Cape - Vainglory | Penitence
+  🧣 Cape ··········  Vainglory
+                       Penitence
 
-- Ravenous can be swapped for Spiral Carve (if you don't have Ravenous)
 
-COMBOS
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- Repeat 2- 3 - 2 - 5
+  ✅ Main Rotation ··  2 → 3 → 2 → 5  →  repeat cycle
 
-- Use [4] if you really need mana
+  💡 Skill 4 ········  Use only if you really need mana
