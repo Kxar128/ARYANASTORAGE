@@ -1,96 +1,77 @@
-Requirements
+╔════════════════════════════════════╗
 
-Rank 10 Evil
+   ARCHFIEND DOOMLORD
 
-Rank 7 Arcangrove
+╚════════════════════════════════════╝
 
-Unidentified 13
-Required to accept each quest. Use the Reagent Library.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Rank 10 Evil
+  Rank 7 Arcangrove
+  Unidentified 13  --> Required to accept each quest (Reagent Library)
+╰──────────────────────────────────╯
 
-Step 1
+⚔️ STEP 1 — Farm Unidentified 34s
+╭──────── "Willpower Extraction" @ /join tercessuinotlim ────────╮
+  Accept from Oblivion. Complete until you have 44 Unidentified 34s
+  --> Rewards 2, 4, 6, or 10 Uni 34s at equal rate
 
-Accept "Willpower Extraction" from Oblivion at /tercessuinotlim. If you haven't been here before, use the guide for it. You must complete this quest until you have 44 Unidentified 34s - it rewards 2, 4, 6, or 10 at an equal rate.
+  Shadow Lich                   ×1
+  Unidentified 19               ×1
+  Necrot                        ×5
+  Chaoroot                      ×5
+  Doomatter                     ×5
+  Mortality Cape of Revontheus  ×1
+  Essence of Nulgath            ×10
+  Facebreaker of Nulgath (Dagger) ×1
+  Mystic Tribal Sword           ×1
+  ArchFiend's Favour            ×50
+  King Klunk's Crown            ×1
+  Totem of Nulgath              ×1
 
-Use the Reagent Library for details on how to get the following items:
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Shadow Lich
+⚔️ STEP 2 — Obtain Unidentified 35
+╭──────── "Nulgath Demands Work" @ /join tercessuinotlim ────────╮
+  Accept from Oblivion. Complete 4 times
+  --> Unidentified 35 has a 30% drop chance
+  --> If not obtained in 4 tries: need 10 more Uni 34s per extra attempt
+  --> Save 4 Uni 34s for the final quest
+  💡 If very unlucky: merge 9 ArchFiend Essence Fragments at
+     Swindle's Ripoff Emporium in /tercessuinotlim for the Uni 35
 
-Unidentified 19
+  Unidentified 34               ×10
+  Unidentified 13               ×1     --> Farm a new one per attempt
+  Unidentified 27               ×1
+  Voucher of Nulgath            ×1
+  Gem of Nulgath                ×15
+  Dark Crystal Shard            ×30
+  Tainted Gem                   ×15
+  Diamond of Nulgath            ×10
+  Blood Gem of the ArchFiend    ×2
+  Golden Hanzo Void             ×1
 
-Necrot x5
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Chaoroot x5
+✅ STEP 3 — Final Merge
+╭──────── "Enough DOOM for an ArchFiend" @ /join tercessuinotlim ────────╮
+  Accept from Oblivion. Requires Uni 35, all 4 cosmetics from Step 2,
+  and a Nulgath's Approval (drops from /join evilwarnul) in your inventory
 
-Doomatter x5
+  Voucher of Nulgath (non-mem)  ×1
+  Essence of Nulgath            ×100
+  Undead Essence                ×1000
+  Chaorruption Essence          ×75
+  Essence Potion                ×5
+  ArchFiend's Favour            ×5000
+  Essence of Klunk              ×1
+  Blood Gem of the ArchFiend    ×10
+  Living Star Essence           ×100
+  Unidentified 34               ×4
+  Unidentified 35               ×1
+  Aelita's Emerald              ×1
 
-Mortality Cape of Revontheus
-
-Essence of Nulgath x10
-
-Facebreaker of Nulgath (Dagger)
-
-Mystic Tribal Sword
-
-ArchFiend's Favour x50
-
-King Klunk's Crown
-
-Totem of Nulgath
-
-Step 2
-
-Once you have 44 Uni 34s, you can begin "Nulgath Demands Work" from Oblivion. Complete it 4 times. The Unidentified 35 has a 30% chance to drop from the quest but if don't get it within 4 attempts, you'll need 10 more Unidentified 34s for every future attempt. Make sure to save 4 Uni 34s for the final quest. If you're very unlucky, you can merge 9 of the ArchFiend Essence Fragments to Swindle's Ripoff Emporium in /tercessuinotlim for the Uni 35.
-
-Use the Reagent Library for details on how to get the following items:
-
-Unidentified 34 x10
-
-Unidentified 13
-
-Unidentified 27
-
-Voucher of Nulgath
-
-Gem of Nulgath x15
-
-Dark Crystal Shard x30
-
-Tainted Gem x15
-
-Diamond of Nulgath x10
-
-Blood Gem of the Archfiend x2
-
-Golden Hanzo Void
-
-Since you use the Uni 13 in this quest, you'll need to farm a new one each time to accept the quest.
-
-Step 3
-
-Once you have a Uni 35, all 4 cosmetics from the previous quest, and a Nulgath's Approval (drops from /evilwarnul), you can begin "Enough DOOM for an ArchFiend" from Oblivion - make sure all the items are in your inventory so you can accept the quest.
-
-Use the Reagent Library for details on how to get the following items:
-
-Voucher of Nulgath (non-mem)
-
-Essence of Nulgath x100
-
-Undead Essence x1000
-
-Chaorruption Essence x75
-
-Essence Potion x5
-
-ArchFiend's Favour x5000
-
-Essence of Klunk
-
-Blood Gem of the Archfiend x10
-
-Living Star Essence x100
-
-Unidentified 34 x4
-
-Unidentified 35
-
-Aelita's Emerald
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
