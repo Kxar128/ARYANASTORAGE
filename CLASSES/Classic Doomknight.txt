@@ -1,12 +1,28 @@
+╔══════════════════════════════════════╗
+║                                      ║
+║         CLASSIC DOOMKNIGHT           ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-ENHANCEMENETS
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Class - Luck
+  🧿 Class ·········  Luck
 
-Weapon - Dauntless | Ravenous | Valiance
-Helm - Vim | Anima
-Cape - Vainglory | Avarice
+  ⚔️  Weapon ········  Dauntless
+                       Ravenous
+                       Valiance
 
-COMBO
+  🪖 Helm ··········  Vim
+                       Anima
 
-2345 234 2354 234
+  🧣 Cape ··········  Vainglory
+                       Avarice
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  2→3→4→5  |  2→3→4  |  2→3→5→4  |  2→3→4
