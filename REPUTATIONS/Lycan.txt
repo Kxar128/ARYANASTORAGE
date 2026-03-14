@@ -1,29 +1,43 @@
-Uses
+╔════════════════════════════════╗
 
-Class
-Lycan.
+           LYCAN
 
-Quests
+╚════════════════════════════════╝
 
-Member
+🏆 USES
+╭──────────────────────────────────╮
+  Class --> Lycan
+╰──────────────────────────────────╯
 
-Complete Malorie's "Lycan Membership Dues" quest from /collection.
+⚔️ QUESTS
+╭──────── MEMBER ────────╮
+  1. Complete Malorie's "Lycan Membership Dues" quest from /join collection
+  2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
+  3. Join /join collectorlab and defeat enemies there
+       Token Cs have a 70% drop rate and stack to 500
+  4. Merge Token Cs --> Token Bs --> Token As
+       in the Super Fan Token shop at /join collection
 
-Accept Drakath (Kid)'s "For Science" quest from /terrarium.
+  Rank 1–10 requires ×25 Token As with consumable Rep Boost + Cape of Awe
+  (or other 25% boost)
 
-Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
+╰──────── NON-MEM ────────╮
+  Very low level:
+  --> Farm Faopaw's "Bats of a Leather Flock Together" quest from /join lycan
+  --> Defeat Leatherwings at /join pines (walk down > right to find 2 alone)
 
-Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
 
-Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
+  If you don't yet have Rank 10 Loremaster:
+  --> Accept Arlen's "Studying the Blood Ancient" quest from /join classhall
+  --> Accept Constantin's "Sanguine" quest from /join lycan
+  --> Defeat Albino Bats at /join dwarfhold
+  --> /join wargrounds and exit upwards to defeat Sanguine
+  💡 Farms both Lycan and Loremaster simultaneously
 
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-
-
-Non-Mem
-
-If you're very low level, farm Faopaw's "Bats of a Leather Flock Together" quest from /lycan. Complete it by defeating Leatherwings at /pines - walk down>right to find 2 alone.
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-If you don't have Rank 10 Loremaster, accept Arlen's "Studying the Blood Ancient" quest from /classhall and Constantin's "Sanguine" quest from /lycan. For them, defeat the Albino Bats at /dwarfhold then join /wargrounds and exit upwards to defeat Sanguine. If you do have Rank 10 Loremaster, only farm "Sanguine".
+  If you already have Rank 10 Loremaster:
+  --> Only farm "Sanguine" from Constantin at /join lycan
+╰──────────────────────────────────╯
