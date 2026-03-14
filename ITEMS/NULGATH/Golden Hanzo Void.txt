@@ -1,17 +1,17 @@
-Reagents
+╔════════════════════════════════════╗
 
-Merge this armour in Diligas' Diamond shop at /evilwarnul.
+   GOLDEN HANZO VOID
 
-Use the Reagent Library for details on how to get the following items:
+╚════════════════════════════════════╝
 
-ArchFiend's Favour x200
+⚔️ MERGE REQUIREMENTS
+╭──────── Merged @ Diligas' Diamond shop in /join evilwarnul ────────╮
+  ArchFiend's Favour            ×200
+  Diamond of Nulgath            ×50
+  Tainted Gem                   ×30
+  Dark Crystal Shard            ×15
+  Nulgath's Approval            ×50
+  Voucher of Nulgath (non-mem)  ×1
 
-Diamond of Nulgath x50
-
-Tainted Gem x30
-
-Dark Crystal Shard x15
-
-Nulgath's Approval x50
-
-Voucher of Nulgath (non-mem)
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
