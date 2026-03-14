@@ -1,0 +1,32 @@
+╔════════════════════════════════════╗
+
+   AVARICE
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 90               --> Refer to XP Guide
+  Must have Rank 9 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Base Items
+╭──────────────────────────────────╮
+  Indulgence  --> /join sevencircles --> Accept "Circles of Fate" quest
+  Penance     --> /join sevencircleswar --> Open merge shop
+╰──────────────────────────────────╯
+
+✅ STEP 2 — Obtain Essences
+╭──────── All from /join sevencircleswar ────────╮
+  Essence of Wrath     --> "Wrath Against the Machine"
+  Essence of Violence  --> "Violence's Gatekeeper"
+  Essence of Treachery --> "Hanged for Treason"
+╰──────────────────────────────────╯
+
+✅ STEP 3 — Obtain Souls of Heresy
+╭──────── All from /join sevencircleswar ────────╮
+  Soul of Heresy  ×750  --> Complete the following quests:
+    · Blasphemy? Blasphe-you!
+    · Mega War Medals
+    · War Medals
+╰──────────────────────────────────╯
