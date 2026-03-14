@@ -1,22 +1,28 @@
-Requirements
+╔════════════════════════════════════╗
 
-Storyline Completion
-Complete the Memory of Nulgath's quests at /originul until you can reach the Fiend Champion, who you need to defeat until they drop the Yulgath's Hut house. You need the Hut to merge the Inn, which is an upgraded version.
+   YULGATH'S INN
 
-Reagents
+╚════════════════════════════════════╝
 
-Merge this house with the Yulgath Hut in Dirtlicker's shop at /archportal.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Storyline Completion:
+  --> Complete Memory of Nulgath's quests @ /join originul
+      until you can reach the Fiend Champion
+  --> Defeat the Fiend Champion until Yulgath's Hut drops
+  ⚠️ Yulgath's Hut is required to merge the Inn (upgraded version)
+╰──────────────────────────────────╯
 
-Use the Reagent Library for details on how to get the following items:
+⚔️ MERGE REQUIREMENTS
+╭──────── Merged @ Dirtlicker's shop in /join archportal ────────╮
+  Merge Yulgath's Hut + reagents below to create the Inn
 
-Unidentified 10 x400
+  Unidentified 10               ×400
+  Tainted Gem                   ×200
+  Dark Crystal Shard            ×250
+  Diamond of Nulgath            ×200
+  Unidentified 13               ×1
+  Voucher of Nulgath (non-mem)  ×1
 
-Tainted Gem x200
-
-Dark Crystal Shard x250
-
-Diamond of Nulgath x200
-
-Unidentified 13
-
-Voucher of Nulgath (non-mem)
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
