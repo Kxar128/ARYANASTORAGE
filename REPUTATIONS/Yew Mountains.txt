@@ -1,3 +1,19 @@
-/join Thelimacity
+╔════════════════════════════════╗
 
-do "Drows Trust Exercise" quest and "A little generosity" quests
+       YEW MOUNTAINS
+
+╚════════════════════════════════╝
+
+🏆 USES
+╭──────────────────────────────────╮
+  No guide content available yet
+╰──────────────────────────────────╯
+
+⚔️ QUESTS
+╭──────── MEMBER + NON-MEM ────────╮
+  /join thelimacity
+
+  Accept and complete the following quests:
+  --> "Drows Trust Exercise"
+  --> "A Little Generosity"
+╰──────────────────────────────────╯
