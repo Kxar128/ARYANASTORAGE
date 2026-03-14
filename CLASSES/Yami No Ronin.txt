@@ -1,181 +1,160 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           YAMI NO RONIN              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, if you want a dodge-based soloing class.
+  Worth Getting?
+  ──────────────
+  Yes — best dodge-based soloing class.
+
+  Best Used For:  ⚔️  Soloing
+  Also Good For:  🌾 Short-Range Farming
 
-Uses
-Best For: Soloing
-Good For: Short-Range Farming
+  Requirements:   Rank 10 Yokai
+                  Storyline: /darkally — complete all quests including "Defeat the Underfiend"
 
-Requirements
+  Recommended:    Legion Member  (makes LT farming much faster)
+                  Paragon Pet  (farm Legion Tokens)
+                  Blinding Light of Destiny  (most enemies are Undead-tagged)
+                  Chaorrupter Unlocked or Empowered Chaos Avenger's Greatsword
+                  (Orochi Heads at /shadowfortress are Chaos-tagged)
 
-Rank 10 Yokai.
 
-Storyline Completion
-Complete quests at /darkally including "Defeat the Underfiend".
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Recommended: Be a Legion Member.
-Allows you to farm Legion Tokens to make this faster.
+  🧿 Class ·········  Luck
 
-Recommended: Paragon Pet
-Used to farm Legion Tokens.
+  ⚔️  Weapon ········  Dauntless
+                       Valiance
 
-Recommended: Damage-Boosting Items
-The majority of enemies in the following quests are Undead. I suggest getting the Blinding Light of Destiny beforehand.
-The Orochi Heads at /shadowfortress are Chaos. I suggest getting either the Chaorrupter Unlocked (or the Empowered Chaos Avenger's Greatsword) beforehand.
+  🪖 Helm ··········  Anima
+                       Vim
 
-Step 1
+  🧣 Cape ··········  Vainglory
 
-Part 1
 
-Obtain the SoulForge Hammer. Enter /underworld and go to Dage (walk right and down) then click on the SoulForge in the center of the room and accept its quest. Obtain the following:
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ─────────────── DODGE PLAYSTYLE ───────────────
 
-Zardman's StoneHammer
-Defeat Zardman Grunts at /forest (walk right to find 3).
-
-Iron Hammer
-Purchase from Loremaster Sara's shop at /greenguardeast.
-
-Elemental Rock Hammer
-Defeat the Rock Elemental at /bludrut (exit up ladder from /bludrut2).
-
-Turn in the quest and make sure the SoulForge Hammer is in your inventory. Clicking on the SoulForge will now open a merge shop. 
-
-
-
-Part 2
-
-In this new merge shop, you can make the Shadow Katana Blade. For it, you need the following:
-
-Platinum Paragon Medal x15
-Purchase for 1m Gold each from Dage's merge shop.
-
-Yami x10
-Complete Dage's "Embracing Darkness" quest from /darkally by defeating enemies in the same map. Dark Wisps stack to 2.5k. 
-
-Folded Steel x1
-Complete "Forge Your Steel, Steel Your Resolve" from /darkally by obtaining the following:
-
-Flame-Forged Metal x13
-Complete "Need Flame" from Chanky at /underworld by going left until you can go straight down then head right to the frozen bridge. To complete the quest, defeat the Frozen Pyromancer past the bridge. 
-
-Obsidian Rock x108
-Choose your method:
-- Legion Tokens: If you're a Legion member, you can trade 2 LTs for 1 Obsidian Rock in the SoulForge, meaning you need 216 LTs.
-- Member: Complete "Undead Legion Member Special" (click on Dage > SoulForge > Quests) by defeating Firestorm Hatchlings at /firestorm (right>up>right x3>up from starting screen) and Skeleton Warriors at /battleunderb. Stack both of the drops to 100 so you don't need to go back and forth. Whichever item you stack 2nd won't look like it stacks past 6 but this is a visual error - opening quests from an NPC will update it.
-- Non-Member: Complete "Obsidian Mining" by defeating FireStorm Hatchlings at /firestorm. To get to them from the starting screen, go right>up>right x3>up.
-
-Eternity Flame
-Defeat Amia the Cult Leader at /fotia - they are located at the end of the map.
-
-Weapon Imprint x15
-Defeat Raxgore at /doomvaultb. You'll need to complete the quests at both /doomvault and /doomvaultb to access him as /goto does not work. If you've done this already, you can get to Raxgore faster by talking to Valencia at /museum and selecting Artifact Quests > Armour of Awe > To the Crossroads. Then talk to Valencia again and select Armour of Awe > AQW Legend/Hero > More Details > Helm Boss.
-While fighting him, be careful as he can lock your abilities and has an ability called Counter Attack - you'll need to target off by clicking the X to the top-right of their portrait or pressing ESC. Use the chance to get the Helm of Awe if you haven't already.
-
-Shadow Katana Blueprint
-Defeat Jaaku at /shadowfortress - they are at the end of the map. If you'd like to, also obtain 888 Perfect Orochi Scales from the 3rd and 2nd Head of Orochi as these are used later. Complete the storyline from /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress to access these enemies.
-
-
-
-Part 3
-
-Now that you have the Shadow Katana Blade, complete "The Edge of an Era" from /darkally. This rewards the Yokai Sword Scroll, which is used for the final quest. Obtain the following:
-
-Perfect Orochi Scales x888
-Defeat any Head of Orochi at /shadowfortress. 
-
-Oni Skull Charm
-Purchase from Mitsu Bishi's rep shop at /akiba - he's located in the first room. You need Rank 10 Yokai for this.
-
-Darkened Essence x600
-Defeat enemies at /shadowrealmpast.
-
-Step 2
-
-Finally, we just need the Blademaster Sword Scroll. You have one of two choices when obtaining it. Read which one suits you below then follow the guide for each option then continue on to Step 3.
-
-Option 1 - This involves being a Legion member. It makes the quest easier but also costs ACs.
-
-Option 2 - This is for those who don't want to join the Legion, which will make this take longer.
-
-
-
-Option 1
-
-Complete "The Path to Power" from /darkally. You'll need:
-
-Meditation
-Unless you already have the BladeMaster class, obtain SwordMaster from /underworld by purchasing it for 2000 Legion Tokens. You need to get your class to Rank 10 - just follow the XP section of the New Player guide. After that, complete "Meditation, Inflection" at /darkally. 
-
-Legion Tokens x17.5k
-See the LTs guide.
-
-Sapphire Orb x13
-Defeat the Legion Lich Lord at /frozenlair. I highly recommend doing this in a group as even with a high-dodge class like Chrono Assassin, it would take a long time to get all 13 orbs.
-
-Aeacus Empowered x50
-Defeat Ultra Aeacus at either /revenant or /judgement - whichever has more people. To join /revenant, you will need to own a Dark Caster class. If you don't have one, Infinite Legion Dark Caster can be bought for 2k LTs from /underworld - you'll need one anyway if you want to get Legion Revenant.
-
-
-
-Option 2
-
-Complete "Legion Sword Training" from /darkally. You'll need:
-
-Sword Scroll Fragment x1000 & Legion Combat Trophy x400 & Technique Observed x50
-Enter a private /dagepvp. Defeat the following:
-
-4 Blade Masters
-Walk right until you can see an exit from the cave then go up and right. After defeating them, go back inside and continue going right. Once you've earned enough Legion Combat Trophies, you can just kill these enemies and then leave/rejoin the map.
-
-6 Legion Guards
-Defeat these as you're walking right. They'll make Dage easier and earn you more Combat Trophies at the end.
-
-Dage
-If you still have time left, try and kill Dage. Otherwise, just wait to earn 1000 points. You will need a strong defensive soloing class to defeat him, even with the Legion Guards defeated.
-
-Sapphire Orb x26
-Defeat the Legion Lich Lord at /frozenlair. I highly recommend doing this in a group as even with a high-dodge class like Chrono Assassin, it would take a long time to get all 26 orbs.
-
-Aeacus Empowered x100
-Defeat Ultra Aeacus at /judgement. Do this in a group - there may already be people here who are farming Legion Revenant.
-
-Traitor's Tract x250
-Defeat the Underfiend at /darkally.
-
-Ogre Titan's Resonance x250
-Defeat Oh'Garr at /shadowsong - you will need to complete all of Dorian Mode's quests to access him at the end of the map.
-
-Shadow Dragonlord's Shroud x250
-Defeat the Titan Shadow Dragonlord at /shadowgrove - you will need to complete all of Galanoth's and Warlic's quests to access it at the top of inside the tower.
-
-Discipline
-Defeat Blade Masters at /underworld.
-
-Step 3
-
-
-Turn in the "Yami no Ronin" quest to Dage at /darkally with both the Yokai and Blademaster Sword Scrolls in your inventory.
-
-ENHANCMENTS
-
-Class - Luck
-
-Weapon - Dauntless | Valiance
-Helm - Anima | Vim
-Cape - Vainglory
-
-COMBOS
-
-                  - DODGE PLAYSTYLE -
-
-The main thing to keep in mind about the dodge playstyle is keeping above 86-87% dodge. This is the dodge threshold, where no monster is able to hit you. With this in mind, note that you will gain 3 stacks of flash between every reset of stacks when u use 5, so u need at least a 21% dodge buffer in order to not fall under. You should try to aim for 108% total dodge. which means having at least 33% dodge shown in ur char stat panel (press C to check).
-
-The combo is pretty simple, press 5 every time it comes off cooldown. If you miss the nuke for some reason, press 'T' to stop attacking, so u stop losing dodge from each flash stack. Spam 2 for extra damage, and if u have mana for 3, use it. While the nukes and dots wont be as potent as the offensive rotation, due to lack of flash stacks, you will be able to survive. Do not use 4, as you should never need the healing, and it will only give you more change to be hit.
-
-
-                  - OFFENSIVE ROTATION - 
-
-To put it in the simplest break down. Use 4 as much as possible to generate flash stacks quicker, which means more dmg (and less survival). When you use 3, wait 3-4 seconds before starting to stack 2 (This is why most combos go 3442, since using 4 two times will take that long) afterwards, spam 2 and 4 to build up stacks and buffs while u wait for the DoT ticks. Theres 5 ticks total, and 1 second between the 5th tick, and the effect fading, which is when u want to nuke.
-
-Tip: Remember to take in account global cooldown. When you see that final DoT tick, be sure the nuke is ready rather than squeeze in that last 2 or 4. Its better to nuke at the right time, than to lose half of the nuke damage by being too late.
+  💡 Dodge Threshold  86–87% dodge = no monster can hit you
+  💡 Flash Stacks ···  You gain 3 stacks between each Skill 5 reset
+                        Need 21% dodge buffer minimum to stay above threshold
+                        Aim for 108% total dodge = 33% shown in char stat panel (press C)
+
+  ✅ Dodge Rotation ·  Press  5  every time it comes off cooldown
+                        If you miss the nuke, press  T  to stop attacking (preserves dodge)
+                        Spam  2  for extra damage  |  Use  3  if you have mana
+                        ❌ Never use  4  — you should never need the heal
+
+  ─────────────── OFFENSIVE ROTATION ────────────
+
+  💡 Skill 4 ········  Use as much as possible to generate flash stacks faster (= more damage)
+  💡 Skill 3 ········  After using it, wait 3–4 seconds before stacking Skill 2
+                        (This is why most combos go 3→4→4→2 — two Skill 4s bridge the timing)
+  💡 DoT Ticks ······  5 total ticks  |  1 second between the 5th tick and the effect fading
+                        Time your nuke (Skill 5) for that window
+
+  ✅ Offensive ······  3 → 4 → 4 → 2  →  spam  2  and  4  to build stacks
+                        → Nuke with  5  after the 5th DoT tick
+                        ⚠️ Watch global cooldown — better to nuke on time than rush and lose damage
+
+
+╔══════════════════════════════════════╗
+║         STEP 1 — SHADOW KATANA BLADE ║
+╚══════════════════════════════════════╝
+
+  Part 1 — SoulForge Hammer
+  ───────────────────────────
+  → /join underworld  ·  Go to Dage (right + down) → Click the SoulForge → Accept quest
+
+  Zardman's StoneHammer  ×1  → /join forest  ·  Kill Zardman Grunts (walk right — 3 spawn)
+  Iron Hammer            ×1  → /join greenguardeast  ·  Buy from Loremaster Sara's shop
+  Elemental Rock Hammer  ×1  → /join bludrut  ·  Kill Rock Elemental (exit up ladder from /bludrut2)
+
+  → Turn in quest → SoulForge Hammer now in inventory → clicking SoulForge opens merge shop
+
+  Part 2 — Shadow Katana Blade
+  ──────────────────────────────
+  → Merge in the SoulForge merge shop
+
+  Platinum Paragon Medal ×15   → Buy for 1m Gold each from Dage's merge shop
+  Yami ×10                     → /join darkally  ·  Complete Dage's "Embracing Darkness" quest
+                                  Kill enemies at /darkally (Dark Wisps stack to 2.5k)
+  Folded Steel ×1              → Complete "Forge Your Steel, Steel Your Resolve" from /darkally:
+
+    Flame-Forged Metal ×13     → /join underworld  ·  Complete "Need Flame" from Chanky
+                                  Walk left → down → right to frozen bridge
+                                  Kill Frozen Pyromancer past the bridge
+    Obsidian Rock ×108         → Choose your method:
+      Legion Member            → Trade 2 LTs per rock in SoulForge (216 LTs total)
+      Member                   → "Undead Legion Member Special" quest (Dage → SoulForge → Quests)
+                                  Kill Firestorm Hatchlings at /firestorm + Skeleton Warriors at /battleunderb
+                                  Stack both drops to 100 (visual stack bug is harmless — NPC updates it)
+      Non-Member               → "Obsidian Mining" quest — Kill FireStorm Hatchlings at /firestorm
+    Eternity Flame ×1          → /join fotia  ·  Kill Amia the Cult Leader (end of map)
+    Weapon Imprint ×15         → /join doomvaultb  ·  Kill Raxgore
+                                  ⚠️ Must complete /doomvault + /doomvaultb quests (/goto doesn't work)
+                                  Fast access: /join museum → Valencia → Armour of Awe → Helm Boss
+                                  ⚠️ Can lock abilities + Counter Attack — press ESC to avoid reflect
+
+  Shadow Katana Blueprint ×1   → /join shadowfortress  ·  Kill Jaaku (end of map)
+                                  💡 Also collect 888 Perfect Orochi Scales from 3rd + 2nd Head of Orochi
+                                  (Used in Part 3 — efficient to grab now)
+                                  Requires: /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress
+
+  Part 3 — Yokai Sword Scroll
+  ─────────────────────────────
+  → Complete "The Edge of an Era" from /join darkally → rewards Yokai Sword Scroll
+
+  Perfect Orochi Scales ×888   → /join shadowfortress  ·  Kill any Head of Orochi
+  Oni Skull Charm ×1           → /join akiba  ·  Mitsu Bishi's Rep shop (Room 1)  — Rank 10 Yokai required
+  Darkened Essence ×600        → /join shadowrealmpast  ·  Kill enemies
+
+
+╔══════════════════════════════════════╗
+║    STEP 2 — BLADEMASTER SWORD SCROLL ║
+╚══════════════════════════════════════╝
+
+  Choose one option:
+
+  ✅ OPTION 1 — Legion Member  (Faster, costs ACs)
+  ──────────────────────────────────────────────────
+  → Complete "The Path to Power" from /join darkally
+
+  Meditation             ×1   → Own BladeMaster class (or buy SwordMaster at /underworld for 2k LTs)
+                                  Level it to Rank 10 (see XP guide)
+                                  → Complete "Meditation, Inflection" at /join darkally
+  Legion Tokens          ×17,500 → (Refer to Legion Token Guide in Library server)
+  Sapphire Orb           ×13  → /join frozenlair  ·  Kill Legion Lich Lord  ⚠️ Group highly recommended
+  Aeacus Empowered       ×50  → /join revenant or /join judgement  ·  Kill Ultra Aeacus
+                                  (Need Dark Caster class to join /revenant — buy Infinite Legion DC for 2k LTs)
+
+  ✅ OPTION 2 — No Legion  (Slower, free)
+  ────────────────────────────────────────
+  → Complete "Legion Sword Training" from /join darkally
+  → Enter a private /join dagepvp
+
+  Sword Scroll Fragment  ×1,000  → /join dagepvp  ·  Kill 4 Blade Masters (walk right → exit cave → up + right)
+  Legion Combat Trophy   ×400    → /join dagepvp  ·  Kill 6 Legion Guards while walking right + kill Dage if time allows
+  Technique Observed     ×50     → /join dagepvp  ·  Kill enemies  (earn 1000 points minimum)
+  Sapphire Orb           ×26   → /join frozenlair  ·  Kill Legion Lich Lord  ⚠️ Group highly recommended
+  Aeacus Empowered       ×100  → /join judgement  ·  Kill Ultra Aeacus  (group — often others farming here)
+  Traitor's Tract        ×250  → /join darkally  ·  Kill Underfiend
+  Ogre Titan's Resonance ×250  → /join shadowsong  ·  Kill Oh'Garr (complete all of Dorian Mode's quests first)
+  Shadow Dragonlord's Shroud ×250 → /join shadowgrove  ·  Kill Titan Shadow Dragonlord
+                                    (Complete Galanoth's + Warlic's quests — boss at top inside tower)
+  Discipline ×1                → /join underworld  ·  Kill Blade Masters
+
+
+╔══════════════════════════════════════╗
+║      STEP 3 — CLAIM YOUR CLASS       ║
+╚══════════════════════════════════════╝
+
+  → Turn in "Yami no Ronin" quest to Dage at /join darkally
+  → Both Yokai Sword Scroll and Blademaster Sword Scroll must be in your inventory
