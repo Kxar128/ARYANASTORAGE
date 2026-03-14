@@ -1,33 +1,44 @@
-ULTRADRAGO
+╔════════════════════════════════╗
 
-TAUNTING AND SEALING:
+        ULTRA DRAGO
 
-Bow: Spam taunt as LR. Bow shouldn't live long enough to do anything
+╚════════════════════════════════╝
 
-Axe: AP and LoO loop taunt. AP taunts first and then SEALS(AP skill 4) after taunting first. DO NOT BREAK SEAL (DO NOT PRESS SKILL 5) until the seal aura is almost gone. Seal(AP SKILL 4) off cooldown.
+⚠️ BOSS MECHANICS
+╭──────── BOW GUY ────────╮
+  LR spam taunts — Bow shouldn't live long enough to do anything
+╰──────── AXE GUY ────────╮
+  AP and LoO loop taunt
+  --> AP taunts first, then immediately SEALS (skill 4)
+  --> Do NOT break Seal (do NOT press skill 5) until the Seal aura is almost gone
+  --> Seal (skill 4) off cooldown
 
+  ⚠️ When Bow Guy dies, Axe Guy heals to full HP
+     Knock him back down — when Axe Guy dies, Drago dies too
+╰──────── MIDDLE (DRAGO) ────────╮
+  Do nothing special — just focus the soldiers and Drago dies on his own
+╰──────────────────────────────────╯
 
-Normal Comp :
+👥 COMPOSITION & GEAR
+╭──────── LR ────────╮
+  Arcana / Elysium · WIZ · WIZ · Penitence
+╰──────── AP ────────╮
+  Lacerate / Smite / Spiral · LUK · LUK · Penitence
+╰──────── LOO ────────╮
+  Rave / Aweblast · WIZ / Healer · WIZ · Penitence
+  (If LC has Rave, LoO should use Aweblast)
+╰──────── CAV (DPS) ────────╮
+  Dauntless · LUK · Anima · Vainglory
+╰──────── INTERCHANGEABLE DPS ────────╮
+  AI  --> Elysium · WIZ · WIZ · Penitence / Vainglory
+  CSS --> Rave · LUK · Vim · Lament
+╰──────────────────────────────────╯
 
-Decide who wants to DPS and who wants to Taunt, Enhancement Equipments will differ. 
+🧪 POTIONS
+╭──────────────────────────────────╮
+  Physical DPS  --> Potent Battle Elixir + Might Tonic + Potent Malice / Honour
+  Magical DPS   --> Potent Malevolence + Sage Tonic + Potent Malice / Honour
+  Struggling    --> Angelic Elixir + Body Tonic
 
-(if you're going dps, please use pots)
-
-CLASSES:
-
-LR - Arcana's Concerto
-AP - Lacerate
-LoO - Awe Blast
-DPS - CaV, CSS, AI, K.E
-
-**
-
-Scroll of Enrage for taunts
-
-**
-Boss Mechanism :
-
-Don't focus Drago (he can't take damage until you kill right and left boss)
-Axe Boss - On the Left side when you go into the boss room, you'll find 3 enemies, AP taunts the axe mob on left or insta party nuke
-
-Bow Guy - LR taunts this boss on the right side of room and DPS focuses him before changing focus to left boss
+  💡 Use Scroll of Enrage on the boss
+╰──────────────────────────────────╯
