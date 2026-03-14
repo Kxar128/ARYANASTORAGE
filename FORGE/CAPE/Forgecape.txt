@@ -1,6 +1,6 @@
 ╔════════════════════════════════════╗
 
-   FORGE
+   FORGE CAPE
 
 ╚════════════════════════════════════╝
 
@@ -17,12 +17,4 @@
   Broken Wings               --> /join lostruins     --> Kill Infernal Warlord (drop item)
   Shadow's Wings             --> /join infernalspire --> Kill Azkorath (drop item)
   Wings of Destruction       --> /join infernalspire --> Kill Malxas (drop item)
-╰──────────────────────────────────╯
-
-✅ STEP 2 — Obtain Items (Forge Version)
-╭──────────────────────────────────╮
-  1st Lord of Chaos Staff      --> /join escherion  --> Kill Staff of Inversion
-  Chaos Dragonlord Axe         --> /join stalagbite --> Kill Wath
-  Hanzamune Dragon Koi Blade   --> /join kitsune    --> Kill Kitsune
-  Wrath of the Werepyre        --> /join wolfwing   --> Kill Wolfwing
 ╰──────────────────────────────────╯
