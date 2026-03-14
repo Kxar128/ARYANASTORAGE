@@ -1,52 +1,38 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           LEGENDARY HERO             ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  🤝 Support  |  💚 Heals over Time  |  📈 Buffing
 
-Uses
+  Requirements:   Membership
+                  (Must have purchased membership at least once to access the Lorepedia badge shop)
 
-- Support
-- Heals over Time
-- Buffer
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-- Membership (must have bought membership atleast once to access the lorepedia badge shop)
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Valiance
 
-Class - Luck
+  🪖 Helm ··········  Base Forge
 
-Weapon - Valiance
-Helm - Base | Forge
-Cape - Lament | Absolution
+  🧣 Cape ··········  Lament
+                       Absolution
 
-COMBOS
 
-- Just spam everything
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- Use your 5 when you have 8 stacks from your 3 for highest healing
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+  💡 Skill 3 ········  Stack to 8 before using Skill 5 for maximum healing
+
+  ✅ Main Rotation ··  Spam everything
+                        Use  5  when Skill 3 reaches 8 stacks
