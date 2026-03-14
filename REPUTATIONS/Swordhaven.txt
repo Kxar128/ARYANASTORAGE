@@ -1,35 +1,51 @@
-Uses
+╔════════════════════════════════╗
 
-Class
-Royal BattleMage.
+         SWORDHAVEN
 
-Quests
+╚════════════════════════════════╝
 
-Everyone
+🏆 USES
+╭──────────────────────────────────╮
+  Class --> Royal BattleMage
+╰──────────────────────────────────╯
 
-Complete the storyline from /castle > /archives > /armory > /ceremony > /chaosaltar > /castleroof > /swordhavenfalls > /ultraalteon.
+⚔️ QUESTS
+╭──────── EVERYONE ────────╮
+  Complete the storyline:
+  --> /join castle > /join archives > /join armory > /join ceremony
+      > /join chaosaltar > /join castleroof > /join swordhavenfalls
+      > /join ultraalteon
+╰──────── MEMBER ────────╮
+  1. Complete Malorie's "Swordhaven Membership Dues" quest from /join collection
+  2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
+  3. Join /join collectorlab and defeat enemies there
+       Token Cs have a 70% drop rate and stack to 500
+  4. Merge Token Cs --> Token Bs --> Token As
+       in the Super Fan Token shop at /join collection
 
+  Rank 1–10 requires ×25 Token As with consumable Rep Boost + Cape of Awe
+  (or other 25% boost)
 
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
 
-Member
+  💡 Alternatively use the Non-Mem method below if you prefer not to
+     manage the Collector Lab token loop
+╰──────── NON-MEM ────────╮
+  1. From starting screen walk up and accept Sir Vival's 3 non-daily quests
+     and Jessor's "Weapons-in-Progress" quest
+  2. Walk up and accept Valerin's quest
+  3. Walk left for Nialla's quest
+  4. Walk back down > right for Guy's quest
+  5. Defeat enemies in Guy's room and the screen to the right
+     Go back and forth between them to complete all quests
 
-If you don't want to group up or bother with turning in so many quests like non-members do, complete Malorie's "Swordhaven Membership Dues" quest from /collection. Otherwise do one of the non-member methods.
+  💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
+     from Advanced Options (press L to open Quest Log)
 
-Accept Drakath (Kid)'s "For Science" quest from /terrarium.
-
-Join /collectorlab and defeat enemies there. Token Cs have a 70% drop rate and stack to 500.
-
-Merge them for Token Bs > Token As in the Super Fan Token shop at /collection.
-
-Getting from Rank 1-10 requires 25 Token As with a consumable Rep Boost and Cape of Awe (or other 25% boost).
-
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-
-
-Non-Mem
-
-From the starting screen, walk up to accept Sir Vival's 3 non-daily quests and Jessor's "Weapons-in-Progress" quest. Then walk up and accept Valerin's quest, left for Nialla's quest, then go back down>right for Guy's quest. Defeat the enemies in Guy's room and in the screen to the right - you will need to go back and forth between them.
-Also make sure to enable Quest Log Turn-Ins and Reaccept Quest After Turn-In from Advanced Options. This way you can keep your Quest Log open and turn in quests from there. You can access your Quest Log by pressing L.
-
-If you're in a group, you can farm Lady Celestia's "Defeat Ultra Chaos Lord Alteon" quest at /ultraalteon. Use the Relics of Chaos that drop to complete "Supplies to spin The Wheel of Chance". Also, when the meter appears at the top-right, stop attacking otherwise Alteon will deal lots of damage.
+  👥 GROUP: Farm Lady Celestia's "Defeat Ultra Chaos Lord Alteon" quest
+  at /join ultraalteon
+  --> Use the Relics of Chaos drops to complete "Supplies to spin The Wheel of Chance"
+  ⚠️ NOTE: When the meter appears at top-right, stop attacking or Alteon
+     will deal massive damage
+╰──────────────────────────────────╯
