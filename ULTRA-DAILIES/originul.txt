@@ -1,95 +1,58 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-VOID FLIBBI
-/join voidflibbi
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔════════════════════════════════════╗
 
-SOLO
-Class: Dragon Knight (WIZ)
+   ORIGINUL
 
-Gear
-• Weapon: Empowered Hollowborn Caladbolg (Ravenous)
-• Armor: RGoW
-• Helm: Forge Helm
-• Cape: Forge Cape
+╚════════════════════════════════════╝
 
-Combo
-3 → 4 → 2 → 5 → repeat
+⚔️ VOID FLIBBI
+╭──────── /join voidflibbi ────────╮
+  SOLO
+  Class: Dragon Knight (WIZ)
 
-Notes
-• You can add extra 2s between 3 and 4 cooldowns
-• ALWAYS use 2 before 5 to activate HoT
+  Gear:
+  Weapon   Empowered Hollowborn Caladbolg (Ravenous)
+  Armour   RGoW
+  Helm     Forge Helm
+  Cape     Forge Cape
 
+  Combo:   3 → 4 → 2 → 5 → repeat
+  · Add extra 2s between 3 and 4 cooldowns
+  · ⚠️ Always use 2 before 5 to activate HoT
 
-GROUP
-Recommended Classes
-• CSS
-• VDK
-• LR
-• LoO
-• GT
-• DoT
-• SC
-• LH
+  ──────────────────────────────────
+  GROUP
+  Recommended: CSS · VDK · LR · LoO · GT · DoT · SC · LH
+  · Heal when HP drops using a HoT class
+╰──────────────────────────────────╯
 
-Important
-• Heal when HP drops using a HoT class
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-VOID NIGHTBANE
-/join voidnightbane
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚔️ VOID NIGHTBANE
+╭──────── /join voidnightbane ────────╮
+  SOLO
+  Class: Gunslinger
 
-SOLO
-Gear
-• RGoW
-• Legion Dragonblade
-  (or ANY 75% Dragonkin boost weapon)
+  Gear:
+  Armour   RGoW
+  Weapon   Legion Dragonblade (or any 75% Dragonkin boost weapon)
 
-Enhancements
-• Health Vamp
-• Vim
-• Lament
+  Enhancements:  Health Vamp · Vim · Lament
 
-Consumables
-• Unstable Fate Tonic
-• Potent Battle Elixir
-• Felicitous Philtre
+  Consumables:
+  · Unstable Fate Tonic
+  · Potent Battle Elixir
+  · Felicitous Philtre
 
-Combo (Gunslinger)
-4 → 1 → 4 → 4 → 4 → 2
+  Combo:   4 → 1 → 4 → 4 → 4 → 2
 
+  ──────────────────────────────────
+  GROUP
+  Recommended: CSS · VDK · LR · LoO · GT · DoT · SC · LH
+  · ⚠️ Do NOT use Vainglory
+  · ⚠️ A decay class is REQUIRED
+╰──────────────────────────────────╯
 
-GROUP
-Recommended Classes
-• CSS
-• VDK
-• LR
-• LoO
-• GT
-• DoT
-• SC
-• LH
-
-Important
-• DO NOT use Vainglory
-• A decay class is REQUIRED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-VOID XYFRAG
-/join voidxyrag
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-GROUP
-Recommended Classes
-• CSS
-• VDK
-• LR
-• LoO
-• GT
-• DoT
-• SC
-• LH
-
-Important
-
-• LR must taunt when the prompt appears:
-
-"BLEEEEEECH"
+⚔️ VOID XYFRAG
+╭──────── /join voidxyrag ────────╮
+  GROUP
+  Recommended: CSS · VDK · LR · LoO · GT · DoT · SC · LH
+  · ⚠️ LR must taunt when the prompt appears: "BLEEEEEECH"
+╰──────────────────────────────────╯
