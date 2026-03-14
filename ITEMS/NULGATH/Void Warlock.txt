@@ -1,39 +1,34 @@
-Requirement
+╔════════════════════════════════════╗
 
-Enchanted Nulgath Nation House
+   VOID WARLOCK
 
-Quest 1 - Armour, Weapons, Pet, Helm
+╚════════════════════════════════════╝
 
-Complete the ENNH's "Tools For the Job" quest.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Enchanted Nulgath Nation House (required)
+╰──────────────────────────────────╯
 
-Use the Reagent Library for details on how to get the following items:
+⚔️ QUEST 1 — Armour, Weapons, Pet, Helm
+╭──────── "Tools For the Job" from ENNH ────────╮
+  Tainted Gem                   ×100
+  Unidentified 13               ×2
+  Blood Gem of the ArchFiend    ×90
+  Voucher of Nulgath (non-mem)  ×1
+  Brittney's Winter Diamond     ×1
 
-Tainted Gem x100
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
 
-Unidentified 13 x2
+⚔️ QUEST 2 — Helms, Capes
+╭──────── "Corrupted Touch" from ENNH ────────╮
+  Unidentified 13               ×1
+  Tainted Gem                   ×75
+  Gem of Nulgath                ×100
+  Nulgath's Approval            ×1000
+  Diamond of Nulgath            ×75
+  Voucher of Nulgath            ×1
+  Brittney's Winter Diamond     ×1
 
-Blood Gem of the ArchFiend x90
-
-Voucher of Nulgath (non-mem)
-
-Brittney's Winter Diamond
-
-Quest 2 - Helms, Capes
-
-Complete the ENNH's "Corrupted Touch" quest.
-
-Use the Reagent Library for details on how to get the following items:
-
-Unidentified 13
-
-Tainted Gem x75
-
-Gem of Nulgath x100
-
-Nulgath's Approval x1000
-
-Diamond of Nulgath x75
-
-Voucher of Nulgath
-
-Brittney's Winter Diamond
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
