@@ -1,95 +1,94 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║           CHAOS AVENGER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Yes, but not needed if you already have Void Highlord (except for Ultra Bosses).
+  Worth Getting?
+  ──────────────
+  Yes — but not needed if you already have Void Highlord
+  (except for Ultra Bosses).
 
-Uses
-Best For: Soloing & Defensive Support
+  Best Used For:  ⚔️  Soloing  |  🛡️  Defensive Support
 
-Requirements
+  Requirements:   Level 80  |  13 Lords of Chaos Story Completion
+                  (Open Map → Story tab to complete)
 
-Level 80
+  Recommended:    High-tier Support/Soloing Class
+                  (Void Highlord, Lord of Order, ArchPaladin, StoneCrusher)
 
-13 Lords of Chaos Story Completion
-To do this, open the Map and use the Story tab.
 
-Recommended: High-tier Support/Soloing Class
-These might include: Void Highlord, Lord of Order, ArchPaladin, or StoneCrusher.
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Quest
+  🧿 Class ·········  Luck
 
-Complete the "Chaos Avenger Class" quest from the NPC version of yourself at /championdrakath by obtaining the following items. Then, you can access the Chaos Avenger Class shop.
+  ⚔️  Weapon ········  Dauntless
+                       Valiance
 
-Parallel Chaos Amulet
-Obtained by merging 20 Champion Drakath Insignias at /championdrakath. To get these, complete "Drakath, Champion of Chaos" quest at the same map. It rewards 5 Insignias and can be completed once per week (resets on Fridays at 12:01am EST). This means it will take at least a month to get. Optimal strategies to defeat Champion Drakath can be found here.
+  🪖 Helm ··········  Anima
+                       Base Forge
 
-Fragment of the Dragon
-Defeat the enemy version of yourself at /chaoslord.
+  🧣 Cape ··········  Vainglory
+                       Lament
 
-Fragment of Mount Doomskull x1300
-Defeat enemies at /mountdoomskull. This is most efficient at the screen that has 2 Chaos Drows and 2 Chaorrupted Rogues as they have very low HP. If you don't yet have Rank 10 Chaos, use this opportunity to get it by farming "Embrace Your Chaos" from Loremaster Maya at the same map.
 
-Fragments of the Lords A
-Obtain the following:
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-Escherion's Robe
-Defeat Escherion at /escherion.
+  💡 Note ············  Buffs last a long time — prioritise maximising DPS
 
-Vath's Chaotic Dragonlord Armour
-Defeat Vath at /stalagbite.
+  ✅ Offensive ······  5 → 3 → 2 → 4
+  ✅ Defensive ······  5 → 4 → 2 → 3
 
-Chaos Shogun Armour
-Defeat Kitsune at /kitsune.
+  💡 Mana Tip ·······  Weave auto-attacks between skills to restack mana
 
-Wolfwing Armour
-Defeat Wolfwing at /wolfwing.
 
-Discordia Armour
-Defeat Discordia at /palooza.
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
 
-Ledgermayne (Armour)
-Defeat Ledgermayne at /ledgermayne.
+  Complete "Chaos Avenger Class" from your NPC self at /join championdrakath
 
-Fragments of the Lords B
-Obtain the following:
+  Parallel Chaos Amulet ×1
+  ──────────────────────────
+  → Merge 20 Champion Drakath Insignias at /join championdrakath
+  → Earn 5 Insignias per week from "Drakath, Champion of Chaos" quest
+  → Resets Fridays 12:01am EST — takes at least 4 weeks
 
-Tibicenas (Armour)
-Defeat Tibicenas at /djinn.
+  Fragment of the Dragon ×1
+  ──────────────────────────
+  → /join chaoslord  ·  Kill the enemy version of yourself
 
-Soul of Chaos Armour
-Drefeat Khasaanda at /dreamnexus.
+  Fragment of Mount Doomskull ×1,300
+  ────────────────────────────────────
+  → /join mountdoomskull  ·  Kill enemies
+  → Most efficient: screen with 2 Chaos Drows + 2 Chaorrupted Rogues (very low HP)
+  → If Rank 10 Chaos not yet earned: farm "Embrace Your Chaos" from Loremaster Maya here
 
-Iadoa (Armour)
-Defeat Iadoa at /timespace. I recommend getting a Dragonoid of Hours from Dragonoid at /mqlesson as it disables Iadoa's Astral Shift ability. It doesn't have to be equipped to work.
+  Fragments of the Lords A
+  ──────────────────────────
+  → Escherion's Robe          ·  /join escherion
+  → Vath's Chaotic Dragonlord ·  /join stalagbite
+  → Chaos Shogun Armour       ·  /join kitsune
+  → Wolfwing Armour           ·  /join wolfwing
+  → Discordia Armour          ·  /join palooza
+  → Ledgermayne (Armour)      ·  /join ledgermayne
 
-Chaos Lionfang Armour
-Defeat Lionfang at /stormtemple.
+  Fragments of the Lords B
+  ──────────────────────────
+  → Tibicenas (Armour)        ·  /join djinn
+  → Soul of Chaos Armour      ·  /join dreamnexus  ·  Kill Khasaanda
+  → Iadoa (Armour)            ·  /join timespace
+                                  💡 Get Dragonoid of Hours from /join mqlesson — disables Astral Shift
+  → Chaos Lionfang Armour     ·  /join stormtemple
+  → Chaos Lord Alteon (Armour) · /join swordhavenfalls
+  → Xiang Chaos               ·  /join mirrorportal
+                                  💡 Use Sentinel, Dragon of Time, or Healer — they deal HP-based damage
 
-Chaos Lord Alteon (Armour)
-Defeat Chaos Lord Alteon at /swordhavenfalls.
-
-Xiang Chaos
-Defeat Xiang at /mirrorportal. I suggest using Sentinel, Dragon of Time, or Healer for this fight as they all have abilities that deal damage based on your HP.
-
-Fragment of the Queen x13
-
-Defeat The Queen of Monsters at /transformation. You will have needed to complete the storyline from /forestreach > /deepforest > /transformation.
-
-ENHANCEMENTS
-
-Class - Luck
-
-Weapon - Dauntless | Valiance
-Helm - Anima | Base Forge
-Cape - Vainglory | Lament
-
-COMBOS
-
-Offensive rotation 5 3 2 4
-
-Drfensive rotation 5 4 2 3
-
-The buffs lasts for quite a while, so it's best to use the skills to increase your dps
-
-weave in autos in between the skills to restack your mana
-
+  Fragment of the Queen ×13
+  ───────────────────────────
+  → /join transformation  ·  Kill The Queen of Monsters
+  → Complete /forestreach > /deepforest > /transformation storyline first
