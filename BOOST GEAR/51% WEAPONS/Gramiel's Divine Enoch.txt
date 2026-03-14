@@ -1,59 +1,59 @@
-Start at /join Trygve
+╔════════════════════════════════╗
 
-I 
+   GRAMIEL'S DIVINE ENOCH
 
-- Vindicator Badge x 15 
+╚════════════════════════════════╝
 
-1. type /join Trygve
-2. Talk to "Lae (NPC)" 
-3. Accept "Nauthiz" quest (Legendary (Membership) option gives double the amount of progression
+➡️ Start at /join Trygve
 
-II 
+📦 Pre-Requirements
 
-- Grace orb x 23
+🏅 STEP I - VINDICATOR BADGE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Vindicator Badge  ×15  --> /join Trygve
+                              Speak to "Lae (NPC)"
+                              Accept "Nauthiz" quest
+                              (Membership gives double progression)
+╰────────────────────────────────────╯
 
-1. type /join neofortress
-2. Talk to "Lae (NPC)"
-3. Accept "Grace Extraction" quest, (Legendary (Membership) option gives double the amount of progression
+🏅 STEP II - GRACE ORB
+╭──────── MERGE REQUIREMENTS ────────╮
+  Grace Orb  ×23  --> /join neofortress
+                       Speak to "Lae (NPC)"
+                       Accept "Grace Extraction" quest
+                       (Membership gives double progression)
+╰────────────────────────────────────╯
 
-III 
+🏅 STEP III - VINDICATOR CREST
+╭──────── MERGE REQUIREMENTS ────────╮
+  Vindicator Crest  ×8  --> /join neotower
+                             Speak to "Lae (NPC)"
+                             Accept "Mutual Friends" quest
+                             (Membership gives double progression)
+╰────────────────────────────────────╯
 
-- Vindicator Crest x 8
+🏅 STEP IV - GRAMIEL'S EMBLEM
+╭──────── MERGE REQUIREMENTS ────────╮
+  Gramiel's Emblem  ×28  --> /join Dawnsanctum --> Go to Room 10
+                              Kill "Celestial Gramiel" (Monster, Level 52)
+╰────────────────────────────────────╯
 
-1. type /join neotower
-2. Talk to "Lae (NPC)"
-3. Accept "Mutual Friends" quest, (Legendary (Membership) option gives double the amount of progression
+⚔️ STEP V - GRAMIEL'S SHATTERED ENOCH
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join Dawnsanctum --> Go to Room 10
+  Kill "Celestial Gramiel" (Monster, Level 52)
+  --> Go to Room 1 --> Speak to "Veronika (NPC)" --> Merge
+╰────────────────────────────────────╯
 
+⚔️ STEP VI - GRAMIEL'S GLORIFIED ENOCH
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join Dawnsanctum --> Go to Room 1
+  Speak to "Veronika (NPC)" --> Merge
+╰────────────────────────────────────╯
 
-IIII
-
-- Gramiel's Emblem x 28
-
-1. Type /join Dawnsanctum
-2. go to room 10
-3. Kill "Celestial Gramiel (Monster)(lvl 52)
-
-V
-
-- Gramiel's Shattered Enoch
-
-1. Type /join Dawnsanctum
-2. go to room 10
-3. Kill "Celestial Gramiel (Monster)(lvl 52)
-4. Merge at room 1, speak to "Veronika (NPC)"
-
-VI
-
-- Gramiel's Glorified Enoch
-
-1. Merge at room 1, speak to "Veronika (NPC)"
-
-VII
-
-- Gramiel's Divine Enoch
-
-1. Type /join Ultragramiel
-2. Open merge shop with "Lae (NPC)"
-3. Buy 40 (Gold Voucher 500k) = 20.000.000 Gold
-4. Complete final merge of the 51% weapon named GRAMIEL'S DIVINE ENOCH
-5. Good goyim
+⚔️ STEP VII - GRAMIEL'S DIVINE ENOCH
+╭──────── MERGE REQUIREMENTS ────────╮
+  Gold Voucher (500k)  ×40  = 20,000,000 Gold
+  --> /join Ultragramiel --> Speak to "Lae (NPC)" --> Open merge shop
+  Complete final merge for Gramiel's Divine Enoch
+╰────────────────────────────────────╯
