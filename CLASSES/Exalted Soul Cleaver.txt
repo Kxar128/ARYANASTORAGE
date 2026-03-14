@@ -1,28 +1,37 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║        EXALTED SOUL CLEAVER          ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  💥 DPS
 
-Uses
+  How to Get:
+  ─────────────
+  → /join frozenlair  ·  Speak to "Legion Lich King (NPC)"  ·  Open merge shop
+  → Merge: Legion Token ×5,000
 
-- DPS
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-/join frozenlair -- talk to "Legion Lich King (NPC)" -- open merge shop
+  🧿 Class ·········  Luck
 
-Merge the following:
-Legion Token x5,000
+  ⚔️  Weapon ········  Dauntless
+                       Valiance
 
-ENHANCEMENTS
+  🪖 Helm ··········  Anima
 
-Class - Luck
+  🧣 Cape ··········  Vainglory
 
-Weapon - Dauntless | Valiance
-Helm - Anima
-Cape - Vainglory
 
-COMBOS
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- 4-5-2-3-5-2-3
+  ✅ Main Rotation ··  4 → 5 → 2 → 3 → 5 → 2 → 3
