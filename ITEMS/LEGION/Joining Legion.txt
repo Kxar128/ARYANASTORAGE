@@ -1,41 +1,60 @@
-Step 1
+╔════════════════════════════════╗
 
-Before joining Legion, you should complete or obtain the following:
+        JOINING LEGION
 
-"Hardly Suiting Armour"
-Go to the Black Knight NPC at /greenguardwest (quickly access by going down from /arcangrove). Then, complete his "Hardly Suiting Armour" quest by defeating the bosses at /greendragon, /well, /deathgazer, and /trunk. The drops have about a 30% drop rate. Keep the Black Knight Orb reward.
+╚════════════════════════════════╝
 
-Storyline Completion
-Complete quests at /willowcreek.
+╔════════════════════════════════╗
+              STEP 1
+╚════════════════════════════════╝
 
-200 Combat Trophies
-Find these in the Reagent Library.
+╭──────── Pre-farm these before joining ────────╮
+  "Hardly Suiting Armour"
+  --> Go to Black Knight NPC at /join greenguardwest
+      (quick access: go down from /join arcangrove)
+  --> Complete his "Hardly Suiting Armour" quest:
+      Kill bosses at /join greendragon, /join well, /join deathgazer, and /join trunk
+      (~30% drop rate each)
+  --> Keep the Black Knight Orb reward
 
-Step 2
+  Storyline Completion
+  --> Complete quests at /join willowcreek
 
-Once you have completed all of Step 1, go to Dage at /underworld (simply walk towards the bottom-right) and purchase the Undead Warrior armour for 1200 ACs from the Armour shop. Then, complete the following quests from Dage. I recommend doing it all within 24 hours so that you can sell the Undead Warrior armour for 1080 ACs, making the cost of joining the Legion just 120 ACs.
+  Combat Trophies         ×200    --> See Reagent Library
+╰──────────────────────────────────╯
 
-"Undead Champion Initiation"
-Defeat the Black Knight NPC at /greenguardwest (quickly access by going down from /arcangrove).
+╔════════════════════════════════╗
+              STEP 2
+╚════════════════════════════════╝
 
-"Mourn The Soldiers"
-Defeat the following:
+╭──────────────────────────────────╮
+  ⚠️ Complete all quests within 24 hours to sell Undead Warrior armour
+     for 1,080 ACs — making the net cost of joining Legion only 120 ACs
 
-Skeletal Soldiers at /doomhaven.
+  1. Go to Dage at /join underworld (walk bottom-right)
+  2. Purchase Undead Warrior armour for 1,200 ACs from the Armour shop
+  3. Complete the following quests from Dage:
 
-Chaos Drow at /dwarfhold.
+  "Undead Champion Initiation"
+  --> Defeat the Black Knight NPC at /join greenguardwest
+      (quick access: go down from /join arcangrove)
 
-Fishman Soldiers at /pirates.
+  "Mourn The Soldiers"
+  --> Skeletal Soldiers      --> /join doomhaven
+  --> Chaos Drow             --> /join dwarfhold
+  --> Fishman Soldiers       --> /join pirates
+  --> Dwakel Soldiers        --> /join willowcreek
 
-Dwakel Soldiers at /willowcreek.
+  "Understanding Undead Champions"
+  --> Defeat Undead Champion at /join battleunderb
+      👥 Group recommended
 
-"Understanding Undead Champions"
-Defeat the Undead Champion at /battleunderb. You may want to join a group for this.
+  "Player vs Power"
+  --> Turn in the pre-farmed Combat Trophies
 
-"Player vs Power"
-Turn in the Combat Trophies that you pre-farmed.
+  "Fail to the King"
+  --> Defeat Alteon's Knights at /join prison
 
-"Fail to the King"
-Defeat Alteon's Knights at /prison.
-
-Now that you're in the Legion, you can sell the Undead Warrior armour to any shop. Also, check out the Legion Tokens guide to see what you can get now.
+  ✅ Once in the Legion, sell the Undead Warrior armour to any shop
+  💡 See the Legion Tokens guide to see what you can get now
+╰──────────────────────────────────╯
