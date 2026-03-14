@@ -1,35 +1,36 @@
-Requirements
+╔════════════════════════════════════╗
 
-Rank 10 Yokai
+   VOID SHOGUN
 
-Voucher of Nulgath (non-mem)
-Use the Reagent Library.
+╚════════════════════════════════════╝
 
-Void Monk of Nulgath
-Merge 500 Void Vouchers, which drop from Void Larvae, in Quibble's shop at /quibblehunt.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Rank 10 Yokai
 
-Storyline Completion
-This includes /shinringrove > /hewiavalley.
+  Voucher of Nulgath (non-mem)  --> Reagent Library
 
-Recommended: Crag & Bamboozle
-Many Uni 13s are required for the quest and this pet is the best way to get them.
+  Void Monk of Nulgath
+  --> Merge 500 Void Vouchers (drop from Void Larvae)
+      at Quibble's shop in /join quibblehunt
 
-Quest
+  Storyline Completion:
+  --> /join shinringrove > /join hewiavalley
 
-Complete the Void Shogun NPC's "Void Shogun Farming Quest" from /heiwavalley.
+  Recommended: Crag & Bamboozle
+  --> Many Uni 13s required — this pet is the best source
+╰──────────────────────────────────╯
 
-Use the Reagent Library for details on how to get the following items:
+⚔️ QUEST
+╭──────── "Void Shogun Farming Quest" from Void Shogun NPC @ /join heiwavalley ────────╮
+  DaiTengu Blade of Wind        ×1
+  Unidentified 13               ×1
+  Unidentified 24               ×1
+  ShadowStone Rune              ×1
+  Orochi's Shadow               ×1
+  Blood Gem of the ArchFiend    ×7
 
-DaiTengu Blade of Wind
-
-Unidentified 13
-
-Unidentified 24
-
-ShadowStone Rune
-
-Orochi's Shadow
-
-Blood Gem of the ArchFiend x7
-
-You'll need to turn in this quest 11 times if you want every item so I suggest stacking any reagents you can.
+  💡 Turn in this quest 11 times to obtain every item
+     Stack as many reagents as possible before starting
+  💡 Use the Reagent Library for farming details on all items above
+╰──────────────────────────────────╯
