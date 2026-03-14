@@ -1,26 +1,39 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║      ALPHA OMEGA / ALPHA DOOMega     ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-worth getting?
-no, there are better options
+  Worth Getting?
+  ──────────────
+  No — there are better options.
 
-ENHANCEMENTS
 
-Alpha Omega / Alpha DOOMega:
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Class - Luck
+  🧿 Class ·········  Luck
 
-Weapon - Valiance | Dauntless | Spiral Carve
-Helm - Vim | Anima
-Cape - Vainglory
+  ⚔️  Weapon ········  Valiance
+                       Dauntless
+                       Spiral Carve
 
-COMBOS
+  🪖 Helm ··········  Vim
+                       Anima
 
-- Your skill [3] is mostly useless and a waste of mana (many bosses cannot be stunned)
+  🧣 Cape ··········  Vainglory
 
-- Your skill [3] can prevent targets from healing
 
-- Spam [2] and [5] for most damage
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
 
-- Save [4] for when needed
+  ⚠️  Skill 3 ·······  Mostly useless — waste of mana
+                        (Most bosses cannot be stunned)
+                        ✅ Exception: Prevents targets from healing
 
-- Try to keep the buff from [4] always active"
+  ✅ Main Rotation ··  Spam  2  and  5
+
+  💡 Skill 4 ········  Save for when needed
+                        Keep its buff active at all times
