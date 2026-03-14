@@ -1,0 +1,20 @@
+╔════════════════════════════════════╗
+
+   FORGE (HELMET)
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 30               --> Refer to XP Guide
+  Must have Rank 4 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have completed "Escherion" quest
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  1st Lord of Chaos Helm   --> /join escherion --> Kill Escherion
+  Chaos Dragonlord Helm    --> /join stalagbite --> Kill Wath
+  Chaos Shogun Helmet      --> /join kitsune    --> Kill Kitsune
+  Wolfwing Mask            --> /join wolfwing   --> Kill Wolfwing
+╰──────────────────────────────────╯
