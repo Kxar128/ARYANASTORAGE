@@ -1,26 +1,35 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║         PRISMATIC CLAWSUIT           ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
+  Worth Getting?
+  ──────────────
+  Yes.
 
-- Yes
+  Best Used For:  💥 DPS  (Better than Void Highlord in party settings)
 
-Uses
+  ⚠️  Seasonal:   December – January
+  How to Get:     /join frostvale  ·  Frostvale Gift Boxes
 
-- DPS (Better than Void Highlord in party settings)
 
-Requirements
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
 
-Seasonal (December - January) --> /join frostvale (Frostvale Gift Boxes)
+  🧿 Class ·········  Luck
 
-ENHANCEMENTS
+  ⚔️  Weapon ········  Valiance
+                       Dauntless  (Soloing)
 
-Class - Luck
+  🪖 Helm ··········  Anima
 
-Weapon - Valiance | Dauntless (soloing)
-Helm - Anima
-Cape - Vainglory
+  🧣 Cape ··········  Vainglory
 
-COMBOS
 
-2 - 4 - 2 - 4 - 5 - 3
-repeat cycle
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  2 → 4 → 2 → 4 → 5 → 3  →  repeat cycle
