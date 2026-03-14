@@ -1,54 +1,44 @@
-OBS!!! (Refer to NULGATH ITEMS / MATERIALS channel in Library Server) FOR ALL THE MATERIALS MENTIONED BELOW
-OBS!!! (Refer to NULGATH ITEMS / MATERIALS channel in Library Server) FOR ALL THE MATERIALS MENTIONED BELOW
+╔════════════════════════════════╗
 
+   NECROTIC SWORD OF
+       THE ABYSS
 
-Merge the following:
+╚════════════════════════════════╝
 
-Necrotic Sword of Doom (Sword) x1 (Refer to BOOST (%) / 51 WEAPONS channel in Library server)
+⚠️ NOTE: Refer to  ITEMS / NULGATH  in OUR Server for all materials below
 
-- Roentgenium of Nulgath x2 
+➡️ Head to /join tercessuinotlim --> Speak to "Void Highlord (NPC)"
+--> Accept "Void Highlord's Challenge" quest
 
-(you can cheat here by completing the weekly quest at /join ultranulgath once and you will have the roentgeniums you need instantly) (you're gay if you cheat btw)
+⚔️ NECROTIC SWORD OF THE ABYSS
+╭──────── MERGE REQUIREMENTS ────────╮
+  Necrotic Sword of Doom   ×1  --> (Refer to / 51% WEAPONS  in OUR server)
+  Roentgenium of Nulgath   ×2  --> /join ultranulgath (Complete the weekly quest once for both instantly)
+  Void Crystal A           ×1  --> Merge the following:
+    Unidentified 10        ×200
+    Gem of Nulgath         ×150
+    Dark Crystal Shard     ×200
+    Tainted Gem            ×200
+  Void Crystal B           ×1  --> Merge the following:
+    Diamond of Nulgath     ×200
+    Blood Gem of the Archfiend ×30
+    Totem of Nulgath       ×15
+    Elders' Blood          ×2
+╰────────────────────────────────────╯
 
-- Void Crystal A x1
+💡 TIP: Farm the 2 Roentgeniums FIRST — you will passively collect Void Crystal reagents as you do so
 
-	- Merge the following:
-		- Unidentified 10 x200
-		- Gem of Nulgath x150
-		- Dark Crystal Shard x200
-		- Tainted Gem x200
-
-- Void Crystal B x1
-	- Merge the following:
-		- Diamond of Nulgath x 200
-		- Blood Gem of the Archfiend x 30
-		- Totem of Nulgath x 15
-		- Elders' Blood x2
----
-
-You should obtain 2 Roentgeniums of Nulgath before doing the Void Crystals because you can earn reagents for the Void Crystals as you get Roentgeniums - it's more efficient.
-
-To start, enter /tercessuinotlim and go to the Void Highlord NPC. If you've never been to /tercessuinotlim before, use the guide. After, accept the "Void Highlord's Challenge" quest from the NPC. If you can't accept it, look at the Requirements tab above.
-
-Aelita's Emerald (2) 
-
-ArchFiend's Favour x300 (600)
-
-Black Knight Orb (2)
-
-Elders' Blood (2)
-
-Emblem of Nulgath x20 (40)
-
-Essence of Nulgath x50 (100)
-
-Gem of Nulgath x20 (40)
-
-Nulgath's Approval x300 (600)
-
-Nulgath Shaped Chocolate (2 = 4m Gold)
-
-Tainted Gem x100 (200)
-
-Unidentified 13 (2)
-
+⚡ VOID HIGHLORD'S CHALLENGE REQUIREMENTS
+╭──────── MERGE REQUIREMENTS ────────╮
+  Aelita's Emerald           ×2
+  ArchFiend's Favour         ×300  (×600 total for both runs)
+  Black Knight Orb           ×2
+  Elders' Blood              ×2
+  Emblem of Nulgath          ×20   (×40 total)
+  Essence of Nulgath         ×50   (×100 total)
+  Gem of Nulgath             ×20   (×40 total)
+  Nulgath's Approval         ×300  (×600 total)
+  Nulgath Shaped Chocolate   ×2    (= 4m Gold)
+  Tainted Gem                ×100  (×200 total)
+  Unidentified 13            ×2
+╰────────────────────────────────────╯
