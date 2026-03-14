@@ -1,31 +1,50 @@
-Requirements
+╔════════════════════════════════════╗
 
-Storyline Completion
-This includes /fireplanewar > /shadowfireplane > /fireinvasion > /wartraining > /fireavatar. 
+   SHADOW BLADE OF DESPAIR
 
-Rank 10 Dragonslayer
-Purchase from /lair, rank up using your best XP method from the New Player guide.
+╚════════════════════════════════════╝
 
-Quest
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Level 30 (required to equip)
+╰──────────────────────────────────╯
 
-Purchase the Fire Champion's Armour from Vagra's Merge shop at /wartraining with the following items:
+✅ STEP 1 — Obtain the Enchantment Rune
+╭──────────────────────────────────╮
+  1. Purchase the Silver Victory Blade
+     --> Loot Chest NPC's shop @ /join river
 
-Polished DragonSlayer
+  2. Complete "Victory Blade Enchantment" from the Loot Chest NPC
+     --> Defeat Skeletal Vikings and Warriors @ /join castleundead
+     --> Defeat Big Jack Sprat @ /join graveyard
+     --> Rewards an Enchantment Rune
 
-Warfury Emblem x90 (30 for the armour, 60 for later)
-Complete Varga's "Warfury Training" quest at /wartraining. You can use Vagra's Zone Map to get around quickly. If you're in a group, you can defeat Vagra (drops 1-20). Otherwise, defeat Warfury Soldiers (drops 1). The drops stack to 60.
+  3. Exchange the Rune + Blade for the Enchanted Victory Blade
+     --> Loot Chest NPC's shop @ /join river
+╰──────────────────────────────────╯
 
-Enchanted Scale x155 (30 for the armour, 125 for later)
-Complete Galanoth's "DragonSlayer General Class" quest at /dragontown. Walk up>right from Galanoth to defeat the Tempest and Blood Dracoliches, which have the lowest combined HP of any room.
+✅ STEP 2 — Choose Your Path
+╭──────────────────────────────────╮
+  Complete "Alignment Quest: Light... or Dark?" from the Loot Chest NPC
+  --> Defeat Skeletal Warriors @ /join castleundead
 
-Dragon Scale x30
-Either defeat the Venom, Dark, and Bronze Draconians at /lair or purchase with Dragon Runestones at Alina's Get Reagents shop from /alchemyacademy.
+  🌑 Shadow Blade of Despair  --> Choose Dark Aura Gem
+  🌟 Arcane Blade of Glory    --> Choose Bright Aura Gem
 
-Flame-Forged Metal x10
-Complete Chanky's "Need Flame" quest at /underworld. To find him, keep walking left until you can go directly down then continue right to the frozen bridge. To complete the quest, defeat the Frozen Pyromancer past the bridge. 
+  💡 This choice only affects appearance — see the image preview to decide
+  Exchange the Aura Gem + Blade for the Enchanted Shadow or Mana Blade
+╰──────────────────────────────────╯
 
-Void Scale x13
-Defeat the ArchFiend Dragonlord at /underlair. This boss is very hard so bring a group as even with a dodge class it would take a long time to kill him. 
+✅ STEP 3 — Final Upgrade
+╭──────────────────────────────────╮
+  Complete "Choose: Despair... or Glory?" from the Loot Chest NPC
+  --> Defeat Skeletal Vikings @ /join castleundead
+  --> Rewards the Blade + Amulet of Despair or Glory
 
-Gold Voucher 500k x50
-Purchase from Vagra at /wartraining. The total cost is 25m Gold. Use the Gold guide if you need help.
+  Exchange both items to purchase your chosen weapon:
+  · Shadow Blade of Despair
+  · Arcane Blade of Glory
+
+  💡 Both weapons grant a 20% bonus XP per kill and mission completion
+  ⚠️ Requires Level 30 to equip
+╰──────────────────────────────────╯
