@@ -1,9 +1,22 @@
-**Must have completed:**
+╔════════════════════════════════════╗
 
+   HEARTY
 
-**Rank 7 Grimskull Trolling. (Refer To Grimskull Trolling Reputation Guide)
+╚════════════════════════════════════╝
 
-"The Gaol of Eternal Torment and Misery"** --> /join gaolcell --> Complete the dungeon
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must have Rank 7 Grimskull Trolling  --> Refer to Grimskull Trolling Reputation Guide
+  Must have completed "The Gaol of Eternal Torment and Misery"
+╰──────────────────────────────────╯
 
-How to get --> /join Gaolcell --> Speak to "Undead Cashfear (NPC)" and open shop and buy it
+✅ STEP 1 — Complete the Dungeon
+╭──────────────────────────────────╮
+  /join gaolcell --> Complete the dungeon
+╰──────────────────────────────────╯
 
+✅ STEP 2 — Obtain Item
+╭──────────────────────────────────╮
+  /join gaolcell --> Speak to Undead Cashfear (NPC)
+  --> Open shop --> Buy the item
+╰──────────────────────────────────╯
