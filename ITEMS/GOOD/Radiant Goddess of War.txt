@@ -1,183 +1,121 @@
-🛡️ Braindead 50% All-Race Boost Armor Guide
+╔════════════════════════════════╗
 
-Provides 50% damage boost to every race + resource boosts.
-Only 10% below the maximum possible boost in the game (75% × 35%).
+   RADIANT GODDESS OF WAR
 
-The grind isn't as bad as it looks, since many requirements are things most endgame players already have.
+╚════════════════════════════════╝
 
-📋 Recommended Prerequisites
+🛡️ 50% ALL-RACE DAMAGE BOOST ARMOR
+╭──────────────────────────────────╮
+  Provides 50% damage boost to every race + resource boosts
+  Only 10% below the maximum possible boost in the game (75% × 35%)
+  The grind is lighter than it looks — many requirements are things
+  most endgame players already have
+╰──────────────────────────────────╯
 
-You should already have most of these if you’ve done endgame content:
+📦 RECOMMENDED PREREQUISITES
+╭──────────────────────────────────╮
+  (Most endgame players already have these)
+  Fire Champion's Armor
+  Drakath Armour               (Empowered Version required for quest)
+  Awescended
+  Blinding Light of Destiny
+  Rank 10 Good
+  Malgor the ShadowLord        (assuming Dauntless is complete)
+╰──────────────────────────────────╯
 
-• Fire Champion's Armor
-• Drakath Armour (Empowered Version required for quest)
-• Awescended
-• Blinding Light of Destiny
-• Rank 10 Good
-• Malgor the ShadowLord (assuming you completed Dauntless)
+╔════════════════════════════════╗
+  CLASSIC HOLLOWBORN PALADIN
+╚════════════════════════════════╝
 
-Below are only the new grinds required.
+⚠️ Requires Lae's Hardcore Contract — see Classic Hollowborn guide
 
-🗡️ Classic Hollowborn Paladin Armor
+📜 Quest 1 — "Let's Get You a Suit"
+╭──────── MERGE REQUIREMENTS ────────╮
+  Sparrow's Blood        ×1      --> Complete Reens' quest at /join arcangrove
+  Brilliant Aura         ×1      --> From Mace of Destiny quest (see BLoD guide)
+  Dark Arts Scholar               --> Buy from /join lightguard DoomWood Rep shop
+  Gold                   20,000
 
-Requirement to Start:
+  Gem of Superiority     ×1      --> /join shadowblast (Kill any of the following)
+                                     Legion Airstrike v2 · Legion Cannon v2
+                                     Legion Fenrir Lv40 · Paragon · Thanatos
 
-Requires Lae's Hardcore Contract
+  Exalted Paladin Seal   ×1      --> /join darkthronehub shop
+  Condensed Mana         ×1      --> /join timevoid (Kill Unending Avatar)
+  Human Soul             ×200    --> /join noxustower
+  Lae's Hardcore Contract ×1
+  Hollowborn Paladin     ×1      --> (Reward from Quest 1)
+╰────────────────────────────────────╯
 
-🧾 Quest 1 — “Let’s Get You a Suit”
+📜 Quest 2 — "I Got Your Back (and Your Top)"
+╭──────── MERGE REQUIREMENTS ────────╮
+  Templar's Helm of Light         --> Drop: Red Dragon
+                                     OR buy from Artix at /join necropolis
+  Destiny Cloak                   --> /join necropolis DoomWood Rep shop
+  Dark Aura Gem                   --> Complete "Alignment Quest: Light… or Dark?"
+                                     at /join river
+  Shadow Dragon Soul              --> /join necrocavern (Kill Shadow Dragon)
+  Cryptkeeper Lich's Head         --> Drop: Cryptkeeper Lich
+  Human Soul             ×200    --> /join noxustower
+  Lae's Hardcore Contract ×1
+  Ascended Light of Destiny ×1   --> Merge at /join mountdoomskull
+  Hollowborn Paladin     ×1
+  Hollowborn Paladin Helmet ×1
+╰────────────────────────────────────╯
 
-Items Required:
+📜 Quest 3 — "The Dark Sacrifice"
+╭──────── MERGE REQUIREMENTS ────────╮
+  Unidentified 25        ×1      --> Merge using Unmoulded Fiend Essence
+  Gold                   15,000,000
+  Seal of Light          ×1      --> /join alteonbattle quest
+  Seal of Darkness       ×1      --> /join sepulchurebattle quest
+  Undead Skull           ×1      --> Drop: Skeleton Minion at /join artixpointe
+  Omni Artifact          ×1      --> Merge at /join artixpointe (see components below)
+  Human Soul             ×300    --> /join noxustower
+  Hollowborn Shadow of Fate ×1
 
-• Sparrow's Blood ×1 – Reen’s quests in /arcangrove
-• Brilliant Aura ×1 – From Mace of Destiny quest (BLUD guide)
-• Dark Arts Scholar – Buy in /lightguard Doomwood Rep shop
-• 20,000 Gold
+  Omni Artifact Components (all rewarded from Artix's quests at /join artixpointe):
+  --> Chickencow Claw · Cysero's Doom Sock · Death's Cursed Hourglass
+  --> Dragon Khan's Corrupt Scepter · Sir Ver's Broken Power Button
+  --> Unholy Wasabi · Zorbak's Staff Skull
+╰────────────────────────────────────╯
 
-Drops
+📜 Quest 4 — "The Post Summoning"
+╭──────── MERGE REQUIREMENTS ────────╮
+  Shadow Seal             ×1     --> /join shadowblast (Kill any of the following)
+                                     CaesarIsTheDark · Carnage · Crag & Bamboozle
+                                     Grimlord Boss · Minotaurofwar · Void Beetle Warlord
 
-Gem of Superiority ×1
-Dropped by monsters in /shadowblast:
+  Nulgath Materials:
+  Gem of Nulgath         ×150
+  Shadow Extract         ×30
+  Unidentified 13        ×13
+  Tainted Gem            ×500
+  Dark Crystal Shard     ×250
+  Diamond of Nulgath     ×750
+  Blood Gem of the Archfiend ×75
 
-• Legion Airstrike (Version 2)
-• Legion Cannon (Version 2)
-• Legion Fenrir (Lv. 40)
-• Paragon
-• Thanatos
+  Farming method:
+  1. Complete Beetle General Pet quests at /join templesiege
+  2. Farm Metamorphosis quest
+  3. Obtain Beetle Warlord Pet
+  4. Complete Beetle Warlord quests --> Rewards the armor
+╰────────────────────────────────────╯
 
-Other Requirements:
+╔════════════════════════════════╗
+    GODDESS OF WAR REQUIREMENTS
+╚════════════════════════════════╝
 
-• Exalted Paladin Seal ×1 – /darkthronehub shop
-• Condensed Mana ×1 – /timevoid (Unending Avatar)
-• Human Soul ×200 – /noxustower
+╭──────── MERGE REQUIREMENTS ────────╮
+  Purified Undead Dragon
+   Essence               ×3      --> Complete "I'm Gonna Let It Shine" quest
+    Purification Orb     ×10     --> /join doomwood (Kill Undead Paladin)
+  Rainbow Moonstone      ×5      --> /join earthstorm quest
+  Desolich's Dark Horn   ×3      --> /join desolich
+  Ice Shard (2)          ×50     --> Complete "Enchanted Ice Shards" quest (Kill Izotz)
 
-Required Items:
-
-• Lae's Hardcore Contract
-• Hollowborn Paladin (previous quest reward)
-
-🧾 Quest 2 — “I Got Your Back (and Your Top)”
-
-Items Required:
-
-• Templar's Helm of Light ×1
- • Drop: Red Dragon
- • Or buy from Artix in /necropolis
-
-• Destiny Cloak ×1
- • /necropolis Doomwood Rep shop
-
-• Dark Aura Gem ×1
- • Quest: Alignment Quest: Light… or Dark?
- • Location: /river
-
-• Shadow Dragon Soul ×1
- • Drop: Shadow Dragon /necrocavern
-
-• Cryptkeeper Lich's Head ×1
- • Drop: Cryptkeeper Lich
-
-• Human Soul ×200
- • /noxustower
-
-Required Items:
-
-• Lae's Hardcore Contract
-• Ascended Light of Destiny (merge in /mountdoomskull)
-• Hollowborn Paladin
-• Hollowborn Paladin Helmet
-
-🧾 Quest 3 — “The Dark Sacrifice”
-Materials
-
-• Unidentified 25 ×1
- • Merge using Unmoulded Fiend Essence
-
-• 15,000,000 Gold
-
-• Seal of Light ×1
- • /alteonbattle quest
-
-• Seal of Darkness ×1
- • /sepulchurebattle quest
-
-• Undead Skull ×1
- • Drop: Skeleton Minion /artixpointe
-
-• Omni Artifact ×1
- • Merge at /artixpointe
-
-Omni Artifact Components
-
-• Chickencow Claw
-• Cysero's Doom Sock
-• Death's Cursed Hourglass
-• Dragon Khan's Corrupt Scepter
-• Sir Ver's Broken Power Button
-• Unholy Wasabi
-• Zorbak's Staff Skull
-
-Additional Materials:
-
-• Human Soul ×300 – /noxustower
-
-Required Item:
-
-• Hollowborn Shadow of Fate
-
-🧾 Quest 4 — “The Post Summoning”
-Shadow Seal
-
-Drop from monsters in /shadowblast:
-
-• CaesarIsTheDark
-• Carnage
-• Crag & Bamboozle
-• Grimlord Boss
-• Minotaurofwar
-• Void Beetle Warlord
-
-Nulgath Materials
-
-• Gem of Nulgath ×150
-• Shadow Extract ×30
-• Unidentified 13 ×13
-• Tainted Gem ×500
-• Dark Crystal Shard ×250
-• Diamond of Nulgath ×750
-• Blood Gem of the Archfiend ×75
-
-Farming Method
-
-Do Beetle General Pet quests in /templesiege
-
-Farm Metamorphosis quest
-
-Obtain Beetle Warlord Pet
-
-Complete Beetle Warlord quests
-
-Reward: Armor
-
-⚔️ Goddess of War Requirements
-
-• Purified Undead Dragon Essence ×3
- • Quest: I’m Gonna Let It Shine
-
-• Purification Orb ×10
- • Drop: Undead Paladin /doomwood
-
-• Rainbow Moonstone ×5
- • Quest: /earthstorm
-
-• Desolich's Dark Horn ×3
- • Drop: /desolich
-
-• Ice Shard (2) ×50
- • Quest: Enchanted Ice Shards
- • Kill Izotz
-
-Final Items
-
-• Hollowborn Doomblade (Sword) ×1
-• Goddess Of War Prestige Cloak ×1
-• Dragon's Tear ×1
+  Final Items:
+  Hollowborn Doomblade   ×1
+  Goddess of War Prestige Cloak ×1  --> See Goddess of War Prestige Cloak guide
+  Dragon's Tear          ×1
+╰────────────────────────────────────╯
