@@ -1,0 +1,21 @@
+╔════════════════════════════════════╗
+
+   SMITE
+
+╚════════════════════════════════════╝
+
+📋 REQUIREMENTS
+╭──────────────────────────────────╮
+  Must be Level 60               --> Refer to XP Guide
+  Must have Rank 6 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
+  Must have completed "Star Light, Star Bright" quest
+╰──────────────────────────────────╯
+
+✅ STEP 1 — Obtain Items
+╭──────────────────────────────────╮
+  Death's Power       ×3   --> /join shadowattack     --> Kill Death
+  Chaotic Power       ×7   --> /join stalagbite       --> Kill Wath (Vath)
+  Empowered Essence   ×50  --> /join shadowrealmpast  --> Kill Pure Shadowscythe, Shadow Guardian, Shadow Warrior
+  Gem Power           ×25  --> /join undergroundlabb  --> Kill Ultra Battle Gem
+  Power Tonic         ×10  --> /join alchemyacademy   --> Open Fehu shop
+╰──────────────────────────────────╯
