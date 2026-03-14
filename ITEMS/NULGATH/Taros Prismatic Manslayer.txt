@@ -1,27 +1,42 @@
-Membership
+╔════════════════════════════════════╗
 
-Level 80
+   TARO'S PRISMATIC MANSLAYER
 
-Rank 10 Good
+╚════════════════════════════════════╝
 
-Taro's Manslayer
-If you have a strong soloing class or group, farm Taro Blademaster at /tercessuinotlim. You need a good class for this because he hits hard and has 200k HP.
-Otherwise, it's probably faster to just do Taro's "The Guardian Taro Blademaster" quest. It requires the Purified Claymore of Destiny, which you can get from Polish's "Purified Claymore" quest (Polish is located in the room left of Taro). For Polish's quest, defeat Undead Berserkers at /marsh2 and turn in the Warrior Claymore Blade. Then, turn in Taro's quest with 10 Gems of Nulgath (see Reagent Library) and the Dark Makai Rune, which drops from Dark Makai. Choose Taro's Manslayer as the reward!
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+  Membership
+  Level 80
+  Rank 10 Good
+╰──────────────────────────────────╯
 
-Reagents
+⚔️ STEP 1 — Obtain Taro's Manslayer
+╭──────────────────────────────────╮
+  Option A — Farm Taro Blademaster directly
+  --> /join tercessuinotlim (200,000 HP — requires strong solo class or group)
 
-Now that you have Taro's Manslayer, complete Taro's "A Test of Temptation" quest.
+  Option B — Complete Taro's quest (usually faster)
+  --> "The Guardian Taro Blademaster" from Taro @ /join tercessuinotlim
+      Requires: Purified Claymore of Destiny
+      → Get from Polish's "Purified Claymore" (Polish is left of Taro)
+        Farm Warrior Claymore Blade from Undead Berserkers @ /join marsh2
+      Turn in with:
+      Gem of Nulgath                ×10    --> Reagent Library
+      Dark Makai Rune               ×1     --> Drops from Dark Makai
+  --> Choose Taro's Manslayer as the reward
+╰──────────────────────────────────╯
 
-Use the Reagent Library for details on how to get the following items:
+⚔️ STEP 2 — Upgrade to Prismatic Manslayer
+╭──────── "A Test of Temptation" from Taro @ /join tercessuinotlim ────────╮
+  Requires Taro's Manslayer in your inventory
 
-Tainted Gem x200
+  Tainted Gem                   ×200
+  Dark Crystal Shard            ×125
+  Diamond of Nulgath            ×300
+  Gem of Nulgath                ×75
+  Blood Gem of the ArchFiend    ×35
 
-Dark Crystal Shard x125
-
-Diamond of Nulgath x300
-
-Gem of Nulgath x75
-
-Blood Gem of the ArchFiend x35
-
-Choose either the single or dual version for your reward.
+  💡 Use the Reagent Library for farming details on all items above
+  💡 Choose either the single or dual version as your reward
+╰──────────────────────────────────╯
