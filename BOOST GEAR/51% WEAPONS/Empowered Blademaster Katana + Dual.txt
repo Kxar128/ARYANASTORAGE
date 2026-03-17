@@ -1,0 +1,40 @@
+╔════════════════════════════════════════╗
+  EMPOWERED BLADEMASTER KATANA
+            + DUAL
+╚════════════════════════════════════════╝
+📦 Pre-Requirements
+Hardcore Paragon Pet (Rare)
+Blademaster's Dual Katana (Pseudo-Rare)
+Living Blademaster (Pseudo-Rare)
+Dark Unicorn Rib (Stacks to 13) --> /join binky or /join doomvault --> Kill Binky (Monster)
+
+Get Hardcore Paragon Pet out of inventory --> Click it --> Accept "A Single Rib" Quest
+🦴 A SINGLE RIB QUEST
+╭──────── REQUIREMENTS ────────╮
+Dark Unicorn Rib  --> /join binky or /join doomvault --> Kill Binky (Monster)
+╰──────────────────────────────╯
+Complete as many times as necessary until you have:
+
+Living Blademaster
+Blademaster's Dual Katanas
+
+⚔️ EMPOWERED BLADEMASTER QUEST
+╭──────── MERGE REQUIREMENTS ────────╮
+Legion Token           ×15,000 --> (Refer to Legion Token Guide in ITEMS / LEGION MATERIALS Guides)
+Dage the Evil Insignia ×30     --> /join ultradage (Complete the weekly quest there)
+╰────────────────────────────────────╯
+Quest Rewards (Choose 1 per turn-in):
+
+Empowered Blademaster
+Empowered Blademaster's Katana
+Empowered Dual Katanas
+
+⚔️ EMPOWERED DUAL KATANAS (BOTH VERSIONS)
+╭──────── TOTAL REQUIREMENTS ────────╮
+Legion Token           ×30,000
+Dage the Evil Insignia ×60
+╰────────────────────────────────────╯
+➡️ Head to /join ultradage --> Open Empowered Quests --> Accept "Empowered Blademaster" quest to complete
+
+
+Disclaimer : The base version of these weapons are Rare rarity. Obtained by completing Hardcore Paragon Pet's Quest. http://aqwwiki.wikidot.com/hardcore-paragon-pet
