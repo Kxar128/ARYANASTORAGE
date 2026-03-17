@@ -12,6 +12,12 @@
 
 ⚔️ QUESTS
 ╭──────── EVERYONE ────────╮
+
+  Complete Mount Mafic Flame's Quest from /join mafic (Legend)
+  --> Click the flame on Screen 5 (enter the cave --> enter 3rd room from the left)
+  --> Defeat Mafic Dragon --> Collect Burning Heart ×1
+  --> Rewards 2,500 Arcangrove Rep
+
   Complete Ledgermayne's 13LoC chapter (Map > Story)
   --> /join arcangrove > /join cloister > /join mudluk > /join natatorium
       > /join gilead > /join mafic > /join elemental > /join ledgermayne
