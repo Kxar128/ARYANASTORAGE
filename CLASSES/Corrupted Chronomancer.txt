@@ -5,48 +5,45 @@
 ╚══════════════════════════════════════╝
 
   Worth Getting?
-  ──────────────
-  Yes — top-tier chrono class.
+  Yes, top-tier chrono class.
   Extremely high nuke damage with full dodge potential.
   Requires good timing and awareness.
 
-  Best Used For:  🐉 Bossing (Solo & Group)
+  Best Used For: Bossing (Solo & Group)
 
 
 ╔══════════════════════════════════════╗
 ║          PRE-REQUIREMENTS            ║
 ╚══════════════════════════════════════╝
 
-  📦 2019 Calendar
-     OR
-  📦 6,000 Adventure Coins
+   2019 Calendar / 6,000 Adventure Coins
 
 
 ╔══════════════════════════════════════╗
 ║            ENHANCEMENTS              ║
 ╚══════════════════════════════════════╝
 
-  🧿 Class ·········  Luck
+   Class  Luck
 
-  ⚔️ Weapon ········  Dauntless (solo)
-                       Valiance (group / 100%+ crit)
+   Weapon  Dauntless (solo)
+            Valiance (group / 100%+ crit)
 
-  🪖 Helm ··········  Anima / Forge
+   Helm  Anima / Forge
 
-  🧣 Cape ··········  Lament (solo)
-                       Vainglory (group / 100%+ crit)
+   Cape  Lament (solo)
+            Vainglory (group / 100%+ crit)
 
 
   🔹 Awe Version 🔹
 
-  🧿 Class ·········  Luck
+   Class  Luck
 
-  ⚔️ Weapon ········  Lucky Health Vamp (solo)
-                       Lucky Spiral Carve (group)
+   Weapon  Lucky Health Vamp (solo)
+              Lucky Spiral Carve (group)
 
-  🪖 Helm ··········  Luck
+   Helm  Luck
 
-  🧣 Cape ··········  Luck
+   Cape  Luck
 
 
 ╔══════════════════════════════════════╗
@@ -55,27 +52,26 @@
 
   ⚠️  Requires timing — not a brainless spam class
 
-  🛡️ Pre-Stack Dodge ···  4 → 4 → 3
 
 
-  🧪 Transience + Felicitous Philtre
+   Transience + Felicitous Philtre
 
-  ✅ Main Combo ·········  4 → 2 → 2 → 2 → 4 → 2 → 5
-                           → Dodge → 3
+   Pre-Stack Dodge  4 → 4 → 3
+   Main Combo  4 → 2 → 2 → 2 → 4 → 2 → 5 → Dodge → 3
 
 
-  🧪 Transience + Infinite Corruption
+   Transience + Infinite Corruption
 
-  ✅ Same combo as above
+   Same combo as above
      ✔ Safer, lower risk
 
 
-  🧪 Power + Felicitous Philtre
+   Power + Felicitous Philtre
 
-  ✅ Main Combo ·········  3 → 2 → 4 → 2 → 2 → 2 → 4 → 5
+   Main Combo  3 → 2 → 4 → 2 → 2 → 2 → 4 → 5
 
 
-  🧪 Power + Infinite Corruption
+   Power + Infinite Corruption
 
-  ✅ Same combo as above
+   Same combo as above
      ✔ Safer version
