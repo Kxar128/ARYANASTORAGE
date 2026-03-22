@@ -1,33 +1,81 @@
-╔════════════════════════════════════╗
+╔══════════════════════════════════════╗
+║                                      ║
+║     TIMELESS CHRONOMANCER            ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-   CORRUPTED CHRONOMANCER
-
-╚════════════════════════════════════╝
-
-📋 OVERVIEW
-╭──────────────────────────────────╮
   Worth Getting?
-  Uses
-╰──────────────────────────────────╯
+  ──────────────
+  Yes — top-tier chrono class.
+  Extremely high nuke damage with full dodge potential.
+  Requires good timing and awareness.
 
-📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+  Best Used For:  🐉 Bossing (Solo & Group)
 
-╰──────────────────────────────────╯
 
-⚙️ ENHANCEMENTS
-╭──────────────────────────────────╮
-  Class    Luck
-  Weapon   Lacerate (Support) | Dauntless | Valiance (Overall DPS increase)
-  Helm     Forge (Support) | Anima
-  Cape     Penitence (Support) | Vainglory
-╰──────────────────────────────────╯
+╔══════════════════════════════════════╗
+║          PRE-REQUIREMENTS            ║
+╚══════════════════════════════════════╝
 
-⚔️ COMBOS
-╭──────────────────────────────────╮
-  Equipment:  Hourglass of Transience + Infinite Corruption
+  📦 2019 Calendar
+     OR
+  📦 6,000 Adventure Coins
 
-  pre-stack:  6 → 4 → 2 → 2 → 4 → 3
-  heal combo: 4 → 2 → 2 → 3
-  nuke combo: 4 → 2 → 2 → 2 → 4 → 2 → 5 → 3
-╰──────────────────────────────────╯
+
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Luck
+
+  ⚔️ Weapon ········  Dauntless (solo)
+                       Valiance (group / 100%+ crit)
+
+  🪖 Helm ··········  Anima / Forge
+
+  🧣 Cape ··········  Lament (solo)
+                       Vainglory (group / 100%+ crit)
+
+
+  🔹 Awe Version 🔹
+
+  🧿 Class ·········  Luck
+
+  ⚔️ Weapon ········  Lucky Health Vamp (solo)
+                       Lucky Spiral Carve (group)
+
+  🪖 Helm ··········  Luck
+
+  🧣 Cape ··········  Luck
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ⚠️  Requires timing — not a brainless spam class
+
+  🛡️ Pre-Stack Dodge ···  4 → 4 → 3
+
+
+  🧪 Transience + Felicitous Philtre
+
+  ✅ Main Combo ·········  4 → 2 → 2 → 2 → 4 → 2 → 5
+                           → Dodge → 3
+
+
+  🧪 Transience + Infinite Corruption
+
+  ✅ Same combo as above
+     ✔ Safer, lower risk
+
+
+  🧪 Power + Felicitous Philtre
+
+  ✅ Main Combo ·········  3 → 2 → 4 → 2 → 2 → 2 → 4 → 5
+
+
+  🧪 Power + Infinite Corruption
+
+  ✅ Same combo as above
+     ✔ Safer version
