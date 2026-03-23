@@ -67,6 +67,7 @@
   Rank 10 Chaos
   Rank 10 Arcangrove
   Rank 10 Doomwood
+  Rank 10 Swordhaven
 
 
 ╔══════════════════════════════════════╗
