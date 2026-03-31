@@ -1,25 +1,31 @@
-/join streamwar
+╔════════════════════════════════╗
 
-Merge the following:
+  DARK DRAGON SLAYER'S
+        HALBERD
 
-- Green Dragon Slayer's Halberd
-	- Prismatic Seams x250
-	- Gold Voucher 500k x4 (2m gold)
+╚════════════════════════════════╝
 
-- Prismatic Seams x 1,000 --> /join streamwar
+➡️ Head to /join streamwar --> Open merge shop
 
-	- Reward from the following quests:
-		- "Mega Timestream Medals"
-		- "Timestream Medals"
-- Willpower x 70 --> /join ruinedcrown --> Accept and complete "Em-pathetic Connection" Quest
-- Garish Remnant x 70 --> /join timekeep --> Accept and complete "Janitorial Duties" Quest
+⚔️ DARK DRAGON SLAYER'S HALBERD
+╭──────── MERGE REQUIREMENTS ────────╮
+  Green Dragon Slayer's Halberd ×1
+    Merge using:
+    Prismatic Seams   ×250
+    Gold Voucher 500k ×4   (= 2,000,000 Gold)
 
-- Gold Voucher 500k x 20 (10m gold)
+  Prismatic Seams    ×1,000 --> /join streamwar
+                                Reward from "Mega Timestream Medals" or "Timestream Medals" quests
+  Willpower          ×70    --> /join ruinedcrown (Complete "Em-pathetic Connection" quest)
+  Garish Remnant     ×70    --> /join timekeep (Complete "Janitorial Duties" quest)
+  Gold Voucher 500k  ×20    (= 10,000,000 Gold)
+╰────────────────────────────────────╯
 
-Total needed: 
-
-Green Dragon Slayer's Halberd
-Prismatic Seams x 1,250
-Willpower x 70
-Garish Remnant x 70
-Gold Voucher 500k x 24 (12m gold)
+📋 TOTAL MATERIALS SUMMARY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Green Dragon Slayer's Halberd ×1
+  Prismatic Seams    ×1,250
+  Willpower          ×70
+  Garish Remnant     ×70
+  Gold Voucher 500k  ×24   (= 12,000,000 Gold)
+╰────────────────────────────────────╯
