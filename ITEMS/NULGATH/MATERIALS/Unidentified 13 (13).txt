@@ -1,22 +1,55 @@
-See the Pet Quests section at the very top for instructions:
+╔════════════════════════════════╗
 
+       UNIDENTIFIED 13 (13)       
 
+╚════════════════════════════════╝
 
-100% - "Diamond Exchange"
-Crag & Bamboozle
-Requires 15 Diamonds of Nulgath (see section above) and a Dark Makai Sigil, which drops from Dark Makai at /tercessuinotlim or /nulgath. Do this if you only want Unidentified 13s otherwise complete a method from below as they will reward other reagents at the same time.
+📌 NOTES
+╭──────────────────────────────────╮
+  See the Pet Quests section at the
+  very top for instructions:
+╰──────────────────────────────────╯
 
-15% - "New Worlds, New Opportunities"
-Nulgath's Birthday Gift
+📜 METHODS
+╭──────────────────────────────────╮
+  1.
+    100% - "Diamond Exchange"
+    Source: Crag & Bamboozle
+    Requires 15 Diamonds of Nulgath
+    (see section above) and a Dark
+    Makai Sigil, which drops from Dark
+    Makai at /tercessuinotlim or
+    /nulgath. Do this if you only want
+    Unidentified 13s otherwise
+    complete a method from below as
+    they will reward other reagents at
+    the same time.
 
-1% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" AND "The Dark Deal"
-Crag & Bamboozle AND Oblivion Blade of Nulgath
+  2.
+    15% - "New Worlds, New
+    Opportunities"
+    Source: Nulgath's Birthday Gift
 
-1% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" OR "The Dark Deal"
-Crag & Bamboozle OR Oblivion Blade of Nulgath
+  3.
+    1% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" AND "The Dark Deal"
+    Source: Crag & Bamboozle AND
+    Oblivion Blade of Nulgath
 
-5% - "Nulgath (Larvae)"
-Nulgath Larvae
+  4.
+    1% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" OR "The Dark Deal"
+    Source: Crag & Bamboozle OR
+    Oblivion Blade of Nulgath
 
-1% - "Supplies to spin The Wheel of Chance"
-Drudgen or Swindle
+  5.
+    5% - "Nulgath (Larvae)"
+    Source: Nulgath Larvae
+
+  6.
+    1% - "Supplies to spin The Wheel
+    of Chance"
+    Source: Drudgen or Swindle
+╰──────────────────────────────────╯
