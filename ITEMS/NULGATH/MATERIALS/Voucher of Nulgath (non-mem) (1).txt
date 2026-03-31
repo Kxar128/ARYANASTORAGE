@@ -1,69 +1,53 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+        VOUCHER OF NULGATH (NON-MEMBER)
+╚════════════════════════════════════════╝
 
- VOUCHER OF NULGATH (NON-MEM) (1) 
+FASTEST
+──────────────────────────────────────────
+11% — "Assisting Oblivion Blade" — Tendurrr
+Requires:
+• Oblivion Blade of Nulgath
 
-╚════════════════════════════════╝
+WHEEL OF CHANCE METHODS
+──────────────────────────────────────────
+3% — "Supplies to spin The Wheel of Chance"
+     + "Bamboozle vs Drudgen"
+     + "The Dark Deal"
+Requires:
+• Crag & Bamboozle AND Oblivion Blade of Nulgath
 
-📌 NOTES
-╭──────────────────────────────────╮
-  See the Pet Quests section at the
-  very top for instructions:
-╰──────────────────────────────────╯
+3% — Same quests but only one active
+Requires:
+• Crag & Bamboozle OR Oblivion Blade of Nulgath
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    11% - "Assisting Oblivion Blade"
-    Source: Tendurrr
-    Must own Oblivion Blade of
-    Nulgath.
+3% — "Supplies to spin The Wheel of Chance"
+Requires:
+• Drudgen or Swindle
 
-  2.
-    3% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" AND "The Dark Deal"
-    Source: Crag & Bamboozle AND
-    Oblivion Blade of Nulgath
+PASSIVE
+──────────────────────────────────────────
+3% — "New Worlds, New Opportunities"
+3% — "Nulgath (Larvae)"
 
-  3.
-    3% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" OR "The Dark Deal"
-    Source: Crag & Bamboozle OR
-    Oblivion Blade of Nulgath
+MERGE
+──────────────────────────────────────────
+Swindle's Ripoff Emporium
+/join tercessuinotlim
 
-  4.
-    3% - "New Worlds, New
-    Opportunities"
-    Source: Nulgath's Birthday Gift
+Do this only if Voucher is the only item you still need.
 
-  5.
-    3% - "Nulgath (Larvae)"
-    Source: Nulgath Larvae
+FORCED DROP METHOD
+──────────────────────────────────────────
+100% — "Assisting Crag & Bamboozle / Drudgen"
+Tendurrr
 
-  6.
-    3% - "Supplies to spin The Wheel
-    of Chance"
-    Source: Drudgen or Swindle
+Requirements:
+• Must own Crag & Bamboozle or Drudgen
+• Must max-stack ALL other possible rewards
 
-  7.
-    Alternative: Merge - Swindle's
-    Ripoff Emporium
-    Source: Swindle Bilk at
-    /tercessuinotlim
-    Do this if it's the only item you
-    need as you may obtain a non-mem
-    voucher as you farm for other
-    reagents.
+This forces a NON-MEMBER Voucher to drop.
 
-  8.
-    Alternative: 100% - "Assisting
-    Crag & Bamboozle/Drudgen"
-    Source: Tendurrr
-    Only do this if you just want a
-    non-mem voucher and have
-    max-stacked all the other rewards
-    as it will force a non-mem voucher
-    to drop. Must own Crag & Bamboozle
-    or Drudgen.
-╰──────────────────────────────────╯
+TIPS
+──────────────────────────────────────────
+• Only use forced drop if Voucher is last item needed
+• Otherwise Wheel of Chance is better because it gives other reagents
