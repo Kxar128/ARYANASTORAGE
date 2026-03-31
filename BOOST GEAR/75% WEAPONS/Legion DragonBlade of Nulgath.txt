@@ -9,6 +9,6 @@
 
 ⚔️ LEGION DRAGONBLADE OF NULGATH
 ╭──────── MERGE REQUIREMENTS ────────╮
-  DragonBlade of Nulgath ×1      --> (Refer to ITEMS / NULGATH channel in Library server)
-  Legion Token           ×5,000  --> (Refer to ITEMS / LEGION channel in Library server)
+  DragonBlade of Nulgath ×1
+  Legion Token           ×5,000
 ╰────────────────────────────────────╯
