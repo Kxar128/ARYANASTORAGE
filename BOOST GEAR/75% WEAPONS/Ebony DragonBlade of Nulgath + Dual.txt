@@ -1,24 +1,30 @@
-SEASONAL
+╔════════════════════════════════╗
 
-(This item is available from November 1st to December 31st each year)
+ EBONY DRAGONBLADE OF
+    NULGATH + DUAL
 
-/join tercessuinotlim --> make your way to "NULGATH (NPC)" (Refer to TERCESSUINOTLIM / NULGATH - SKEW channel in Library server)
+╚════════════════════════════════╝
 
-Press Quests --> Reward Quests --> Accept "Demanding Items of Nulgath" Quest
+⚠️ NOTE: Seasonal item - Available November 1st to December 31st each year
+⚠️ NOTE: Refer to ITEMS / NULGATH in OUR server in OUR Server for all materials below
 
-DragonFire of Nulgath x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Crimson Plate of Nulgath x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Crimson Face Plate of Nulgath x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Totem of Nulgath x 3 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Behemoth Blade of Light x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Behemoth Blade of Shadow x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
-
-Legion Fenrir Rune x 1 --> (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+➡️ /join tercessuinotlim --> Speak to "Nulgath (NPC)"
+--> Press Quests --> Reward Quests --> Accept "Demanding Items of Nulgath" quest
 
 
-DUAL VERSION CAN BE FOUND AT /JOIN NOSTALGIAQUEST (8 years old account needed)
+⚔️ EBONY DRAGONBLADE OF NULGATH
+╭──────── MERGE REQUIREMENTS ────────╮
+  DragonFire of Nulgath          ×1
+  Crimson Plate of Nulgath       ×1
+  Crimson Face Plate of Nulgath  ×1
+  Totem of Nulgath               ×3
+  Behemoth Blade of Light        ×1
+  Behemoth Blade of Shadow       ×1
+  Legion Fenrir Rune             ×1
+╰────────────────────────────────────╯
+
+🗡️ DUAL VERSION
+╭──────── MERGE REQUIREMENTS ────────╮
+  Account must be older than 8 years
+  --> /join nostalgiaquest --> Merge dual version there
+╰────────────────────────────────────╯
