@@ -1,3 +1,33 @@
-Defeat enemies at /evilwarnul. Do this in is the first room with grass near the end of the map as it has 4 enemies. 
+╔════════════════════════════════════════╗
+             ARCHFIEND'S FAVOUR
+╚════════════════════════════════════════╝
 
-Alternatively, farm enemies at the start of the map while you complete one of Diligas' quests ("Crush the Weak" if member, "Only The Strong Survive Today" if not). This is slower but it will also reward Diamonds of Nulgath. You will need an Unidentified 13 to accept these quests and have completed Galanoth's quests at /lair including "Dragonslayer Reward".
+FASTEST
+──────────────────────────────────────────
+Farm enemies at:
+/join evilwarnul
+
+Best Room:
+• First room with grass near end of map (4 enemies)
+
+PASSIVE
+──────────────────────────────────────────
+While doing Diligas quests:
+/join evilwarnul
+
+Quests:
+• "Crush the Weak" (Member)
+• "Only The Strong Survive Today" (Non-member)
+
+Requirements:
+• Must have Unidentified 13 to accept quests
+• Must complete Galanoth quests at /join lair
+  up to "Dragonslayer Reward"
+
+Also Drops:
+• Diamonds of Nulgath
+
+TIPS
+──────────────────────────────────────────
+• This is the best place to farm Diamonds + Favour together
+• Use a farming class — high respawn map
