@@ -1,29 +1,40 @@
 ╔════════════════════════════════════════╗
-                TAINTED GEMS
+                TAINTED GEM
 ╚════════════════════════════════════════╝
 
 FASTEST
 ──────────────────────────────────────────
 Swindle Bulk / Cube Reagent
-/join tercessuinotlim
 /join boxes → /join mountfrost
+
+Farm:
+• Box Guardians
+• Grizzlespit → Cubes
+• Snow Golems → Ice Cubes
+
+Reward:
+• Tainted Gems
+• Receipts of Swindle
+• Other reagents
 
 PASSIVE
 ──────────────────────────────────────────
-New Worlds, New Opportunities
-Nulgath Birthday Gift
+40% — New Worlds, New Opportunities
+40% — Nulgath Larvae
+30% — Wheel of Chance quests
 
-AFK
+ALTERNATIVE
 ──────────────────────────────────────────
-Supplies to Spin the Wheel of Chance
-Drudgen / Swindle
+"The Poisonous Deal" — Crag & Bamboozle
+Use spare Uni 10 + Blood Gems
 
-MERGE
+REQUIREMENTS
 ──────────────────────────────────────────
-Swindle's Ripoff Emporium
-/join tercessuinotlim
+Some methods require:
+• Crag & Bamboozle
+• Drudgen
+• Oblivion Blade
 
 TIPS
 ──────────────────────────────────────────
-• Boxes + Mountfrost method gives multiple reagents
-• Best done while farming Diamonds and Uni 13
+• Swindle Bulk is best because it gives multiple reagents
