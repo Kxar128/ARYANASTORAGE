@@ -1,13 +1,16 @@
-/join ultraspeaker --> Ultraspeaker merge shop
+╔════════════════════════════════╗
 
-Merge the following:
+     WAR BLADE OF WISDOM
 
+╚════════════════════════════════╝
 
-Malgor Insignia x7 --> /join Ultraspeaker
+➡️ Head to /join ultraspeaker --> Open Ultraspeaker Merge shop
 
-Fragment of the Queen x13 --> /join transformation --> Kill Queen of Monsters
-
-ShadowChaos Mote x250 --> /join Laguna or Lagunabeach --> reward from "A Closer 
-Look" and "Snack Time" Quests
-
-Acquiescence x10 --> /join Worldscore --> Reward from "Tranquil Mediocrity" quest
+🧠 WAR BLADE OF WISDOM
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia      ×7   --> /join ultraspeaker (Complete the weekly quest there)
+  Fragment of the Queen ×13 --> /join transformation (Kill Queen of Monsters)
+  ShadowChaos Mote     ×250 --> /join Laguna or /join Lagunabeach
+                                (Reward from "A Closer Look" or "Snack Time" quests)
+  Acquiescence         ×10  --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
+╰────────────────────────────────────╯
