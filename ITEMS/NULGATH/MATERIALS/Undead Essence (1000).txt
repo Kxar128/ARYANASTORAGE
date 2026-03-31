@@ -1,15 +1,30 @@
-Choose your method:
+╔════════════════════════════════╗
 
-"Soul Searching"
-Yara at /battleunderc
-For this quest, do the following:
+  UNDEAD ESSENCE
+           (1000)
 
-Exit left from /battleunderc then walk up to defeat the Undead Champion. 
+╚════════════════════════════════╝
 
-Exit top-right from /battleunderb to defeat Bone Terror.
+⚔️ METHODS
+╭──────── "Soul Searching" — Yara at /join battleunderc ────────╮
 
-If you're a member, exit left from /battleunderd to defeat the Crystalised Jellyfish - otherwise walk to it from /battleunderc.
+  ╭──────────────────────────────────╮
+    Step 1  --> Exit left from /join battleunderc
+                Kill Undead Champion
 
-You need to have completed Yara's quests at /battleundera/b/c to access the "Soul Searching" quest.
+    Step 2  --> Exit top-right from /join battleunderb
+                Kill Bone Terror
 
-If you'd prefer not to move around, just defeat enemies at /battleunderb.
+    Step 3  --> (Member) Exit left from /join battleunderd
+                Kill Crystalised Jellyfish
+                (Non-Mem) Walk to it from /join battleunderc
+
+    💡 You need to have completed Yara's quests at
+       /join battleundera, /join battleunderb, and
+       /join battleunderc to access "Soul Searching"
+
+    Alternative: If you'd prefer not to move around,
+    simply defeat enemies at /join battleunderb
+  ╰──────────────────────────────────╯
+
+╰──────────────────────────────────╯
