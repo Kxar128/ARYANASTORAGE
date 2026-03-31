@@ -1,144 +1,153 @@
-PRE-REQUIREMENTS
+╔════════════════════════════════╗
 
-* Must be Level 100
-* Must have Void Highlord (Class) in your inventory
-* Rank 10 Evil
+       CELESTIAL BLADES
 
-/join voidchasm --> Open merge shop there --> buy Prime Fiend Shard --> Place it in your house --> Click it --> Start questing
+╚════════════════════════════════╝
 
-FEED THE FIEND SHARD QUEST
+📦 Pre-Requirements
 
-Dual Dragonbone Axe of Nulgath --> /join tercessuinotlim --> speak to "Nulgath (NPC)" --> (Reward from the 'Combat Style: Dragonbone Axe' quest)
+Must be Level 100
+Must have Void Highlord (Class) in inventory
+Rank 10 Evil
 
-Essence of Nulgath x 20 --> /join Tercessuinotlim or /join nulgath --> Kill Dark Makai
+➡️ /join voidchasm --> Open merge shop --> Buy Prime Fiend Shard
+--> Place it in your house --> Click it --> Begin questing
 
-Iron Dreadsaw --> /join archportal --> Dirtlicker's shop
+⚠️ NOTE: Refer to NULGATH ITEMS / MATERIALS channel in Library Server for all Nulgath materials
 
-Merge the following:
+╔════════════════════════════════╗
+     QUEST 1: FEED THE FIEND SHARD
+╚════════════════════════════════╝
 
-Archfiend's Favor x 20
-Nulgath's Approval x 40
-Gem of Nulgath x 10
-Raw Dreadsaw x 1
+⚔️ FEED THE FIEND SHARD
+╭──────── MERGE REQUIREMENTS ────────╮
+  Dual Dragonbone Axe of Nulgath ×1 --> /join tercessuinotlim (Speak to Nulgath NPC --> Reward from "Combat Style: Dragonbone Axe" quest)
+  Essence of Nulgath             ×20 --> /join Tercessuinotlim or /join nulgath (Kill Dark Makai)
 
-Nation Soulstealer --> /join shadowblast --> Nation merge
+  Iron Dreadsaw                  ×1  --> /join archportal (Dirtlicker's shop)
+    Merge using:
+    Archfiend's Favor  ×20
+    Nulgath's Approval ×40
+    Gem of Nulgath     ×10
+    Raw Dreadsaw       ×1
 
-Merge the following:
+  Nation Soulstealer             ×1  --> /join shadowblast (Nation merge)
+    Merge using:
+    Diamond Badge of Nulgath ×100
+    Emblem of Nulgath        ×75
+    OR Diamond of Nulgath    ×20
 
-Diamond Badge of Nulgath x 100
-Emblem of Nulgath x 75
-OR
-Diamond of Nulgath x 20
+  Void Nation Caster             ×1  --> /join templedelve (Temple Delve Merge)
+    Merge using:
+    Tainted Gem          ×20
+    Dark Crystal Shard   ×10
+    Diamond of Nulgath   ×40
+    Gold Voucher 25k     ×4
+    Doomed Extract       ×22
+    Void Nation Ritualist ×1 --> /join Templedelve (Kill Doomed Fiend)
+╰────────────────────────────────────╯
 
-Void Nation Caster --> /join templedelve --> Temple Delve Merge
+╔════════════════════════════════╗
+     QUEST 2: GROW THE FIEND SHARD
+╚════════════════════════════════╝
 
-Merge the following:
+⚔️ GROW THE FIEND SHARD
+╭──────── MERGE REQUIREMENTS ────────╮
+  Essence of Nulgath  ×40  --> /join Tercessuinotlim or /join nulgath (Kill Dark Makai)
 
-Tainted Gem x 20
-Dark Crystal Shard x 10
-Diamond of Nulgath x 40
-Gold Voucher 25k x 4
-Doomed Extract x 22
-Void Nation Ritualist x 1 --> /join Templedelve --> Kill Doomed Fiend
+  Abyssal Priest of Nulgath ×1 --> /join evilwarnul (Speak to Dilligas NPC --> Nulgath Diamond shop)
+    aqwwiki.wikidot.com/abyssal-priest-of-nulgath
+    Merge using:
+    Archfiend's Favor  ×100
+    Diamond of Nulgath ×100
+    Nulgath's Approval ×100
 
-GROW THE FIEND SHARD QUEST
+  Void Paladin        ×1   --> /join tercessuinotlim (Speak to Oblivion NPC --> Reward from "Deeper and Deeper into Darkness" quest)
+  Void Spartan        ×1   --> /join tercessuinotlim (Speak to Zee NPC --> Reward from "Void Spartan" quest)
 
-Items Required:
+  Storm Knight        ×1   --> /join evilwarnul (Speak to Dilligas NPC --> Nulgath Diamond shop)
+    aqwwiki.wikidot.com/storm-knight
+    Merge using:
+    Tainted Gem              ×50
+    Dark Crystal Shard       ×30
+    Diamond of Nulgath       ×80
+    Gem of Nulgath           ×15
+    Blood Gem of the Archfiend ×5
+╰────────────────────────────────────╯
 
-Essence of Nulgath x 40 --> /join Tercessuinotlim or /join nulgath --> Kill Dark Makai
+╔════════════════════════════════╗
+    QUEST 3: EVOLVE THE FIEND SHARD
+╚════════════════════════════════╝
 
-Abyssal Priest of Nulgath --> /join evilwarnul --> Speak to "Dilligas (NPC)" --> Nulgath Diamond shop --> (http://aqwwiki.wikidot.com/abyssal-priest-of-nulgath)
+⚔️ EVOLVE THE FIEND SHARD
+╭──────── MERGE REQUIREMENTS ────────╮
+  Essence of Nulgath  ×60
 
-Merge the following:
-Archfiend's Favor x100
-Diamond of Nulgath x100
-Nulgath's Approval x100
+  ArchFiend Enchanted Orbs ×1 --> /join tercessuinotlim (Speak to Lae NPC)
+    aqwwiki.wikidot.com/archfiend-enchanted-orbs
+    Merge using:
+    Unidentified 36              ×1
+    Unidentified 25              ×1
+    Unidentified 13              ×1
+    Diamond of Nulgath           ×150
+    Fresh Soul                   ×100
+    Blood Gem of the Archfiend   ×10
+    Voucher of Nulgath (non-mem) ×1
 
-Void Paladin --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" -->  (Reward from the 'Deeper and Deeper into Darkness' quest)
+  Void Soul of Nulgath ×1 --> /join fiendshard (Reward from "The Swirling Abyss Gathers" quest)
 
-Void Spartan --> /join tercessuinotlim --> Speak to "Zee (NPC)" --> (Reward from the 'Void Spartan' quest)
+  Blood Ranger        ×1   --> /join evilwarnul (Speak to Dilligas NPC --> Nulgath Diamond shop)
+    aqwwiki.wikidot.com/blood-ranger
 
-Storm Knight --> /join evilwarnul --> Speak to "Dilligas (NPC)" --> Nulgath Diamond shop --> (http://aqwwiki.wikidot.com/storm-knight)
+  Envenomed Edge of Nulgath ×1 --> /join voidrefuge (Void Refuge Merge Shop)
+    aqwwiki.wikidot.com/envenomed-edge-of-nulgath
+    Merge using:
+    Venomous Fang Blade  ×1   --> /join museum (Valencia: Treasure Hunt > 2023 Hunts > Fang Blade > Repair Blade)
+    Unidentified 13      ×1
+    Tainted Gem          ×100
+    Dark Crystal Shard   ×40
+    Diamond of Nulgath   ×150
+╰────────────────────────────────────╯
 
-Merge the following:
+╔════════════════════════════════╗
+   QUEST 4: THE FIEND SHARD'S DEMAND
+╚════════════════════════════════╝
 
-Tainted Gem x 50
-Dark Crystal Shard x 30
-Diamond of Nulgath x 80
-Gem of Nulgath x 15
-Blood Gem of the Archfiend x 5
+⚔️ THE FIEND SHARD'S DEMAND
+╭──────── MERGE REQUIREMENTS ────────╮
+  Void Avenger Scythe  ×1  --> /join tercessuinotlim (Speak to Skew NPC --> Reward from "Eternal Rest" quest)
+                               aqwwiki.wikidot.com/skew-s-quests
+  Doomblade of Destruction ×1 --> /join tercessuinotlim (Speak to Nulgath NPC --> Reward from "Nulgath Demands Work" quest)
+  Archfiend DeathLord  ×1  --> /join Fiendshard (Speak to Oversoul Spirit NPC --> Reward from "It Calls to You" quest)
+                               aqwwiki.wikidot.com/oversoul-spirit-s-quests
+  Wrath of Nulgath     ×1  --> /join darkwarnation (Speak to Skew NPC --> Nation War Chest)
+                               aqwwiki.wikidot.com/wrath-of-nulgath
+  Ancient Shogun Armor ×1  --> /join evilwarnul (Dilligas' Merge Shop)
+                               aqwwiki.wikidot.com/ancient-shogun-armor
+╰────────────────────────────────────╯
 
-EVOLVE THE FIEND SHARD QUEST
+╔════════════════════════════════╗
+   QUEST 5: THE FIEND SHARD'S FINALE
+╚════════════════════════════════╝
 
-Items Required:
+⚔️ THE FIEND SHARD'S FINALE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Unidentified 13 ("The Contract of Nulgath") ×13
+  Tainted Gem                ×750
+  Dark Crystal Shard         ×400
+  Diamond of Nulgath         ×1,000
+  Totem of Nulgath           ×60
+  Gem of Nulgath             ×300
+  Blood Gem of the Archfiend ×100
+  Roentgenium of Nulgath     ×10
+╰────────────────────────────────────╯
 
-Essence of Nulgath x 60
+🏆 FINAL STEP - OBTAINING CELESTIAL BLADES
 
-ArchFiend Enchanted Orbs --> /join tercessuinotlim --> Speak to "Lae (NPC)" --> (http://aqwwiki.wikidot.com/archfiend-enchanted-orbs)
+Place the final form of Prime Fiend Shard in your house
+--> Open the shop --> Purchase all four blades:
 
-Merge the following:
-
-Unidentified 36 x1
-Unidentified 25 x1
-Unidentified 13 x1
-Diamond of Nulgath x150
-Fresh Soul x100
-Blood Gem of the Archfiend x10
-Voucher of Nulgath (non-mem) x1
-
-Void Soul of Nulgath --> /join fiendshard --> (Reward from the 'The Swirling Abyss Gathers' quest)
-
-Blood Ranger --> /join evilwarnul --> Speak to "Dilligas (NPC)" --> Nulgath Diamond Shop (http://aqwwiki.wikidot.com/blood-ranger)
-
-Envenomed Edge of Nulgath --> /join voidrefuge --> Void Refuge Merge Shop --> (http://aqwwiki.wikidot.com/envenomed-edge-of-nulgath)
-
-Merge the following:
-
-Venomous Fang Blade x1 --> /join museum ((Click the 'Treasure Hunt > 2023 Hunts > Fang Blade > Repair Blade' button from Valencia on Screen 1))
-Unidentified 13 x1
-Tainted Gem x100
-Dark Crystal Shard x40
-Diamond of Nulgath x150
-
-THE FIEND SHARD'S DEMAND QUEST
-
-Items Required:
-
-Void Avenger Scythe --> /join tercessuinotlim --> Speak to "Skew (NPC)" --> (Reward from the 'Eternal Rest' quest) (http://aqwwiki.wikidot.com/skew-s-quests)
-
-Doomblade of Destruction --> /join tercessuinotlim --> Speak to "Nulgath (NPC)" --> (Reward from the 'Nulgath Demands Work' quest) (http://aqwwiki.wikidot.com/oblivion-s-quests)
-
-Archfiend DeathLord --> /join Fiendshard --> Speak to "Oversoul Spirit (NPC)" -->  (Reward from the 'It Calls to You' quest) (http://aqwwiki.wikidot.com/oversoul-spirit-s-quests)
-
-Wrath of Nulgath --> /join darkwarnation --> Speak to "Skew (NPC)" --> Nation War Chest --> (http://aqwwiki.wikidot.com/wrath-of-nulgath)
-
-Ancient Shogun Armor --> /join evilwarnul --> Dilligas' Merge Shop --> (http://aqwwiki.wikidot.com/ancient-shogun-armor)
-
-THE FIEND SHARD'S FINALE QUEST
-
-Items Required:
-
-Unidentified 13: "The Contract of Nulgath" x13
-Tainted Gem x750
-Dark Crystal Shard x 400
-Diamond of Nulgath x 1,000
-Totem of Nulgath x 60
-Gem of Nulgath x 300
-Blood Gem of the Archfiend x 100
-Roentgenium of Nulgath x 10
-
-
-How to get celestial blades:
-
-Place the final form of Prime fiend shard in your house and open the shop, and buy all the blades
-
-* Celestial Abyss Blade
-* Celestial Blade of Judgement
-* Infernal Abyss Blade
-* Infernal Blade of Judgement
-
-For all the materials related to Nulgath misc item farming refer to the AQWWIKI.WIKIDOT.COM 
-OR THE 
-NULGATH MATERIALS / MATERIALS channel in Library Server
-
-
+  • Celestial Abyss Blade
+  • Celestial Blade of Judgement
+  • Infernal Abyss Blade
+  • Infernal Blade of Judgement
