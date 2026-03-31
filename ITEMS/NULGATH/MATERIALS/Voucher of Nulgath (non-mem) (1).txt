@@ -1,30 +1,69 @@
-See the Pet Quests section at the very top for instructions:
+╔════════════════════════════════╗
 
+ VOUCHER OF NULGATH (NON-MEM) (1) 
 
+╚════════════════════════════════╝
 
-11% - "Assisting Oblivion Blade"
-Tendurrr
-Must own Oblivion Blade of Nulgath.
+📌 NOTES
+╭──────────────────────────────────╮
+  See the Pet Quests section at the
+  very top for instructions:
+╰──────────────────────────────────╯
 
-3% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" AND "The Dark Deal"
-Crag & Bamboozle AND Oblivion Blade of Nulgath
+📜 METHODS
+╭──────────────────────────────────╮
+  1.
+    11% - "Assisting Oblivion Blade"
+    Source: Tendurrr
+    Must own Oblivion Blade of
+    Nulgath.
 
-3% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" OR "The Dark Deal"
-Crag & Bamboozle OR Oblivion Blade of Nulgath
+  2.
+    3% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" AND "The Dark Deal"
+    Source: Crag & Bamboozle AND
+    Oblivion Blade of Nulgath
 
-3% - "New Worlds, New Opportunities"
-Nulgath's Birthday Gift
+  3.
+    3% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" OR "The Dark Deal"
+    Source: Crag & Bamboozle OR
+    Oblivion Blade of Nulgath
 
-3% - "Nulgath (Larvae)"
-Nulgath Larvae
+  4.
+    3% - "New Worlds, New
+    Opportunities"
+    Source: Nulgath's Birthday Gift
 
-3% - "Supplies to spin The Wheel of Chance"
-Drudgen or Swindle
+  5.
+    3% - "Nulgath (Larvae)"
+    Source: Nulgath Larvae
 
-Alternative: Merge - Swindle's Ripoff Emporium
-Swindle Bilk at /tercessuinotlim
-Do this if it's the only item you need as you may obtain a non-mem voucher as you farm for other reagents.
+  6.
+    3% - "Supplies to spin The Wheel
+    of Chance"
+    Source: Drudgen or Swindle
 
-Alternative: 100% - "Assisting Crag & Bamboozle/Drudgen"
-Tendurrr
-Only do this if you just want a non-mem voucher and have max-stacked all the other rewards as it will force a non-mem voucher to drop. Must own Crag & Bamboozle or Drudgen.
+  7.
+    Alternative: Merge - Swindle's
+    Ripoff Emporium
+    Source: Swindle Bilk at
+    /tercessuinotlim
+    Do this if it's the only item you
+    need as you may obtain a non-mem
+    voucher as you farm for other
+    reagents.
+
+  8.
+    Alternative: 100% - "Assisting
+    Crag & Bamboozle/Drudgen"
+    Source: Tendurrr
+    Only do this if you just want a
+    non-mem voucher and have
+    max-stacked all the other rewards
+    as it will force a non-mem voucher
+    to drop. Must own Crag & Bamboozle
+    or Drudgen.
+╰──────────────────────────────────╯
