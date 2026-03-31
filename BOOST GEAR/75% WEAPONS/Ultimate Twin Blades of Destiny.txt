@@ -1,11 +1,20 @@
-/join techfortress --> Techfortress War Merge
+╔════════════════════════════════╗
 
-Overwhelmed Axe x 1 -->
- 	* Spirit Orb (Misc) x250
- 	* Loyal Spirit Orb x100
- 	* Brilliant Aura x10
- 	* Blinding Aura x1
+  ULTIMATE TWIN BLADES
+       OF DESTINY
 
-Shard of An Orb x 5 --> /join techfortress --> (Reward from the 'This Little Light Of Mine' quest)
+╚════════════════════════════════╝
 
-Purified Undead Dragon Essence x 1 --> /join techfortress (Reward from the 'I'm Gonna Let It Shine' quest)
+➡️ Head to /join techfortress --> Techfortress War Merge
+
+⚔️ ULTIMATE TWIN BLADES OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Overwhelmed Axe                ×1 --> /join techfortress (Techfortress War Merge)
+    Merge using:
+    Spirit Orb (Misc) ×250
+    Loyal Spirit Orb  ×100
+    Brilliant Aura    ×10
+    Blinding Aura     ×1
+  Shard of An Orb                ×5 --> /join techfortress (Reward from "This Little Light Of Mine" quest)
+  Purified Undead Dragon Essence ×1 --> /join techfortress (Reward from "I'm Gonna Let It Shine" quest)
+╰────────────────────────────────────╯
