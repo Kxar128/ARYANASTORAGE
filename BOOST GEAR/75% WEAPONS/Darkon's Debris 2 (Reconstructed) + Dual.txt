@@ -1,25 +1,29 @@
-PRE-REQUIREMENTS
+╔════════════════════════════════╗
 
-Must have completed Darkon Storyline 
+  DARKON'S DEBRIS 2
+  (RECONSTRUCTED) + DUAL
 
-/join Ultradarkon --> Darkon Ultra Merge
+╚════════════════════════════════╝
 
-Merge the following:
+📦 Pre-Requirements
 
-Darkon's Debris 2 (Recovered) x1 --> /join Theworld --> The World Merge --> (http://aqwwiki.wikidot.com/darkon-s-debris-2-recovered)
+Must have completed the Darkon Storyline
 
-Bandit's Correspondence x22 --> /join eridanipast --> (Reward from the 'Pastorela' quest)
+➡️ Head to /join Ultradarkon --> Open Darkon Ultra Merge shop
 
-Suki's Prestige (Misc) x22 --> /join astraviapast --> (Reward from the 'Morning Mood' quest)
+⚔️ DARKON'S DEBRIS 2 (RECONSTRUCTED)
+╭──────── MERGE REQUIREMENTS ────────╮
+  Darkon's Debris 2 (Recovered) ×1  --> /join Theworld (The World Merge)
+                                         aqwwiki.wikidot.com/darkon-s-debris-2-recovered
+  Bandit's Correspondence        ×22 --> /join eridanipast (Reward from "Pastorela" quest)
+  Suki's Prestige (Misc)         ×22 --> /join astraviapast (Reward from "Morning Mood" quest)
+  Ancient Remnant                ×22 --> /join firstobservatory (Reward from "Taurus Gugalanna" quest)
+  Mourning Flower                ×22 --> /join genesisgarden (Reward from "Wheel of Fortune" quest)
+  Darkon Insignia                ×20 --> /join ultradarkon (Complete the weekly quest 4 times)
+╰────────────────────────────────────╯
 
-Ancient Remnant x22 --> /join firstobservatory --> (Reward from the 'Taurus Gugalanna' quest)
-
-Mourning Flower x22 --> /join genesisgarden --> (Reward from the 'Wheel of Fortune' quest)
-
-Darkon Insignia x20 --> Complete the weekly quest at /join ultradarkon 4 times
-
-
-FOR THE DUAL
-
-Darkon's Debris 2 (Reconstructed) x1
-Darkon Insignia x10 --> Complete the weekly quest at /join ultradarkon two more times
+🗡️ DUAL VERSION
+╭──────── MERGE REQUIREMENTS ────────╮
+  Darkon's Debris 2 (Reconstructed) ×1
+  Darkon Insignia                    ×10 --> /join ultradarkon (Complete the weekly quest 2 more times)
+╰────────────────────────────────────╯
