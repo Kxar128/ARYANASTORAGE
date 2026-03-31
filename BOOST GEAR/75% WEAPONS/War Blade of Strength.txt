@@ -1,11 +1,15 @@
-/join ultraspeaker --> Ultra Speaker Merge 
+╔════════════════════════════════╗
 
-Merge the following:
+    WAR BLADE OF STRENGTH
 
-Malgor Insignia x7 --> Complete the weekly quest at /join ultraspeaker
+╚════════════════════════════════╝
 
-Elemental Core x25 --> /join manacradle --> (Reward from the 'Once Upon Another Time' quest)
+➡️ Head to /join ultraspeaker --> Open Ultra Speaker Merge shop
 
-Fire Avatar's Favor x25 --> /join fireavatar -->  (Reward from the 'Avatar's Rage' quest)
-
-Acquiescence x10 --> /join worldscore --> (Reward from the 'Tranquil Mediocrity' quest)
+💪 WAR BLADE OF STRENGTH
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia      ×7  --> /join ultraspeaker (Complete the weekly quest there)
+  Elemental Core       ×25 --> /join manacradle (Reward from "Once Upon Another Time" quest)
+  Fire Avatar's Favor  ×25 --> /join fireavatar (Reward from "Avatar's Rage" quest)
+  Acquiescence         ×10 --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
+╰────────────────────────────────────╯
