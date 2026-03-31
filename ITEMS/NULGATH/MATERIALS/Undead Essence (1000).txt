@@ -1,30 +1,26 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+               UNDEAD ESSENCE
+╚════════════════════════════════════════╝
 
-  UNDEAD ESSENCE
-           (1000)
+FASTEST
+──────────────────────────────────────────
+"Soul Searching" — Yara
+/join battleunderc
 
-╚════════════════════════════════╝
+Targets:
+• Undead Champion
+• Bone Terror
+• Crystalised Jellyfish (Member)
+• Enemies at /battleunderb
 
-⚔️ METHODS
-╭──────── "Soul Searching" — Yara at /join battleunderc ────────╮
+Requirements:
+• Must complete Yara quests at /battleundera/b/c
 
-  ╭──────────────────────────────────╮
-    Step 1  --> Exit left from /join battleunderc
-                Kill Undead Champion
+AFK
+──────────────────────────────────────────
+Farm enemies at:
+/join battleunderb
 
-    Step 2  --> Exit top-right from /join battleunderb
-                Kill Bone Terror
-
-    Step 3  --> (Member) Exit left from /join battleunderd
-                Kill Crystalised Jellyfish
-                (Non-Mem) Walk to it from /join battleunderc
-
-    💡 You need to have completed Yara's quests at
-       /join battleundera, /join battleunderb, and
-       /join battleunderc to access "Soul Searching"
-
-    Alternative: If you'd prefer not to move around,
-    simply defeat enemies at /join battleunderb
-  ╰──────────────────────────────────╯
-
-╰──────────────────────────────────╯
+TIPS
+──────────────────────────────────────────
+• Battleunderb is easiest AFK method
