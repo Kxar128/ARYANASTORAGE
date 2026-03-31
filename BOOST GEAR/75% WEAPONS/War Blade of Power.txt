@@ -1,15 +1,19 @@
-/join ultraspeaker --> Ultraspeaker merge shop
+╔════════════════════════════════╗
 
-REQUIREMENTS:
+     WAR BLADE OF POWER
 
-* DRAGONSLAYER CLASS RANK 10
+╚════════════════════════════════╝
 
-Merge the following:
+📦 Pre-Requirements
 
-Malgor Insignia x 7 --> --> Complete weekly quest for /join ultraspeaker
+DragonSlayer Class Rank 10
 
-Enchanted Scale x 250 --> /join dragontown --> (Reward from the 'DragonSlayer General Class' quest)
+➡️ Head to /join ultraspeaker --> Open Ultraspeaker Merge shop
 
-Dragon Scale (1) x 30 --> /join lair --> Kill any draconian version there
-
-Acquiescence x 10 --> /join worldscore --> (Reward from the 'Tranquil Mediocrity' quest)
+⚡ WAR BLADE OF POWER
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia  ×7   --> /join ultraspeaker (Complete the weekly quest there)
+  Enchanted Scale  ×250 --> /join dragontown (Reward from "DragonSlayer General Class" quest)
+  Dragon Scale (1) ×30  --> /join lair (Kill any Draconian there)
+  Acquiescence     ×10  --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
+╰────────────────────────────────────╯
