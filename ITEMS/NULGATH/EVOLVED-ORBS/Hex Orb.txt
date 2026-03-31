@@ -1,75 +1,69 @@
-Pet
+╔════════════════════════════════╗
+      HEX ORB
+╚════════════════════════════════╝
 
-Merge the Evolved Hex Orb pet in Dirtlicker's shop at /archportal.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+Merge Evolved Hex Orb Pet
+--> /join archportal (Dirtlicker’s shop)
 
-Use the Reagent Library for details on how to get the following items:
-
-Nulgath's Approval x200
-
-Totem of Nulgath x10
-
-Dark Crystal Shard x30
-
-Tainted Gem x30
-
+Required Reagents:
+Nulgath's Approval ×200
+Totem of Nulgath ×10
+Dark Crystal Shard ×30
+Tainted Gem ×30
 Voucher of Nulgath (non-mem)
+Unidentified 13 ×3
+╰──────────────────────────────────╯
 
-Unidentified 13 x3
+⚔️ QUESTS
+╭──────── From Evolved Hex Orb Pet ────────╮
 
-Quest 1 - Armour
+1. "UNLOCK THE EVOLVED HEX ARMOUR"
+╭──────────────────────────────────╮
+⚠️ Requirements:
+Oracle (Rank 10)
+--> Free from Class Shop
 
-From the pet, complete "Unlock the Evolved Hex Armour". You'll need Oracle at Rank 10 (get it from the Game Menu's Class Shop for free) and the Platinum Coin of Nulgath: 2500, which you should only purchase after obtaining every reagent so that you can either sell it, use it with another Orb's quests, or for Quest 3 below.
+Platinum Coin of Nulgath ×2500
+💡 Buy AFTER all reagents (shared use)
 
-Use the Reagent Library for details on how to get the following items:
-
-Unidentified 13 x3
-
+Required Items:
+Unidentified 13 ×3
 Unidentified 22
-
 Warden of Light
-
-Gem of Nulgath x50
-
+Gem of Nulgath ×50
 4th Betrayal Blade of Nulgath Pet
-
 Polish's Book of Avalon
+╰──────────────────────────────────╯
 
-Quest 2 - Helm
+2. "CUT OFF ONE HEAD..." (Helm)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×300
 
-From the pet, complete "Cut Off One Head...". You'll need the Platinum Coin of Nulgath: 300, which you should only purchase after obtaining every reagent so that you can either sell it or use it with another Orb's quests.
-
-Use the Reagent Library for details on how to get the following items:
-
+Required Items:
 Deathdoll Enchant
-
-Diamond of Nulgath x10
-
+Diamond of Nulgath ×10
 Voucher of Nulgath (non-mem)
-
 Totem of Nulgath
-
 Heart of the Void
+Blood Gem of the ArchFiend ×5
+╰──────────────────────────────────╯
 
-Blood Gem of the ArchFiend x5
+3. "EMPOWERING THE EMPOWERED" (Staff)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×2500
+💡 Can reuse with Quest 1
 
-Quest 3 - Staff
-
-From the pet, complete "Empowering the Empowered". You'll need the Platinum Coin of Nulgath: 2500, which you should only purchase after obtaining every reagent so that you can either sell it, use it with another Orb's quests, or for Quest 1 above.
-
-Use the Reagent Library for details on how to get the following items:
-
-Unidentified 10 x30
-
-Tainted Gem x30
-
-Dark Crystal Shard x30
-
+Required Items:
+Unidentified 10 ×30
+Tainted Gem ×30
+Dark Crystal Shard ×30
 Unidentified 29
-
 Voucher of Nulgath (non-mem)
-
 Random Weapon of Nulgath
+Totem of Nulgath ×10
+Bright Tonic ×10
+╰──────────────────────────────────╯
 
-Totem of Nulgath x10
-
-Bright Tonic x10
+╰──────────────────────────────────╯
