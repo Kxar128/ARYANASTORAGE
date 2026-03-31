@@ -1,48 +1,41 @@
 ╔════════════════════════════════════════╗
-           VOUCHER OF NULGATH (MEM)
+          VOUCHER OF NULGATH (MEMBER)
 ╚════════════════════════════════════════╝
 
 FASTEST
 ──────────────────────────────────────────
-"Supplies to Spin the Wheel of Chance"
-Drudgen / Swindle
-
-Best version:
-• Do BOTH quests:
-  - "Bamboozle vs Drudgen"
-  - "The Dark Deal"
-
-Requirements:
-• Crag & Bamboozle AND Oblivion Blade of Nulgath
-
-This version gives the highest chance at Voucher (mem).
-
-ALTERNATIVE (LOWER REQUIREMENTS)
-──────────────────────────────────────────
-Do only ONE of the quests:
+"Supplies to spin The Wheel of Chance"
+Do BOTH:
 • "Bamboozle vs Drudgen"
 • "The Dark Deal"
 
-Requirements:
+Requires:
+• Crag & Bamboozle
+• Oblivion Blade of Nulgath
+
+This version has the highest chance at Member Voucher.
+
+LOWER REQUIREMENT METHOD
+──────────────────────────────────────────
+Do only ONE:
+• "Bamboozle vs Drudgen"
+• "The Dark Deal"
+
+Requires:
 • Crag & Bamboozle OR Oblivion Blade of Nulgath
 
 PASSIVE
 ──────────────────────────────────────────
-"New Worlds, New Opportunities"
-Nulgath's Birthday Gift
-
-"Nulgath (Larvae)"
-
-"Supplies to Spin the Wheel of Chance"
-Drudgen / Swindle
+• "New Worlds, New Opportunities"
+• "Nulgath (Larvae)"
+• Wheel of Chance turn-ins
 
 MERGE
 ──────────────────────────────────────────
 Swindle's Ripoff Emporium
 /join tercessuinotlim
 
-Use this only if Voucher is the only item you need,
-because other methods give multiple reagents at once.
+Only recommended if Voucher is the only item you need.
 
 FORCED DROP METHOD
 ──────────────────────────────────────────
@@ -50,13 +43,16 @@ FORCED DROP METHOD
 
 Requirements:
 • Must own Crag & Bamboozle or Drudgen
-• Must max-stack ALL other possible rewards
+• Must max-stack all other rewards
 
-This forces Voucher (mem) to drop.
+This can force Voucher (Member).
 
 TIPS
 ──────────────────────────────────────────
-• Always stack Diamonds, Tainted Gems, Blood Gems, etc.
-  before doing the forced drop method
-• Wheel of Chance quests are the main source
-• Farm Uni 10 and Relics of Chaos at the same time
+• Best farm is Wheel of Chance while farming:
+  - Blood Gems
+  - Tainted Gems
+  - Diamonds
+  - Dark Crystal Shards
+  - Uni 10
+• Hydras are best for Relics of Chaos → Wheel turn-ins
