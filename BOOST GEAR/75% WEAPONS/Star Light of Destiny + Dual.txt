@@ -1,136 +1,121 @@
-REQUIREMENTS:
+╔════════════════════════════════╗
 
-* Complete the whole chaos saga
-* Requires Rank 10 Mysterious Dungeon
-* Must have
- 	* Blinding Light of Destiny
- 	* Blinding Blade of Destiny
- 	* Blinding Scythe of Destiny
- 	* Blinding Bow of Destiny
- 	* Blinding Mace of Destiny
+   STAR LIGHT OF DESTINY
+         + DUAL
 
-/Join Astralshrine
+╚════════════════════════════════╝
 
-Merge shop
+📦 Pre-Requirements
 
-Merge the following:
+Must have completed the entire Chaos Saga
+Rank 10 Mysterious Dungeon
+Must have the following items in inventory:
+  Blinding Light of Destiny
+  Blinding Blade of Destiny
+  Blinding Scythe of Destiny
+  Blinding Bow of Destiny
+  Blinding Mace of Destiny
 
-Star Piece x100 --> /join starfield --> Kill any mob there
+➡️ Head to /join Astralshrine --> Open merge shop
 
-Ascended Light of Destiny x1 --> /join Mountdoomskull -->  Must have Original Drakath Armor in your inventory. --> Speak to "Fairy (NPC)" --> "Ascended Drakath Gear" quest --> Kill "Dread Stranglerfish" in /join towerofdoom4
+⭐ STAR LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Star Piece                         ×100 --> /join starfield (Kill any mob there)
+  Star of the Empyrean               ×14  --> /join Astralshrine (Complete "Asterism's Toll" quest)
+  DragonBlade of Nulgath             ×1   --> (Refer to BOOST % / 75 WEAPONS channel in Library server)
+    OR Dark Dragon Slayer's Halberd  ×1   --> (Refer to BOOST % / 75 WEAPONS channel in Library server)
 
-Blackhole Light of Dread Space x1 --> /join dreadspace --> Click "Replicator" in room 2 -->
+  Ascended Light of Destiny          ×1   --> /join Mountdoomskull
+                                             Must have Original Drakath Armor in inventory
+                                             Speak to "Fairy (NPC)" --> Accept "Ascended Drakath Gear" quest
+                                             Kill "Dread Stranglerfish" at /join towerofdoom4
 
-Merge the following:
+  Blackhole Light of Dread Space     ×1   --> /join dreadspace (Click "Replicator" in Room 2)
+    Merge using:
+    Blinding Light of Dread Space ×1 --> Complete Dread Space questline
+                                         Click J6 helmet in Room 1 --> Reward from "Space Dragon' Ballz'" quest
+    Unstable Isotope              ×1 --> Same quest as above
 
- 	Blinding Light of Dread Space --> Reward from "Space Dragon' Ballz'" quest --> complete the dread space questline --> Click j6 helmet in room 1
+  Void Light of Destiny              ×1   --> (See VOID LIGHT OF DESTINY section below)
 
- 	Unstable Isotope --> Reward from "Space Dragon' Ballz'" quest --> complete the dread space questline --> Click j6 helmet in room 1
+  Polished Blinding Light of Destiny ×1   --> (See POLISHED BLINDING LIGHT OF DESTINY section below)
 
-Void Light of Destiny x1 --> /join tercessuinotlim --> Speak to Oblivion --> Accept "Sacrifice" quest
+  Hollowborn Shadow of Fate          ×1   --> (Refer to ITEMS / HOLLOWBORN channel in Library server)
 
-FOR ALL THE MATERIALS BELOW THIS TEXT (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+  Obsidian Light of Destiny          ×1   --> (See OBSIDIAN LIGHT OF DESTINY section below)
 
-Tainted Gem x 40
-Dark Crystal Shard x 40
-Diamond of Nulgath x 40
-Totem of Nulgath x 1
-Gem of Nulgath x 20
-Void Aura x 6
-Emblem of Nulgath x 3
+  Sanctified Light of Destiny        ×1   --> (See SANCTIFIED LIGHT OF DESTINY section below)
+╰────────────────────────────────────╯
 
-REQUIREMENTS:
+💀 VOID LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Requires Ascended or Blinding Light of Destiny (Refer to BOOST % / 75 WEAPONS channel)
+  Requires "Contract With the Abyss" quest (Begun from Nulgath NPC at /join tercessuinotlim)
 
-1. (Requires Ascended or Blinding Light of Destiny (Refer to BOOST (%) / 75-WEAPONS channel in Library server))
+  --> /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Sacrifice" quest
+  (Refer to NULGATH MATERIALS / MATERIALS channel in Library server for all materials below)
 
-2. "Contract With the Abyss" --> Quest begun from "Nulgath (NPC)" (can be found at /join tercessuinotlim)
+  Tainted Gem         ×40
+  Dark Crystal Shard  ×40
+  Diamond of Nulgath  ×40
+  Totem of Nulgath    ×1
+  Gem of Nulgath      ×20
+  Void Aura           ×6
+  Emblem of Nulgath   ×3
+╰────────────────────────────────────╯
 
-Polished Blinding Light of Destiny x1
+✨ POLISHED BLINDING LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join necropolis --> Artix merge shop
 
-Undead Energy x 3,000 --> /join necrodungeon --> Down - Right --> Kill Doom Overlord
+  Undead Energy               ×3,000 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
+  Bright Tonic                ×10    --> /join alchemyacademy (Jera shop)
+  Purification Orb            ×10    --> /join doomwood (Kill Undead Paladin)
+  Shoelace of a Fallen Paladin ×3    --> /join doomwood (Kill Bonemuncher, Ectomancer, Soldier, or Treeant)
+  Slimed Sigil                ×75    --> /join Therift or /join charredpath (Kill Plague Spreader)
+  Medal of Justice            ×150   --> /join lightguardwar
+                                        Reward from "Darken the Light" or "Get the Powder" quests
+                                        OR Dropped by Sigrid Sunshield (Monster)
+╰────────────────────────────────────╯
 
+✨ OBSIDIAN LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Must have Blinding Edge of Obsidian (Non-AC) in inventory
+  --> /join darkthronehub --> Mysterious Dungeon Rep shop --> Buy Blinding Edge of Obsidian (Non-AC)
+  --> /join techfortress --> Speak to "Stellaria (NPC)" --> Accept "The Edge of Destiny" quest
 
-Bright Tonic x 10 --> /join alchemyacademy --> Jera shop
+  Bright Aura                    ×120   --> /join necropolis ("Finding Fragments with the Blinding Bow" quest)
+  Brilliant Aura                 ×40    --> /join necropolis ("Finding Fragments with the Blinding Mace" quest)
+  Blinding Aura                  ×1     --> /join necropolis ("Finding Fragments with the Blinding Scythe" quest)
+  Spirit Orb (Misc)              ×5,000 --> /join necropolis ("Finding Fragments with the Blinding Blade" quest)
+  Loyal Spirit Orb               ×750   --> /join necropolis ("Finding Fragments with the Blinding Blade" quest)
+  Ultimate Blinding Light of Destiny ×1 --> /join techfortress (Techfortress War Merge)
+  Shard of An Orb                ×5     --> /join techfortress (Reward from "This Little Light Of Mine" quest)
+  Purified Undead Dragon Essence ×1     --> /join techfortress (Reward from "I'm Gonna Let It Shine" quest)
+  Overwhelmed Axe                ×1     --> /join techfortress (Techfortress War Merge)
+    Merge using:
+    Spirit Orb (Misc) ×250
+    Loyal Spirit Orb  ×100
+    Brilliant Aura    ×10
+    Blinding Aura     ×1
+╰────────────────────────────────────╯
 
-Purification Orb x 10 --> /join doomwood --> Kill Undead Paladin
+✨ SANCTIFIED LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join necropolis --> Artix merge shop
 
-Shoelace of a Fallen Paladin x 3 --> /join doomwood --> Kill Bonemucher, ectomancer, soldier or treeant
+  Bone Dust                  ×300 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
+  Loyal Spirit Orb           ×25  --> /join necropolis (Artix merge shop)
+  Glorious Gold of Destiny   ×1   --> /join dwarfholdkeep (Reward from "Glorious Gold of Destiny" quest)
+  Pious Platinum of Destiny  ×1   --> /join dwarfholdkeep (Reward from "Pious Platinum of Destiny" quest)
+  Refined Metal              ×5   --> /join Extinction (Kill Cyworg)
+╰────────────────────────────────────╯
 
-Slimed Sigil x 75 --> /join Therift or charredpath --> Kill Plague spreader
+🗡️ DUAL VERSION
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join Astralshrine --> Open merge shop
 
-Medal of Justice x 150 --> /join lightguardwar -->
-
-Reward the following quests:
-
-'Darken the Light'
-'Get the Powder'
-
-or
-
-Dropped by Sigrid Sunshield (Monster)
-
-Hollowborn Shadow of Fate x 1 --> Refer to ITEMS / HOLLOWBORN (Classic Hollowborn File) in Library server
-
-Obsidian Light of Destiny x 1 -->
-
-Requirements: Must have Blinding Edge of Obsidian (Non-AC) in your inventory
-
-/join darkthronehub --> Mysterious Dungeon Rep shop --> Buy Blinding Edge of Obsidian (Non-AC)
-
-/join techfortress
-
-Speak to "Stellaria (NPC)" --> Accept "The Edge of Destiny" quest
-
-Bright Aura x 120 --> /join necropolis --> "Finding Fragments with the Blinding Bow" quest
-
-Brilliant Aura x 40 --> /join necropolis --> "Finding Fragments with the Blinding Mace"
-
-Blinding Aura --> /join necropolis --> "Finding Fragments with the Blinding Scythe of Destiny"
-
-Spirit Orb (Misc) x 5,000 --> /join necropolis --> "Finding
-Fragments with the Blinding Blade".
-
-Loyal Spirit Orb x 750 --> /join necropolis --> "Finding Fragments with the Blinding Blade".
-
-Ultimate Blinding Light of Destiny x 1 --> /join techfortress --> Techfortress War Merge
-
-Overwhelmed Axe x 1 -->
- 	* Spirit Orb (Misc) x250
- 	* Loyal Spirit Orb x100
- 	* Brilliant Aura x10
- 	* Blinding Aura x1
-
-Shard of An Orb x 5 --> /join techfortress --> (Reward from the 'This Little Light Of Mine' quest)
-
-Purified Undead Dragon Essence x 1 --> /join techfortress (Reward from the 'I'm Gonna Let It Shine' quest)
-
-Sanctified Light of Destiny x 1 --> /Join necropolis
-
-Items Required:
-
-Bone Dust x 300 --> /join necrodungeon --> down --> right --> kill Doom Overlord
-
-Loyal Spirit Orb x 25 --> scroll up man
-
-Glorious Gold of Destiny x 1 --> Reward from the 'Glorious Gold of Destiny' quest at /join dwarfholdkeep
-
-Pious Platinum of Destiny x 1 --> Reward from the 'Pious Platinum of Destiny' quest at /join dwarfholdkeep
-
-Refined Metal x 5 --> /join Extinction --> Kill Cyworg
-
-
-DragonBlade of Nulgath x1 OR Dark Dragon Slayer's Halberd x1 -->(Refer to BOOST (%) / 75-WEAPONS channel in Library server)
-
-Star of the Empyrean x14 --> /join Astralshrine --> Complete the 'Asterism's Toll' quest
-
-
-FOR DUAL VERSION --> /JOIN ASTRALSHRINE
-
-Merge the following:
-
-Star of the Empyrean x7 (7 MORE DAILIES)
-Star Piece x50 --> /JOIN STARFIELD --> KILL ANY MOB
-Star Light of Destiny x1 --> WE JUST WENT OVER THIS BRO/BROETTE DONT MAKE ME REPEAT MYSELF RAWR
-
-
-DONE, GOOD BOY *pats you on head*
+  Star Light of Destiny  ×1
+  Star of the Empyrean   ×7   --> /join Astralshrine (7 more daily quests)
+  Star Piece             ×50  --> /join Starfield (Kill any mob there)
+╰────────────────────────────────────╯
