@@ -1,43 +1,30 @@
 ╔════════════════════════════════════════╗
-             DARK CRYSTAL SHARD
+                  CHAOROOT
 ╚════════════════════════════════════════╝
 
 FASTEST
 ──────────────────────────────────────────
-100% — "New Worlds, New Opportunities"
-Nulgath Birthday Gift
+Swindle Receipt Trade
+/join tercessuinotlim
+
+Trade:
+• 1 Receipt of Swindle → 10 Chaoroot
+
+FARM
+──────────────────────────────────────────
+Hydra Heads — /join hydra
+(If story completed, access via fairy at /join mobius → The Hydra)
 
 PASSIVE
 ──────────────────────────────────────────
-10% — Supplies to Spin the Wheel of Chance
-Drudgen / Swindle
+While doing:
+• "Supplies to spin The Wheel of Chance"
+• "New Worlds, New Opportunities"
 
-100% — Forge Dark Crystal Shards for Nulgath
-+ Carve the Unidentified Gemstone
-(Gemstone of Nulgath quests)
-
-MERGE
-──────────────────────────────────────────
-Swindle's Ripoff Emporium
-/join tercessuinotlim
-
-ALTERNATIVE
-──────────────────────────────────────────
-100% — "A Tainted Deal"
-/join dreadrock
-Requires Unidentified 13
-
-"The Poisonous Deal" — Crag & Bamboozle
-Use spare Uni 10 + Blood Gems
-
-REQUIREMENTS
-──────────────────────────────────────────
-Some methods require:
-• Crag & Bamboozle
-• Drudgen
-• Oblivion Blade of Nulgath
+Also drops from:
+• Escherion
+• Slugfit
 
 TIPS
 ──────────────────────────────────────────
-• Farm this while farming Blood Gems and Tainted Gems
-• Birthday Gift quest is the main source
+• Best obtained passively while doing Nulgath farming
