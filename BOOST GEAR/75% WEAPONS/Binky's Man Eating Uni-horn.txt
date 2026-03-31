@@ -1,7 +1,15 @@
-PRE-REQUIREMENTS
+╔════════════════════════════════╗
 
-Requires Rank 10 Grimskull Trolling.
+  BINKY'S MAN EATING
+       UNI-HORN
 
-/join gaolcell --> Cashfear shop
+╚════════════════════════════════╝
 
-ONCE YOU HAVE RANK 10 GRIMSKULL TROLLING YOU CAN JUST BUY IT
+📦 Pre-Requirements
+
+Rank 10 Grimskull Trolling
+
+🦄 BINKY'S MAN EATING UNI-HORN
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join gaolcell --> Open Cashfear shop --> Buy directly once Rank 10 is achieved
+╰────────────────────────────────────╯
