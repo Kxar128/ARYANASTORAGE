@@ -1,49 +1,122 @@
-Pet
+╔════════════════════════════════╗
+      BLOOD ORB
+╚════════════════════════════════╝
 
-Merge the Evolved Blood Orb pet in Dirtlicker's shop at /archportal.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+Merge Evolved Blood Orb Pet
+--> /join archportal (Dirtlicker’s shop)
 
-Use the Reagent Library for details on how to get the following items:
-
-Nulgath's Approval x200
-
-Totem of Nulgath x10
-
-Diamond of Nulgath x30
-
+Required Reagents:
+Nulgath's Approval ×200
+Totem of Nulgath ×10
+Diamond of Nulgath ×30
 Voucher of Nulgath (non-mem)
+Unidentified 13 ×3
+╰──────────────────────────────────╯
 
-Unidentified 13 x3
+⚔️ QUESTS
+╭──────── From Evolved Blood Orb Pet ────────╮
 
-Quest 1 - Armour
+1. "FLOW LIKE BLOOD" (Armour)
+╭──────────────────────────────────╮
+⚠️ Requirements:
+Rustbucket (Rank 10)
+--> /join crashsite
+Complete "ProtoSartorium Parts" (Taravya)
+Kill ProtoSartorium
 
-From the pet, complete "Flow like Blood". You'll need Rustbucket at Rank 10 (get it by completing Taravya's "ProtoSartorium Parts" quest at /crashsite by defeating the ProtoSartorium) and the Platinum Coin of Nulgath: 2500, which you should only purchase after obtaining every reagent so that you can either sell it or use it with another Orb's quests.
+Platinum Coin of Nulgath ×2500
+💡 Only buy AFTER farming all reagents
 
-Use the Reagent Library for details on how to get the following items:
-
+Required Items:
 Crimson Plate of Nulgath
-
-Unidentified 13 x3
-
+Unidentified 13 ×3
 Unidentified 23
-
 Dimensional Champion of Nulgath
+1v1 PvP Trophy ×10
+Blood Gem of the ArchFiend ×20
+╰──────────────────────────────────╯
 
-1v1 PvP Trophy x10
+2. "BLOOD TEARS" (Helm)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×300
+💡 Buy last (shared use optimization)
 
-Blood Gem of the ArchFiend x20
-
-Quest 2 - Helm
-
-From the pet, complete "Blood Tears". You'll need the Platinum Coin of Nulgath: 300, which you should only purchase after obtaining every reagent so that you can either sell it or use it with another Orb's quests.
-
-Use the Reagent Library for details on how to get the following items:
-
-Diamond of Nulgath x10
-
+Required Items:
+Diamond of Nulgath ×10
 Voucher of Nulgath (non-mem)
-
 Faust Face
-
 Totem of Nulgath
+Blood Gem of the ArchFiend ×5
+╰──────────────────────────────────╯
 
-Blood Gem of the ArchFiend x5
+╰──────────────────────────────────╯
+
+╔════════════════════════════════╗
+      HEX ORB
+╚════════════════════════════════╝
+
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+Merge Evolved Hex Orb Pet
+--> /join archportal (Dirtlicker’s shop)
+
+Required Reagents:
+Nulgath's Approval ×200
+Totem of Nulgath ×10
+Dark Crystal Shard ×30
+Tainted Gem ×30
+Voucher of Nulgath (non-mem)
+Unidentified 13 ×3
+╰──────────────────────────────────╯
+
+⚔️ QUESTS
+╭──────── From Evolved Hex Orb Pet ────────╮
+
+1. "UNLOCK THE EVOLVED HEX ARMOUR"
+╭──────────────────────────────────╮
+⚠️ Requirements:
+Oracle (Rank 10)
+--> Free from Class Shop
+
+Platinum Coin of Nulgath ×2500
+💡 Buy AFTER all reagents (shared use)
+
+Required Items:
+Unidentified 13 ×3
+Unidentified 22
+Warden of Light
+Gem of Nulgath ×50
+4th Betrayal Blade of Nulgath Pet
+Polish's Book of Avalon
+╰──────────────────────────────────╯
+
+2. "CUT OFF ONE HEAD..." (Helm)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×300
+
+Required Items:
+Deathdoll Enchant
+Diamond of Nulgath ×10
+Voucher of Nulgath (non-mem)
+Totem of Nulgath
+Heart of the Void
+Blood Gem of the ArchFiend ×5
+╰──────────────────────────────────╯
+
+3. "EMPOWERING THE EMPOWERED" (Staff)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×2500
+💡 Can reuse with Quest 1
+
+Required Items:
+Unidentified 10 ×30
+Tainted Gem ×30
+Dark Crystal Shard ×30
+Unidentified 29
+Voucher of Nulgath (non-mem)
+Random Weapon of Nulgath
+Totem of Nulgath ×10
+Bright Tonic ×10
+╰──────────────────────────────────╯
