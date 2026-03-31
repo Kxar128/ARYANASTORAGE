@@ -1,27 +1,25 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+                   NECROT
+╚════════════════════════════════════════╝
 
-           NECROT (30)            
+FASTEST
+──────────────────────────────────────────
+Swindle Receipt Trade
+/join tercessuinotlim
 
-╚════════════════════════════════╝
+Trade:
+• Receipt of Swindle → 10 Necrot
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    Purchase a Receipt of Swindle from
-    Swindle's Ripoff Emporium at
-    /tercessuinotlim and trade it for
-    10 Necrot.
+FARM (MEMBER)
+──────────────────────────────────────────
+Undead Temple Mage
+/join templeb
 
-  2.
-    If you don't want to spend Gold,
-    defeat the Undead Temple Mage at
-    /templeb (I find that it drops
-    more from the Mage than Fighters).
-    This requires membership.
+FARM (NON-MEMBER)
+──────────────────────────────────────────
+Skeleton Fighters
+/join deathsrealm
 
-  3.
-    If you don't have membership,
-    defeat Skeleton Fighters at
-    /deathsrealm (there is no room
-    with 2).
-╰──────────────────────────────────╯
+TIPS
+──────────────────────────────────────────
+• Temple Mage drops more often than Fighters
