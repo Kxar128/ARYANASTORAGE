@@ -1,75 +1,73 @@
-Pet
+╔════════════════════════════════╗
+      SHADOW ORB
+╚════════════════════════════════╝
 
-Merge the Evolved Shadow Orb pet in Dirtlicker's shop at /archportal. You'll need membership for this Orb.
+📦 PRE-REQUIREMENTS
+╭──────────────────────────────────╮
+⚠️ Membership REQUIRED
 
-Use the Reagent Library for details on how to get the following items:
+Merge Evolved Shadow Orb Pet
+--> /join archportal (Dirtlicker’s shop)
 
-Nulgath's Approval x200
-
-Totem of Nulgath x10
-
+Required Reagents:
+Nulgath's Approval ×200
+Totem of Nulgath ×10
 Voucher of Nulgath
-
-Gem of Nulgath x20
-
+Gem of Nulgath ×20
 Voucher of Nulgath (non-mem)
+Unidentified 13 ×3
+╰──────────────────────────────────╯
 
-Unidentified 13 x3
+⚔️ QUESTS
+╭──────── From Evolved Shadow Orb Pet ────────╮
 
-Quest 1 - Armour
+1. "REBORN IN THE DARK SIDE" (Armour)
+╭──────────────────────────────────╮
+⚠️ Requirements:
+Bard (Rank 10)
+--> /join mythsong (Rank 4 required)
 
-From the pet, complete "Reborn in the Dark Side". You'll need Bard at Rank 10 (which can be bought from the /mythsong Rep shop - requires Rank 4 Mythsong) and the Platinum Coin of Nulgath: 2500, which you should only purchase after obtaining every reagent so that you can either sell it, use it with another Orb's quests, or for Quest 3 below.
+Platinum Coin of Nulgath ×2500
+💡 Buy AFTER farming all reagents
+💡 Can reuse for Quest 3
 
-Use the Reagent Library for details on how to get the following items:
-
-Unidentified 13 x3
-
+Required Items:
+Unidentified 13 ×3
 Unidentified 25
-
 Voucher of Nulgath
-
 Behemoth Blade of Shadow
-
 Nulgath's Approval
-
-Fiend Token x30
-
+Fiend Token ×30
 Azure Starblade
+╰──────────────────────────────────╯
 
-Quest 2 - Helm
+2. "VOID EMOTIONS" (Helm)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×300
+💡 Buy last for efficiency
 
-From the pet, complete "Void Emotions". You'll need the Platinum Coin of Nulgath: 300, which you should only purchase after obtaining every reagent so that you can either sell it or use it with another Orb's quests.
-
-Use the Reagent Library for details on how to get the following items:
-
-Dark Crystal Shard x10
-
-Diamond of Nulgath x50
-
+Required Items:
+Dark Crystal Shard ×10
+Diamond of Nulgath ×50
 Voucher of Nulgath (non-mem)
-
-Blood Gem of the ArchFiend x5
-
+Blood Gem of the ArchFiend ×5
 There is no Myself
+╰──────────────────────────────────╯
 
-Quest 3 - Spear
+3. "SHAPE YOUR NOTHINGNESS" (Spear)
+╭──────────────────────────────────╮
+Platinum Coin of Nulgath ×2500
+💡 Can reuse with Quest 1
 
-From the pet, complete "Shape your Nothingness". You'll need the Platinum Coin of Nulgath: 2500, which you should only purchase after obtaining every reagent so that you can either sell it, use it with another Orb's quests, or for Quest 1 above.
-
-Use the Reagent Library for details on how to get the following items:
-
-Unidentified 10 x30
-
-Tainted Gem x30
-
-Dark Crystal Shard x30
-
+Required Items:
+Unidentified 10 ×30
+Tainted Gem ×30
+Dark Crystal Shard ×30
 Unidentified 29
-
 Voucher of Nulgath (non-mem)
-
 Random Weapon of Nulgath
+Totem of Nulgath ×10
+Destruction Elixir ×15
+╰──────────────────────────────────╯
 
-Totem of Nulgath x10
-
-Destruction Elixir x15
+╰──────────────────────────────────╯
