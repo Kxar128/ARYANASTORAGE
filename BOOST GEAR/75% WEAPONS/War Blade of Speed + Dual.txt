@@ -1,17 +1,22 @@
-/join ultraspeaker --> Ultra Speaker Merge
+╔════════════════════════════════╗
 
-Merge the following:
+   WAR BLADE OF SPEED
+         + DUAL
 
-Malgor Insignia x 7 --> Complete weekly quest at /join ultraspeaker
+╚════════════════════════════════╝
 
-Ultimate Darkness Gem x 75 --> /join shadowfallwar --> Kill mobs in room 2
+➡️ Head to /join ultraspeaker --> Open Ultra Speaker Merge shop
 
-Death's Oversight x 5 --> /join shadowattack --> Kill Death
+🏹 WAR BLADE OF SPEED
+╭──────── MERGE REQUIREMENTS ────────╮
+  Malgor Insignia       ×7  --> /join ultraspeaker (Complete the weekly quest there)
+  Ultimate Darkness Gem ×75 --> /join shadowfallwar (Kill mobs in Room 2)
+  Death's Oversight     ×5  --> /join shadowattack (Kill Death)
+  Acquiescence          ×10 --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
+╰────────────────────────────────────╯
 
-Acquiescence x 10 --> /join worldscore --> (Reward from the 'Tranquil Mediocrity' quest)
-
-
-Merge the following:
-
-War Blade of Speed x1
-Elemental Core x3 --> --> /join worldscore --> (Reward from the 'Once Upon Another Time' quest)
+🗡️ DUAL VERSION
+╭──────── MERGE REQUIREMENTS ────────╮
+  War Blade of Speed ×1
+  Elemental Core     ×3 --> /join manacradle (Reward from "Once Upon Another Time" quest)
+╰────────────────────────────────────╯
