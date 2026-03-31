@@ -1,1 +1,10 @@
-/join lair --> Speak to NPC in room 1 --> buy for 2.500 AC
+╔════════════════════════════════╗
+
+         DRAGON BLADE
+
+╚════════════════════════════════╝
+
+🐉 DRAGON BLADE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Buy for 2,500 AC --> /join lair (Speak to NPC in Room 1)
+╰────────────────────────────────────╯
