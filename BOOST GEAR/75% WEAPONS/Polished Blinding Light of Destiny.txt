@@ -1,23 +1,23 @@
-Polished Blinding Light of Destiny x1
+╔════════════════════════════════╗
 
-Undead Energy x 3,000 --> /join necrodungeon --> Down - Right --> Kill Doom Overlord
+  POLISHED BLINDING LIGHT
+       OF DESTINY
 
+╚════════════════════════════════╝
 
-Bright Tonic x 10 --> /join alchemyacademy --> Jera shop
+📦 Pre-Requirements
 
-Purification Orb x 10 --> /join doomwood --> Kill Undead Paladin
+Polished Blinding Light of Destiny ×1
+(Complete the Blinding Light of Destiny farm first)
 
-Shoelace of a Fallen Paladin x 3 --> /join doomwood --> Kill Bonemucher, ectomancer, soldier or treeant
-
-Slimed Sigil x 75 --> /join Therift or charredpath --> Kill Plague spreader
-
-Medal of Justice x 150 --> /join lightguardwar -->
-
-Reward the following quests:
-
-'Darken the Light'
-'Get the Powder'
-
-or
-
-Dropped by Sigrid Sunshield (Monster)
+✨ POLISHED BLINDING LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Undead Energy              ×3,000 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
+  Bright Tonic               ×10    --> /join alchemyacademy (Jera shop)
+  Purification Orb           ×10    --> /join doomwood (Kill Undead Paladin)
+  Shoelace of a Fallen Paladin ×3   --> /join doomwood (Kill Bonemuncher, Ectomancer, Soldier, or Treeant)
+  Slimed Sigil               ×75    --> /join Therift or /join charredpath (Kill Plague Spreader)
+  Medal of Justice           ×150   --> /join lightguardwar
+                                        Reward from "Darken the Light" or "Get the Powder" quests
+                                        OR Dropped by Sigrid Sunshield (Monster)
+╰────────────────────────────────────╯
