@@ -1,25 +1,24 @@
-PRE-REQUIREMENTS
+╔════════════════════════════════╗
+
+   PRINCE DARKON'S POLEAXE
+
+╚════════════════════════════════╝
+
+📦 Pre-Requirements
 
 Must have completed the Darkon Storyline
 
-/join ultradrago --> Ultra Drago Merge
+➡️ Head to /join ultradrago --> Open Ultra Drago Merge shop
 
-Merge the following
-
-Algie's Bow x1 --> /join ultradrago --> Ultra Drago Merge
-
-Dene's Axe x1 /join ultradrago --> Ultra Drago Merge
-
-King Drago Insignia x10 --> Compelete the weekly quest at /join ultradrago
-
-Darkon's Receipt x22 --> /join garden --> Speak to "Darkon (NPC)" --> Complete "Darkon's Second OR Third Errand" Quest
-
-Darkon's Instant Noodle x22 --> /join Garden --> Speak to "Darkon (NPC)" --> Darkon's Merge Shop (48.888.884 Gold (49m gold))
-
-Teeth x22 --> /join eridani --> (Reward from the 'Sweet Dreams Are Made of Teeth' quest)
-
-La's Gratitude x22 --> /join astravia --> (Reward from the 'Let Sleeping Dogs Lie' quest)
-
-Astravian Medal x22 --> /join astraviacastle --> (Reward from the 'Vanity Project' quest)
-
-A Melody x22 --> /join astraviajudgement --> (Reward from the 'A Storied Vow' quest)
+⚔️ PRINCE DARKON'S POLEAXE
+╭──────── MERGE REQUIREMENTS ────────╮
+  Algie's Bow              ×1  --> /join ultradrago (Ultra Drago Merge)
+  Dene's Axe               ×1  --> /join ultradrago (Ultra Drago Merge)
+  King Drago Insignia      ×10 --> /join ultradrago (Complete the weekly quest there)
+  Darkon's Receipt         ×22 --> /join garden (Speak to Darkon NPC --> Complete "Darkon's Second" or "Third Errand" quest)
+  Darkon's Instant Noodle  ×22 --> /join Garden (Speak to Darkon NPC --> Darkon's Merge Shop = 48,888,884 Gold)
+  Teeth                    ×22 --> /join eridani (Reward from "Sweet Dreams Are Made of Teeth" quest)
+  La's Gratitude           ×22 --> /join astravia (Reward from "Let Sleeping Dogs Lie" quest)
+  Astravian Medal          ×22 --> /join astraviacastle (Reward from "Vanity Project" quest)
+  A Melody                 ×22 --> /join astraviajudgement (Reward from "A Storied Vow" quest)
+╰────────────────────────────────────╯
