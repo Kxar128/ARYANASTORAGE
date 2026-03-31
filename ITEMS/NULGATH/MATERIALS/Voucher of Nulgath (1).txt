@@ -1,64 +1,62 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+           VOUCHER OF NULGATH (MEM)
+╚════════════════════════════════════════╝
 
-      VOUCHER OF NULGATH (1)      
+FASTEST
+──────────────────────────────────────────
+"Supplies to Spin the Wheel of Chance"
+Drudgen / Swindle
 
-╚════════════════════════════════╝
+Best version:
+• Do BOTH quests:
+  - "Bamboozle vs Drudgen"
+  - "The Dark Deal"
 
-📌 NOTES
-╭──────────────────────────────────╮
-  See the Pet Quests section at the
-  very top for instructions:
-╰──────────────────────────────────╯
+Requirements:
+• Crag & Bamboozle AND Oblivion Blade of Nulgath
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    10% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" AND "The Dark Deal"
-    Source: Crag & Bamboozle AND
-    Oblivion Blade of Nulgath
+This version gives the highest chance at Voucher (mem).
 
-  2.
-    10% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" OR "The Dark Deal"
-    Source: Crag & Bamboozle OR
-    Oblivion Blade of Nulgath
+ALTERNATIVE (LOWER REQUIREMENTS)
+──────────────────────────────────────────
+Do only ONE of the quests:
+• "Bamboozle vs Drudgen"
+• "The Dark Deal"
 
-  3.
-    10% - "New Worlds, New
-    Opportunities"
-    Source: Nulgath's Birthday Gift
+Requirements:
+• Crag & Bamboozle OR Oblivion Blade of Nulgath
 
-  4.
-    10% - "Nulgath (Larvae)"
-    Source: Nulgath Larvae
+PASSIVE
+──────────────────────────────────────────
+"New Worlds, New Opportunities"
+Nulgath's Birthday Gift
 
-  5.
-    10% - "Supplies to spin The Wheel
-    of Chance"
-    Source: Drudgen or Swindle
+"Nulgath (Larvae)"
 
-  6.
-    11% - "Assisting Oblivion Blade"
-    Source: Tendurrr
-    Must own Oblivion Blade of
-    Nulgath.
+"Supplies to Spin the Wheel of Chance"
+Drudgen / Swindle
 
-  7.
-    Alternative: Merge - Swindle's
-    Ripoff Emporium
-    Source: Swindle Bilk at
-    /tercessuinotlim
-    Only do this if you need it
-    immediately as the above methods
-    will also earn you other reagents
-    at the same time. But if you want
-    to obtain it through Gold, I
-    recommend farming "The Assistant"
-    from Drudgen/Crag instead by
-    purchasing War-Torn Memorabilia
-    from /yulgar as it will reward
-    many reagents.
-╰──────────────────────────────────╯
+MERGE
+──────────────────────────────────────────
+Swindle's Ripoff Emporium
+/join tercessuinotlim
+
+Use this only if Voucher is the only item you need,
+because other methods give multiple reagents at once.
+
+FORCED DROP METHOD
+──────────────────────────────────────────
+"Assisting Crag & Bamboozle / Drudgen" — Tendurrr
+
+Requirements:
+• Must own Crag & Bamboozle or Drudgen
+• Must max-stack ALL other possible rewards
+
+This forces Voucher (mem) to drop.
+
+TIPS
+──────────────────────────────────────────
+• Always stack Diamonds, Tainted Gems, Blood Gems, etc.
+  before doing the forced drop method
+• Wheel of Chance quests are the main source
+• Farm Uni 10 and Relics of Chaos at the same time
