@@ -1,18 +1,24 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+                FIEND TOKEN
+╚════════════════════════════════════════╝
 
-         FIEND TOKEN (30)         
+FASTEST
+──────────────────────────────────────────
+60% — "New Worlds, New Opportunities"
+Nulgath Birthday Gift
 
-╚════════════════════════════════╝
+ALTERNATIVE
+──────────────────────────────────────────
+11% — "Assisting Drudgen" — Tendurrr
+Requires Drudgen
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    60% - "New Worlds, New
-    Opportunities"
-    Source: Nulgath's Birthday Gift
+PASSIVE
+──────────────────────────────────────────
+Farm while doing:
+• Birthday Gift
+• Wheel of Chance
+• Other Nulgath reagents
 
-  2.
-    11% - "Assisting Drudgen"
-    Source: Tendurrr
-    Must own Drudgen.
-╰──────────────────────────────────╯
+TIPS
+──────────────────────────────────────────
+• You will get these naturally while farming other items
