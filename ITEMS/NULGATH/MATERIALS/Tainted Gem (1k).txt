@@ -1,92 +1,29 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+                TAINTED GEMS
+╚════════════════════════════════════════╝
 
-         TAINTED GEM (1K)         
+FASTEST
+──────────────────────────────────────────
+Swindle Bulk / Cube Reagent
+/join tercessuinotlim
+/join boxes → /join mountfrost
 
-╚════════════════════════════════╝
+PASSIVE
+──────────────────────────────────────────
+New Worlds, New Opportunities
+Nulgath Birthday Gift
 
-📌 NOTES
-╭──────────────────────────────────╮
-  See the Pet Quests section at the
-  very top for instructions:
-╰──────────────────────────────────╯
+AFK
+──────────────────────────────────────────
+Supplies to Spin the Wheel of Chance
+Drudgen / Swindle
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    Choose Reward - "Tenacity
-    Challenge"
-    Source: Nulgath Challenge Pet
+MERGE
+──────────────────────────────────────────
+Swindle's Ripoff Emporium
+/join tercessuinotlim
 
-  2.
-    Choose Reward - "Swindle's Return
-    Policy"
-    Source: Swindle at
-    /tercessuinotlim.
-    Hang onto Uni 1, 6, 9, 16, and 20
-    - these will drop from
-    "Supplies..." or "The Assistant".
-    Turn them in with a Dark Makai
-    Rune, which drops from Dark Makai.
-
-  3.
-    30% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" AND "The Dark Deal"
-    Source: Crag & Bamboozle AND
-    Oblivion Blade of Nulgath
-
-  4.
-    Choose Reward - "Contract
-    Exchange"
-    Source: Drudgen
-    Must own Crag & Bamboozle and
-    Drudgen.
-
-  5.
-    30% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" OR "The Dark Deal"
-    Source: Crag & Bamboozle OR
-    Oblivion Blade of Nulgath
-
-  6.
-    40% - "New Worlds, New
-    Opportunities"
-    Source: Nulgath's Birthday Gift
-
-  7.
-    40% - "Nulgath (Larvae)"
-    Source: Nulgath Larvae
-
-  8.
-    30% - "Supplies to spin The Wheel
-    of Chance"
-    Source: Drudgen or Swindle
-
-  9.
-    100% - "Swindle Bulk" or "Cube
-    Reagent"
-    Source: Swindle Bilk at
-    /tercessuinotlim or Sword of
-    Nulgath
-    Swindle's quest is superior
-    because it also rewards Receipts
-    of Swindle, which can be used for
-    other reagents in his shop. For
-    both quests, defeat Box Guardians
-    and Grizzlespit for Cubes (stacks
-    to 500) at /boxes. Then, join
-    /mountfrost to defeat Snow Golems
-    in the 2nd room for Ice Cubes. Do
-    this if you only want Tainted Gems
-    as you will also get other
-    reagents with the above methods.
-
-  10.
-    Alternative - Choose Reward - "The
-    Poisonous Deal"
-    Source: Crag & Bamboozle
-    Do this if you have spare
-    Unidentified 10s and Blood Gems of
-    the Archfiend.
-╰──────────────────────────────────╯
+TIPS
+──────────────────────────────────────────
+• Boxes + Mountfrost method gives multiple reagents
+• Best done while farming Diamonds and Uni 13
