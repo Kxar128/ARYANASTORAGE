@@ -1,40 +1,34 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+                ELDERS' BLOOD
+╚════════════════════════════════════════╝
 
-        ELDERS' BLOOD (5)         
+DAILY (MAIN METHOD)
+──────────────────────────────────────────
+"Experiment 107: Elders' Blood Potion" — Reens
+/join arcangrove
 
-╚════════════════════════════════╝
+How to reach:
+• Go up the tower
+• Enter the blue portal at bottom-right
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1. You should complete "Experiment
-  107: Elders' Blood Potion" from
-  Reens at /arcangrove as often as
-  you can because it's a daily
-  quest. If you don't know how to
-  get to her, go up into the tower
-  then walk into the blue portal at
-  the bottom-right. To complete the
-  quest, defeat Gorillaphants - this
-  is best done at the bottom-right
-  of the overall map as there are 2
-  on the same screen. You might also
-  want to complete the other Potion
-  quests from Reens as they require
-  Gorillaphant and Seed Spitter
-  drops - the below quest needs the
-  Sparrow's Blood potion.
+To complete quest:
+• Defeat Gorillaphants
+Best location:
+• Bottom-right of the map (2 Gorillaphants on same screen)
 
-  2. If you're a member who also
-  owns Crag & Bamboozle, you could
-  complete "Assisting Crag &
-  Bamboozle" from Tendurrr the
-  Assistant. This daily quest is
-  useful for obtaining Void Highlord
-  as it's normally gated by getting
-  1 Elders' Blood Potion each day.
-  With this method you can get 2.
-  Just remember to max-stack
-  everything that you don't want to
-  drop from this quest so that you
-  can guarantee what you do want.
-╰──────────────────────────────────╯
+PASSIVE / EXTRA DAILY
+──────────────────────────────────────────
+"Assisting Crag & Bamboozle" — Tendurrr (Daily)
+
+Requirements:
+• Must own Crag & Bamboozle
+
+Notes:
+• Useful for Void Highlord because Elders' Blood is daily-gated
+• This method allows you to get 2 per day instead of 1
+• Max-stack other rewards so Elders' Blood is guaranteed
+
+TIPS
+──────────────────────────────────────────
+• Do this daily — this item is time-gated
+• Combine with Sparrow's Blood and other Reens potion quests
