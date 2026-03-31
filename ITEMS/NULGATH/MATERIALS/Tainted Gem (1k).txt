@@ -1,39 +1,92 @@
-Tainted Gem (1k)
+╔════════════════════════════════╗
 
-See the Pet Quests section at the very top for instructions:
+         TAINTED GEM (1K)         
 
+╚════════════════════════════════╝
 
+📌 NOTES
+╭──────────────────────────────────╮
+  See the Pet Quests section at the
+  very top for instructions:
+╰──────────────────────────────────╯
 
-Choose Reward - "Tenacity Challenge"
-Nulgath Challenge Pet
+📜 METHODS
+╭──────────────────────────────────╮
+  1.
+    Choose Reward - "Tenacity
+    Challenge"
+    Source: Nulgath Challenge Pet
 
-Choose Reward - "Swindle's Return Policy"
-Swindle at /tercessuinotlim.
-Hang onto Uni 1, 6, 9, 16, and 20 - these will drop from "Supplies..." or "The Assistant". Turn them in with a Dark Makai Rune, which drops from Dark Makai.
+  2.
+    Choose Reward - "Swindle's Return
+    Policy"
+    Source: Swindle at
+    /tercessuinotlim.
+    Hang onto Uni 1, 6, 9, 16, and 20
+    - these will drop from
+    "Supplies..." or "The Assistant".
+    Turn them in with a Dark Makai
+    Rune, which drops from Dark Makai.
 
-30% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" AND "The Dark Deal"
-Crag & Bamboozle AND Oblivion Blade of Nulgath
+  3.
+    30% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" AND "The Dark Deal"
+    Source: Crag & Bamboozle AND
+    Oblivion Blade of Nulgath
 
-Choose Reward - "Contract Exchange"
-Drudgen
-Must own Crag & Bamboozle and Drudgen.
+  4.
+    Choose Reward - "Contract
+    Exchange"
+    Source: Drudgen
+    Must own Crag & Bamboozle and
+    Drudgen.
 
-30% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" OR "The Dark Deal"
-Crag & Bamboozle OR Oblivion Blade of Nulgath
+  5.
+    30% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" OR "The Dark Deal"
+    Source: Crag & Bamboozle OR
+    Oblivion Blade of Nulgath
 
-40% - "New Worlds, New Opportunities"
-Nulgath's Birthday Gift
+  6.
+    40% - "New Worlds, New
+    Opportunities"
+    Source: Nulgath's Birthday Gift
 
-40% - "Nulgath (Larvae)"
-Nulgath Larvae
+  7.
+    40% - "Nulgath (Larvae)"
+    Source: Nulgath Larvae
 
-30% - "Supplies to spin The Wheel of Chance"
-Drudgen or Swindle
+  8.
+    30% - "Supplies to spin The Wheel
+    of Chance"
+    Source: Drudgen or Swindle
 
-100% - "Swindle Bulk" or "Cube Reagent"
-Swindle Bilk at /tercessuinotlim or Sword of Nulgath
-Swindle's quest is superior because it also rewards Receipts of Swindle, which can be used for other reagents in his shop. For both quests, defeat Box Guardians and Grizzlespit for Cubes (stacks to 500) at /boxes. Then, join /mountfrost to defeat Snow Golems in the 2nd room for Ice Cubes. Do this if you only want Tainted Gems as you will also get other reagents with the above methods. 
+  9.
+    100% - "Swindle Bulk" or "Cube
+    Reagent"
+    Source: Swindle Bilk at
+    /tercessuinotlim or Sword of
+    Nulgath
+    Swindle's quest is superior
+    because it also rewards Receipts
+    of Swindle, which can be used for
+    other reagents in his shop. For
+    both quests, defeat Box Guardians
+    and Grizzlespit for Cubes (stacks
+    to 500) at /boxes. Then, join
+    /mountfrost to defeat Snow Golems
+    in the 2nd room for Ice Cubes. Do
+    this if you only want Tainted Gems
+    as you will also get other
+    reagents with the above methods.
 
-Alternative - Choose Reward - "The Poisonous Deal"
-Crag & Bamboozle
-Do this if you have spare Unidentified 10s and Blood Gems of the Archfiend.
+  10.
+    Alternative - Choose Reward - "The
+    Poisonous Deal"
+    Source: Crag & Bamboozle
+    Do this if you have spare
+    Unidentified 10s and Blood Gems of
+    the Archfiend.
+╰──────────────────────────────────╯
