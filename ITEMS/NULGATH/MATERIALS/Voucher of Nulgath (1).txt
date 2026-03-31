@@ -1,26 +1,64 @@
-See the Pet Quests section at the very top for instructions:
+╔════════════════════════════════╗
 
+      VOUCHER OF NULGATH (1)      
 
+╚════════════════════════════════╝
 
-10% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" AND "The Dark Deal"
-Crag & Bamboozle AND Oblivion Blade of Nulgath
+📌 NOTES
+╭──────────────────────────────────╮
+  See the Pet Quests section at the
+  very top for instructions:
+╰──────────────────────────────────╯
 
-10% - "Supplies to spin The Wheel of Chance" with "Bamboozle vs Drudgen" OR "The Dark Deal"
-Crag & Bamboozle OR Oblivion Blade of Nulgath
+📜 METHODS
+╭──────────────────────────────────╮
+  1.
+    10% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" AND "The Dark Deal"
+    Source: Crag & Bamboozle AND
+    Oblivion Blade of Nulgath
 
-10% - "New Worlds, New Opportunities"
-Nulgath's Birthday Gift
+  2.
+    10% - "Supplies to spin The Wheel
+    of Chance" with "Bamboozle vs
+    Drudgen" OR "The Dark Deal"
+    Source: Crag & Bamboozle OR
+    Oblivion Blade of Nulgath
 
-10% - "Nulgath (Larvae)"
-Nulgath Larvae
+  3.
+    10% - "New Worlds, New
+    Opportunities"
+    Source: Nulgath's Birthday Gift
 
-10% - "Supplies to spin The Wheel of Chance"
-Drudgen or Swindle
+  4.
+    10% - "Nulgath (Larvae)"
+    Source: Nulgath Larvae
 
-11% - "Assisting Oblivion Blade"
-Tendurrr
-Must own Oblivion Blade of Nulgath.
+  5.
+    10% - "Supplies to spin The Wheel
+    of Chance"
+    Source: Drudgen or Swindle
 
-Alternative: Merge - Swindle's Ripoff Emporium
-Swindle Bilk at /tercessuinotlim
-Only do this if you need it immediately as the above methods will also earn you other reagents at the same time. But if you want to obtain it through Gold, I recommend farming "The Assistant" from Drudgen/Crag instead by purchasing War-Torn Memorabilia from /yulgar as it will reward many reagents.
+  6.
+    11% - "Assisting Oblivion Blade"
+    Source: Tendurrr
+    Must own Oblivion Blade of
+    Nulgath.
+
+  7.
+    Alternative: Merge - Swindle's
+    Ripoff Emporium
+    Source: Swindle Bilk at
+    /tercessuinotlim
+    Only do this if you need it
+    immediately as the above methods
+    will also earn you other reagents
+    at the same time. But if you want
+    to obtain it through Gold, I
+    recommend farming "The Assistant"
+    from Drudgen/Crag instead by
+    purchasing War-Torn Memorabilia
+    from /yulgar as it will reward
+    many reagents.
+╰──────────────────────────────────╯
