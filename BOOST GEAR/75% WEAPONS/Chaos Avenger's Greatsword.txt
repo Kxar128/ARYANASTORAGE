@@ -1,9 +1,18 @@
-REQUIREMENTS
+╔════════════════════════════════╗
 
-- Must have completed "Chaos Avenger Class" quest (Refer to CLASSES / CLASSES GUIDE channel in Library server)
+  CHAOS AVENGER'S GREATSWORD
 
-/join championdrakath --> Open Chaos Avenger Class shop --> Buy Chaos Avenger Greatsword
+╚════════════════════════════════╝
 
---> Complete the weekly quest at the same map --> Accept the 5 x insignias from the quest
+📦 Pre-Requirements
 
-Merge the Empowered version from the merge shop in the same map
+Must have completed "Chaos Avenger Class" quest
+--> (Refer to CLASSES / CLASSES GUIDE channel in Library server)
+
+⚔️ CHAOS AVENGER'S GREATSWORD
+╭──────── MERGE REQUIREMENTS ────────╮
+  --> /join championdrakath --> Open Chaos Avenger Class shop
+  --> Buy Chaos Avenger Greatsword
+  --> Complete the weekly quest --> Accept 5x Champion Drakath Insignias
+  --> Open merge shop in the same map --> Merge the Empowered version
+╰────────────────────────────────────╯
