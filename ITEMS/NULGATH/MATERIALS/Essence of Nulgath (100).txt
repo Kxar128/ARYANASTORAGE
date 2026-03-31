@@ -1,14 +1,29 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+              ESSENCE OF NULGATH
+╚════════════════════════════════════════╝
 
-     ESSENCE OF NULGATH (100)     
+FASTEST
+──────────────────────────────────────────
+Defeat Dark Makai
+/join tercessuinotlim
 
-╚════════════════════════════════╝
+Drop Rate:
+• ~10%
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    Defeat Dark Makai at
-    /tercessuinotlim. If you're a
-    member, farm at /nulgath instead.
-    It has a 10% drop rate.
-╰──────────────────────────────────╯
+MEMBER FAST METHOD
+──────────────────────────────────────────
+Defeat Dark Makai
+/join nulgath
+
+PASSIVE
+──────────────────────────────────────────
+While farming:
+• Totems of Nulgath
+• Voucher of Nulgath
+• Blood Gems
+• Wheel of Chance quests
+
+TIPS
+──────────────────────────────────────────
+• AFK farm Dark Makai (attack once to stay in combat)
+• You will need a lot for Totems and VHL
