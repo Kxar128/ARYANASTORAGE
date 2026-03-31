@@ -1,1 +1,22 @@
-Complete "Victory Most Honourable" from Dumoose at /doomarena. It requires 10 wins in the arena - queue from Dumoose or duel against someone (this could even be an alt so you get guaranteed wins). The quest can only be completed once a day.
+╔════════════════════════════════════════╗
+               1v1 PvP TROPHY
+╚════════════════════════════════════════╝
+
+DAILY (ONLY METHOD)
+──────────────────────────────────────────
+"Victory Most Honourable" — Dumoose
+/join doomarena
+
+Requirement:
+• Win 10 matches in the arena
+• Can queue from Dumoose or duel a player
+• You can duel an alt account for guaranteed wins
+
+Notes:
+• Quest can only be completed once per day
+• Stack daily for slow but guaranteed progress
+
+TIPS
+──────────────────────────────────────────
+• Fastest method is dueling an alt account
+• Do this daily — no reason to grind arena normally
