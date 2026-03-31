@@ -1,105 +1,41 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+               UNIDENTIFIED 10
+╚════════════════════════════════════════╝
 
-       UNIDENTIFIED 10 (1K)       
+FASTEST
+──────────────────────────────────────────
+100% — Supplies to Spin the Wheel of Chance
+(With Crag & Bamboozle + Oblivion Blade)
 
-╚════════════════════════════════╝
+100% — Nulgath Larvae
 
-📌 NOTES
-╭──────────────────────────────────╮
-  See the Pet Quests section at the
-  very top for instructions:
-╰──────────────────────────────────╯
+100% — Dirt-y Deeds Done Dirt Cheap — Swindle
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    100% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" AND "The Dark Deal"
-    Source: Crag & Bamboozle AND
-    Oblivion Blade of Nulgath
+ALTERNATIVE
+──────────────────────────────────────────
+Void Highlord Challenge
+/join tercessuinotlim
 
-  2.
-    100% - "Supplies to spin The Wheel
-    of Chance" with "Bamboozle vs
-    Drudgen" OR "The Dark Deal"
-    Source: Crag & Bamboozle OR
-    Oblivion Blade of Nulgath
+"Kiss the Void" — Nulgath
 
-  3.
-    100% - "Nulgath (Larvae)"
-    Source: Nulgath Larvae
+REQUIREMENTS
+──────────────────────────────────────────
+To access Dirt-y Deeds:
+You must obtain:
+• Emerald Axe — Escherion
+• Seraphic Grave Digger Spade — Legioncrypt
+• Slugbutter Digging Advice — Tower of Doom 10
+• Chaotic Tunneling Techniques — Crownsreach
+• Crystallised Corporate Digging Secrets — Downward
 
-  4.
-    100% - "Supplies to spin The Wheel
-    of Chance"
-    Source: Drudgen or Swindle
+PASSIVE
+──────────────────────────────────────────
+You will get:
+• Blood Gems
+• Receipts of Swindle
+• Other reagents
 
-  5.
-    100% - "Dirt-y Deeds Done Dirt
-    Cheap"
-    Source: Swindle Bilk at
-    /tercessuinotlim
-    If you only want Unidentified 10s,
-    this is a great method if you have
-    a good soloing class. Otherwise,
-    choose an above method as you'll
-    also earn other reagents at the
-    same time.
-    To accept the quest, you need to
-    defeat Escherion at /escherion for
-    an Emerald Axe (<1% drop rate) and
-    Gravediggers at /legioncrypt for
-    the Seraphic Grave Digger Spade.
-    Then, obtain the following:
-
-  6.
-    Slugbutter Digging Advice
-    Source: Defeat Slugbutter at
-    /towerofdoom10. You need to
-    complete the previous /towerofdoom
-    maps to access it. You will also
-    need a strong soloing class to
-    defeat it alone.
-
-  7.
-    Chaotic Tunneling Techniques x2
-    Source: Defeat Chaos Tunneler at
-    /crownsreach (walk up, right,
-    right, down x3).
-
-  8.
-    Crystallised Corporate Digging
-    Secrets x3
-    Source: Defeat Crystal Mana
-    Construct at /downward. You must
-    have completed Warlic's Journey to
-    the Center of Lore quests at
-    /battleon then Cysero's quests.
-    After that, go to /downward and
-    complete Warlic's quests there.
-
-  9.
-    You might also get Blood Gems and
-    Receipts of Swindle from this
-    quest. Use the Receipts in
-    Swindle's merge shop for other
-    reagents that you need.
-
-  10.
-    Alternative: 100% - "Void
-    Highlord's Challenge"
-    Source: Void Highlord NPC at
-    /tercessuinotlim
-    By farming Void Highlord, you will
-    earn these passively.
-
-  11.
-    Alternative: 100% - "Kiss the
-    Void"
-    Source: Nulgath at
-    /tercessuinotlim
-    If you're farming Blood Gems of
-    the ArchFiend with this method,
-    you will earn Uni 10s passively.
-╰──────────────────────────────────╯
+TIPS
+──────────────────────────────────────────
+• One of the most important stacking items
+• Always stack Uni 10 before turn-ins
