@@ -1,15 +1,27 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════╗
+                 FIEND SEAL
+╚════════════════════════════════════════╝
 
-         FIEND SEAL (500)         
+FASTEST
+──────────────────────────────────────────
+"Nation Recruits: Seal Your Fate" — Tharanak Hrii
+/join shadowblast
 
-╚════════════════════════════════╝
+Farm Route:
+• From start → up → left → up
+• Farm enemies in this room
 
-📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    Accept a quest that requires this
-    drop otherwise it won't drop.
-    Then, defeat enemies at
-    /shadowblast by walking up>left>up
-    from the starting screen.
-╰──────────────────────────────────╯
+Requirement:
+• Must have Nation Round 4 Medal
+• Medal obtained from earlier quests in same map
+
+PASSIVE
+──────────────────────────────────────────
+Farm together with:
+• Emblems of Nulgath
+• Gems of Domination
+
+TIPS
+──────────────────────────────────────────
+• Fast respawn room
+• Use farming class
