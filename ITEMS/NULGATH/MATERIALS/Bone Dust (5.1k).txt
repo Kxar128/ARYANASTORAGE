@@ -1,7 +1,24 @@
-Bone Dust (5.1k)
+╔════════════════════════════════════════╗
+                 BONE DUST
+╚════════════════════════════════════════╝
 
-2 options
+FASTEST (GROUP)
+──────────────────────────────────────────
+/join necroproject
+• Kill boss in last room with a party
 
-1. /join necroproject and kill boss in last room with party
+AFK
+──────────────────────────────────────────
+/join battleunderb
+• Farm enemies
 
-2. Defeat enemies at /battleunderb. Complete Step 1 of BLoD so that Undead Energy also drops.
+PASSIVE
+──────────────────────────────────────────
+Do this while farming BLoD:
+• Undead Energy drops at the same time
+
+TIPS
+──────────────────────────────────────────
+• Necroproject is much faster with a group
+• Battleunderb is best AFK method
+• Use farming class
