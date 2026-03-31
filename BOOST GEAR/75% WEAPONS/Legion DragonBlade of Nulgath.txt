@@ -1,7 +1,14 @@
-/join underworld --> go right - right --> speak to "Dage (NPC)" --> Merge Shop
+╔════════════════════════════════╗
 
-Merge the following:
+  LEGION DRAGONBLADE
+       OF NULGATH
 
-DragonBlade of Nulgath x1 (Refer to ITEMS / NULGATH channel in Library server)
+╚════════════════════════════════╝
 
-Legion Token x5,000 (Refer to ITEMS / LEGION channel in Library server)
+➡️ /join underworld --> Go right twice --> Speak to "Dage (NPC)" --> Open Merge Shop
+
+⚔️ LEGION DRAGONBLADE OF NULGATH
+╭──────── MERGE REQUIREMENTS ────────╮
+  DragonBlade of Nulgath ×1      --> (Refer to ITEMS / NULGATH channel in Library server)
+  Legion Token           ×5,000  --> (Refer to ITEMS / LEGION channel in Library server)
+╰────────────────────────────────────╯
