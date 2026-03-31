@@ -1,17 +1,28 @@
-Void Light of Destiny x1 --> /join tercessuinotlim --> Speak to Oblivion --> Accept "Sacrifice" quest
+╔════════════════════════════════╗
 
-FOR ALL THE MATERIALS BELOW THIS TEXT (Refer to NULGATH MATERIALS / MATERIALS channel in Library server)
+    VOID LIGHT OF DESTINY
 
-Tainted Gem x 40
-Dark Crystal Shard x 40
-Diamond of Nulgath x 40
-Totem of Nulgath x 1
-Gem of Nulgath x 20
-Void Aura x 6
-Emblem of Nulgath x 3
+╚════════════════════════════════╝
 
-REQUIREMENTS:
+📦 Pre-Requirements
 
-1. (Requires Ascended or Blinding Light of Destiny (Refer to BOOST (%) / 75-WEAPONS channel in Library server))
+Requires Ascended or Blinding Light of Destiny
+--> (Refer to BOOST % / 75 WEAPONS channel in Library server)
 
-2. "Contract With the Abyss" --> Quest begun from "Nulgath (NPC)" (can be found at /join tercessuinotlim)
+Requires "Contract With the Abyss" quest
+--> Begun from "Nulgath (NPC)" at /join tercessuinotlim
+
+⚠️ NOTE: Refer to NULGATH MATERIALS / MATERIALS channel in Library Server for all materials below
+
+➡️ /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Sacrifice" quest
+
+✨ VOID LIGHT OF DESTINY
+╭──────── MERGE REQUIREMENTS ────────╮
+  Tainted Gem         ×40
+  Dark Crystal Shard  ×40
+  Diamond of Nulgath  ×40
+  Totem of Nulgath    ×1
+  Gem of Nulgath      ×20
+  Void Aura           ×6
+  Emblem of Nulgath   ×3
+╰────────────────────────────────────╯
