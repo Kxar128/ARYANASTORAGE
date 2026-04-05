@@ -33,7 +33,8 @@
   🧿 Class ·········  Wizard
 
   ⚔️  Weapon ········  Spiral Carve
- 🪖 Helm ··········  Base Forge
+ 
+  🪖 Helm ··········  Base Forge
 
   🧣 Cape ··········  Lament
                        Absolution
