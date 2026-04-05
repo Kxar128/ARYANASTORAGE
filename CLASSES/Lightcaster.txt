@@ -1,66 +1,64 @@
-Overview
+╔══════════════════════════════════════╗
+║                                      ║
+║             LIGHTCASTER              ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-Worth Getting?
-Generally no because there are better options at Level 80 that cost less or nothing at all. However, it's a good choice if you don't want to farm much as it only costs 1k ACs.
+  Worth Getting?
+  ──────────────
+  Generally no — better options at Level 80 that cost less or nothing.
+  Good choice if you don't want to farm much (only 1,000 AC).
 
-Uses
-Good For: Soloing & Support
+  Best Used For:  ⚔️  Soloing  |  🤝 Support
 
-Requirements
-
-Level 80
-
-1000 ACs
-
-Storyline Completion
-This includes /celestialrealm > /lostruins > /lostruinswar and /celestialarena
-
-Quest
-
-LightMage
-
-Purchase the Evolved LightCaster armour from Aranx at /celestialrealm for 1000 ACs. It cannot be sold.
-
-Open the LightMage Class Token A Shop and purchase Token A.
-
-Merge LightMage using Token A.
-
-LightCaster
-
-Once you've got LightMage, you can start the "LightCaster Class" quest from Aranx. To start the quest, it requires: 
-
-Burning Blade
-Defeat the Diabolical Warlord at /lostruinswar (1% droprate).
-
-Burning Blade of Azebeth
-Defeat Aranx at /celestialarena (5% droprate).
-
-Guardian of Spirits' Blade
-Complete Aranx's quest "Guardian of Spirits' Blade" by defeating 500 Fallen Knights.
-
-Avatar of Death's Scythe
-Complete Aranx's quest "Avatar of Death's Scythe" by defeating 500 Underworld Hounds.
-
-Spear of Time
-Complete Aranx's quest "Spear of Time" by defeating 500 Infernal Imps.
+  Requirements:   Level 80  |  1,000 AC
+                  Storyline: /celestialrealm > /lostruins > /lostruinswar > /celestialarena
 
 
-Accept the "LightCaster Class" quest from Aranx at /celestialrealm and obtain Aranx's Pure Light from Aranx at /celestialarena (10% droprate).
+╔══════════════════════════════════════╗
+║               QUEST                  ║
+╚══════════════════════════════════════╝
 
-ENHANCMENTS
+  Step 1 — LightMage
+  ────────────────────
+  → /join celestialrealm  ·  Purchase Evolved LightCaster armour from Aranx (1,000 AC — cannot be sold)
+  → Open LightMage Class Token A Shop → Purchase Token A
+  → Merge LightMage using Token A
 
-Class - Luck
+  Step 2 — LightCaster
+  ──────────────────────
+  → Accept "LightCaster Class" quest from Aranx at /join celestialrealm
 
-Weapon - Valiance | Praxis
-Helm - Base Forge | Pneuma | Wizard
-Cape - Vainglory | Lament
-
-COMBOS
-
-4-5-2-3 and then just spam the skills
-
-Detailed: Use 4. Then spam the other skills. 
-
-When illuminate fades, use 4 again. Basically skill 4 act as a buff and heals you at the same time.
+  Burning Blade               ×1   → /join lostruinswar  ·  Kill Diabolical Warlord  (~1%)
+  Burning Blade of Azebeth    ×1   → /join celestialarena  ·  Kill Aranx  (~5%)
+  Guardian of Spirits' Blade  ×1   → Complete Aranx's quest  ·  Kill 500 Fallen Knights
+  Avatar of Death's Scythe    ×1   → Complete Aranx's quest  ·  Kill 500 Underworld Hounds
+  Spear of Time               ×1   → Complete Aranx's quest  ·  Kill 500 Infernal Imps
+  Aranx's Pure Light          ×1   → /join celestialarena  ·  Kill Aranx  (~10%)
 
 
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Luck
+
+  ⚔️  Weapon ········  Valiance
+                       Praxis
+
+  🪖 Helm ··········  Base Forge
+                       Pneuma
+                       Wizard
+
+  🧣 Cape ··········  Vainglory
+                       Lament
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 4 ········  Acts as both a buff AND a heal — reuse when Illuminate fades
+
+  ✅ Main Rotation ··  4 → 5 → 2 → 3  →  spam skills as they come off cooldown
+                        Reapply  4  whenever Illuminate expires
