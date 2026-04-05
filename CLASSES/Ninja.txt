@@ -19,4 +19,10 @@
 
   🧿 Class ·········  Luck
 
-  ⚔️  Weapon ········  Mana Vamp
+  ⚔️ Weapon ········  Mana Vamp
+ 
+  🪖 Helm ··········  Base Forge
+
+  🧣 Cape ·········· Vainglory
+                      Lament
+                       
