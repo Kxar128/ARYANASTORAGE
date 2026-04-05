@@ -1,40 +1,39 @@
 ╔══════════════════════════════════════╗
 ║                                      ║
-║             LIGHTCASTER              ║
+║                 LICH                 ║
 ║                                      ║
 ╚══════════════════════════════════════╝
 
   Worth Getting?
   ──────────────
-  Generally no — better options at Level 80 that cost less or nothing.
-  Good choice if you don't want to farm much (only 1,000 AC).
 
-  Best Used For:  ⚔️  Soloing  |  🤝 Support
+  Best Used For:  ⚔️  Soloing  |  🤝 Farming
 
-  Requirements:   Level 80  |  1,000 AC
-                  Storyline: /celestialrealm > /lostruins > /lostruinswar > /celestialarena
+  Requirements:   
+
+	- LVL 100
+	- Rank 10 Evil rep
+	- Rank 10 Grimskull Trolling rep
 
 
 ╔══════════════════════════════════════╗
 ║               QUEST                  ║
 ╚══════════════════════════════════════╝
 
-  Step 1 — LightMage
-  ────────────────────
-  → /join celestialrealm  ·  Purchase Evolved LightCaster armour from Aranx (1,000 AC — cannot be sold)
-  → Open LightMage Class Token A Shop → Purchase Token A
-  → Merge LightMage using Token A
+  Klaatu's Necronomicon  ×1   → /join necroproject
+    Bone Dust              ×6,666  → Kill boss in last room in the same map
+    Shadow Lich            ×1      → /join shadowfall  ·  Evil Rep Shop  (Rank 10 Evil required)
+    Lich Of The Stone      ×1      → /join darkoviaforest  ·  Kill Lich of the stone (Monster)
+    Sapphire Orb           ×113    → /join frozenlair  ·  Kill Legion Lich Lord (Monster)
+    Written Exam Completed ×1      → /join necroproject  ·  Click on the blue arrow on Screen 2
 
-  Step 2 — LightCaster
-  ──────────────────────
-  → Accept "LightCaster Class" quest from Aranx at /join celestialrealm
+  Verata's Necronomicon  ×1   → /join gaolcell  ·  Rank 10 Grimskull Trolling Rep  ·  Cashfear shop
 
-  Burning Blade               ×1   → /join lostruinswar  ·  Kill Diabolical Warlord  (~1%)
-  Burning Blade of Azebeth    ×1   → /join celestialarena  ·  Kill Aranx  (~5%)
-  Guardian of Spirits' Blade  ×1   → Complete Aranx's quest  ·  Kill 500 Fallen Knights
-  Avatar of Death's Scythe    ×1   → Complete Aranx's quest  ·  Kill 500 Underworld Hounds
-  Spear of Time               ×1   → Complete Aranx's quest  ·  Kill 500 Infernal Imps
-  Aranx's Pure Light          ×1   → /join celestialarena  ·  Kill Aranx  (~10%)
+  Nicto's Necronomicon   ×1   → /join moreskulls  ·  Merge the following:
+    Gold Voucher 100k      ×66
+    Grimskull's Favor      ×776    → /join lichwar  ·  Complete medals quests
+    Noxus' Favor           ×776    → /join lichwar  ·  Complete medals quests
+    Pristine Skull         ×66     → /join moreskulls  ·  Complete "We Will Rebuild (Quest)"
 
 
 ╔══════════════════════════════════════╗
@@ -43,22 +42,17 @@
 
   🧿 Class ·········  Luck
 
-  ⚔️  Weapon ········  Valiance
-                       Praxis
+  ⚔️  Weapon ········  Ravenous
 
-  🪖 Helm ··········  Base Forge
-                       Pneuma
-                       Wizard
+  🪖 Helm ··········  Examen
 
   🧣 Cape ··········  Vainglory
-                       Lament
 
 
 ╔══════════════════════════════════════╗
 ║               COMBOS                 ║
 ╚══════════════════════════════════════╝
 
-  💡 Skill 4 ········  Acts as both a buff AND a heal — reuse when Illuminate fades
-
-  ✅ Main Rotation ··  4 → 5 → 2 → 3  →  spam skills as they come off cooldown
-                        Reapply  4  whenever Illuminate expires
+  ✅ Main Rotation ··  5 → 4 → 2 → 3  →  LOOP
+                        Combo: 54 (prebuff) - 53 - 523 LOOP
+                        Buffs: Ex Mortis  |  Deathly Frenzy
