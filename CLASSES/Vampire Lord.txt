@@ -37,3 +37,9 @@
   🧿 Class ·········  Luck
 
   ⚔️  Weapon ········  Health Vamp
+
+  🪖 Helm ··········  Luck
+		       Base Forge
+
+  🧣 Cape ··········  Lament
+                       Absolution
