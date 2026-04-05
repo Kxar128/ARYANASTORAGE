@@ -23,3 +23,7 @@
   🧿 Class ·········  Luck
 
   ⚔️  Weapon ········  Spiral Carve
+  
+  🪖 Helm ··········  Base Forge
+
+  🧣 Cape ··········  Lament
