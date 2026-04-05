@@ -190,7 +190,7 @@
   ──────────────────────────
   → /join fiendpast          ·  Kill Fiendish Outlaw → Fiendish Outlaw drop
   → /join voidrefuge         ·  Complete "Fiendish Remains" quest → Fiendish Remains ×50
-  → /join ashfallcamp        ·  Kill Smoldur → Glass Horns
+  → /join ashfallcamp        ·  Kill Blackrawk → Glass Horns
   → /join originul           ·  Kill Fiend Champion → Fiend Champion's Spike ×15
 
   16 · The Tower's Upheaval
