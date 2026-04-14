@@ -1,1 +1,31 @@
+╔════════════════════════════════╗
 
+       VoidNerfkitten
+
+╚════════════════════════════════╝
+
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  LH
+  LoO
+  LR
+  VDK
+  CSS  ×2 (OR ANY DPS THAT HITS HARD AND FAST) (LightCaster)
+  PCM/STONECRUSHER
+╰──────────────────────────────────╯
+
+⚔️ MECHANICS
+╭──────────────────────────────────╮
+  LR --> Taunt "MEOW"
+  Spam heals
+╰──────────────────────────────────╯
+
+⚙️ GEAR SETUPS
+╭──────────────────────────────────╮
+  LH  --> LUK class · Base Forge helm · Absolution · Valiance · Creeping Horror
+  LoO --> LUK class · Base Forge helm · Absolution · LUK Aweblast · Dark Grip / Corrosion
+  LR  --> WIZ class · Pneuma helm · Lament · Arcana's Concerto · Scroll of Enrage
+  VDK --> LUK class · Anima helm · Penitence · Ravenous · Scroll of Enrage
+  CSS --> LUK class · Base Forge helm · Penitence · Valiance · Feli Pot
+  AF  --> LUK class · Base Forge helm · Penitence · Ravenous · Feli Pot
+╰──────────────────────────────────╯
