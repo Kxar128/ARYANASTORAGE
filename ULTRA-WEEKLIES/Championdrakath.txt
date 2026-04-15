@@ -31,8 +31,8 @@ SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent ho
 ╰──────────────────────────────────╯
 ╭──────────── MID SPEED COMP ───────────╮
 Class	Enhancements	                         Consumables	                              Extra Information
-LOO	     Awe Blast/Forge/Vainglory	          Body/Divine Elixir + Potent Honor	
-AP	     Valiance/Forge/Vainglory	               Fate/Destruction Elixir + Potent honor
-K.E       Ravenous/Forge/Lament                   Fate/Battle Elixir + Felicitous Philtre      Taunt every 2.000.000 HP with "4" skill (press "5" inbetween to get taunt form of "4")
+LOO	     Awe Blast/Forge/Vainglory	             Body/Divine Elixir + Potent Honor	
+AP	     Valiance/Forge/Vainglory	             Fate/Destruction Elixir + Potent honor
+K.E       Ravenous/Forge/Lament                  Fate/Battle Elixir + Felicitous Philtre      Taunt every 2.000.000 HP with "4" skill (press "5" inbetween to get taunt form of "4")
 SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent honor	
 ╰───────────────────────────────────────╯
