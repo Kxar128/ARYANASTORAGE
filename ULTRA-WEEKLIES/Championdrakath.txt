@@ -9,41 +9,30 @@
   Every 2,000,000 damage dealt, Drakath screams at your team
   --> Designated taunter MUST taunt JUST BEFORE the 000,000 mark
   --> Each scream grants Drakath +20% Dodge (stacks indefinitely)
+  --> Taunting should be done slightly before the 2m cap (2.1m or 6.1m for example
 ╰──────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
-╭──────── LORD OF ORDER ────────╮
-  Weapon --> Ravenous / Wizard Aweblast
-  Class  --> Wizard
-  Helm   --> Wizard
-  Cape   --> Penitence
 
-  Potions:
-  Elixir  --> Angelic Elixir (+30% healing potential for 10m)
-  Tonic   --> Body Tonic (+20% Endurance for 15m)
-  Scroll  --> Scroll of Lifesteal (drains target HP to you)
+📖 DIFFERENT COMPS
+╭──────── SAFE COMP ────────╮
+Probably slightly longer ultra on this list without a proper comp. 
+Requires strict timing and some mana reduction classes. 
+Every 2 million HP the boss sends out a nuke and gets stronger, 
+it is recommended to taunt this so it hits 1 player instead of all 4 in the party. 
+He also gets stronger each time he does the nuke so if a taunt is missed it is recommended to reset. 
+It is not required to taunt on 10 million hp.
+
+Class	Enhancements	                         Consumables	                              Extra Information
+LOO	     Awe Blast/Forge/Vainglory	          Body/Divine Elixir + Potent Honor	
+AP	     Valiance/Forge/Vainglory	               Fate/Destruction Elixir + Potent honor	
+CaV	     Ravenous or Dauntless/Anima/Vainglory	Fate/Destruction Elixir + Scroll of Enrage	Taunt every 2 million hp
+SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent honor	
 ╰──────────────────────────────────╯
-
-📖 ENHANCEMENT BREAKDOWNS
-╭──────── RAVENOUS ────────╮
-  100% proc on auto attack (10s cooldown)
-  Deals 75% Hybrid Damage · Recovers 15 mana
-
-  Applies Ravenous to target (10s):
-  -5% Haste · -5% Crit Chance · -5% Dodge · -5% Damage Boost
-
-  Applies Execute to self (10s):
-  +5% Haste · +5% Crit Chance · +5% Dodge · +5% Damage Boost
-
-  Skills deal 0.9% bonus damage per 1% of target's missing HP
-  (includes normal heals, excludes HoT effects)
-╰──────── WIZARD AWEBLAST ────────╮
-  30% proc on auto attack (no cooldown)
-  Deals 100% Hybrid Damage
-
-  Applies Awe Blast to target (10s):
-  -15% Crit Chance · -15% Damage Resistance
-╰──────── PENITENCE ────────╮
-  +25% Damage Resistance
-  -25% DoT Boost
-╰──────────────────────────────────╯
+╭──────────── MID SPEED COMP ───────────╮
+Class	Enhancements	                         Consumables	                              Extra Information
+LOO	     Awe Blast/Forge/Vainglory	          Body/Divine Elixir + Potent Honor	
+AP	     Valiance/Forge/Vainglory	               Fate/Destruction Elixir + Potent honor
+K.E       Ravenous/Forge/Lament                   Fate/Battle Elixir + Felicitous Philtre      Taunt every 2.000.000 HP with "4" skill (press "5" inbetween to get taunt form of "4")
+SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent honor	
+╰───────────────────────────────────────╯
