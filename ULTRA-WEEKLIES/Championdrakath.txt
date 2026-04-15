@@ -24,9 +24,9 @@ He also gets stronger each time he does the nuke so if a taunt is missed it is r
 It is not required to taunt on 10 million hp.
 
 Class	Enhancements	                         Consumables	                              Extra Information
-LOO	     Awe Blast/Forge/Vainglory	          Body/Divine Elixir + Potent Honor	
-AP	     Valiance/Forge/Vainglory	               Fate/Destruction Elixir + Potent honor	
-CaV	     Ravenous or Dauntless/Anima/Vainglory	Fate/Destruction Elixir + Scroll of Enrage	Taunt every 2 million hp
+LOO	     Awe Blast/Forge/Vainglory	             Body/Divine Elixir + Potent Honor	
+AP	     Valiance/Forge/Vainglory	             Fate/Destruction Elixir + Potent honor	
+CaV	     Ravenous or Dauntless/Anima/Vainglory	 Fate/Destruction Elixir + Scroll of Enrage	 Taunt every 2 million hp
 SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent honor	
 ╰──────────────────────────────────╯
 ╭──────────── MID SPEED COMP ───────────╮
