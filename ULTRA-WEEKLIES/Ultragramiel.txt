@@ -19,7 +19,8 @@
   💡 Shaman should stack skill 5 on Gramiel (mid boss)
   ⚠️ LR should NOT use skill 2 (Decay) in Phase 1
 ╰──────── PHASE 2 ────────╮
-  DPS should call taunts by class name
+  Loop taunt with all 4 players
+  DPS should call taunts by number
 ╰──────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
