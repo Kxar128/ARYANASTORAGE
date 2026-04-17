@@ -11,7 +11,7 @@
 
   Example taunt assignment:
   Left Crystal  → T1: LR · T2: SC
-  Right Crystal → T1: Shaman · T2: LoO
+  Right Crystal → T1: LoO · T2: Shaman (Arcana Invoker)
 
   Trigger: "Gramiel attempts to drain your power… break his guard!"
   --> Everyone switches to attack Gramiel (mid boss)
