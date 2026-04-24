@@ -188,7 +188,7 @@
 
   15 · Devilish Temptation
   ──────────────────────────
-  → /join fiendpast          ·  Kill Fiendish Outlaw → Fiendish Outlaw drop
+  → /join fiendpast          ·  Kill Dage The Lich → Fiendish Outlaw drop
   → /join voidrefuge         ·  Complete "Fiendish Remains" quest → Fiendish Remains ×50
   → /join ashfallcamp        ·  Kill Blackrawk → Glass Horns
   → /join originul           ·  Kill Fiend Champion → Fiend Champion's Spike ×15
