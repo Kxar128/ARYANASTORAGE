@@ -182,7 +182,7 @@
   14 · Temperance's Frugality
   ─────────────────────────────
   → /join celestialrealm     ·  Merge Celestial Wings of Guiding (100 Infernal Tokens from /lostruinswar)
-  → /join lightguard         ·  Complete "Holy Roast" quest from Lady Speedstick → Blessed Coffee Cup
+  → /join lightguard         ·  Complete "Holy Roast" quest from Ol' SPice → Blessed Coffee Cup
   → /join snowmore           ·  Kill Jon S'Nooooooo → Northern Crown ×10
   → /join infernalspire      ·  Kill Azkorath → Azkorath's Wing ×14
 
