@@ -1,0 +1,90 @@
+╔══════════════════════════════════════╗
+║                                      ║
+║           MARTIAL ARTIST             ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+  Requirements:   Level 65
+
+  💡 Shortcut:    Max stack the 3rd Quest miscs (400 each)
+                   → You'll have enough item drops for all quests
+                   → Can skip with 4th Quest for 1.5M Gold instead
+
+
+╔══════════════════════════════════════╗
+║               QUESTS                 ║
+╚══════════════════════════════════════╝
+
+  1 · Join My Dojo
+  ──────────────────
+  → /join hakuvillage  ·  Be at least Level 65
+
+  2 · 500 Punches and 500 Kicks
+  ───────────────────────────────
+  → Frogzard Defeated ×500    ·  /join nexus
+  → Gorillaphant Defeated ×500 · /join arcangrove
+  → Dragon Defeated ×500      ·  /join etherwardes
+
+  3 · Deathly Slow Start
+  ────────────────────────
+  → Same monsters as Quest 2, but 500k kills each
+
+  💡 Go to /join death → Click "Monster Souls?" → Do "Soul Hunter" quest
+     Free players: 250k per turn-in (do twice)  ·  Members: 500k per turn-in
+
+  → Dreadhaven General's Soul Fragment ×20  ·  /join dreadfight
+  → Zakhvatchik's Soul Fragment ×20         ·  /join hakuwar  ·  (final room)
+  → Creel's Soul Fragment ×20               ·  /join towerofdoom5  ·  (final room)
+
+  4 · Discount Diploma
+  ──────────────────────
+  → Same quest as above (500k kills each)
+  → /join dreadrock  ·  Screen 9  ·  Talk to Khuddar Khamundi
+     💡 Use 500k Gold Voucher for 500k kills of one monster (once per day)
+     ⚠️ Costs 1.5M Gold total  ·  If short on gold: do "Soul Hunter" twice instead
+
+  5 · One Million Miles Searching
+  ─────────────────────────────────
+  → 1M kills per monster  ·  💡 Do Soul Hunter quest ×4
+
+  Alt: /join portal  ·  Talk to Sir Render → "Make them Surrender?"
+       Each quest: 100k per creature (members: 150k)  ·  Do each 10 times
+
+  → Nightmare Carnax Defeated ×10  (Frogzards)    ·  /join darkcarnax
+  → Voidsalek Sprayer Defeated ×10  (Gorillaphants) · /join voidsalek
+  → Nerites Defeated ×10  (Dragons)               ·  /join nerites
+
+  6 · Ughhhhhh
+  ──────────────
+  → 2M kills per monster  ·  💡 Do Soul Hunter quest ×8
+
+  Alt: /join buyhouse  ·  Buy Catapult (100k Gold)  ·  Place in house → click it
+       Access "Blow Up Lore?!?!?" quest  ·  Complete ×3 for 2M kills per monster
+       ⚠️ Last 3 items below have low drop rates — keep trying
+
+  → Dynamite ×3               ·  Kill Killer Queen Bee    ·  /join beehive
+  → Panda Launcher ×3         ·  Kill Neko Mata           ·  /join yokaigrave
+                                   💡 Talk to Neko Mata first to fight her
+  → Cyborg Beast Core's Core ×3 · Kill Cyborg Beast Core  ·  /join dreadspace  (2nd to last room)
+  → Radioactive Hydra's Plutonium ×3 · Kill Radioactive Hydra ·  /join worldsoul
+  → Teja's Powder Keg ×3      ·  Kill Pirate Queen Teja   ·  /join granitecove
+
+  7 · Work Smarter, Not Harder
+  ──────────────────────────────
+  → ~6M kills per monster  ·  Mix and match methods below:
+
+  → Soul Hunter quest ×24
+  → Surrender quests ×60 each
+  → Daily Dreadrock quest ×12  (costs 18M Gold)
+  → "Blow Up Lore?!?!?" ×9
+
+  💡 Soul Hunter is most consistent  ·  Surrender quests need a decent team
+     Blow Up Lore is RNG-heavy (confirmed drops, but tedious)
+
+  8 · Cheater Cheater
+  ─────────────────────
+  → Talk to The Master NPC  ·  Face him in battle
+     ⚠️ 300k HP  ·  Human-tagged
+  → Defeat him to unlock the Martial Artist shop!
+
+  💡 Rank up Martial Artist at /join icestormunder
