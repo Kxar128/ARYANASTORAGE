@@ -4,11 +4,106 @@
 ║                                      ║
 ╚══════════════════════════════════════╝
 
-  Requirements:   Level 65
+  Requirements:   Level 65  |  8 Quests to unlock
 
-  💡 Shortcut:    Max stack the 3rd Quest miscs (400 each)
-                   → You'll have enough item drops for all quests
-                   → Can skip with 4th Quest for 1.5M Gold instead
+  💡 Pro Tip:     Max stack Quest 3 miscs (400 each)
+                   → Enough item drops for all quests
+                   → Skip Quest 4 kills with 1.5M Gold instead
+
+
+╔══════════════════════════════════════╗
+║           HOW TO USE THE CLASS       ║
+╚══════════════════════════════════════╝
+
+  ⚠️ Ping-dependent — DPS varies from player to player
+     Requires active button pressing. Optimal rotations can get
+     very long (think: social security number length). It's complex.
+
+
+╔══════════════════════════════════════╗
+║              STANCES                 ║
+╚══════════════════════════════════════╝
+
+  There are 9 stances total, but only 6 matter:
+
+  🩹 HoT while active (heals over time)
+  ─────────────────────────────────────
+  → Zard-Gorilla      (2-3)
+  → Zard-Dragon       (2-4)
+
+  ⚡ +20% Crit Chance while active
+  ─────────────────────────────────────
+  → Gorilla-Zard      (3-2)
+  → Gorilla-Dragon    (3-4)
+
+  🛡️ First auto after switching applies Spinning Dragon
+     (makes enemy's next hit deal 0 damage)
+  ─────────────────────────────────────
+  → Dragon-Zard       (4-2)
+  → Dragon-Gorilla    (4-3)
+
+  💡 Each skill's buff/debuff is described in its own tooltip.
+
+
+╔══════════════════════════════════════╗
+║           DODGE & EVASION            ║
+╚══════════════════════════════════════╝
+
+  Max dodge requires 86.3% evasion or higher
+  (includes hit chance debuffs on enemy)
+
+  MA base evasion:   71.85%
+  With Dragon-Zard:  91.85% effective dodge after 2 autos  ✅ Max dodge
+
+
+╔══════════════════════════════════════╗
+║              ROTATIONS               ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 5 replenishes mana — use it freely
+     You're effectively infinite mana while it's active,
+     so it's also a good window to squeeze in more DPS.
+
+  💡 Dragon-Zard (4-2) can be slotted in anywhere to
+     refresh max dodge without breaking your flow.
+
+  ─────────────────────────────────────────────────────
+  ✅ Catch-All Rotation
+  ─────────────────────────────────────────────────────
+  423 23
+
+  Cycles through all debuffs/buffs except the DoT resist one.
+  Simple and easy to use. Has max dodge.
+  ~20k DPS  (Ravenous / Lucky / Vim / Lament  ·  51/50)
+
+  ─────────────────────────────────────────────────────
+  ⚔️ High DPS Rotation
+  ─────────────────────────────────────────────────────
+  534 32 32 34 23 23
+
+  Higher DPS without going too long. No max dodge
+  (not using 4-2) — add it in if you need it.
+  ~28k DPS  (Ravenous / Lucky / Vim / Lament  ·  51/50)
+
+  ─────────────────────────────────────────────────────
+  🔬 Super Min-Max Group DPS
+  ─────────────────────────────────────────────────────
+  Start:  2353432323432322334
+  Loop:   5323234323234322334
+
+
+╔══════════════════════════════════════╗
+║           ENHANCEMENTS               ║
+╚══════════════════════════════════════╝
+
+  🧿 Class ·········  Lucky
+
+  ⚔️  Weapon ········  Ravenous / Valiance  (Solo)
+                       Praxis               (Group)
+
+  🪖 Helm ··········  Vim
+
+  🧣 Cape ··········  Vainglory / Lament
 
 
 ╔══════════════════════════════════════╗
@@ -17,74 +112,89 @@
 
   1 · Join My Dojo
   ──────────────────
-  → /join hakuvillage  ·  Be at least Level 65
+  → /join hakuvillage  ·  Speak to the master
+     ⚠️ Must be at least Level 65
+
 
   2 · 500 Punches and 500 Kicks
   ───────────────────────────────
-  → Frogzard Defeated ×500    ·  /join nexus
-  → Gorillaphant Defeated ×500 · /join arcangrove
-  → Dragon Defeated ×500      ·  /join etherwardes
+  → Frogzard Defeated ×500      ·  /join nexus
+  → Gorillaphant Defeated ×500  ·  /join arcangrove
+  → Dragon Defeated ×500        ·  /join etherwardes
+
 
   3 · Deathly Slow Start
   ────────────────────────
-  → Same monsters as Quest 2, but 500k kills each
+  Same monsters as Quest 2, but 500k kills each.
+  Use the Soul Hunter method below.
 
-  💡 Go to /join death → Click "Monster Souls?" → Do "Soul Hunter" quest
-     Free players: 250k per turn-in (do twice)  ·  Members: 500k per turn-in
+  💡 Soul Hunter Method
+     /join death  ·  Click "Monster Souls?"  ·  Do "Soul Hunter"
+     Free players: 250k per turn-in  (do twice)
+     Members:      500k per turn-in
 
   → Dreadhaven General's Soul Fragment ×20  ·  /join dreadfight
-  → Zakhvatchik's Soul Fragment ×20         ·  /join hakuwar  ·  (final room)
-  → Creel's Soul Fragment ×20               ·  /join towerofdoom5  ·  (final room)
+  → Zakhvatchik's Soul Fragment ×20         ·  /join hakuwar       (final room)
+  → Creel's Soul Fragment ×20               ·  /join towerofdoom5  (final room)
+
 
   4 · Discount Diploma
   ──────────────────────
-  → Same quest as above (500k kills each)
+  Same 500k kills per monster.
+  Use the Dreadrock shortcut or Soul Hunter if short on gold.
+
   → /join dreadrock  ·  Screen 9  ·  Talk to Khuddar Khamundi
-     💡 Use 500k Gold Voucher for 500k kills of one monster (once per day)
-     ⚠️ Costs 1.5M Gold total  ·  If short on gold: do "Soul Hunter" twice instead
+     💡 Use 500k Gold Voucher for one monster (once per day)
+     ⚠️ Costs 1.5M Gold total
+
+  Alternative:  Do Soul Hunter twice if you don't have 1.5M Gold.
+
 
   5 · One Million Miles Searching
   ─────────────────────────────────
-  → 1M kills per monster  ·  💡 Do Soul Hunter quest ×4
+  1M kills per monster.  💡 Soul Hunter ×4 is the cleanest method.
 
-  Alt: /join portal  ·  Talk to Sir Render → "Make them Surrender?"
-       Each quest: 100k per creature (members: 150k)  ·  Do each 10 times
+  → Nightmare Carnax Defeated ×10  (Frogzards)      ·  /join darkcarnax
+  → Voidsalek Sprayer Defeated ×10  (Gorillaphants)  ·  /join voidsalek
+  → Nerites Defeated ×10  (Dragons)                 ·  /join nerites
 
-  → Nightmare Carnax Defeated ×10  (Frogzards)    ·  /join darkcarnax
-  → Voidsalek Sprayer Defeated ×10  (Gorillaphants) · /join voidsalek
-  → Nerites Defeated ×10  (Dragons)               ·  /join nerites
+  Alternative:  /join portal  ·  Talk to Sir Render → "Make them Surrender?"
+                Each quest: 100k per creature  (members: 150k)
+                Do each quest 10 times.
+
 
   6 · Ughhhhhh
   ──────────────
-  → 2M kills per monster  ·  💡 Do Soul Hunter quest ×8
+  2M kills per monster.  💡 Soul Hunter ×8 recommended.
 
-  Alt: /join buyhouse  ·  Buy Catapult (100k Gold)  ·  Place in house → click it
-       Access "Blow Up Lore?!?!?" quest  ·  Complete ×3 for 2M kills per monster
-       ⚠️ Last 3 items below have low drop rates — keep trying
+  Alternative:  /join buyhouse  ·  Buy Catapult (100k Gold)
+                Place in house → click it → "Blow Up Lore?!?!?" quest
+                Complete ×3 for 2M kills per monster
 
-  → Dynamite ×3               ·  Kill Killer Queen Bee    ·  /join beehive
-  → Panda Launcher ×3         ·  Kill Neko Mata           ·  /join yokaigrave
-                                   💡 Talk to Neko Mata first to fight her
-  → Cyborg Beast Core's Core ×3 · Kill Cyborg Beast Core  ·  /join dreadspace  (2nd to last room)
-  → Radioactive Hydra's Plutonium ×3 · Kill Radioactive Hydra ·  /join worldsoul
-  → Teja's Powder Keg ×3      ·  Kill Pirate Queen Teja   ·  /join granitecove
+  → Dynamite ×3                       ·  Kill Killer Queen Bee   ·  /join beehive
+  → Panda Launcher ×3                 ·  Kill Neko Mata          ·  /join yokaigrave
+                                           💡 Talk to Neko Mata first to fight her
+  → Cyborg Beast Core's Core ×3       ·  Kill Cyborg Beast Core  ·  /join dreadspace  (2nd to last room)
+  → Radioactive Hydra's Plutonium ×3  ·  Kill Radioactive Hydra  ·  /join worldsoul
+  → Teja's Powder Keg ×3              ·  Kill Pirate Queen Teja  ·  /join granitecove
+
+  ⚠️ Last 3 items have low drop rates — keep trying
+
 
   7 · Work Smarter, Not Harder
   ──────────────────────────────
-  → ~6M kills per monster  ·  Mix and match methods below:
+  ~6M kills per monster.  Mix and match any methods below.
 
-  → Soul Hunter quest ×24
-  → Surrender quests ×60 each
-  → Daily Dreadrock quest ×12  (costs 18M Gold)
-  → "Blow Up Lore?!?!?" ×9
+  → Soul Hunter ×24         Most consistent — recommended
+  → Surrender quests ×60    Needs a decent team for Carnax / Salek / Nerites
+  → Blow Up Lore ×9         RNG-heavy on last 3 items, but confirmed drops
+  → Daily Dreadrock ×12     Costs 18M Gold total
 
-  💡 Soul Hunter is most consistent  ·  Surrender quests need a decent team
-     Blow Up Lore is RNG-heavy (confirmed drops, but tedious)
 
   8 · Cheater Cheater
   ─────────────────────
   → Talk to The Master NPC  ·  Face him in battle
-     ⚠️ 300k HP  ·  Human-tagged
+     ⚠️ 300,000 HP  ·  Human-tagged
   → Defeat him to unlock the Martial Artist shop!
 
   💡 Rank up Martial Artist at /join icestormunder
