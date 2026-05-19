@@ -19,8 +19,37 @@
   💡 Shaman should stack skill 5 on Gramiel (mid boss)
   ⚠️ LR should NOT use skill 2 (Decay) in Phase 1
 ╰──────── PHASE 2 ────────╮
-  Loop taunt with all 4 players
-  DPS should call taunts by number
+
+SAFE STRAT (UPDATED)
+
+Crystals Die = Wait 4 - 5 Seconds
+
+DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
+
+Call for LoO Taunt --> Half Taunt left
+Call for SC Taunt --> Half Taunt left
+Call for LR Taunt --> rush to 5.2 Million HP
+
+5.2 Million HP ---> Boss Takes 0 damage ---> Starts taking damage again
+---> wait 4 - 5 seconds
+
+DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
+
+Call for LoO Taunt --> Half Taunt left
+Call for SC Taunt --> Half Taunt left
+Call for LR Taunt --> rush to 3 Million HP
+
+3 Million HP ---> Boss Takes 0 damage ---> Starts taking damage again
+---> wait 4 - 5 seconds
+
+DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
+
+Call for LoO Taunt --> Half Taunt left
+Call for SC Taunt --> Half Taunt left
+Call for LR Taunt --> rush to 750 Thousand HP
+
+--> Kill boss no need to taunt anymore
+
 ╰──────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
