@@ -19,7 +19,7 @@
 
   🧿 Class ·········  Luck
 
-  ⚔️  Weapon ········  Valiance
+  ⚔️ Weapon ········  Valiance
                        Arcana's Concerto
                        Health Vamp  (Ultradage)
 
@@ -37,7 +37,7 @@
   Also viable if you're going for Gunslinger mode. Using this specific
   enhancement set grants 1 extra bullet for overall damage.
 
-  ⚔️  Weapon ········  Arcana's Concerto
+  ⚔️ Weapon ········  Arcana's Concerto
   🪖 Helm ··········  Examen
   🧣 Cape ··········  Vainglory
 
