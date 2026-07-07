@@ -31,6 +31,18 @@
 
 
 ╔══════════════════════════════════════╗
+║       GUNSLINGER MODE (ALT BUILD)     ║
+╚══════════════════════════════════════╝
+
+  Also viable if you're going for Gunslinger mode. Using this specific
+  enhancement set grants 1 extra bullet for overall damage.
+
+  ⚔️  Weapon ········  Arcana's Concerto
+  🪖 Helm ··········  Examen
+  🧣 Cape ··········  Vainglory
+
+
+╔══════════════════════════════════════╗
 ║               COMBOS                 ║
 ╚══════════════════════════════════════╝
 
@@ -39,3 +51,12 @@
   ✅ Full DPS ·······  2 → 4→4→4→4→4→4 → 5  →  repeat cycle
 
   ✅ Soloing (Safe) ·  2 → 3→4→3→4→3→4 → 5  →  repeat cycle
+
+  ✅ Gunslinger ·····  (Only with the Gunslinger enhancement set above,
+                       for the extra bullet)
+
+                       2 → 4→4→4→4 → 2
+                       → spam 1→4→1→4→1→4 until you run out of bullets
+                       → 2
+                       → spam 1→4→1→4 until you run out of bullets
+                       → 5  →  repeat cycle
