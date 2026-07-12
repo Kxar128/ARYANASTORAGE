@@ -1,83 +1,104 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════╗
 
-   HOLLOWBORN ARCHFIEND &
-   LEGACY OF NULGATH ARMOR
+           HOLLOWBORN ARCHFIEND &
+          LEGACY OF NULGATH ARMOR
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════╝
+
+📖 TABLE OF CONTENTS
+╭──────────────────────────────────────────────────╮
+  1. In the Fiend's Shadow  ......... Quest 1/5
+  2. Fiend's Purgatory      ......... Quest 2/5
+  3. Muddled Past           ......... Quest 3/5
+  4. Tug and Pull           ......... Quest 4/5
+  5. Roles Unreverse        ......... Quest 5/5
+╰──────────────────────────────────────────────────╯
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭──────────────────────────────────────────────────╮
   /join hollowdeep to start quest
-╰──────────────────────────────────╯
+╰──────────────────────────────────────────────────╯
+
+🔑 LEGEND
+╭──────────────────────────────────────────────────╮
+  ⚔️  Kill drop      💰 Purchase
+  🎲 Wheel of Chance  🔄 Merge / Trade
+╰──────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
 ╭──────── Complete quests from /join hollowdeep ────────╮
 
-  1. "In the Fiend's Shadow"
-  ╭──────────────────────────────────╮
+  1. "In the Fiend's Shadow"          [■░░░░]  ⏱️ Long farm — repeat ×15
+  ╭──────────────────────────────────────────────────╮
     ⚠️ Repeat this quest 15 times total — needed for Void Souls in later quests
 
-    Phoenix Blade           ×1  (×15 total)  --> /join lair
-                                                  Kill Onyx Lava Dragon or Red Dragon
-    Chaotic Tentacles       ×1  (×15 total)  --> /join stormtemple
-                                                  Kill Chaos Lord Lionfang
-    Totem of Nulgath        ×1  (×15 total)  --> /join original
-                                                  Complete "Wrong Turn at Voidbuquerque"
-                                                  (select Totems of Nulgath)
-    Hollow Soul             ×50 (×750 total) --> /join hbchallenge
-                                                  Kill The DarkDweller (best boss to kill)
-  ╰──────────────────────────────────╯
+    ⚔️ Phoenix Blade        ×1  (×15 total)   --> /join lair
+                                                   Kill Onyx Lava Dragon or Red Dragon
+    ⚔️ Chaotic Tentacles    ×1  (×15 total)   --> /join stormtemple
+                                                   Kill Chaos Lord Lionfang
+    ⚔️ Totem of Nulgath     ×1  (×15 total)   --> /join original
+                                                   Complete "Wrong Turn at Voidbuquerque"
+                                                   (select Totems of Nulgath)
+    ⚔️ Hollow Soul          ×50 (×750 total)  --> /join hbchallenge
+                                                   Kill The DarkDweller (best boss to kill)
+  ╰──────────────────────────────────────────────────╯
 
-  2. "Fiend's Purgatory"
-  ╭──────────────────────────────────╮
-    Blighted Zubami Badge   ×1      --> /join deleuzetundra (Kill Blighted Zubami)
-                                         Needs group — classes: LoO, LR, VDK, CSS, LH/PCM
-    Spoil of Salek          ×1      --> /join voidsalek
-                                         Kill Salek Sprayer (Level 80)
-    Sarah's Souvenir        ×1      --> /join voidnerfkitten
-                                         Kill Sarah The NerfKitten (Version 1)
-  ╰──────────────────────────────────╯
+  2. "Fiend's Purgatory"              [■■░░░]  ⏱️ Medium — group required
+  ╭──────────────────────────────────────────────────╮
+    ⚔️ Blighted Zubami Badge  ×1  --> /join deleuzetundra (Kill Blighted Zubami)
+                                       Needs group — classes: LoO, LR, VDK, CSS, LH/PCM
+    ⚔️ Spoil of Salek         ×1  --> /join voidsalek
+                                       Kill Salek Sprayer (Level 80)
+    ⚔️ Sarah's Souvenir       ×1  --> /join voidnerfkitten
+                                       Kill Sarah The NerfKitten (Version 1)
+  ╰──────────────────────────────────────────────────╯
 
-  3. "Muddled Past"
-  ╭──────────────────────────────────╮
-    Void Soul                ×50   --> See Quest 1 for guidance
-    Fiend Cloak of Nulgath   ×1    --> /join tercessuinotlim
-                                        Speak to Nulgath (NPC) > Shop, 500,000 Gold
-    Tainted Gem               ×350 --> Complete "Spin the Wheel of Chance" quest
-    Dark Crystal Shard        ×150 --> Complete "Spin the Wheel of Chance" quest
-    Diamond of Nulgath         ×700 --> Complete "Spin the Wheel of Chance" quest
-    Gem of Nulgath              ×150 --> Complete "Spin the Wheel of Chance" quest
-    Shadow Legacy of Nulgath  ×1   --> Merge the following items:
-      Haedanyx Onyx of Nulgath      --> /join tercessuinotlim (Kill Nulgath - Monster)
-      Voucher of Nulgath (Non-Mem)  --> Merge ×100 Unidentified 10 + 1,000,000 Gold
-                                        (or farm via Spin the Wheel of Chance)
-      Essence of Nulgath             --> /join tercessuinotlim
-                                          Kill Nulgath (or Dark Makai if solo)
-      Nulgath's Approval             --> /join evilwardage (Kill monsters in room 3+)
-      Letter from Asuka and Tendou   --> /join citadel (Kill Burning Witch)
-  ╰──────────────────────────────────╯
+  3. "Muddled Past"                   [■■■░░]  ⏱️ Long farm — Wheel of Chance grind
+  ╭──────────────────────────────────────────────────╮
+       Void Soul                    ×50   --> See Quest 1 for guidance
+    💰 Fiend Cloak of Nulgath       ×1    --> /join tercessuinotlim
+                                             Speak to Nulgath (NPC) > Shop, 500,000 Gold
+    🎲 Tainted Gem                  ×350  --> Complete "Spin the Wheel of Chance" quest
+    🎲 Dark Crystal Shard           ×150  --> Complete "Spin the Wheel of Chance" quest
+    🎲 Diamond of Nulgath           ×700  --> Complete "Spin the Wheel of Chance" quest
+    🎲 Gem of Nulgath               ×150  --> Complete "Spin the Wheel of Chance" quest
+    🔄 Shadow Legacy of Nulgath     ×1    --> Merge the following items:
 
-  4. "Tug and Pull" (Hollowborn Legacy of Nulgath)
-  ╭──────────────────────────────────╮
-    Void Soul                     ×100 --> See Quest 1 for guidance
-    Archfiend Essence Fragment    ×4   --> /join ultranulgath
-                                           Trade 10 Nulgath Insignia for 4 (x2)
-    Roentgenium of Nulgath        ×8   --> /join ultranulgath
-                                           Trade 20 Nulgath Insignia for 8 (x4)
-    The Mortal Coil                ×1  --> /join ultranulgath
-                                           Trade 4 Nulgath Insignia for 1
-  ╰──────────────────────────────────╯
+       ⚔️ Haedanyx Onyx of Nulgath      --> /join tercessuinotlim (Kill Nulgath - Monster)
+       🔄 Voucher of Nulgath (Non-Mem)  --> Merge ×100 Unidentified 10 + 1,000,000 Gold
+                                             (or farm via Spin the Wheel of Chance)
+       ⚔️ Essence of Nulgath             --> /join tercessuinotlim
+                                             Kill Nulgath (or Dark Makai if solo)
+       ⚔️ Nulgath's Approval             --> /join evilwardage (Kill monsters in room 3+)
+       ⚔️ Letter from Asuka and Tendou   --> /join citadel (Kill Burning Witch)
+  ╰──────────────────────────────────────────────────╯
 
-  5. "Roles Unreverse" (Hollowborn Archfiend)
-  ╭──────────────────────────────────╮
-    Fresh Soul          ×50 --> /join tercessuinotlim
-                                 Speak to Lae (NPC) > Complete "Let's Make a Deal" (x5)
-    Unidentified 36      ×5 --> /join tercessuinotlim
-                                 Speak to Lae (NPC) > Complete "Let's Make a Deal" (x5)
+  4. "Tug and Pull" (Hollowborn Legacy of Nulgath)   [■■■■░]  ⏱️ Medium — Insignia trades
+  ╭──────────────────────────────────────────────────╮
+       Void Soul                     ×100  --> See Quest 1 for guidance
+    🔄 Archfiend Essence Fragment    ×4    --> /join ultranulgath
+                                              Trade 10 Nulgath Insignia for 4 (x2)
+    🔄 Roentgenium of Nulgath        ×8    --> /join ultranulgath
+                                              Trade 20 Nulgath Insignia for 8 (x4)
+    🔄 The Mortal Coil                ×1   --> /join ultranulgath
+                                              Trade 4 Nulgath Insignia for 1
+  ╰──────────────────────────────────────────────────╯
 
+  5. "Roles Unreverse" (Hollowborn Archfiend)        [■■■■■]  ⏱️ Quick — repeatable turn-in
+  ╭──────────────────────────────────────────────────╮
+    ⚔️ Fresh Soul          ×50 --> /join tercessuinotlim
+                                    Speak to Lae (NPC) > Complete "Let's Make a Deal" (x5)
+    ⚔️ Unidentified 36      ×5 --> /join tercessuinotlim
+                                    Speak to Lae (NPC) > Complete "Let's Make a Deal" (x5)
 
     "Let's Make a Deal" quest details:
-      Fresh Soul? x10 
-        Dropped by at /join citadel:
-          Kill Crusader, Grand Inquisitor or Inquisitor Guard
-  ╰──────────────────────────────────╯
+      Requirements: Level 50
+      Turn in: Fresh Soul? ×10 per completion (Stacks up to 1,000)
+      Dropped by (at /join citadel):
+        Crusader
+        Grand Inquisitor (Monster, Level 25)
+        Inquisitor Guard (Level 12)
+      Rewards: 0 Gold, 500 Exp
+      Items: Fresh Soul (AC) ×10, Unidentified 36 (AC) ×1
+  ╰──────────────────────────────────────────────────╯
+╰──────────────────────────────────────────────────╯
