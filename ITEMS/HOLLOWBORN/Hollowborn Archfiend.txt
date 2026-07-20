@@ -19,10 +19,27 @@
   /join hollowdeep to start quest
 ╰──────────────────────────────────────────────────╯
 
+🎒 REQUIRED ITEMS FOR PRE-REQUIREMENTS
+╭──────────────────────────────────────────────────╮
+  - Lae's Hardcore Contract          (Quest 1 & Quest 5)
+  - DragonFire of Nulgath            (Quest 2)
+  - Crimson Plate of Nulgath         (Quest 2)
+  - Crimson Face Plate of Nulgath    (Quest 2)
+  - Ungodly Reavers of Nulgath       (Quest 2)
+  - Crystal Phoenix Blade of Nulgath (Quest 2)
+  - Overfiend Blade of Nulgath       (Quest 2)
+  - Dark Makai of Nulgath            (Quest 2)
+  - Hollowborn Oblivion Blade        (Quest 3)
+  - Nulgath Armor                    (Quest 4)
+  - Nulgath House Guest              (Quest 4)
+  - BattleFiend Blade of Nulgath     (Quest 4)
+╰──────────────────────────────────────────────────╯
+
 🔑 LEGEND
 ╭──────────────────────────────────────────────────╮
   ⚔️  Kill drop      💰 Purchase
   🎲 Wheel of Chance  🔄 Merge / Trade
+  🎒 Required Item (must be in inventory)
 ╰──────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
@@ -30,6 +47,9 @@
 
   1. "In the Fiend's Shadow"          [■░░░░]  ⏱️ Long farm — repeat ×15
   ╭──────────────────────────────────────────────────╮
+    🎒 Required to start:
+       - Lae's Hardcore Contract
+
     ⚠️ Repeat this quest 15 times total — needed for Void Souls in later quests
 
     ⚔️ Phoenix Blade        ×1  (×15 total)   --> /join lair
@@ -45,6 +65,15 @@
 
   2. "Fiend's Purgatory"              [■■░░░]  ⏱️ Medium — group required
   ╭──────────────────────────────────────────────────╮
+    🎒 Required to start (must have completed previous quest):
+       - DragonFire of Nulgath
+       - Crimson Plate of Nulgath
+       - Crimson Face Plate of Nulgath
+       - Ungodly Reavers of Nulgath
+       - Crystal Phoenix Blade of Nulgath
+       - Overfiend Blade of Nulgath
+       - Dark Makai of Nulgath
+
     ⚔️ Blighted Zubami Badge  ×1  --> /join deleuzetundra (Kill Blighted Zubami)
                                        Needs group — classes: LoO, LR, VDK, CSS, LH/PCM
     ⚔️ Spoil of Salek         ×1  --> /join voidsalek
@@ -55,6 +84,9 @@
 
   3. "Muddled Past"                   [■■■░░]  ⏱️ Long farm — Wheel of Chance grind
   ╭──────────────────────────────────────────────────╮
+    🎒 Required to start (must have completed previous quest):
+       - Hollowborn Oblivion Blade
+
        Void Soul                    ×50   --> See Quest 1 for guidance
     💰 Fiend Cloak of Nulgath       ×1    --> /join tercessuinotlim
                                              Speak to Nulgath (NPC) > Shop, 500,000 Gold
@@ -75,6 +107,11 @@
 
   4. "Tug and Pull" (Hollowborn Legacy of Nulgath)   [■■■■░]  ⏱️ Medium — Insignia trades
   ╭──────────────────────────────────────────────────╮
+    🎒 Required to start (must have completed previous quest):
+       - Nulgath Armor
+       - Nulgath House Guest
+       - BattleFiend Blade of Nulgath
+
        Void Soul                     ×100  --> See Quest 1 for guidance
     🔄 Archfiend Essence Fragment    ×4    --> /join ultranulgath
                                               Trade 10 Nulgath Insignia for 4 (x2)
@@ -86,6 +123,9 @@
 
   5. "Roles Unreverse" (Hollowborn Archfiend)        [■■■■■]  ⏱️ Quick — repeatable turn-in
   ╭──────────────────────────────────────────────────╮
+    🎒 Required to start (must have completed previous quest):
+       - Lae's Hardcore Contract
+
     ⚔️ Fresh Soul          ×50 --> /join tercessuinotlim
                                     Speak to Lae (NPC) > Complete "Let's Make a Deal" (x5)
     ⚔️ Unidentified 36      ×5 --> /join tercessuinotlim
